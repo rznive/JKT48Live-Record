@@ -35,13 +35,13 @@ module.exports = () => {
   const content = `
 ## 🔴 IDNLIVE JKT48
 
-| No | Gambar | Nama Member | Judul | Waktu |
+| No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
 ${tableIDN}
 
 ## 🔴 SHOWROOMLIVE JKT48
 
-| No | Gambar | Nama Member | Judul | Waktu |
+| No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
 ${tableShowroom}
 `;
