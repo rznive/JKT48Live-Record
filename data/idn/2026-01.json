@@ -20,7 +20,6 @@
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
   },
   {
-<<<<<<< HEAD
     "id": 3,
     "username": "jkt48_alya",
     "creator_name": "Alya JKT48",
@@ -39,15 +38,5 @@
     "live_at_unix": 1768650940,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260117/e243be19-74b7-435b-8e19-13fc669e0224-260117171531.jpg",
     "playback_url": null
-=======
-    "id": 4,
-    "username": "aru_57i7hf1p",
-    "creator_name": "Arum Maha Nani",
-    "title": "malam minggu",
-    "live_at": "Sabtu, 17 Januari 2026 pukul 19.16.31 WIB",
-    "live_at_unix": 1768652191,
-    "image_url": "https://cdn.idntimes.com/content-images/post/20260117/410ae3ee-8ed2-4855-a4de-35a0bc33c6e3-260117191617.jpg",
-    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.G9I6cKFYvs5G.m3u8"
->>>>>>> ba05aa87eb64696bc0e5b0db8e6a06fb34e8fe95
   }
 ]

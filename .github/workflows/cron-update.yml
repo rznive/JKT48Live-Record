@@ -2,11 +2,7 @@ name: JKT48Live Data Update
 
 on:
   schedule:
-<<<<<<< HEAD
     - cron: "*/2 * * * *"
-=======
-    - cron: "*/5 * * * *"
->>>>>>> ba05aa87eb64696bc0e5b0db8e6a06fb34e8fe95
   workflow_dispatch:
 
 jobs:

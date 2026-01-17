@@ -52,7 +52,6 @@ const MEMBERS = [
   "jkt48_jemima",
   "jkt48_jessi",
   "jkt48_lyn",
-  "aru_57i7hf1p",
   "jkt48-official",
   "jkt48_kathrina",
   "jkt48_marsha",
