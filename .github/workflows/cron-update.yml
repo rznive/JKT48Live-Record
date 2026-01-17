@@ -1,0 +1,35 @@
+name: JKT48Live Data Update
+
+on:
+  schedule:
+    - cron: "* * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - run: npm ci
+
+      - run: mkdir -p data/idn data/showroom
+
+      - run: node index.js
+
+      - run: node src/generate-readme.js
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "update live data"
+          branch: main
+          file_pattern: "README.md"
+          allow_empty_commit: true
+          commit_user_name: "github-actions"
+          commit_user_email: "github-actions@github.com"

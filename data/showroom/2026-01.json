@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "username": "dev_user_1",
+    "creator_name": "Developer One",
+    "title": "Live Januari",
+    "live_at": "Sabtu, 15 Januari 2025 pukul 22.28.20 WIB",
+    "live_at_unix": 1766244500,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmUTB9l-VfEMGHGvMpmh2zv-hCidk5qIaRkg&s",
+    "playback_url": null
+  }
+]
