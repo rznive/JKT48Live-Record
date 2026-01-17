@@ -20,17 +20,17 @@ jobs:
 
       - run: npm ci
 
-      # mkdir hanya jika folder belum ada, tapi repo sudah punya folder data
       - run: mkdir -p data/idn data/showroom
 
       - run: node index.js
       - run: node src/generate-readme.js
 
+      # add semua file yang diubah, termasuk JSON
+      - run: git add README.md data/idn/*.json data/showroom/*.json
+
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "update live data"
           branch: main
-          file_pattern: "README.md,data/idn/**/*.json,data/showroom/**/*.json"
-          allow_empty_commit: true
           commit_user_name: "github-actions"
           commit_user_email: "github-actions@github.com"
