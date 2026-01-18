@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const axios = require("axios");
 
-const DATA_DIR = path.join(__dirname, "../data/showroom");
+const DATA_DIR = path.resolve(process.cwd(), "data/showroom");
 const API_URL = "https://www.showroom-live.com/api/live/onlives";
 
 const HEADERS = {
