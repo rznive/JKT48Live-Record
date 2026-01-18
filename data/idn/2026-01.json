@@ -38,5 +38,15 @@
     "live_at_unix": 1768650940,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260117/e243be19-74b7-435b-8e19-13fc669e0224-260117171531.jpg",
     "playback_url": null
+  },
+  {
+    "id": 5,
+    "username": "jkt48_auwia",
+    "creator_name": "Auwia JKT48",
+    "title": "Bikin laguuuu",
+    "live_at": "Minggu, 18 Januari 2026 pukul 18.03.35 WIB",
+    "live_at_unix": 1768734215,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260118/f9500eb4-9d6d-491d-a857-40ca6f862d61-260118180306.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
   }
 ]
