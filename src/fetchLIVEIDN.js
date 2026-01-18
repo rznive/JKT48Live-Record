@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 const axios = require("axios");
 
-const DATA_DIR = path.join(__dirname, "../data/idn");
+const DATA_DIR = path.resolve(process.cwd(), "data/idn");
 const API_URL = "https://mobile-api.idntimes.com/v3/livestreams";
 
 const HEADERS = {
