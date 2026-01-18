@@ -1,9 +1,10 @@
 const fs = require("fs");
 const path = require("path");
+const ROOT = process.cwd();
 
-const DIR_IDN = path.join(__dirname, "../data/idn");
-const DIR_SHOWROOM = path.join(__dirname, "../data/showroom");
-const README = path.join(__dirname, "../README.md");
+const DIR_IDN = path.join(ROOT, "data/idn");
+const DIR_SHOWROOM = path.join(ROOT, "data/showroom");
+const README = path.join(ROOT, "README.md");
 
 module.exports = () => {
   function loadData(DIR) {
