@@ -23,15 +23,20 @@ jobs:
 
       - run: mkdir -p data/idn data/showroom
 
-      - run: node index.js
-      - run: node src/generate-readme.js
+      - name: Fetch live data
+        run: node index.js
 
-      - run: git add README.md data/idn/*.json data/showroom/*.json
-      - run: git pull --rebase origin main
+      - name: Generate README
+        run: node src/generate-readme.js
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Commit & push if changed
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "update live data"
           branch: main
           commit_user_name: "github-actions"
           commit_user_email: "github-actions@github.com"
+          file_pattern: |
+            README.md
+            data/idn/*.json
+            data/showroom/*.json
