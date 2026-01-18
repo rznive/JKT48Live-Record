@@ -48,5 +48,15 @@
     "live_at_unix": 1768734215,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260118/f9500eb4-9d6d-491d-a857-40ca6f862d61-260118180306.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
+  },
+  {
+    "id": 6,
+    "username": "jkt48_virgi",
+    "creator_name": "Virgi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 18 Januari 2026 pukul 19.13.46 WIB",
+    "live_at_unix": 1768738426,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260118/147e83c8-f3ac-4680-9141-2f518b4b7810-260118191334.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8"
   }
 ]
