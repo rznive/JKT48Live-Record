@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 7 | <img src="https://cdn.idntimes.com/content-images/post/20260118/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260118195921.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 18 Januari 2026 pukul 19.59.32 WIB |
 | 6 | <img src="https://cdn.idntimes.com/content-images/post/20260118/147e83c8-f3ac-4680-9141-2f518b4b7810-260118191334.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 18 Januari 2026 pukul 19.13.46 WIB |
 | 5 | <img src="https://cdn.idntimes.com/content-images/post/20260118/f9500eb4-9d6d-491d-a857-40ca6f862d61-260118180306.jpg" width="170"> | Auwia JKT48 | Bikin laguuuu | Minggu, 18 Januari 2026 pukul 18.03.35 WIB |
 | 4 | <img src="https://cdn.idntimes.com/content-images/post/20260117/e243be19-74b7-435b-8e19-13fc669e0224-260117171531.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Sabtu, 17 Januari 2026 pukul 17.15.40 WIB |
