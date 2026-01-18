@@ -10,18 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          persist-credentials: true
+          fetch-depth: 0
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 18
 
-      - run: npm ci
+      - name: Install dependencies
+        run: npm ci
 
-      - run: mkdir -p data/idn data/showroom
+      - name: Ensure data directories
+        run: mkdir -p data/idn data/showroom
 
       - name: Fetch live data
         run: node index.js
@@ -34,9 +37,9 @@ jobs:
         with:
           commit_message: "update live data"
           branch: main
-          commit_user_name: "github-actions"
-          commit_user_email: "github-actions@github.com"
           file_pattern: |
             README.md
             data/idn/*.json
             data/showroom/*.json
+          commit_user_name: "github-actions"
+          commit_user_email: "github-actions@github.com"
