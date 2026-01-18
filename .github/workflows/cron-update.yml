@@ -37,9 +37,6 @@ jobs:
         with:
           commit_message: "update live data"
           branch: main
-          file_pattern: |
-            README.md
-            data/idn/*.json
-            data/showroom/*.json
+          file_pattern: README.md data/idn/*.json data/showroom/*.json
           commit_user_name: "github-actions"
           commit_user_email: "github-actions@github.com"
