@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 13 | <img src="https://cdn.idntimes.com/content-images/post/20260119/e243be19-74b7-435b-8e19-13fc669e0224-260119195248.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Senin, 19 Januari 2026 pukul 19.53.00 WIB |
+| 12 | <img src="https://cdn.idntimes.com/content-images/post/20260119/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260119194133.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Senin, 19 Januari 2026 pukul 19.41.40 WIB |
 | 11 | <img src="https://cdn.idntimes.com/content-images/post/20260119/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260119185610.jpg" width="170"> | Intan JKT48 | hi | Senin, 19 Januari 2026 pukul 18.56.23 WIB |
 | 10 | <img src="https://cdn.idntimes.com/content-images/post/20260119/21a420b0-dd01-4daa-b185-b9020f8bf69d-260119160504.jpg" width="170"> | Nachia JKT48 | Ayo ngobrol bareng! | Senin, 19 Januari 2026 pukul 16.05.14 WIB |
 | 9 | <img src="https://cdn.idntimes.com/content-images/post/20260118/4f795073-38c9-4df7-9388-74b83de69801-260118235518.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 18 Januari 2026 pukul 23.55.35 WIB |
