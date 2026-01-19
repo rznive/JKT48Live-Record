@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 19 | <img src="https://cdn.idntimes.com/content-images/post/20260119/85f369d7-6525-41c0-94b8-9a56686713eb-260119212927.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 19 Januari 2026 pukul 21.29.36 WIB |
+| 18 | <img src="https://cdn.idntimes.com/content-images/post/20260119/a2b5d818-475d-44ce-af52-e99526482aaf-260119211708.jpg" width="170"> | Oline JKT48 | yoyoyoy | Senin, 19 Januari 2026 pukul 21.17.18 WIB |
+| 17 | <img src="https://cdn.idntimes.com/content-images/post/20260119/e9170998-f026-4186-bbc5-a17a3b5b2af1-260119210803.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Senin, 19 Januari 2026 pukul 21.08.15 WIB |
 | 16 | <img src="https://cdn.idntimes.com/content-images/post/20260119/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260119210054.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 19 Januari 2026 pukul 21.01.09 WIB |
 | 15 | <img src="https://cdn.idntimes.com/content-images/post/20260119/e243be19-74b7-435b-8e19-13fc669e0224-260119200644.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Senin, 19 Januari 2026 pukul 20.06.53 WIB |
 | 14 | <img src="https://cdn.idntimes.com/content-images/post/20260119/a557ba58-12d8-4260-bd50-9e5252ac71ef-260119195704.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 19 Januari 2026 pukul 19.57.19 WIB |

@@ -158,5 +158,35 @@
     "live_at_unix": 1768831269,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260119/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260119210054.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 17,
+    "username": "jkt48_rilly",
+    "creator_name": "Rilly JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 19 Januari 2026 pukul 21.08.15 WIB",
+    "live_at_unix": 1768831695,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260119/e9170998-f026-4186-bbc5-a17a3b5b2af1-260119210803.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 18,
+    "username": "jkt48_oline",
+    "creator_name": "Oline JKT48",
+    "title": "yoyoyoy",
+    "live_at": "Senin, 19 Januari 2026 pukul 21.17.18 WIB",
+    "live_at_unix": 1768832238,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260119/a2b5d818-475d-44ce-af52-e99526482aaf-260119211708.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gYN6fQPMCqs0.m3u8"
+  },
+  {
+    "id": 19,
+    "username": "jkt48_ekin",
+    "creator_name": "Ekin JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 19 Januari 2026 pukul 21.29.36 WIB",
+    "live_at_unix": 1768832976,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260119/85f369d7-6525-41c0-94b8-9a56686713eb-260119212927.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
   }
 ]
