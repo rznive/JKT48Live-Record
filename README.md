@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 36 | <img src="https://cdn.idntimes.com/content-images/post/20260120/e2af7271-2598-4ee8-8760-68043e671e6d-260120232205.jpg" width="170"> | Lana JKT48 | Ayo ngobrol bareng! | Selasa, 20 Januari 2026 pukul 23.22.11 WIB |
+| 35 | <img src="https://cdn.idntimes.com/content-images/post/20260120/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260120230726.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 20 Januari 2026 pukul 23.07.34 WIB |
 | 34 | <img src="https://cdn.idntimes.com/content-images/post/20260120/e2af7271-2598-4ee8-8760-68043e671e6d-260120223302.jpg" width="170"> | Lana JKT48 | Haii | Selasa, 20 Januari 2026 pukul 22.33.11 WIB |
 | 33 | <img src="https://cdn.idntimes.com/content-images/post/20260120/21a420b0-dd01-4daa-b185-b9020f8bf69d-260120223131.jpg" width="170"> | Nachia JKT48 | hy | Selasa, 20 Januari 2026 pukul 22.31.39 WIB |
 | 32 | <img src="https://cdn.idntimes.com/content-images/post/20260120/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260120223105.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Selasa, 20 Januari 2026 pukul 22.31.21 WIB |
