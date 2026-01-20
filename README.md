@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 21 | <img src="https://cdn.idntimes.com/content-images/post/20260120/a9579a29-9203-40c0-9326-9837b8eae6e8-260120191322.jpg" width="170"> | Jessi JKT48 | haiiii | Selasa, 20 Januari 2026 pukul 19.13.33 WIB |
 | 20 | <img src="https://cdn.idntimes.com/content-images/post/20260120/50a27780-93e7-4e40-8474-60f6e0cca6da-260120153146.jpg" width="170"> | JKT48 | Temen Main E.P2 JKT48! | Selasa, 20 Januari 2026 pukul 15.31.52 WIB |
 | 19 | <img src="https://cdn.idntimes.com/content-images/post/20260119/85f369d7-6525-41c0-94b8-9a56686713eb-260119212927.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 19 Januari 2026 pukul 21.29.36 WIB |
 | 18 | <img src="https://cdn.idntimes.com/content-images/post/20260119/a2b5d818-475d-44ce-af52-e99526482aaf-260119211708.jpg" width="170"> | Oline JKT48 | yoyoyoy | Senin, 19 Januari 2026 pukul 21.17.18 WIB |
