@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 29 | <img src="https://cdn.idntimes.com/content-images/post/20260120/266ef38a-da00-4d13-ba77-f94da68599ee-260120214744.jpg" width="170"> | Delynn JKT48 | Hola | Selasa, 20 Januari 2026 pukul 21.47.50 WIB |
+| 28 | <img src="https://cdn.idntimes.com/content-images/post/20260120/a2b5d818-475d-44ce-af52-e99526482aaf-260120214156.jpg" width="170"> | Oline JKT48 | Ayo ngobrol bareng! | Selasa, 20 Januari 2026 pukul 21.42.10 WIB |
 | 27 | <img src="https://cdn.idntimes.com/content-images/post/20260120/a2b5d818-475d-44ce-af52-e99526482aaf-260120213558.jpg" width="170"> | Oline JKT48 | Ayo ngobrol bareng! | Selasa, 20 Januari 2026 pukul 21.36.15 WIB |
 | 26 | <img src="https://cdn.idntimes.com/content-images/post/20260120/7599c984-c466-4962-8c5b-73c1d33d59d9-260120210922.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 20 Januari 2026 pukul 21.09.39 WIB |
 | 25 | <img src="https://cdn.idntimes.com/content-images/post/20260120/147e83c8-f3ac-4680-9141-2f518b4b7810-260120210911.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 20 Januari 2026 pukul 21.09.23 WIB |
