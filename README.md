@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 49 | <img src="https://cdn.idntimes.com/content-images/post/20260121/4f795073-38c9-4df7-9388-74b83de69801-260121212759.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 21 Januari 2026 pukul 21.28.16 WIB |
+| 48 | <img src="https://cdn.idntimes.com/content-images/post/20260121/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260121210359.jpg" width="170"> | Marsha JKT48 | Halo | Rabu, 21 Januari 2026 pukul 21.04.11 WIB |
 | 47 | <img src="https://cdn.idntimes.com/content-images/post/20260121/85482779-8b59-4995-a600-f8a4230c29d8-260121205734.jpg" width="170"> | Fiony JKT48 | Haii | Rabu, 21 Januari 2026 pukul 20.57.42 WIB |
 | 46 | <img src="https://cdn.idntimes.com/content-images/post/20260121/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260121205558.jpg" width="170"> | Muthe JKT48 | Hi | Rabu, 21 Januari 2026 pukul 20.56.07 WIB |
 | 45 | <img src="https://cdn.idntimes.com/content-images/post/20260121/a9579a29-9203-40c0-9326-9837b8eae6e8-260121205006.jpg" width="170"> | Jessi JKT48 | p | Rabu, 21 Januari 2026 pukul 20.50.25 WIB |
