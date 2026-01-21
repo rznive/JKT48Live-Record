@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 38 | <img src="https://cdn.idntimes.com/content-images/post/20260121/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260121123806.jpg" width="170"> | Lily JKT48 | Hi | Rabu, 21 Januari 2026 pukul 12.38.13 WIB |
 | 37 | <img src="https://cdn.idntimes.com/content-images/post/20260121/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260121052216.jpg" width="170"> | Erine JKT48 | es pisang ijo  | Rabu, 21 Januari 2026 pukul 05.22.26 WIB |
 | 36 | <img src="https://cdn.idntimes.com/content-images/post/20260120/e2af7271-2598-4ee8-8760-68043e671e6d-260120232205.jpg" width="170"> | Lana JKT48 | Ayo ngobrol bareng! | Selasa, 20 Januari 2026 pukul 23.22.11 WIB |
 | 35 | <img src="https://cdn.idntimes.com/content-images/post/20260120/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260120230726.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 20 Januari 2026 pukul 23.07.34 WIB |
