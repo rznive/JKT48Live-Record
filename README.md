@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 47 | <img src="https://cdn.idntimes.com/content-images/post/20260121/85482779-8b59-4995-a600-f8a4230c29d8-260121205734.jpg" width="170"> | Fiony JKT48 | Haii | Rabu, 21 Januari 2026 pukul 20.57.42 WIB |
+| 46 | <img src="https://cdn.idntimes.com/content-images/post/20260121/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260121205558.jpg" width="170"> | Muthe JKT48 | Hi | Rabu, 21 Januari 2026 pukul 20.56.07 WIB |
+| 45 | <img src="https://cdn.idntimes.com/content-images/post/20260121/a9579a29-9203-40c0-9326-9837b8eae6e8-260121205006.jpg" width="170"> | Jessi JKT48 | p | Rabu, 21 Januari 2026 pukul 20.50.25 WIB |
+| 44 | <img src="https://cdn.idntimes.com/content-images/post/20260121/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260121204317.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Rabu, 21 Januari 2026 pukul 20.43.30 WIB |
 | 43 | <img src="https://cdn.idntimes.com/content-images/post/20260121/cae4d972-5f14-4512-9706-37c1802a0541-260121201808.jpg" width="170"> | Gracie JKT48 | Ayo ngobrol bareng! | Rabu, 21 Januari 2026 pukul 20.18.20 WIB |
 | 42 | <img src="https://cdn.idntimes.com/content-images/post/20260121/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260121154155.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 21 Januari 2026 pukul 15.42.13 WIB |
 | 41 | <img src="https://cdn.idntimes.com/content-images/post/20260121/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260121154154.jpg" width="170"> | Giaa JKT48 | libeee | Rabu, 21 Januari 2026 pukul 15.42.02 WIB |
