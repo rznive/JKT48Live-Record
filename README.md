@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 40 | <img src="https://cdn.idntimes.com/content-images/post/20260121/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260121143951.jpg" width="170"> | Intan JKT48 | ak lg sm org | Rabu, 21 Januari 2026 pukul 14.40.07 WIB |
 | 39 | <img src="https://cdn.idntimes.com/content-images/post/20260121/f9500eb4-9d6d-491d-a857-40ca6f862d61-260121141854.jpg" width="170"> | Auwia JKT48 | Apatuh | Rabu, 21 Januari 2026 pukul 14.19.09 WIB |
 | 38 | <img src="https://cdn.idntimes.com/content-images/post/20260121/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260121123806.jpg" width="170"> | Lily JKT48 | Hi | Rabu, 21 Januari 2026 pukul 12.38.13 WIB |
 | 37 | <img src="https://cdn.idntimes.com/content-images/post/20260121/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260121052216.jpg" width="170"> | Erine JKT48 | es pisang ijo  | Rabu, 21 Januari 2026 pukul 05.22.26 WIB |
