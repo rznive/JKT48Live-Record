@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 42 | <img src="https://cdn.idntimes.com/content-images/post/20260121/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260121154155.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 21 Januari 2026 pukul 15.42.13 WIB |
+| 41 | <img src="https://cdn.idntimes.com/content-images/post/20260121/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260121154154.jpg" width="170"> | Giaa JKT48 | libeee | Rabu, 21 Januari 2026 pukul 15.42.02 WIB |
 | 40 | <img src="https://cdn.idntimes.com/content-images/post/20260121/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260121143951.jpg" width="170"> | Intan JKT48 | ak lg sm org | Rabu, 21 Januari 2026 pukul 14.40.07 WIB |
 | 39 | <img src="https://cdn.idntimes.com/content-images/post/20260121/f9500eb4-9d6d-491d-a857-40ca6f862d61-260121141854.jpg" width="170"> | Auwia JKT48 | Apatuh | Rabu, 21 Januari 2026 pukul 14.19.09 WIB |
 | 38 | <img src="https://cdn.idntimes.com/content-images/post/20260121/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260121123806.jpg" width="170"> | Lily JKT48 | Hi | Rabu, 21 Januari 2026 pukul 12.38.13 WIB |
