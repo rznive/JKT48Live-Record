@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 50 | <img src="https://cdn.idntimes.com/content-images/post/20260121/4f795073-38c9-4df7-9388-74b83de69801-260121214554.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 21 Januari 2026 pukul 21.46.11 WIB |
 | 49 | <img src="https://cdn.idntimes.com/content-images/post/20260121/4f795073-38c9-4df7-9388-74b83de69801-260121212759.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 21 Januari 2026 pukul 21.28.16 WIB |
 | 48 | <img src="https://cdn.idntimes.com/content-images/post/20260121/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260121210359.jpg" width="170"> | Marsha JKT48 | Halo | Rabu, 21 Januari 2026 pukul 21.04.11 WIB |
 | 47 | <img src="https://cdn.idntimes.com/content-images/post/20260121/85482779-8b59-4995-a600-f8a4230c29d8-260121205734.jpg" width="170"> | Fiony JKT48 | Haii | Rabu, 21 Januari 2026 pukul 20.57.42 WIB |
