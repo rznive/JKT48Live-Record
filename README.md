@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 57 | <img src="https://cdn.idntimes.com/content-images/post/20260122/50a27780-93e7-4e40-8474-60f6e0cca6da-260122153137.jpg" width="170"> | JKT48 | TEMEN NGOBROL: ROOM 48! | Kamis, 22 Januari 2026 pukul 15.31.48 WIB |
 | 56 | <img src="https://cdn.idntimes.com/content-images/post/20260122/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260122133519.jpg" width="170"> | Lily JKT48 | Grwm | Kamis, 22 Januari 2026 pukul 13.35.26 WIB |
 | 55 | <img src="https://cdn.idntimes.com/content-images/post/20260122/f9500eb4-9d6d-491d-a857-40ca6f862d61-260122113929.jpg" width="170"> | Auwia JKT48 | Hello  | Kamis, 22 Januari 2026 pukul 11.39.44 WIB |
 | 54 | <img src="https://cdn.idntimes.com/content-images/post/20260122/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260122113522.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Kamis, 22 Januari 2026 pukul 11.35.39 WIB |
@@ -51,7 +52,6 @@
 | 10 | <img src="https://cdn.idntimes.com/content-images/post/20260119/21a420b0-dd01-4daa-b185-b9020f8bf69d-260119160504.jpg" width="170"> | Nachia JKT48 | Ayo ngobrol bareng! | Senin, 19 Januari 2026 pukul 16.05.14 WIB |
 | 9 | <img src="https://cdn.idntimes.com/content-images/post/20260118/4f795073-38c9-4df7-9388-74b83de69801-260118235518.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 18 Januari 2026 pukul 23.55.35 WIB |
 | 8 | <img src="https://cdn.idntimes.com/content-images/post/20260118/85f369d7-6525-41c0-94b8-9a56686713eb-260118203240.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 18 Januari 2026 pukul 20.32.51 WIB |
-| 7 | <img src="https://cdn.idntimes.com/content-images/post/20260118/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260118195921.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 18 Januari 2026 pukul 19.59.32 WIB |
 
 ## 🔴 SHOWROOMLIVE JKT48
 

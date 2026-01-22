@@ -558,5 +558,15 @@
     "live_at_unix": 1769063726,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260122/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260122133519.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
+  },
+  {
+    "id": 57,
+    "username": "jkt48-official",
+    "creator_name": "JKT48",
+    "title": "TEMEN NGOBROL: ROOM 48!",
+    "live_at": "Kamis, 22 Januari 2026 pukul 15.31.48 WIB",
+    "live_at_unix": 1769070708,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260122/50a27780-93e7-4e40-8474-60f6e0cca6da-260122153137.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4idUspKIZskG.m3u8"
   }
 ]
