@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 55 | <img src="https://cdn.idntimes.com/content-images/post/20260122/f9500eb4-9d6d-491d-a857-40ca6f862d61-260122113929.jpg" width="170"> | Auwia JKT48 | Hello  | Kamis, 22 Januari 2026 pukul 11.39.44 WIB |
+| 54 | <img src="https://cdn.idntimes.com/content-images/post/20260122/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260122113522.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Kamis, 22 Januari 2026 pukul 11.35.39 WIB |
 | 53 | <img src="https://cdn.idntimes.com/content-images/post/20260121/4f795073-38c9-4df7-9388-74b83de69801-260121224821.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 21 Januari 2026 pukul 22.48.34 WIB |
 | 52 | <img src="https://cdn.idntimes.com/content-images/post/20260121/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260121223222.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Rabu, 21 Januari 2026 pukul 22.32.30 WIB |
 | 51 | <img src="https://cdn.idntimes.com/content-images/post/20260121/a2b5d818-475d-44ce-af52-e99526482aaf-260121221900.jpg" width="170"> | Oline JKT48 | p | Rabu, 21 Januari 2026 pukul 22.19.12 WIB |
@@ -50,8 +52,6 @@
 | 8 | <img src="https://cdn.idntimes.com/content-images/post/20260118/85f369d7-6525-41c0-94b8-9a56686713eb-260118203240.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 18 Januari 2026 pukul 20.32.51 WIB |
 | 7 | <img src="https://cdn.idntimes.com/content-images/post/20260118/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260118195921.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 18 Januari 2026 pukul 19.59.32 WIB |
 | 6 | <img src="https://cdn.idntimes.com/content-images/post/20260118/147e83c8-f3ac-4680-9141-2f518b4b7810-260118191334.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 18 Januari 2026 pukul 19.13.46 WIB |
-| 5 | <img src="https://cdn.idntimes.com/content-images/post/20260118/f9500eb4-9d6d-491d-a857-40ca6f862d61-260118180306.jpg" width="170"> | Auwia JKT48 | Bikin laguuuu | Minggu, 18 Januari 2026 pukul 18.03.35 WIB |
-| 4 | <img src="https://cdn.idntimes.com/content-images/post/20260117/e243be19-74b7-435b-8e19-13fc669e0224-260117171531.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Sabtu, 17 Januari 2026 pukul 17.15.40 WIB |
 
 ## 🔴 SHOWROOMLIVE JKT48
 
