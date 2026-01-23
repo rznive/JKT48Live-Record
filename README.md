@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 72 | <img src="https://cdn.idntimes.com/content-images/post/20260123/f9500eb4-9d6d-491d-a857-40ca6f862d61-260123143322.jpg" width="170"> | Auwia JKT48 | Ummmmmmm | Jumat, 23 Januari 2026 pukul 14.33.37 WIB |
+| 71 | <img src="https://cdn.idntimes.com/content-images/post/20260123/85f369d7-6525-41c0-94b8-9a56686713eb-260123142413.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Jumat, 23 Januari 2026 pukul 14.24.20 WIB |
 | 70 | <img src="https://cdn.idntimes.com/content-images/post/20260123/e9170998-f026-4186-bbc5-a17a3b5b2af1-260123141449.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Jumat, 23 Januari 2026 pukul 14.14.56 WIB |
 | 69 | <img src="https://cdn.idntimes.com/content-images/post/20260123/f9500eb4-9d6d-491d-a857-40ca6f862d61-260123135227.jpg" width="170"> | Auwia JKT48 | Grwm | Jumat, 23 Januari 2026 pukul 13.52.42 WIB |
 | 68 | <img src="https://cdn.idntimes.com/content-images/post/20260123/4f795073-38c9-4df7-9388-74b83de69801-260123001646.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Jumat, 23 Januari 2026 pukul 00.17.00 WIB |
@@ -50,8 +52,6 @@
 | 25 | <img src="https://cdn.idntimes.com/content-images/post/20260120/147e83c8-f3ac-4680-9141-2f518b4b7810-260120210911.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 20 Januari 2026 pukul 21.09.23 WIB |
 | 24 | <img src="https://cdn.idntimes.com/content-images/post/20260120/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260120210757.jpg" width="170"> | Giaa JKT48 | liveee | Selasa, 20 Januari 2026 pukul 21.08.05 WIB |
 | 23 | <img src="https://cdn.idntimes.com/content-images/post/20260120/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260120205321.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 20 Januari 2026 pukul 20.53.29 WIB |
-| 22 | <img src="https://cdn.idntimes.com/content-images/post/20260120/f9500eb4-9d6d-491d-a857-40ca6f862d61-260120204044.jpg" width="170"> | Auwia JKT48 | Chillin | Selasa, 20 Januari 2026 pukul 20.40.59 WIB |
-| 21 | <img src="https://cdn.idntimes.com/content-images/post/20260120/a9579a29-9203-40c0-9326-9837b8eae6e8-260120191322.jpg" width="170"> | Jessi JKT48 | haiiii | Selasa, 20 Januari 2026 pukul 19.13.33 WIB |
 
 ## 🔴 SHOWROOMLIVE JKT48
 
