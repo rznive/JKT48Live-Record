@@ -13,7 +13,7 @@ module.exports = () => {
     for (const f of fs.readdirSync(DIR)) {
       all.push(...JSON.parse(fs.readFileSync(path.join(DIR, f), "utf8")));
     }
-    return all.sort((a, b) => b.live_at_unix - a.live_at_unix).slice(0, 50);
+    return all.sort((a, b) => b.live_at_unix - a.live_at_unix).slice(0, 9999);
   }
 
   const dataIDN = loadData(DIR_IDN);
