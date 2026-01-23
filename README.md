@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 84 | <img src="https://cdn.idntimes.com/content-images/post/20260123/e2af7271-2598-4ee8-8760-68043e671e6d-260123220152.jpg" width="170"> | Lana JKT48 | Ayo ngobrol bareng! | Jumat, 23 Januari 2026 pukul 22.02.01 WIB |
 | 83 | <img src="https://cdn.idntimes.com/content-images/post/20260123/82ffac10-ee56-43d0-ad38-ce432384cfe5-260123214437.jpg" width="170"> | Gita JKT48 | Gits | Jumat, 23 Januari 2026 pukul 21.44.51 WIB |
 | 82 | <img src="https://cdn.idntimes.com/content-images/post/20260123/b0d1e6c3-d356-4b00-8d00-846e5297693b-260123214135.jpg" width="170"> | Ella JKT48 | Ayo ngobrol bareng! | Jumat, 23 Januari 2026 pukul 21.41.42 WIB |
 | 81 | <img src="https://cdn.idntimes.com/content-images/post/20260123/74e76417-0353-487f-b9b7-7520c0398e87-260123214012.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Jumat, 23 Januari 2026 pukul 21.40.20 WIB |
