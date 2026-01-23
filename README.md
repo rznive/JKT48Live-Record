@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 77 | <img src="https://cdn.idntimes.com/content-images/post/20260123/147e83c8-f3ac-4680-9141-2f518b4b7810-260123171658.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Jumat, 23 Januari 2026 pukul 17.17.13 WIB |
 | 76 | <img src="https://cdn.idntimes.com/content-images/post/20260123/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260123165554.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 23 Januari 2026 pukul 16.56.12 WIB |
 | 75 | <img src="https://cdn.idntimes.com/content-images/post/20260123/f9500eb4-9d6d-491d-a857-40ca6f862d61-260123165524.jpg" width="170"> | Auwia JKT48 | Gigi jeje kikin | Jumat, 23 Januari 2026 pukul 16.55.40 WIB |
 | 74 | <img src="https://cdn.idntimes.com/content-images/post/20260123/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260123165527.jpg" width="170"> | Giaa JKT48 | livee | Jumat, 23 Januari 2026 pukul 16.55.35 WIB |
@@ -51,7 +52,6 @@
 | 30 | <img src="https://cdn.idntimes.com/content-images/post/20260120/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260120221047.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Selasa, 20 Januari 2026 pukul 22.11.03 WIB |
 | 29 | <img src="https://cdn.idntimes.com/content-images/post/20260120/266ef38a-da00-4d13-ba77-f94da68599ee-260120214744.jpg" width="170"> | Delynn JKT48 | Hola | Selasa, 20 Januari 2026 pukul 21.47.50 WIB |
 | 28 | <img src="https://cdn.idntimes.com/content-images/post/20260120/a2b5d818-475d-44ce-af52-e99526482aaf-260120214156.jpg" width="170"> | Oline JKT48 | Ayo ngobrol bareng! | Selasa, 20 Januari 2026 pukul 21.42.10 WIB |
-| 27 | <img src="https://cdn.idntimes.com/content-images/post/20260120/a2b5d818-475d-44ce-af52-e99526482aaf-260120213558.jpg" width="170"> | Oline JKT48 | Ayo ngobrol bareng! | Selasa, 20 Januari 2026 pukul 21.36.15 WIB |
 
 ## 🔴 SHOWROOMLIVE JKT48
 
