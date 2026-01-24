@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 92 | <img src="https://cdn.idntimes.com/content-images/post/20260124/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260124171403.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Sabtu, 24 Januari 2026 pukul 17.14.10 WIB |
 | 91 | <img src="https://cdn.idntimes.com/content-images/post/20260124/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260124134204.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Sabtu, 24 Januari 2026 pukul 13.42.24 WIB |
 | 90 | <img src="https://cdn.idntimes.com/content-images/post/20260124/147e83c8-f3ac-4680-9141-2f518b4b7810-260124134202.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Sabtu, 24 Januari 2026 pukul 13.42.20 WIB |
 | 89 | <img src="https://cdn.idntimes.com/content-images/post/20260124/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260124134202.jpg" width="170"> | Giaa JKT48 | hai siangg | Sabtu, 24 Januari 2026 pukul 13.42.11 WIB |
