@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 94 | <img src="https://cdn.idntimes.com/content-images/post/20260124/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-260124222331.jpg" width="170"> | Chelsea JKT48 | LIVVEEEEER | Sabtu, 24 Januari 2026 pukul 22.23.55 WIB |
 | 93 | <img src="https://cdn.idntimes.com/content-images/post/20260124/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260124204505.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Sabtu, 24 Januari 2026 pukul 20.45.19 WIB |
 | 92 | <img src="https://cdn.idntimes.com/content-images/post/20260124/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260124171403.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Sabtu, 24 Januari 2026 pukul 17.14.10 WIB |
 | 91 | <img src="https://cdn.idntimes.com/content-images/post/20260124/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260124134204.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Sabtu, 24 Januari 2026 pukul 13.42.24 WIB |
