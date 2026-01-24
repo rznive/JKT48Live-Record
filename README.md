@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 91 | <img src="https://cdn.idntimes.com/content-images/post/20260124/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260124134204.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Sabtu, 24 Januari 2026 pukul 13.42.24 WIB |
+| 90 | <img src="https://cdn.idntimes.com/content-images/post/20260124/147e83c8-f3ac-4680-9141-2f518b4b7810-260124134202.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Sabtu, 24 Januari 2026 pukul 13.42.20 WIB |
+| 89 | <img src="https://cdn.idntimes.com/content-images/post/20260124/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260124134202.jpg" width="170"> | Giaa JKT48 | hai siangg | Sabtu, 24 Januari 2026 pukul 13.42.11 WIB |
 | 88 | <img src="https://cdn.idntimes.com/content-images/post/20260124/f9500eb4-9d6d-491d-a857-40ca6f862d61-260124111931.jpg" width="170"> | Auwia JKT48 | Grwm lagiii | Sabtu, 24 Januari 2026 pukul 11.19.47 WIB |
 | 87 | <img src="https://cdn.idntimes.com/content-images/post/20260123/15dfee86-a928-4a15-8c90-6aa21097d0ff-260123230744.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 23 Januari 2026 pukul 23.07.56 WIB |
 | 86 | <img src="https://cdn.idntimes.com/content-images/post/20260123/e0ececb4-71d8-4f32-a221-ef21634a746a-260123224835.jpg" width="170"> | Elin JKT48 | Hai | Jumat, 23 Januari 2026 pukul 22.48.46 WIB |
