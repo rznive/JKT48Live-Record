@@ -938,5 +938,15 @@
     "live_at_unix": 1769268235,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260124/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-260124222331.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.o3XoGdLr8Ejd.m3u8"
+  },
+  {
+    "id": 95,
+    "username": "jkt48_amanda",
+    "creator_name": "Amanda JKT48",
+    "title": "Laip mukbangg",
+    "live_at": "Minggu, 25 Januari 2026 pukul 17.54.05 WIB",
+    "live_at_unix": 1769338445,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260125/e8aa0877-684a-4430-8a3b-d96302e53aab-260125175355.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
   }
 ]
