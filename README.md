@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 101 | <img src="https://cdn.idntimes.com/content-images/post/20260125/a5c72141-65a3-47be-86ef-1dc1feaab10d-260125201004.jpg" width="170"> | Anindya JKT48 | HLO | Minggu, 25 Januari 2026 pukul 20.10.15 WIB |
+| 100 | <img src="https://cdn.idntimes.com/content-images/post/20260125/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260125195823.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Minggu, 25 Januari 2026 pukul 19.58.32 WIB |
+| 99 | <img src="https://cdn.idntimes.com/content-images/post/20260125/f001ba66-3c51-4849-9afa-13cf74eb1571-260125193855.jpg" width="170"> | Aralie JKT48 | Ayo ngobrol bareng! | Minggu, 25 Januari 2026 pukul 19.39.06 WIB |
 | 98 | <img src="https://cdn.idntimes.com/content-images/post/20260125/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260125185743.jpg" width="170"> | Levi JKT48 | hello | Minggu, 25 Januari 2026 pukul 18.57.52 WIB |
 | 97 | <img src="https://cdn.idntimes.com/content-images/post/20260125/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260125183731.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Minggu, 25 Januari 2026 pukul 18.37.44 WIB |
 | 96 | <img src="https://cdn.idntimes.com/content-images/post/20260125/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260125182523.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 25 Januari 2026 pukul 18.25.35 WIB |

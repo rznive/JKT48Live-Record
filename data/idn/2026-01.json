@@ -978,5 +978,35 @@
     "live_at_unix": 1769342272,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260125/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260125185743.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 99,
+    "username": "jkt48_aralie",
+    "creator_name": "Aralie JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 25 Januari 2026 pukul 19.39.06 WIB",
+    "live_at_unix": 1769344746,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260125/f001ba66-3c51-4849-9afa-13cf74eb1571-260125193855.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oxXRFBYUK9HN.m3u8"
+  },
+  {
+    "id": 100,
+    "username": "jkt48_levi",
+    "creator_name": "Levi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 25 Januari 2026 pukul 19.58.32 WIB",
+    "live_at_unix": 1769345912,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260125/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260125195823.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 101,
+    "username": "jkt48_anindya",
+    "creator_name": "Anindya JKT48",
+    "title": "HLO",
+    "live_at": "Minggu, 25 Januari 2026 pukul 20.10.15 WIB",
+    "live_at_unix": 1769346615,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260125/a5c72141-65a3-47be-86ef-1dc1feaab10d-260125201004.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8"
   }
 ]
