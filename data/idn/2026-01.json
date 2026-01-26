@@ -1038,5 +1038,15 @@
     "live_at_unix": 1769413556,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260126/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260126144541.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 105,
+    "username": "jkt48-official",
+    "creator_name": "JKT48",
+    "title": "TEMEN MAIN: FINAL DAY! ",
+    "live_at": "Senin, 26 Januari 2026 pukul 15.35.59 WIB",
+    "live_at_unix": 1769416559,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260126/50a27780-93e7-4e40-8474-60f6e0cca6da-260126153547.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4idUspKIZskG.m3u8"
   }
 ]
