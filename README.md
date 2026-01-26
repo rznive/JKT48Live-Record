@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 110 | <img src="https://cdn.idntimes.com/content-images/post/20260126/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260126190851.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 19.08.59 WIB |
 | 109 | <img src="https://cdn.idntimes.com/content-images/post/20260126/15dfee86-a928-4a15-8c90-6aa21097d0ff-260126184557.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 18.46.05 WIB |
 | 108 | <img src="https://cdn.idntimes.com/content-images/post/20260126/e9170998-f026-4186-bbc5-a17a3b5b2af1-260126174657.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 17.47.06 WIB |
 | 107 | <img src="https://cdn.idntimes.com/content-images/post/20260126/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260126173327.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 17.33.38 WIB |
