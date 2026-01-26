@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 115 | <img src="https://cdn.idntimes.com/content-images/post/20260126/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260126204055.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 20.41.11 WIB |
+| 114 | <img src="https://cdn.idntimes.com/content-images/post/20260126/85f369d7-6525-41c0-94b8-9a56686713eb-260126203519.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 20.35.29 WIB |
+| 113 | <img src="https://cdn.idntimes.com/content-images/post/20260126/92d66abb-0171-4a2b-a30d-37ad58359248-260126203107.jpg" width="170"> | Trisha JKT48 | hai | Senin, 26 Januari 2026 pukul 20.31.17 WIB |
+| 112 | <img src="https://cdn.idntimes.com/content-images/post/20260126/147e83c8-f3ac-4680-9141-2f518b4b7810-260126201436.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 20.14.47 WIB |
 | 111 | <img src="https://cdn.idntimes.com/content-images/post/20260126/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260126194939.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 19.49.48 WIB |
 | 110 | <img src="https://cdn.idntimes.com/content-images/post/20260126/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260126190851.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 19.08.59 WIB |
 | 109 | <img src="https://cdn.idntimes.com/content-images/post/20260126/15dfee86-a928-4a15-8c90-6aa21097d0ff-260126184557.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 18.46.05 WIB |
