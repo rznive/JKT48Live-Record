@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 104 | <img src="https://cdn.idntimes.com/content-images/post/20260126/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260126144541.jpg" width="170"> | Intan JKT48 | oi | Senin, 26 Januari 2026 pukul 14.45.56 WIB |
 | 103 | <img src="https://cdn.idntimes.com/content-images/post/20260126/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260126141235.jpg" width="170"> | Lily JKT48 | Hi | Senin, 26 Januari 2026 pukul 14.12.41 WIB |
 | 102 | <img src="https://cdn.idntimes.com/content-images/post/20260125/82ffac10-ee56-43d0-ad38-ce432384cfe5-260125231804.jpg" width="170"> | Gita JKT48 | Gits | Minggu, 25 Januari 2026 pukul 23.18.20 WIB |
 | 101 | <img src="https://cdn.idntimes.com/content-images/post/20260125/a5c72141-65a3-47be-86ef-1dc1feaab10d-260125201004.jpg" width="170"> | Anindya JKT48 | HLO | Minggu, 25 Januari 2026 pukul 20.10.15 WIB |

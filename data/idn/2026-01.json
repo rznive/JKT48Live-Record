@@ -1028,5 +1028,15 @@
     "live_at_unix": 1769411561,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260126/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260126141235.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
+  },
+  {
+    "id": 104,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "oi",
+    "live_at": "Senin, 26 Januari 2026 pukul 14.45.56 WIB",
+    "live_at_unix": 1769413556,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260126/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260126144541.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
   }
 ]
