@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 120 | <img src="https://cdn.idntimes.com/content-images/post/20260126/a557ba58-12d8-4260-bd50-9e5252ac71ef-260126222022.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 22.20.35 WIB |
 | 119 | <img src="https://cdn.idntimes.com/content-images/post/20260126/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260126215059.jpg" width="170"> | Giaa JKT48 | ulanggg | Senin, 26 Januari 2026 pukul 21.51.06 WIB |
 | 118 | <img src="https://cdn.idntimes.com/content-images/post/20260126/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260126212620.jpg" width="170"> | Erine JKT48 | Review dubai chewy cookies wowkoakaoa  | Senin, 26 Januari 2026 pukul 21.26.31 WIB |
 | 117 | <img src="https://cdn.idntimes.com/content-images/post/20260126/e243be19-74b7-435b-8e19-13fc669e0224-260126211318.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 21.13.28 WIB |
