@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 117 | <img src="https://cdn.idntimes.com/content-images/post/20260126/e243be19-74b7-435b-8e19-13fc669e0224-260126211318.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 21.13.28 WIB |
+| 116 | <img src="https://cdn.idntimes.com/content-images/post/20260126/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260126210240.jpg" width="170"> | Giaa JKT48 | malem live bntrr | Senin, 26 Januari 2026 pukul 21.02.48 WIB |
 | 115 | <img src="https://cdn.idntimes.com/content-images/post/20260126/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260126204055.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 20.41.11 WIB |
 | 114 | <img src="https://cdn.idntimes.com/content-images/post/20260126/85f369d7-6525-41c0-94b8-9a56686713eb-260126203519.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 20.35.29 WIB |
 | 113 | <img src="https://cdn.idntimes.com/content-images/post/20260126/92d66abb-0171-4a2b-a30d-37ad58359248-260126203107.jpg" width="170"> | Trisha JKT48 | hai | Senin, 26 Januari 2026 pukul 20.31.17 WIB |
