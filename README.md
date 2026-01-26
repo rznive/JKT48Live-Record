@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 106 | <img src="https://cdn.idntimes.com/content-images/post/20260126/a557ba58-12d8-4260-bd50-9e5252ac71ef-260126171058.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 17.11.14 WIB |
 | 105 | <img src="https://cdn.idntimes.com/content-images/post/20260126/50a27780-93e7-4e40-8474-60f6e0cca6da-260126153547.jpg" width="170"> | JKT48 | TEMEN MAIN: FINAL DAY!  | Senin, 26 Januari 2026 pukul 15.35.59 WIB |
 | 104 | <img src="https://cdn.idntimes.com/content-images/post/20260126/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260126144541.jpg" width="170"> | Intan JKT48 | oi | Senin, 26 Januari 2026 pukul 14.45.56 WIB |
 | 103 | <img src="https://cdn.idntimes.com/content-images/post/20260126/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260126141235.jpg" width="170"> | Lily JKT48 | Hi | Senin, 26 Januari 2026 pukul 14.12.41 WIB |
