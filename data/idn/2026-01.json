@@ -1338,5 +1338,15 @@
     "live_at_unix": 1769525642,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260127/e2af7271-2598-4ee8-8760-68043e671e6d-260127215355.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 135,
+    "username": "jkt48_lia",
+    "creator_name": "Lia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 27 Januari 2026 pukul 23.02.24 WIB",
+    "live_at_unix": 1769529744,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260127/15dfee86-a928-4a15-8c90-6aa21097d0ff-260127230217.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
   }
 ]
