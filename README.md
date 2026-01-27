@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 133 | <img src="https://cdn.idntimes.com/content-images/post/20260127/e9170998-f026-4186-bbc5-a17a3b5b2af1-260127212152.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Selasa, 27 Januari 2026 pukul 21.22.03 WIB |
+| 132 | <img src="https://cdn.idntimes.com/content-images/post/20260127/a557ba58-12d8-4260-bd50-9e5252ac71ef-260127212125.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 27 Januari 2026 pukul 21.21.40 WIB |
+| 131 | <img src="https://cdn.idntimes.com/content-images/post/20260127/85f369d7-6525-41c0-94b8-9a56686713eb-260127212105.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Selasa, 27 Januari 2026 pukul 21.21.17 WIB |
+| 130 | <img src="https://cdn.idntimes.com/content-images/post/20260127/f001ba66-3c51-4849-9afa-13cf74eb1571-260127210631.jpg" width="170"> | Aralie JKT48 | Ayo ngobrol bareng! | Selasa, 27 Januari 2026 pukul 21.06.45 WIB |
 | 129 | <img src="https://cdn.idntimes.com/content-images/post/20260127/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260127202229.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Selasa, 27 Januari 2026 pukul 20.22.39 WIB |
 | 128 | <img src="https://cdn.idntimes.com/content-images/post/20260127/a2b5d818-475d-44ce-af52-e99526482aaf-260127202145.jpg" width="170"> | Oline JKT48 | Ayo ngobrol bareng! | Selasa, 27 Januari 2026 pukul 20.21.55 WIB |
 | 127 | <img src="https://cdn.idntimes.com/content-images/post/20260127/82ffac10-ee56-43d0-ad38-ce432384cfe5-260127195917.jpg" width="170"> | Gita JKT48 | Gits | Selasa, 27 Januari 2026 pukul 19.59.33 WIB |
