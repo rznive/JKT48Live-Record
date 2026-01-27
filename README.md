@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 122 | <img src="https://cdn.idntimes.com/content-images/post/20260127/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260127183451.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Selasa, 27 Januari 2026 pukul 18.34.59 WIB |
 | 121 | <img src="https://cdn.idntimes.com/content-images/post/20260127/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260127153528.jpg" width="170"> | Kathrina JKT48 | yoksss | Selasa, 27 Januari 2026 pukul 15.35.39 WIB |
 | 120 | <img src="https://cdn.idntimes.com/content-images/post/20260126/a557ba58-12d8-4260-bd50-9e5252ac71ef-260126222022.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 26 Januari 2026 pukul 22.20.35 WIB |
 | 119 | <img src="https://cdn.idntimes.com/content-images/post/20260126/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260126215059.jpg" width="170"> | Giaa JKT48 | ulanggg | Senin, 26 Januari 2026 pukul 21.51.06 WIB |
