@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 137 | <img src="https://cdn.idntimes.com/content-images/post/20260128/4f795073-38c9-4df7-9388-74b83de69801-260128001712.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 00.17.21 WIB |
 | 136 | <img src="https://cdn.idntimes.com/content-images/post/20260127/15dfee86-a928-4a15-8c90-6aa21097d0ff-260127232543.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Selasa, 27 Januari 2026 pukul 23.25.52 WIB |
 | 135 | <img src="https://cdn.idntimes.com/content-images/post/20260127/15dfee86-a928-4a15-8c90-6aa21097d0ff-260127230217.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Selasa, 27 Januari 2026 pukul 23.02.24 WIB |
 | 134 | <img src="https://cdn.idntimes.com/content-images/post/20260127/e2af7271-2598-4ee8-8760-68043e671e6d-260127215355.jpg" width="170"> | Lana JKT48 | Ayo ngobrol bareng! | Selasa, 27 Januari 2026 pukul 21.54.02 WIB |
