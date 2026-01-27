@@ -1328,5 +1328,15 @@
     "live_at_unix": 1769523723,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260127/e9170998-f026-4186-bbc5-a17a3b5b2af1-260127212152.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 134,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 27 Januari 2026 pukul 21.54.02 WIB",
+    "live_at_unix": 1769525642,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260127/e2af7271-2598-4ee8-8760-68043e671e6d-260127215355.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
   }
 ]
