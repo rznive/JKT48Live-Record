@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 139 | <img src="https://cdn.idntimes.com/content-images/post/20260128/82ffac10-ee56-43d0-ad38-ce432384cfe5-260128114009.jpg" width="170"> | Gita JKT48 | Gits | Rabu, 28 Januari 2026 pukul 11.40.28 WIB |
 | 138 | <img src="https://cdn.idntimes.com/content-images/post/20260128/4f795073-38c9-4df7-9388-74b83de69801-260128005113.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 00.51.22 WIB |
 | 137 | <img src="https://cdn.idntimes.com/content-images/post/20260128/4f795073-38c9-4df7-9388-74b83de69801-260128001712.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 00.17.21 WIB |
 | 136 | <img src="https://cdn.idntimes.com/content-images/post/20260127/15dfee86-a928-4a15-8c90-6aa21097d0ff-260127232543.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Selasa, 27 Januari 2026 pukul 23.25.52 WIB |
