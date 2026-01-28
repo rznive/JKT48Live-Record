@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 144 | <img src="https://cdn.idntimes.com/content-images/post/20260128/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260128174026.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 17.40.35 WIB |
 | 143 | <img src="https://cdn.idntimes.com/content-images/post/20260128/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260128165712.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 16.57.30 WIB |
 | 142 | <img src="https://cdn.idntimes.com/content-images/post/20260128/147e83c8-f3ac-4680-9141-2f518b4b7810-260128165710.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 16.57.26 WIB |
 | 141 | <img src="https://cdn.idntimes.com/content-images/post/20260128/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260128153826.jpg" width="170"> | Lily JKT48 | Bihunku | Rabu, 28 Januari 2026 pukul 15.38.35 WIB |
