@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 152 | <img src="https://cdn.idntimes.com/content-images/post/20260128/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260128212335.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 21.23.53 WIB |
+| 151 | <img src="https://cdn.idntimes.com/content-images/post/20260128/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260128212025.jpg" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 21.20.40 WIB |
+| 149 | <img src="https://cdn.idntimes.com/content-images/post/20260128/a9579a29-9203-40c0-9326-9837b8eae6e8-260128212006.jpg" width="170"> | Jessi JKT48 | gen 7 wleeeee | Rabu, 28 Januari 2026 pukul 21.20.28 WIB |
+| 150 | <img src="https://cdn.idntimes.com/content-images/post/20260128/12addeb8-6ec5-4cea-a3b4-ad86e9bfc8d1-260128212007.jpg" width="170"> | Freya JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 21.20.28 WIB |
+| 148 | <img src="https://cdn.idntimes.com/content-images/post/20260128/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260128212007.jpg" width="170"> | Muthe JKT48 | Hi | Rabu, 28 Januari 2026 pukul 21.20.22 WIB |
+| 147 | <img src="https://cdn.idntimes.com/content-images/post/20260128/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260128212003.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 21.20.16 WIB |
 | 146 | <img src="https://cdn.idntimes.com/content-images/post/20260128/f9500eb4-9d6d-491d-a857-40ca6f862d61-260128203727.jpg" width="170"> | Auwia JKT48 | Eating streammmm | Rabu, 28 Januari 2026 pukul 20.37.43 WIB |
 | 145 | <img src="https://cdn.idntimes.com/content-images/post/20260128/266ef38a-da00-4d13-ba77-f94da68599ee-260128190809.jpg" width="170"> | Delynn JKT48 | Hai | Rabu, 28 Januari 2026 pukul 19.08.27 WIB |
 | 144 | <img src="https://cdn.idntimes.com/content-images/post/20260128/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260128174026.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 17.40.35 WIB |
