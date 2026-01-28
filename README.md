@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 153 | <img src="https://cdn.idntimes.com/content-images/post/20260128/85f369d7-6525-41c0-94b8-9a56686713eb-260128220134.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 22.01.43 WIB |
 | 152 | <img src="https://cdn.idntimes.com/content-images/post/20260128/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260128212335.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 21.23.53 WIB |
 | 151 | <img src="https://cdn.idntimes.com/content-images/post/20260128/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260128212025.jpg" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 21.20.40 WIB |
 | 149 | <img src="https://cdn.idntimes.com/content-images/post/20260128/a9579a29-9203-40c0-9326-9837b8eae6e8-260128212006.jpg" width="170"> | Jessi JKT48 | gen 7 wleeeee | Rabu, 28 Januari 2026 pukul 21.20.28 WIB |
