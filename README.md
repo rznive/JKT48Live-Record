@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 140 | <img src="https://cdn.idntimes.com/content-images/post/20260128/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260128152258.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 15.23.13 WIB |
 | 139 | <img src="https://cdn.idntimes.com/content-images/post/20260128/82ffac10-ee56-43d0-ad38-ce432384cfe5-260128114009.jpg" width="170"> | Gita JKT48 | Gits | Rabu, 28 Januari 2026 pukul 11.40.28 WIB |
 | 138 | <img src="https://cdn.idntimes.com/content-images/post/20260128/4f795073-38c9-4df7-9388-74b83de69801-260128005113.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 00.51.22 WIB |
 | 137 | <img src="https://cdn.idntimes.com/content-images/post/20260128/4f795073-38c9-4df7-9388-74b83de69801-260128001712.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 00.17.21 WIB |
