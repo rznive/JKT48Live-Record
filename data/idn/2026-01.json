@@ -1438,5 +1438,15 @@
     "live_at_unix": 1769596835,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260128/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260128174026.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8"
+  },
+  {
+    "id": 145,
+    "username": "jkt48_delynn",
+    "creator_name": "Delynn JKT48",
+    "title": "Hai",
+    "live_at": "Rabu, 28 Januari 2026 pukul 19.08.27 WIB",
+    "live_at_unix": 1769602107,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260128/266ef38a-da00-4d13-ba77-f94da68599ee-260128190809.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
   }
 ]
