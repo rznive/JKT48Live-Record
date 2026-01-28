@@ -1448,5 +1448,15 @@
     "live_at_unix": 1769602107,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260128/266ef38a-da00-4d13-ba77-f94da68599ee-260128190809.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
+  },
+  {
+    "id": 146,
+    "username": "jkt48_auwia",
+    "creator_name": "Auwia JKT48",
+    "title": "Eating streammmm",
+    "live_at": "Rabu, 28 Januari 2026 pukul 20.37.43 WIB",
+    "live_at_unix": 1769607463,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260128/f9500eb4-9d6d-491d-a857-40ca6f862d61-260128203727.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
   }
 ]

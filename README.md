@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 146 | <img src="https://cdn.idntimes.com/content-images/post/20260128/f9500eb4-9d6d-491d-a857-40ca6f862d61-260128203727.jpg" width="170"> | Auwia JKT48 | Eating streammmm | Rabu, 28 Januari 2026 pukul 20.37.43 WIB |
 | 145 | <img src="https://cdn.idntimes.com/content-images/post/20260128/266ef38a-da00-4d13-ba77-f94da68599ee-260128190809.jpg" width="170"> | Delynn JKT48 | Hai | Rabu, 28 Januari 2026 pukul 19.08.27 WIB |
 | 144 | <img src="https://cdn.idntimes.com/content-images/post/20260128/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260128174026.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 17.40.35 WIB |
 | 143 | <img src="https://cdn.idntimes.com/content-images/post/20260128/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260128165712.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 16.57.30 WIB |
