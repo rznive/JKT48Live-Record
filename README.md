@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 143 | <img src="https://cdn.idntimes.com/content-images/post/20260128/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260128165712.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 16.57.30 WIB |
+| 142 | <img src="https://cdn.idntimes.com/content-images/post/20260128/147e83c8-f3ac-4680-9141-2f518b4b7810-260128165710.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 16.57.26 WIB |
 | 141 | <img src="https://cdn.idntimes.com/content-images/post/20260128/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260128153826.jpg" width="170"> | Lily JKT48 | Bihunku | Rabu, 28 Januari 2026 pukul 15.38.35 WIB |
 | 140 | <img src="https://cdn.idntimes.com/content-images/post/20260128/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260128152258.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 15.23.13 WIB |
 | 139 | <img src="https://cdn.idntimes.com/content-images/post/20260128/82ffac10-ee56-43d0-ad38-ce432384cfe5-260128114009.jpg" width="170"> | Gita JKT48 | Gits | Rabu, 28 Januari 2026 pukul 11.40.28 WIB |
