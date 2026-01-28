@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 156 | <img src="https://cdn.idntimes.com/content-images/post/20260128/12addeb8-6ec5-4cea-a3b4-ad86e9bfc8d1-260128223610.jpg" width="170"> | Freya JKT48 | Tes | Rabu, 28 Januari 2026 pukul 22.36.25 WIB |
+| 155 | <img src="https://cdn.idntimes.com/content-images/post/20260128/74e76417-0353-487f-b9b7-7520c0398e87-260128220631.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 22.06.41 WIB |
+| 154 | <img src="https://cdn.idntimes.com/content-images/post/20260128/e9170998-f026-4186-bbc5-a17a3b5b2af1-260128220328.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 22.03.39 WIB |
 | 153 | <img src="https://cdn.idntimes.com/content-images/post/20260128/85f369d7-6525-41c0-94b8-9a56686713eb-260128220134.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 22.01.43 WIB |
 | 152 | <img src="https://cdn.idntimes.com/content-images/post/20260128/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260128212335.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 21.23.53 WIB |
 | 151 | <img src="https://cdn.idntimes.com/content-images/post/20260128/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260128212025.jpg" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Rabu, 28 Januari 2026 pukul 21.20.40 WIB |
