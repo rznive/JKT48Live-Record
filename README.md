@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 165 | <img src="https://cdn.idntimes.com/content-images/post/20260129/e2af7271-2598-4ee8-8760-68043e671e6d-260129203707.jpg" width="170"> | Lana JKT48 | Hai ngobrol yuk | Kamis, 29 Januari 2026 pukul 20.37.14 WIB |
 | 164 | <img src="https://cdn.idntimes.com/content-images/post/20260129/e243be19-74b7-435b-8e19-13fc669e0224-260129195640.jpg" width="170"> | Nayla JKT48 | Naychan  | Kamis, 29 Januari 2026 pukul 19.56.49 WIB |
 | 163 | <img src="https://cdn.idntimes.com/content-images/post/20260129/7599c984-c466-4962-8c5b-73c1d33d59d9-260129190130.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Kamis, 29 Januari 2026 pukul 19.01.46 WIB |
 | 162 | <img src="https://cdn.idntimes.com/content-images/post/20260129/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260129184230.jpg" width="170"> | Giaa JKT48 | hiii | Kamis, 29 Januari 2026 pukul 18.42.37 WIB |
