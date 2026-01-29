@@ -1648,5 +1648,15 @@
     "live_at_unix": 1769693834,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260129/e2af7271-2598-4ee8-8760-68043e671e6d-260129203707.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 166,
+    "username": "jkt48_oline",
+    "creator_name": "Oline JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 29 Januari 2026 pukul 22.16.29 WIB",
+    "live_at_unix": 1769699789,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260129/a2b5d818-475d-44ce-af52-e99526482aaf-260129221619.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gYN6fQPMCqs0.m3u8"
   }
 ]
