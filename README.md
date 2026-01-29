@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 162 | <img src="https://cdn.idntimes.com/content-images/post/20260129/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260129184230.jpg" width="170"> | Giaa JKT48 | hiii | Kamis, 29 Januari 2026 pukul 18.42.37 WIB |
 | 161 | <img src="https://cdn.idntimes.com/content-images/post/20260129/85f369d7-6525-41c0-94b8-9a56686713eb-260129162639.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Kamis, 29 Januari 2026 pukul 16.26.46 WIB |
 | 160 | <img src="https://cdn.idntimes.com/content-images/post/20260129/f9500eb4-9d6d-491d-a857-40ca6f862d61-260129145723.jpg" width="170"> | Auwia JKT48 | Grwm 💗 | Kamis, 29 Januari 2026 pukul 14.57.39 WIB |
 | 159 | <img src="https://cdn.idntimes.com/content-images/post/20260129/82ffac10-ee56-43d0-ad38-ce432384cfe5-260129114759.jpg" width="170"> | Gita JKT48 | Gits | Kamis, 29 Januari 2026 pukul 11.48.14 WIB |
