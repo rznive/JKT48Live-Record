@@ -1668,5 +1668,15 @@
     "live_at_unix": 1769701990,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260129/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260129225301.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8"
+  },
+  {
+    "id": 168,
+    "username": "jkt48_delynn",
+    "creator_name": "Delynn JKT48",
+    "title": "Eyo",
+    "live_at": "Kamis, 29 Januari 2026 pukul 23.29.55 WIB",
+    "live_at_unix": 1769704195,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260129/266ef38a-da00-4d13-ba77-f94da68599ee-260129232940.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
   }
 ]

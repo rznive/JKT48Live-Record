@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 168 | <img src="https://cdn.idntimes.com/content-images/post/20260129/266ef38a-da00-4d13-ba77-f94da68599ee-260129232940.jpg" width="170"> | Delynn JKT48 | Eyo | Kamis, 29 Januari 2026 pukul 23.29.55 WIB |
 | 167 | <img src="https://cdn.idntimes.com/content-images/post/20260129/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260129225301.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 29 Januari 2026 pukul 22.53.10 WIB |
 | 166 | <img src="https://cdn.idntimes.com/content-images/post/20260129/a2b5d818-475d-44ce-af52-e99526482aaf-260129221619.jpg" width="170"> | Oline JKT48 | Ayo ngobrol bareng! | Kamis, 29 Januari 2026 pukul 22.16.29 WIB |
 | 165 | <img src="https://cdn.idntimes.com/content-images/post/20260129/e2af7271-2598-4ee8-8760-68043e671e6d-260129203707.jpg" width="170"> | Lana JKT48 | Hai ngobrol yuk | Kamis, 29 Januari 2026 pukul 20.37.14 WIB |
