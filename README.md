@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 177 | <img src="https://cdn.idntimes.com/content-images/post/20260130/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260130224051.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Jumat, 30 Januari 2026 pukul 22.41.02 WIB |
 | 176 | <img src="https://cdn.idntimes.com/content-images/post/20260130/e243be19-74b7-435b-8e19-13fc669e0224-260130220409.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Jumat, 30 Januari 2026 pukul 22.04.17 WIB |
 | 175 | <img src="https://cdn.idntimes.com/content-images/post/20260130/e9170998-f026-4186-bbc5-a17a3b5b2af1-260130182938.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Jumat, 30 Januari 2026 pukul 18.29.46 WIB |
 | 174 | <img src="https://cdn.idntimes.com/content-images/post/20260130/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260130175559.jpg" width="170"> | Marsha JKT48 | Haiiui | Jumat, 30 Januari 2026 pukul 17.56.10 WIB |
