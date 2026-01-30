@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 170 | <img src="https://cdn.idntimes.com/content-images/post/20260130/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260130142605.jpg" width="170"> | Greesel JKT48 | packingggg | Jumat, 30 Januari 2026 pukul 14.26.13 WIB |
+| 169 | <img src="https://cdn.idntimes.com/content-images/post/20260130/15dfee86-a928-4a15-8c90-6aa21097d0ff-260130142511.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 30 Januari 2026 pukul 14.25.20 WIB |
 | 168 | <img src="https://cdn.idntimes.com/content-images/post/20260129/266ef38a-da00-4d13-ba77-f94da68599ee-260129232940.jpg" width="170"> | Delynn JKT48 | Eyo | Kamis, 29 Januari 2026 pukul 23.29.55 WIB |
 | 167 | <img src="https://cdn.idntimes.com/content-images/post/20260129/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260129225301.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 29 Januari 2026 pukul 22.53.10 WIB |
 | 166 | <img src="https://cdn.idntimes.com/content-images/post/20260129/a2b5d818-475d-44ce-af52-e99526482aaf-260129221619.jpg" width="170"> | Oline JKT48 | Ayo ngobrol bareng! | Kamis, 29 Januari 2026 pukul 22.16.29 WIB |
