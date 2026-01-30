@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 172 | <img src="https://cdn.idntimes.com/content-images/post/20260130/147e83c8-f3ac-4680-9141-2f518b4b7810-260130172357.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Jumat, 30 Januari 2026 pukul 17.24.08 WIB |
+| 171 | <img src="https://cdn.idntimes.com/content-images/post/20260130/7599c984-c466-4962-8c5b-73c1d33d59d9-260130171158.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Jumat, 30 Januari 2026 pukul 17.12.13 WIB |
 | 170 | <img src="https://cdn.idntimes.com/content-images/post/20260130/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260130142605.jpg" width="170"> | Greesel JKT48 | packingggg | Jumat, 30 Januari 2026 pukul 14.26.13 WIB |
 | 169 | <img src="https://cdn.idntimes.com/content-images/post/20260130/15dfee86-a928-4a15-8c90-6aa21097d0ff-260130142511.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 30 Januari 2026 pukul 14.25.20 WIB |
 | 168 | <img src="https://cdn.idntimes.com/content-images/post/20260129/266ef38a-da00-4d13-ba77-f94da68599ee-260129232940.jpg" width="170"> | Delynn JKT48 | Eyo | Kamis, 29 Januari 2026 pukul 23.29.55 WIB |
