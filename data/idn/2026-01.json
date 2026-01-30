@@ -1748,5 +1748,15 @@
     "live_at_unix": 1769772586,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260130/e9170998-f026-4186-bbc5-a17a3b5b2af1-260130182938.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 176,
+    "username": "jkt48_nayla",
+    "creator_name": "Nayla JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 30 Januari 2026 pukul 22.04.17 WIB",
+    "live_at_unix": 1769785457,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260130/e243be19-74b7-435b-8e19-13fc669e0224-260130220409.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.s29ur0XkIpE2.m3u8"
   }
 ]
