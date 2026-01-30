@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 174 | <img src="https://cdn.idntimes.com/content-images/post/20260130/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260130175559.jpg" width="170"> | Marsha JKT48 | Haiiui | Jumat, 30 Januari 2026 pukul 17.56.10 WIB |
+| 173 | <img src="https://cdn.idntimes.com/content-images/post/20260130/82ffac10-ee56-43d0-ad38-ce432384cfe5-260130175418.jpg" width="170"> | Gita JKT48 | Gits | Jumat, 30 Januari 2026 pukul 17.54.33 WIB |
 | 172 | <img src="https://cdn.idntimes.com/content-images/post/20260130/147e83c8-f3ac-4680-9141-2f518b4b7810-260130172357.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Jumat, 30 Januari 2026 pukul 17.24.08 WIB |
 | 171 | <img src="https://cdn.idntimes.com/content-images/post/20260130/7599c984-c466-4962-8c5b-73c1d33d59d9-260130171158.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Jumat, 30 Januari 2026 pukul 17.12.13 WIB |
 | 170 | <img src="https://cdn.idntimes.com/content-images/post/20260130/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260130142605.jpg" width="170"> | Greesel JKT48 | packingggg | Jumat, 30 Januari 2026 pukul 14.26.13 WIB |
