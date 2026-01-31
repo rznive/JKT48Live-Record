@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 180 | <img src="https://cdn.idntimes.com/content-images/post/20260131/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260131212030.jpg" width="170"> | Intan JKT48 | hi | Sabtu, 31 Januari 2026 pukul 21.20.39 WIB |
 | 179 | <img src="https://cdn.idntimes.com/content-images/post/20260131/b11b0692-d0b8-464c-849a-9e81439a048c-260131002005.jpg" width="170"> | Daisy JKT48 | Goodnightt!! | Sabtu, 31 Januari 2026 pukul 00.20.13 WIB |
 | 178 | <img src="https://cdn.idntimes.com/content-images/post/20260130/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260130235401.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Jumat, 30 Januari 2026 pukul 23.54.12 WIB |
 | 177 | <img src="https://cdn.idntimes.com/content-images/post/20260130/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260130224051.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Jumat, 30 Januari 2026 pukul 22.41.02 WIB |
