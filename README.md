@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 182 | <img src="https://cdn.idntimes.com/content-images/post/20260131/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-260131212859.jpg" width="170"> | Chelsea JKT48 | Karaoke  | Sabtu, 31 Januari 2026 pukul 21.29.08 WIB |
+| 181 | <img src="https://cdn.idntimes.com/content-images/post/20260131/e2af7271-2598-4ee8-8760-68043e671e6d-260131212400.jpg" width="170"> | Lana JKT48 | Ngobrol | Sabtu, 31 Januari 2026 pukul 21.24.06 WIB |
 | 180 | <img src="https://cdn.idntimes.com/content-images/post/20260131/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260131212030.jpg" width="170"> | Intan JKT48 | hi | Sabtu, 31 Januari 2026 pukul 21.20.39 WIB |
 | 179 | <img src="https://cdn.idntimes.com/content-images/post/20260131/b11b0692-d0b8-464c-849a-9e81439a048c-260131002005.jpg" width="170"> | Daisy JKT48 | Goodnightt!! | Sabtu, 31 Januari 2026 pukul 00.20.13 WIB |
 | 178 | <img src="https://cdn.idntimes.com/content-images/post/20260130/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260130235401.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Jumat, 30 Januari 2026 pukul 23.54.12 WIB |
