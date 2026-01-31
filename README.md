@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 184 | <img src="https://cdn.idntimes.com/content-images/post/20260131/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260131221854.jpg" width="170"> | Lily JKT48 | Ceritaly | Sabtu, 31 Januari 2026 pukul 22.19.02 WIB |
 | 183 | <img src="https://cdn.idntimes.com/content-images/post/20260131/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260131215000.jpg" width="170"> | Giaa JKT48 | mayem | Sabtu, 31 Januari 2026 pukul 21.50.09 WIB |
 | 182 | <img src="https://cdn.idntimes.com/content-images/post/20260131/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-260131212859.jpg" width="170"> | Chelsea JKT48 | Karaoke  | Sabtu, 31 Januari 2026 pukul 21.29.08 WIB |
 | 181 | <img src="https://cdn.idntimes.com/content-images/post/20260131/e2af7271-2598-4ee8-8760-68043e671e6d-260131212400.jpg" width="170"> | Lana JKT48 | Ngobrol | Sabtu, 31 Januari 2026 pukul 21.24.06 WIB |
