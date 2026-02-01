@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 187 | <img src="https://cdn.idntimes.com/content-images/post/20260201/15dfee86-a928-4a15-8c90-6aa21097d0ff-260201181944.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 01 Februari 2026 pukul 18.19.53 WIB |
+| 186 | <img src="https://cdn.idntimes.com/content-images/post/20260201/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260201180832.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 01 Februari 2026 pukul 18.08.43 WIB |
 | 185 | <img src="https://cdn.idntimes.com/content-images/post/20260131/85f369d7-6525-41c0-94b8-9a56686713eb-260131223608.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Sabtu, 31 Januari 2026 pukul 22.36.15 WIB |
 | 184 | <img src="https://cdn.idntimes.com/content-images/post/20260131/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260131221854.jpg" width="170"> | Lily JKT48 | Ceritaly | Sabtu, 31 Januari 2026 pukul 22.19.02 WIB |
 | 183 | <img src="https://cdn.idntimes.com/content-images/post/20260131/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260131215000.jpg" width="170"> | Giaa JKT48 | mayem | Sabtu, 31 Januari 2026 pukul 21.50.09 WIB |
