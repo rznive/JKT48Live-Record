@@ -18,5 +18,15 @@
     "live_at_unix": 1769944793,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260201/15dfee86-a928-4a15-8c90-6aa21097d0ff-260201181944.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 188,
+    "username": "jkt48_ella",
+    "creator_name": "Ella JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 01 Februari 2026 pukul 18.23.49 WIB",
+    "live_at_unix": 1769945029,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260201/b0d1e6c3-d356-4b00-8d00-846e5297693b-260201182340.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BDGTjOuDMTDH.m3u8"
   }
 ]
