@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 203 | <img src="https://cdn.idntimes.com/content-images/post/20260201/e0ececb4-71d8-4f32-a221-ef21634a746a-260201224433.jpg" width="170"> | Elin JKT48 | Holaaa | Minggu, 01 Februari 2026 pukul 22.44.44 WIB |
+| 202 | <img src="https://cdn.idntimes.com/content-images/post/20260201/b11b0692-d0b8-464c-849a-9e81439a048c-260201224157.jpg" width="170"> | Daisy JKT48 | goodnight | Minggu, 01 Februari 2026 pukul 22.42.09 WIB |
+| 201 | <img src="https://cdn.idntimes.com/content-images/post/20260201/a557ba58-12d8-4260-bd50-9e5252ac71ef-260201223758.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 01 Februari 2026 pukul 22.38.11 WIB |
+| 199 | <img src="https://cdn.idntimes.com/content-images/post/20260201/e2af7271-2598-4ee8-8760-68043e671e6d-260201222949.jpg" width="170"> | Lana JKT48 | Ayo ngobrol bareng! | Minggu, 01 Februari 2026 pukul 22.29.59 WIB |
+| 200 | <img src="https://cdn.idntimes.com/content-images/post/20260201/74e76417-0353-487f-b9b7-7520c0398e87-260201222950.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Minggu, 01 Februari 2026 pukul 22.29.59 WIB |
 | 198 | <img src="https://cdn.idntimes.com/content-images/post/20260201/266ef38a-da00-4d13-ba77-f94da68599ee-260201220724.jpg" width="170"> | Delynn JKT48 | Haii | Minggu, 01 Februari 2026 pukul 22.07.39 WIB |
 | 197 | <img src="https://cdn.idntimes.com/content-images/post/20260201/a557ba58-12d8-4260-bd50-9e5252ac71ef-260201220354.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 01 Februari 2026 pukul 22.04.08 WIB |
 | 196 | <img src="https://cdn.idntimes.com/content-images/post/20260201/85f369d7-6525-41c0-94b8-9a56686713eb-260201214650.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 01 Februari 2026 pukul 21.47.02 WIB |
