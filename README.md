@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 193 | <img src="https://cdn.idntimes.com/content-images/post/20260201/82ffac10-ee56-43d0-ad38-ce432384cfe5-260201204954.jpg" width="170"> | Gita JKT48 | Gits | Minggu, 01 Februari 2026 pukul 20.50.08 WIB |
 | 192 | <img src="https://cdn.idntimes.com/content-images/post/20260201/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260201195528.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 01 Februari 2026 pukul 19.55.45 WIB |
 | 191 | <img src="https://cdn.idntimes.com/content-images/post/20260201/e9170998-f026-4186-bbc5-a17a3b5b2af1-260201194754.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Minggu, 01 Februari 2026 pukul 19.48.02 WIB |
 | 190 | <img src="https://cdn.idntimes.com/content-images/post/20260201/147e83c8-f3ac-4680-9141-2f518b4b7810-260201193149.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 01 Februari 2026 pukul 19.32.05 WIB |
