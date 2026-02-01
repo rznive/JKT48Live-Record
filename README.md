@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 190 | <img src="https://cdn.idntimes.com/content-images/post/20260201/147e83c8-f3ac-4680-9141-2f518b4b7810-260201193149.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 01 Februari 2026 pukul 19.32.05 WIB |
+| 189 | <img src="https://cdn.idntimes.com/content-images/post/20260201/7599c984-c466-4962-8c5b-73c1d33d59d9-260201193143.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Minggu, 01 Februari 2026 pukul 19.32.01 WIB |
 | 188 | <img src="https://cdn.idntimes.com/content-images/post/20260201/b0d1e6c3-d356-4b00-8d00-846e5297693b-260201182340.jpg" width="170"> | Ella JKT48 | Ayo ngobrol bareng! | Minggu, 01 Februari 2026 pukul 18.23.49 WIB |
 | 187 | <img src="https://cdn.idntimes.com/content-images/post/20260201/15dfee86-a928-4a15-8c90-6aa21097d0ff-260201181944.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 01 Februari 2026 pukul 18.19.53 WIB |
 | 186 | <img src="https://cdn.idntimes.com/content-images/post/20260201/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260201180832.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 01 Februari 2026 pukul 18.08.43 WIB |
