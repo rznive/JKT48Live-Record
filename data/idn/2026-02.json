@@ -88,5 +88,25 @@
     "live_at_unix": 1769955653,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260201/e243be19-74b7-435b-8e19-13fc669e0224-260201212043.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.s29ur0XkIpE2.m3u8"
+  },
+  {
+    "id": 195,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "ppppop",
+    "live_at": "Minggu, 01 Februari 2026 pukul 21.30.26 WIB",
+    "live_at_unix": 1769956226,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260201/a9579a29-9203-40c0-9326-9837b8eae6e8-260201213009.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 196,
+    "username": "jkt48_ekin",
+    "creator_name": "Ekin JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 01 Februari 2026 pukul 21.47.02 WIB",
+    "live_at_unix": 1769957222,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260201/85f369d7-6525-41c0-94b8-9a56686713eb-260201214650.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
   }
 ]
