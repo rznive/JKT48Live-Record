@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 210 | <img src="https://cdn.idntimes.com/content-images/post/20260202/147e83c8-f3ac-4680-9141-2f518b4b7810-260202184229.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 02 Februari 2026 pukul 18.42.41 WIB |
 | 209 | <img src="https://cdn.idntimes.com/content-images/post/20260202/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260202173650.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Senin, 02 Februari 2026 pukul 17.36.58 WIB |
 | 208 | <img src="https://cdn.idntimes.com/content-images/post/20260201/52c5c190-3611-4def-866f-76c32c0b837e-260201230350.jpg" width="170"> | Kimmy JKT48 | haihaihoi | Minggu, 01 Februari 2026 pukul 23.03.59 WIB |
 | 207 | <img src="https://cdn.idntimes.com/content-images/post/20260201/21a420b0-dd01-4daa-b185-b9020f8bf69d-260201230306.jpg" width="170"> | Nachia JKT48 | yey | Minggu, 01 Februari 2026 pukul 23.03.14 WIB |
