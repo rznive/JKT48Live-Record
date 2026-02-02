@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 215 | <img src="https://cdn.idntimes.com/content-images/post/20260202/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260202213648.jpg" width="170"> | Giaa JKT48 | hiii cintaaa | Senin, 02 Februari 2026 pukul 21.36.55 WIB |
+| 214 | <img src="https://cdn.idntimes.com/content-images/post/20260202/82ffac10-ee56-43d0-ad38-ce432384cfe5-260202213357.jpg" width="170"> | Gita JKT48 | Gits | Senin, 02 Februari 2026 pukul 21.34.12 WIB |
+| 213 | <img src="https://cdn.idntimes.com/content-images/post/20260202/a557ba58-12d8-4260-bd50-9e5252ac71ef-260202213219.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 02 Februari 2026 pukul 21.32.32 WIB |
+| 212 | <img src="https://cdn.idntimes.com/content-images/post/20260202/85f369d7-6525-41c0-94b8-9a56686713eb-260202212205.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 02 Februari 2026 pukul 21.22.13 WIB |
 | 211 | <img src="https://cdn.idntimes.com/content-images/post/20260202/cae4d972-5f14-4512-9706-37c1802a0541-260202204621.jpg" width="170"> | Gracie JKT48 | Ayo ngobrol bareng! | Senin, 02 Februari 2026 pukul 20.46.33 WIB |
 | 210 | <img src="https://cdn.idntimes.com/content-images/post/20260202/147e83c8-f3ac-4680-9141-2f518b4b7810-260202184229.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 02 Februari 2026 pukul 18.42.41 WIB |
 | 209 | <img src="https://cdn.idntimes.com/content-images/post/20260202/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260202173650.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Senin, 02 Februari 2026 pukul 17.36.58 WIB |
