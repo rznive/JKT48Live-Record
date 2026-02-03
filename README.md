@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 225 | <img src="https://cdn.idntimes.com/content-images/post/20260203/85f369d7-6525-41c0-94b8-9a56686713eb-260203174157.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Selasa, 03 Februari 2026 pukul 17.42.15 WIB |
 | 224 | <img src="https://cdn.idntimes.com/content-images/post/20260203/e9170998-f026-4186-bbc5-a17a3b5b2af1-260203170258.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Selasa, 03 Februari 2026 pukul 17.03.06 WIB |
 | 223 | <img src="https://cdn.idntimes.com/content-images/post/20260203/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260203164844.jpg" width="170"> | Jemima JKT48 | hai  | Selasa, 03 Februari 2026 pukul 16.49.00 WIB |
 | 222 | <img src="https://cdn.idntimes.com/content-images/post/20260203/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260203164835.jpg" width="170"> | Giaa JKT48 | live mam | Selasa, 03 Februari 2026 pukul 16.48.51 WIB |
