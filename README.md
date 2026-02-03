@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 224 | <img src="https://cdn.idntimes.com/content-images/post/20260203/e9170998-f026-4186-bbc5-a17a3b5b2af1-260203170258.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Selasa, 03 Februari 2026 pukul 17.03.06 WIB |
+| 223 | <img src="https://cdn.idntimes.com/content-images/post/20260203/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260203164844.jpg" width="170"> | Jemima JKT48 | hai  | Selasa, 03 Februari 2026 pukul 16.49.00 WIB |
+| 222 | <img src="https://cdn.idntimes.com/content-images/post/20260203/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260203164835.jpg" width="170"> | Giaa JKT48 | live mam | Selasa, 03 Februari 2026 pukul 16.48.51 WIB |
 | 221 | <img src="https://cdn.idntimes.com/content-images/post/20260203/7599c984-c466-4962-8c5b-73c1d33d59d9-260203154525.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 03 Februari 2026 pukul 15.45.42 WIB |
 | 220 | <img src="https://cdn.idntimes.com/content-images/post/20260203/50a27780-93e7-4e40-8474-60f6e0cca6da-260203153449.jpg" width="170"> | JKT48 | TEMEN MASAK PLAY IT FIRST! | Selasa, 03 Februari 2026 pukul 15.34.58 WIB |
 | 219 | <img src="https://cdn.idntimes.com/content-images/post/20260203/f9500eb4-9d6d-491d-a857-40ca6f862d61-260203152553.jpg" width="170"> | Auwia JKT48 | Ayo ngobrol bareng! | Selasa, 03 Februari 2026 pukul 15.26.08 WIB |
