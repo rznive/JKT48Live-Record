@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 228 | <img src="https://cdn.idntimes.com/content-images/post/20260203/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260203224141.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 03 Februari 2026 pukul 22.41.49 WIB |
 | 227 | <img src="https://cdn.idntimes.com/content-images/post/20260203/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260203215147.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Selasa, 03 Februari 2026 pukul 21.52.02 WIB |
 | 226 | <img src="https://cdn.idntimes.com/content-images/post/20260203/e2af7271-2598-4ee8-8760-68043e671e6d-260203213255.jpg" width="170"> | Lana JKT48 | Metmal | Selasa, 03 Februari 2026 pukul 21.33.02 WIB |
 | 225 | <img src="https://cdn.idntimes.com/content-images/post/20260203/85f369d7-6525-41c0-94b8-9a56686713eb-260203174157.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Selasa, 03 Februari 2026 pukul 17.42.15 WIB |

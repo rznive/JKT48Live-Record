@@ -418,5 +418,15 @@
     "live_at_unix": 1770130322,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260203/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260203215147.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 228,
+    "username": "jkt48_lyn",
+    "creator_name": "Lyn JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 03 Februari 2026 pukul 22.41.49 WIB",
+    "live_at_unix": 1770133309,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260203/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260203224141.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8"
   }
 ]
