@@ -308,5 +308,55 @@
     "live_at_unix": 1770104217,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260203/f9500eb4-9d6d-491d-a857-40ca6f862d61-260203143642.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
+  },
+  {
+    "id": 217,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "hi bub",
+    "live_at": "Selasa, 03 Februari 2026 pukul 15.21.57 WIB",
+    "live_at_unix": 1770106917,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260203/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260203152149.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 218,
+    "username": "jkt48_virgi",
+    "creator_name": "Virgi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 03 Februari 2026 pukul 15.24.34 WIB",
+    "live_at_unix": 1770107074,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260203/147e83c8-f3ac-4680-9141-2f518b4b7810-260203152423.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8"
+  },
+  {
+    "id": 219,
+    "username": "jkt48_auwia",
+    "creator_name": "Auwia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 03 Februari 2026 pukul 15.26.08 WIB",
+    "live_at_unix": 1770107168,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260203/f9500eb4-9d6d-491d-a857-40ca6f862d61-260203152553.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
+  },
+  {
+    "id": 220,
+    "username": "jkt48-official",
+    "creator_name": "JKT48",
+    "title": "TEMEN MASAK PLAY IT FIRST!",
+    "live_at": "Selasa, 03 Februari 2026 pukul 15.34.58 WIB",
+    "live_at_unix": 1770107698,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260203/50a27780-93e7-4e40-8474-60f6e0cca6da-260203153449.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4idUspKIZskG.m3u8"
+  },
+  {
+    "id": 221,
+    "username": "jkt48_maira",
+    "creator_name": "Maira JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 03 Februari 2026 pukul 15.45.42 WIB",
+    "live_at_unix": 1770108342,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260203/7599c984-c466-4962-8c5b-73c1d33d59d9-260203154525.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
   }
 ]

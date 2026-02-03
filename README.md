@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 221 | <img src="https://cdn.idntimes.com/content-images/post/20260203/7599c984-c466-4962-8c5b-73c1d33d59d9-260203154525.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 03 Februari 2026 pukul 15.45.42 WIB |
+| 220 | <img src="https://cdn.idntimes.com/content-images/post/20260203/50a27780-93e7-4e40-8474-60f6e0cca6da-260203153449.jpg" width="170"> | JKT48 | TEMEN MASAK PLAY IT FIRST! | Selasa, 03 Februari 2026 pukul 15.34.58 WIB |
+| 219 | <img src="https://cdn.idntimes.com/content-images/post/20260203/f9500eb4-9d6d-491d-a857-40ca6f862d61-260203152553.jpg" width="170"> | Auwia JKT48 | Ayo ngobrol bareng! | Selasa, 03 Februari 2026 pukul 15.26.08 WIB |
+| 218 | <img src="https://cdn.idntimes.com/content-images/post/20260203/147e83c8-f3ac-4680-9141-2f518b4b7810-260203152423.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 03 Februari 2026 pukul 15.24.34 WIB |
+| 217 | <img src="https://cdn.idntimes.com/content-images/post/20260203/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260203152149.jpg" width="170"> | Intan JKT48 | hi bub | Selasa, 03 Februari 2026 pukul 15.21.57 WIB |
 | 216 | <img src="https://cdn.idntimes.com/content-images/post/20260203/f9500eb4-9d6d-491d-a857-40ca6f862d61-260203143642.jpg" width="170"> | Auwia JKT48 | Chit chat | Selasa, 03 Februari 2026 pukul 14.36.57 WIB |
 | 215 | <img src="https://cdn.idntimes.com/content-images/post/20260202/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260202213648.jpg" width="170"> | Giaa JKT48 | hiii cintaaa | Senin, 02 Februari 2026 pukul 21.36.55 WIB |
 | 214 | <img src="https://cdn.idntimes.com/content-images/post/20260202/82ffac10-ee56-43d0-ad38-ce432384cfe5-260202213357.jpg" width="170"> | Gita JKT48 | Gits | Senin, 02 Februari 2026 pukul 21.34.12 WIB |
