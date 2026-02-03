@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 216 | <img src="https://cdn.idntimes.com/content-images/post/20260203/f9500eb4-9d6d-491d-a857-40ca6f862d61-260203143642.jpg" width="170"> | Auwia JKT48 | Chit chat | Selasa, 03 Februari 2026 pukul 14.36.57 WIB |
 | 215 | <img src="https://cdn.idntimes.com/content-images/post/20260202/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260202213648.jpg" width="170"> | Giaa JKT48 | hiii cintaaa | Senin, 02 Februari 2026 pukul 21.36.55 WIB |
 | 214 | <img src="https://cdn.idntimes.com/content-images/post/20260202/82ffac10-ee56-43d0-ad38-ce432384cfe5-260202213357.jpg" width="170"> | Gita JKT48 | Gits | Senin, 02 Februari 2026 pukul 21.34.12 WIB |
 | 213 | <img src="https://cdn.idntimes.com/content-images/post/20260202/a557ba58-12d8-4260-bd50-9e5252ac71ef-260202213219.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 02 Februari 2026 pukul 21.32.32 WIB |
