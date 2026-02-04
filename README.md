@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 234 | <img src="https://cdn.idntimes.com/content-images/post/20260204/e243be19-74b7-435b-8e19-13fc669e0224-260204160141.jpg" width="170"> | Nayla JKT48 | Soreee  | Rabu, 04 Februari 2026 pukul 16.01.50 WIB |
 | 233 | <img src="https://cdn.idntimes.com/content-images/post/20260204/e9170998-f026-4186-bbc5-a17a3b5b2af1-260204144949.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Rabu, 04 Februari 2026 pukul 14.49.56 WIB |
 | 232 | <img src="https://cdn.idntimes.com/content-images/post/20260204/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260204135315.jpg" width="170"> | Lily JKT48 | Heheh | Rabu, 04 Februari 2026 pukul 13.53.24 WIB |
 | 231 | <img src="https://cdn.idntimes.com/content-images/post/20260204/a557ba58-12d8-4260-bd50-9e5252ac71ef-260204134809.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 04 Februari 2026 pukul 13.48.21 WIB |
