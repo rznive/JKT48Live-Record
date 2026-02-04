@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 232 | <img src="https://cdn.idntimes.com/content-images/post/20260204/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260204135315.jpg" width="170"> | Lily JKT48 | Heheh | Rabu, 04 Februari 2026 pukul 13.53.24 WIB |
+| 231 | <img src="https://cdn.idntimes.com/content-images/post/20260204/a557ba58-12d8-4260-bd50-9e5252ac71ef-260204134809.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 04 Februari 2026 pukul 13.48.21 WIB |
 | 230 | <img src="https://cdn.idntimes.com/content-images/post/20260204/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260204011049.jpg" width="170"> | Erine JKT48 | Ayo ngobrol bareng! | Rabu, 04 Februari 2026 pukul 01.10.58 WIB |
 | 229 | <img src="https://cdn.idntimes.com/content-images/post/20260203/266ef38a-da00-4d13-ba77-f94da68599ee-260203230514.jpg" width="170"> | Delynn JKT48 | hi | Selasa, 03 Februari 2026 pukul 23.05.21 WIB |
 | 228 | <img src="https://cdn.idntimes.com/content-images/post/20260203/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260203224141.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 03 Februari 2026 pukul 22.41.49 WIB |
