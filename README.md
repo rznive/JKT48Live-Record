@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 249 | <img src="https://cdn.idntimes.com/content-images/post/20260205/15dfee86-a928-4a15-8c90-6aa21097d0ff-260205232412.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 23.24.25 WIB |
+| 248 | <img src="https://cdn.idntimes.com/content-images/post/20260205/33139b05-1c43-4b48-bba3-ec960b18b36e-260205231228.jpg" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 23.12.35 WIB |
 | 247 | <img src="https://cdn.idntimes.com/content-images/post/20260205/b11b0692-d0b8-464c-849a-9e81439a048c-260205223126.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 22.31.33 WIB |
 | 246 | <img src="https://cdn.idntimes.com/content-images/post/20260205/e243be19-74b7-435b-8e19-13fc669e0224-260205222016.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 22.20.25 WIB |
 | 245 | <img src="https://cdn.idntimes.com/content-images/post/20260205/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260205220824.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 22.08.32 WIB |
