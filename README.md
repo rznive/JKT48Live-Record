@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 237 | <img src="https://cdn.idntimes.com/content-images/post/20260205/f9500eb4-9d6d-491d-a857-40ca6f862d61-260205122134.jpg" width="170"> | Auwia JKT48 | Hai bub | Kamis, 05 Februari 2026 pukul 12.21.50 WIB |
 | 236 | <img src="https://cdn.idntimes.com/content-images/post/20260205/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260205113347.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 11.33.59 WIB |
 | 235 | <img src="https://cdn.idntimes.com/content-images/post/20260204/266ef38a-da00-4d13-ba77-f94da68599ee-260204190448.jpg" width="170"> | Delynn JKT48 | Hi | Rabu, 04 Februari 2026 pukul 19.05.06 WIB |
 | 234 | <img src="https://cdn.idntimes.com/content-images/post/20260204/e243be19-74b7-435b-8e19-13fc669e0224-260204160141.jpg" width="170"> | Nayla JKT48 | Soreee  | Rabu, 04 Februari 2026 pukul 16.01.50 WIB |
