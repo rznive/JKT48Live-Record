@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 243 | <img src="https://cdn.idntimes.com/content-images/post/20260205/92d66abb-0171-4a2b-a30d-37ad58359248-260205205510.jpg" width="170"> | Trisha JKT48 | hai | Kamis, 05 Februari 2026 pukul 20.55.20 WIB |
 | 242 | <img src="https://cdn.idntimes.com/content-images/post/20260205/4f795073-38c9-4df7-9388-74b83de69801-260205195800.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 19.58.11 WIB |
 | 241 | <img src="https://cdn.idntimes.com/content-images/post/20260205/a9579a29-9203-40c0-9326-9837b8eae6e8-260205190921.jpg" width="170"> | Jessi JKT48 | ngobrollllll | Kamis, 05 Februari 2026 pukul 19.09.41 WIB |
 | 240 | <img src="https://cdn.idntimes.com/content-images/post/20260205/74e76417-0353-487f-b9b7-7520c0398e87-260205190557.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 19.06.04 WIB |
