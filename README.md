@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 239 | <img src="https://cdn.idntimes.com/content-images/post/20260205/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260205172321.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 17.23.27 WIB |
+| 238 | <img src="https://cdn.idntimes.com/content-images/post/20260205/82ffac10-ee56-43d0-ad38-ce432384cfe5-260205171744.jpg" width="170"> | Gita JKT48 | Gits | Kamis, 05 Februari 2026 pukul 17.17.57 WIB |
 | 237 | <img src="https://cdn.idntimes.com/content-images/post/20260205/f9500eb4-9d6d-491d-a857-40ca6f862d61-260205122134.jpg" width="170"> | Auwia JKT48 | Hai bub | Kamis, 05 Februari 2026 pukul 12.21.50 WIB |
 | 236 | <img src="https://cdn.idntimes.com/content-images/post/20260205/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260205113347.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 11.33.59 WIB |
 | 235 | <img src="https://cdn.idntimes.com/content-images/post/20260204/266ef38a-da00-4d13-ba77-f94da68599ee-260204190448.jpg" width="170"> | Delynn JKT48 | Hi | Rabu, 04 Februari 2026 pukul 19.05.06 WIB |
