@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 245 | <img src="https://cdn.idntimes.com/content-images/post/20260205/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260205220824.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 22.08.32 WIB |
+| 244 | <img src="https://cdn.idntimes.com/content-images/post/20260205/e2af7271-2598-4ee8-8760-68043e671e6d-260205220436.jpg" width="170"> | Lana JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 22.04.43 WIB |
 | 243 | <img src="https://cdn.idntimes.com/content-images/post/20260205/92d66abb-0171-4a2b-a30d-37ad58359248-260205205510.jpg" width="170"> | Trisha JKT48 | hai | Kamis, 05 Februari 2026 pukul 20.55.20 WIB |
 | 242 | <img src="https://cdn.idntimes.com/content-images/post/20260205/4f795073-38c9-4df7-9388-74b83de69801-260205195800.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 19.58.11 WIB |
 | 241 | <img src="https://cdn.idntimes.com/content-images/post/20260205/a9579a29-9203-40c0-9326-9837b8eae6e8-260205190921.jpg" width="170"> | Jessi JKT48 | ngobrollllll | Kamis, 05 Februari 2026 pukul 19.09.41 WIB |
