@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 241 | <img src="https://cdn.idntimes.com/content-images/post/20260205/a9579a29-9203-40c0-9326-9837b8eae6e8-260205190921.jpg" width="170"> | Jessi JKT48 | ngobrollllll | Kamis, 05 Februari 2026 pukul 19.09.41 WIB |
+| 240 | <img src="https://cdn.idntimes.com/content-images/post/20260205/74e76417-0353-487f-b9b7-7520c0398e87-260205190557.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 19.06.04 WIB |
 | 239 | <img src="https://cdn.idntimes.com/content-images/post/20260205/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260205172321.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 17.23.27 WIB |
 | 238 | <img src="https://cdn.idntimes.com/content-images/post/20260205/82ffac10-ee56-43d0-ad38-ce432384cfe5-260205171744.jpg" width="170"> | Gita JKT48 | Gits | Kamis, 05 Februari 2026 pukul 17.17.57 WIB |
 | 237 | <img src="https://cdn.idntimes.com/content-images/post/20260205/f9500eb4-9d6d-491d-a857-40ca6f862d61-260205122134.jpg" width="170"> | Auwia JKT48 | Hai bub | Kamis, 05 Februari 2026 pukul 12.21.50 WIB |
