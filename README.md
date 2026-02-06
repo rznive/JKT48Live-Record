@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 257 | <img src="https://cdn.idntimes.com/content-images/post/20260206/b11b0692-d0b8-464c-849a-9e81439a048c-260206223052.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Jumat, 06 Februari 2026 pukul 22.31.01 WIB |
+| 256 | <img src="https://cdn.idntimes.com/content-images/post/20260206/33139b05-1c43-4b48-bba3-ec960b18b36e-260206223050.jpg" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Jumat, 06 Februari 2026 pukul 22.30.58 WIB |
 | 255 | <img src="https://cdn.idntimes.com/content-images/post/20260206/a2b5d818-475d-44ce-af52-e99526482aaf-260206215215.jpg" width="170"> | Oline JKT48 | Ayo ngobrol bareng! | Jumat, 06 Februari 2026 pukul 21.52.22 WIB |
 | 254 | <img src="https://cdn.idntimes.com/content-images/post/20260206/21a420b0-dd01-4daa-b185-b9020f8bf69d-260206202340.jpg" width="170"> | Nachia JKT48 | mantap bang  | Jumat, 06 Februari 2026 pukul 20.23.52 WIB |
 | 253 | <img src="https://cdn.idntimes.com/content-images/post/20260206/7599c984-c466-4962-8c5b-73c1d33d59d9-260206151053.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Jumat, 06 Februari 2026 pukul 15.11.09 WIB |
