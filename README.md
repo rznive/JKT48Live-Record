@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 252 | <img src="https://cdn.idntimes.com/content-images/post/20260206/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260206145330.jpg" width="170"> | Intan JKT48 | hoi | Jumat, 06 Februari 2026 pukul 14.53.38 WIB |
+| 251 | <img src="https://cdn.idntimes.com/content-images/post/20260206/f9500eb4-9d6d-491d-a857-40ca6f862d61-260206143454.jpg" width="170"> | Auwia JKT48 | Grwmmmmmmmmxz | Jumat, 06 Februari 2026 pukul 14.35.11 WIB |
 | 250 | <img src="https://cdn.idntimes.com/content-images/post/20260205/e0ececb4-71d8-4f32-a221-ef21634a746a-260205233853.jpg" width="170"> | Elin JKT48 | Hai | Kamis, 05 Februari 2026 pukul 23.39.01 WIB |
 | 249 | <img src="https://cdn.idntimes.com/content-images/post/20260205/15dfee86-a928-4a15-8c90-6aa21097d0ff-260205232412.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 23.24.25 WIB |
 | 248 | <img src="https://cdn.idntimes.com/content-images/post/20260205/33139b05-1c43-4b48-bba3-ec960b18b36e-260205231228.jpg" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Kamis, 05 Februari 2026 pukul 23.12.35 WIB |
