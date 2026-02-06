@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 254 | <img src="https://cdn.idntimes.com/content-images/post/20260206/21a420b0-dd01-4daa-b185-b9020f8bf69d-260206202340.jpg" width="170"> | Nachia JKT48 | mantap bang  | Jumat, 06 Februari 2026 pukul 20.23.52 WIB |
 | 253 | <img src="https://cdn.idntimes.com/content-images/post/20260206/7599c984-c466-4962-8c5b-73c1d33d59d9-260206151053.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Jumat, 06 Februari 2026 pukul 15.11.09 WIB |
 | 252 | <img src="https://cdn.idntimes.com/content-images/post/20260206/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260206145330.jpg" width="170"> | Intan JKT48 | hoi | Jumat, 06 Februari 2026 pukul 14.53.38 WIB |
 | 251 | <img src="https://cdn.idntimes.com/content-images/post/20260206/f9500eb4-9d6d-491d-a857-40ca6f862d61-260206143454.jpg" width="170"> | Auwia JKT48 | Grwmmmmmmmmxz | Jumat, 06 Februari 2026 pukul 14.35.11 WIB |
