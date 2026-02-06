@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 255 | <img src="https://cdn.idntimes.com/content-images/post/20260206/a2b5d818-475d-44ce-af52-e99526482aaf-260206215215.jpg" width="170"> | Oline JKT48 | Ayo ngobrol bareng! | Jumat, 06 Februari 2026 pukul 21.52.22 WIB |
 | 254 | <img src="https://cdn.idntimes.com/content-images/post/20260206/21a420b0-dd01-4daa-b185-b9020f8bf69d-260206202340.jpg" width="170"> | Nachia JKT48 | mantap bang  | Jumat, 06 Februari 2026 pukul 20.23.52 WIB |
 | 253 | <img src="https://cdn.idntimes.com/content-images/post/20260206/7599c984-c466-4962-8c5b-73c1d33d59d9-260206151053.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Jumat, 06 Februari 2026 pukul 15.11.09 WIB |
 | 252 | <img src="https://cdn.idntimes.com/content-images/post/20260206/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260206145330.jpg" width="170"> | Intan JKT48 | hoi | Jumat, 06 Februari 2026 pukul 14.53.38 WIB |
