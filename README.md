@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 274 | <img src="https://cdn.idntimes.com/content-images/post/20260207/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260207234600.jpg" width="170"> | Lily JKT48 | Hah | Sabtu, 07 Februari 2026 pukul 23.46.08 WIB |
 | 273 | <img src="https://cdn.idntimes.com/content-images/post/20260207/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-260207222028.jpg" width="170"> | Chelsea JKT48 | Talk | Sabtu, 07 Februari 2026 pukul 22.20.38 WIB |
 | 272 | <img src="https://cdn.idntimes.com/content-images/post/20260207/e8aa0877-684a-4430-8a3b-d96302e53aab-260207220601.jpg" width="170"> | Amanda JKT48 | Ayo ngobrol bareng! | Sabtu, 07 Februari 2026 pukul 22.06.10 WIB |
 | 271 | <img src="https://cdn.idntimes.com/content-images/post/20260207/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260207212053.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Sabtu, 07 Februari 2026 pukul 21.21.08 WIB |
