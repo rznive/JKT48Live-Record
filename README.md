@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 266 | <img src="https://cdn.idntimes.com/content-images/post/20260207/266ef38a-da00-4d13-ba77-f94da68599ee-260207192246.jpg" width="170"> | Delynn JKT48 | haii | Sabtu, 07 Februari 2026 pukul 19.22.55 WIB |
+| 265 | <img src="https://cdn.idntimes.com/content-images/post/20260207/e0ececb4-71d8-4f32-a221-ef21634a746a-260207191608.jpg" width="170"> | Elin JKT48 | Hi | Sabtu, 07 Februari 2026 pukul 19.16.16 WIB |
+| 264 | <img src="https://cdn.idntimes.com/content-images/post/20260207/33139b05-1c43-4b48-bba3-ec960b18b36e-260207191135.jpg" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Sabtu, 07 Februari 2026 pukul 19.11.45 WIB |
+| 263 | <img src="https://cdn.idntimes.com/content-images/post/20260207/b11b0692-d0b8-464c-849a-9e81439a048c-260207190934.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Sabtu, 07 Februari 2026 pukul 19.09.43 WIB |
 | 262 | <img src="https://cdn.idntimes.com/content-images/post/20260207/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260207141537.jpg" width="170"> | Lily JKT48 | Hii | Sabtu, 07 Februari 2026 pukul 14.15.44 WIB |
 | 261 | <img src="https://cdn.idntimes.com/content-images/post/20260206/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260206235514.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Jumat, 06 Februari 2026 pukul 23.55.30 WIB |
 | 260 | <img src="https://cdn.idntimes.com/content-images/post/20260206/15dfee86-a928-4a15-8c90-6aa21097d0ff-260206231436.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 06 Februari 2026 pukul 23.14.44 WIB |
