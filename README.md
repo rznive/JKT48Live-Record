@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 269 | <img src="https://cdn.idntimes.com/content-images/post/20260207/4f795073-38c9-4df7-9388-74b83de69801-260207203746.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 07 Februari 2026 pukul 20.38.02 WIB |
+| 268 | <img src="https://cdn.idntimes.com/content-images/post/20260207/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260207203538.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Sabtu, 07 Februari 2026 pukul 20.35.46 WIB |
 | 267 | <img src="https://cdn.idntimes.com/content-images/post/20260207/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260207201038.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Sabtu, 07 Februari 2026 pukul 20.10.46 WIB |
 | 266 | <img src="https://cdn.idntimes.com/content-images/post/20260207/266ef38a-da00-4d13-ba77-f94da68599ee-260207192246.jpg" width="170"> | Delynn JKT48 | haii | Sabtu, 07 Februari 2026 pukul 19.22.55 WIB |
 | 265 | <img src="https://cdn.idntimes.com/content-images/post/20260207/e0ececb4-71d8-4f32-a221-ef21634a746a-260207191608.jpg" width="170"> | Elin JKT48 | Hi | Sabtu, 07 Februari 2026 pukul 19.16.16 WIB |
