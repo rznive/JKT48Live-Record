@@ -868,5 +868,15 @@
     "live_at_unix": 1770476770,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260207/e8aa0877-684a-4430-8a3b-d96302e53aab-260207220601.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
+  },
+  {
+    "id": 273,
+    "username": "jkt48_chelsea",
+    "creator_name": "Chelsea JKT48",
+    "title": "Talk",
+    "live_at": "Sabtu, 07 Februari 2026 pukul 22.20.38 WIB",
+    "live_at_unix": 1770477638,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260207/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-260207222028.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.o3XoGdLr8Ejd.m3u8"
   }
 ]
