@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 262 | <img src="https://cdn.idntimes.com/content-images/post/20260207/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260207141537.jpg" width="170"> | Lily JKT48 | Hii | Sabtu, 07 Februari 2026 pukul 14.15.44 WIB |
 | 261 | <img src="https://cdn.idntimes.com/content-images/post/20260206/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260206235514.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Jumat, 06 Februari 2026 pukul 23.55.30 WIB |
 | 260 | <img src="https://cdn.idntimes.com/content-images/post/20260206/15dfee86-a928-4a15-8c90-6aa21097d0ff-260206231436.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 06 Februari 2026 pukul 23.14.44 WIB |
 | 259 | <img src="https://cdn.idntimes.com/content-images/post/20260206/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260206231334.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Jumat, 06 Februari 2026 pukul 23.13.41 WIB |
