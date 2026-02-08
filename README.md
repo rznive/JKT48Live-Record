@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 276 | <img src="https://cdn.idntimes.com/content-images/post/20260208/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260208203136.jpg" width="170"> | Erine JKT48 | Ayo ngobrol bareng! | Minggu, 08 Februari 2026 pukul 20.31.46 WIB |
 | 275 | <img src="https://cdn.idntimes.com/content-images/post/20260208/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260208145810.jpg" width="170"> | Lily JKT48 | Happy sunday | Minggu, 08 Februari 2026 pukul 14.58.21 WIB |
 | 274 | <img src="https://cdn.idntimes.com/content-images/post/20260207/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260207234600.jpg" width="170"> | Lily JKT48 | Hah | Sabtu, 07 Februari 2026 pukul 23.46.08 WIB |
 | 273 | <img src="https://cdn.idntimes.com/content-images/post/20260207/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-260207222028.jpg" width="170"> | Chelsea JKT48 | Talk | Sabtu, 07 Februari 2026 pukul 22.20.38 WIB |
