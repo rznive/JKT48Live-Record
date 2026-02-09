@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 280 | <img src="https://cdn.idntimes.com/content-images/post/20260209/e243be19-74b7-435b-8e19-13fc669e0224-260209194624.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Senin, 09 Februari 2026 pukul 19.46.32 WIB |
 | 279 | <img src="https://cdn.idntimes.com/content-images/post/20260209/a9579a29-9203-40c0-9326-9837b8eae6e8-260209183851.jpg" width="170"> | Jessi JKT48 | dubai | Senin, 09 Februari 2026 pukul 18.39.08 WIB |
 | 278 | <img src="https://cdn.idntimes.com/content-images/post/20260208/e243be19-74b7-435b-8e19-13fc669e0224-260208223601.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Minggu, 08 Februari 2026 pukul 22.36.10 WIB |
 | 277 | <img src="https://cdn.idntimes.com/content-images/post/20260208/85f369d7-6525-41c0-94b8-9a56686713eb-260208212509.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 08 Februari 2026 pukul 21.25.17 WIB |
