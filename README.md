@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 286 | <img src="https://cdn.idntimes.com/content-images/post/20260210/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260210072543.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Selasa, 10 Februari 2026 pukul 07.25.48 WIB |
+| 285 | <img src="https://cdn.idntimes.com/content-images/post/20260210/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260210072154.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Selasa, 10 Februari 2026 pukul 07.22.08 WIB |
 | 284 | <img src="https://cdn.idntimes.com/content-images/post/20260209/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260209215308.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Senin, 09 Februari 2026 pukul 21.53.21 WIB |
 | 283 | <img src="https://cdn.idntimes.com/content-images/post/20260209/e8aa0877-684a-4430-8a3b-d96302e53aab-260209213455.jpg" width="170"> | Amanda JKT48 | Ayo ngobrol bareng! | Senin, 09 Februari 2026 pukul 21.35.05 WIB |
 | 282 | <img src="https://cdn.idntimes.com/content-images/post/20260209/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260209211048.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Senin, 09 Februari 2026 pukul 21.10.57 WIB |
