@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 288 | <img src="https://cdn.idntimes.com/content-images/post/20260210/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260210204418.jpg" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Selasa, 10 Februari 2026 pukul 20.44.39 WIB |
 | 287 | <img src="https://cdn.idntimes.com/content-images/post/20260210/50a27780-93e7-4e40-8474-60f6e0cca6da-260210153529.jpg" width="170"> | JKT48 | Temen Masak JKT48 E.P 2! | Selasa, 10 Februari 2026 pukul 15.35.42 WIB |
 | 286 | <img src="https://cdn.idntimes.com/content-images/post/20260210/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260210072543.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Selasa, 10 Februari 2026 pukul 07.25.48 WIB |
 | 285 | <img src="https://cdn.idntimes.com/content-images/post/20260210/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260210072154.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Selasa, 10 Februari 2026 pukul 07.22.08 WIB |
