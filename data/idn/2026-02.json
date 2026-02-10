@@ -1028,5 +1028,15 @@
     "live_at_unix": 1770731079,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260210/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260210204418.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.R4bPsdzRonL3.m3u8"
+  },
+  {
+    "id": 289,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 10 Februari 2026 pukul 21.40.45 WIB",
+    "live_at_unix": 1770734445,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260210/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260210214019.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
   }
 ]
