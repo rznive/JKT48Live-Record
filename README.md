@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 298 | <img src="https://cdn.idntimes.com/content-images/post/20260211/4f795073-38c9-4df7-9388-74b83de69801-260211225815.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 11 Februari 2026 pukul 22.58.27 WIB |
+| 297 | <img src="https://cdn.idntimes.com/content-images/post/20260211/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260211224526.jpg" width="170"> | Erine JKT48 | Ayo ngobrol bareng! | Rabu, 11 Februari 2026 pukul 22.45.34 WIB |
 | 296 | <img src="https://cdn.idntimes.com/content-images/post/20260211/82ffac10-ee56-43d0-ad38-ce432384cfe5-260211220751.jpg" width="170"> | Gita JKT48 | Gits | Rabu, 11 Februari 2026 pukul 22.08.03 WIB |
 | 295 | <img src="https://cdn.idntimes.com/content-images/post/20260211/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260211204011.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Rabu, 11 Februari 2026 pukul 20.40.20 WIB |
 | 294 | <img src="https://cdn.idntimes.com/content-images/post/20260211/728d224e-6ccb-43d2-a029-a0147dc7fdee-260211203657.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Rabu, 11 Februari 2026 pukul 20.37.12 WIB |
