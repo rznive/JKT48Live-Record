@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 295 | <img src="https://cdn.idntimes.com/content-images/post/20260211/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260211204011.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Rabu, 11 Februari 2026 pukul 20.40.20 WIB |
+| 294 | <img src="https://cdn.idntimes.com/content-images/post/20260211/728d224e-6ccb-43d2-a029-a0147dc7fdee-260211203657.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Rabu, 11 Februari 2026 pukul 20.37.12 WIB |
+| 293 | <img src="https://cdn.idntimes.com/content-images/post/20260211/a9579a29-9203-40c0-9326-9837b8eae6e8-260211202554.jpg" width="170"> | Jessi JKT48 | hi | Rabu, 11 Februari 2026 pukul 20.26.07 WIB |
+| 292 | <img src="https://cdn.idntimes.com/content-images/post/20260211/7599c984-c466-4962-8c5b-73c1d33d59d9-260211195753.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Rabu, 11 Februari 2026 pukul 19.58.09 WIB |
 | 291 | <img src="https://cdn.idntimes.com/content-images/post/20260211/f9500eb4-9d6d-491d-a857-40ca6f862d61-260211164925.jpg" width="170"> | Auwia JKT48 | HAII | Rabu, 11 Februari 2026 pukul 16.49.40 WIB |
 | 290 | <img src="https://cdn.idntimes.com/content-images/post/20260211/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260211120233.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Rabu, 11 Februari 2026 pukul 12.02.48 WIB |
 | 289 | <img src="https://cdn.idntimes.com/content-images/post/20260210/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260210214019.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Selasa, 10 Februari 2026 pukul 21.40.45 WIB |
