@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 302 | <img src="https://cdn.idntimes.com/content-images/post/20260212/85482779-8b59-4995-a600-f8a4230c29d8-260212200423.jpg" width="170"> | Fiony JKT48 | Heiii | Kamis, 12 Februari 2026 pukul 20.04.37 WIB |
 | 301 | <img src="https://cdn.idntimes.com/content-images/post/20260212/a557ba58-12d8-4260-bd50-9e5252ac71ef-260212153225.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 12 Februari 2026 pukul 15.32.37 WIB |
 | 300 | <img src="https://cdn.idntimes.com/content-images/post/20260212/e9170998-f026-4186-bbc5-a17a3b5b2af1-260212141545.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Kamis, 12 Februari 2026 pukul 14.15.53 WIB |
 | 299 | <img src="https://cdn.idntimes.com/content-images/post/20260212/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260212133550.jpg" width="170"> | Lily JKT48 | Ceritaly | Kamis, 12 Februari 2026 pukul 13.35.59 WIB |
