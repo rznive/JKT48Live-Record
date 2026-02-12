@@ -1168,5 +1168,25 @@
     "live_at_unix": 1770901477,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260212/85482779-8b59-4995-a600-f8a4230c29d8-260212200423.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oDOImnzzGyk8.m3u8"
+  },
+  {
+    "id": 303,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 12 Februari 2026 pukul 20.25.35 WIB",
+    "live_at_unix": 1770902735,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260212/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260212202520.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 304,
+    "username": "jkt48_daisy",
+    "creator_name": "Daisy JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 12 Februari 2026 pukul 20.37.05 WIB",
+    "live_at_unix": 1770903425,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260212/b11b0692-d0b8-464c-849a-9e81439a048c-260212203653.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
   }
 ]
