@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 299 | <img src="https://cdn.idntimes.com/content-images/post/20260212/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260212133550.jpg" width="170"> | Lily JKT48 | Ceritaly | Kamis, 12 Februari 2026 pukul 13.35.59 WIB |
 | 298 | <img src="https://cdn.idntimes.com/content-images/post/20260211/4f795073-38c9-4df7-9388-74b83de69801-260211225815.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 11 Februari 2026 pukul 22.58.27 WIB |
 | 297 | <img src="https://cdn.idntimes.com/content-images/post/20260211/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260211224526.jpg" width="170"> | Erine JKT48 | Ayo ngobrol bareng! | Rabu, 11 Februari 2026 pukul 22.45.34 WIB |
 | 296 | <img src="https://cdn.idntimes.com/content-images/post/20260211/82ffac10-ee56-43d0-ad38-ce432384cfe5-260211220751.jpg" width="170"> | Gita JKT48 | Gits | Rabu, 11 Februari 2026 pukul 22.08.03 WIB |
