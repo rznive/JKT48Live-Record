@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 311 | <img src="https://cdn.idntimes.com/content-images/post/20260213/717109e0-a064-4f15-8187-5c4d46e56a58-260213213402.jpg" width="170"> | Fritzy JKT48 | Ayo ngobrol bareng! | Jumat, 13 Februari 2026 pukul 21.34.19 WIB |
 | 310 | <img src="https://cdn.idntimes.com/content-images/post/20260213/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260213211001.jpg" width="170"> | Lily JKT48 | Hii | Jumat, 13 Februari 2026 pukul 21.10.30 WIB |
 | 309 | <img src="https://cdn.idntimes.com/content-images/post/20260213/a5c72141-65a3-47be-86ef-1dc1feaab10d-260213204544.jpg" width="170"> | Anindya JKT48 | Ayo ngobrol bareng! | Jumat, 13 Februari 2026 pukul 20.45.53 WIB |
 | 308 | <img src="https://cdn.idntimes.com/content-images/post/20260213/15dfee86-a928-4a15-8c90-6aa21097d0ff-260213203219.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 13 Februari 2026 pukul 20.32.28 WIB |
