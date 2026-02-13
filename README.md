@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 307 | <img src="https://cdn.idntimes.com/content-images/post/20260213/a9579a29-9203-40c0-9326-9837b8eae6e8-260213190252.jpg" width="170"> | Jessi JKT48 | hi | Jumat, 13 Februari 2026 pukul 19.03.18 WIB |
 | 306 | <img src="https://cdn.idntimes.com/content-images/post/20260213/82ffac10-ee56-43d0-ad38-ce432384cfe5-260213173316.jpg" width="170"> | Gita JKT48 | Gits | Jumat, 13 Februari 2026 pukul 17.33.29 WIB |
 | 305 | <img src="https://cdn.idntimes.com/content-images/post/20260213/f740e9da-772f-4ae2-8ddd-49f717aacf63-260213123616.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Jumat, 13 Februari 2026 pukul 12.36.30 WIB |
 | 304 | <img src="https://cdn.idntimes.com/content-images/post/20260212/b11b0692-d0b8-464c-849a-9e81439a048c-260212203653.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Kamis, 12 Februari 2026 pukul 20.37.05 WIB |
