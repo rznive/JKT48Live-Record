@@ -1258,5 +1258,15 @@
     "live_at_unix": 1770993259,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260213/717109e0-a064-4f15-8187-5c4d46e56a58-260213213402.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
+  },
+  {
+    "id": 312,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Temenin makan pwies🙏",
+    "live_at": "Jumat, 13 Februari 2026 pukul 22.54.19 WIB",
+    "live_at_unix": 1770998059,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260213/e2af7271-2598-4ee8-8760-68043e671e6d-260213225411.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
   }
 ]
