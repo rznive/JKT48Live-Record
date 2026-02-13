@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 309 | <img src="https://cdn.idntimes.com/content-images/post/20260213/a5c72141-65a3-47be-86ef-1dc1feaab10d-260213204544.jpg" width="170"> | Anindya JKT48 | Ayo ngobrol bareng! | Jumat, 13 Februari 2026 pukul 20.45.53 WIB |
+| 308 | <img src="https://cdn.idntimes.com/content-images/post/20260213/15dfee86-a928-4a15-8c90-6aa21097d0ff-260213203219.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 13 Februari 2026 pukul 20.32.28 WIB |
 | 307 | <img src="https://cdn.idntimes.com/content-images/post/20260213/a9579a29-9203-40c0-9326-9837b8eae6e8-260213190252.jpg" width="170"> | Jessi JKT48 | hi | Jumat, 13 Februari 2026 pukul 19.03.18 WIB |
 | 306 | <img src="https://cdn.idntimes.com/content-images/post/20260213/82ffac10-ee56-43d0-ad38-ce432384cfe5-260213173316.jpg" width="170"> | Gita JKT48 | Gits | Jumat, 13 Februari 2026 pukul 17.33.29 WIB |
 | 305 | <img src="https://cdn.idntimes.com/content-images/post/20260213/f740e9da-772f-4ae2-8ddd-49f717aacf63-260213123616.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Jumat, 13 Februari 2026 pukul 12.36.30 WIB |
