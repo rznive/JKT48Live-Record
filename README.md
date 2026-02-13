@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 315 | <img src="https://cdn.idntimes.com/content-images/post/20260214/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260214014611.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Februari 2026 pukul 01.46.19 WIB |
 | 314 | <img src="https://cdn.idntimes.com/content-images/post/20260213/e8aa0877-684a-4430-8a3b-d96302e53aab-260213235322.jpg" width="170"> | Amanda JKT48 | Lipe random di mobil | Jumat, 13 Februari 2026 pukul 23.53.32 WIB |
 | 313 | <img src="https://cdn.idntimes.com/content-images/post/20260213/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260213231733.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Jumat, 13 Februari 2026 pukul 23.17.41 WIB |
 | 312 | <img src="https://cdn.idntimes.com/content-images/post/20260213/e2af7271-2598-4ee8-8760-68043e671e6d-260213225411.jpg" width="170"> | Lana JKT48 | Temenin makan pwies🙏 | Jumat, 13 Februari 2026 pukul 22.54.19 WIB |
