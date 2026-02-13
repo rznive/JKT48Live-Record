@@ -1278,5 +1278,15 @@
     "live_at_unix": 1770999461,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260213/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260213231733.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.nCPKiODqPEOs.m3u8"
+  },
+  {
+    "id": 314,
+    "username": "jkt48_amanda",
+    "creator_name": "Amanda JKT48",
+    "title": "Lipe random di mobil",
+    "live_at": "Jumat, 13 Februari 2026 pukul 23.53.32 WIB",
+    "live_at_unix": 1771001612,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260213/e8aa0877-684a-4430-8a3b-d96302e53aab-260213235322.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
   }
 ]
