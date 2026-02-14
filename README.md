@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 317 | <img src="https://cdn.idntimes.com/content-images/post/20260214/b0d1e6c3-d356-4b00-8d00-846e5297693b-260214205905.jpg" width="170"> | Ella JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Februari 2026 pukul 20.59.11 WIB |
 | 316 | <img src="https://cdn.idntimes.com/content-images/post/20260214/e0ececb4-71d8-4f32-a221-ef21634a746a-260214134434.jpg" width="170"> | Elin JKT48 | Hai | Sabtu, 14 Februari 2026 pukul 13.44.41 WIB |
 | 315 | <img src="https://cdn.idntimes.com/content-images/post/20260214/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260214014611.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Februari 2026 pukul 01.46.19 WIB |
 | 314 | <img src="https://cdn.idntimes.com/content-images/post/20260213/e8aa0877-684a-4430-8a3b-d96302e53aab-260213235322.jpg" width="170"> | Amanda JKT48 | Lipe random di mobil | Jumat, 13 Februari 2026 pukul 23.53.32 WIB |
