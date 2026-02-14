@@ -1318,5 +1318,45 @@
     "live_at_unix": 1771077551,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260214/b0d1e6c3-d356-4b00-8d00-846e5297693b-260214205905.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BDGTjOuDMTDH.m3u8"
+  },
+  {
+    "id": 318,
+    "username": "jkt48_jemima",
+    "creator_name": "Jemima JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 14 Februari 2026 pukul 21.17.09 WIB",
+    "live_at_unix": 1771078629,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260214/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260214211653.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 319,
+    "username": "jkt48_virgi",
+    "creator_name": "Virgi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 14 Februari 2026 pukul 21.21.28 WIB",
+    "live_at_unix": 1771078888,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260214/147e83c8-f3ac-4680-9141-2f518b4b7810-260214212116.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8"
+  },
+  {
+    "id": 320,
+    "username": "jkt48_giaa",
+    "creator_name": "Giaa JKT48",
+    "title": "malammmmsss",
+    "live_at": "Sabtu, 14 Februari 2026 pukul 21.30.52 WIB",
+    "live_at_unix": 1771079452,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260214/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260214213043.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
+  },
+  {
+    "id": 321,
+    "username": "jkt48_ella",
+    "creator_name": "Ella JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 14 Februari 2026 pukul 21.32.48 WIB",
+    "live_at_unix": 1771079568,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260214/b0d1e6c3-d356-4b00-8d00-846e5297693b-260214213237.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BDGTjOuDMTDH.m3u8"
   }
 ]

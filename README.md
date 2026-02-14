@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 321 | <img src="https://cdn.idntimes.com/content-images/post/20260214/b0d1e6c3-d356-4b00-8d00-846e5297693b-260214213237.jpg" width="170"> | Ella JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Februari 2026 pukul 21.32.48 WIB |
+| 320 | <img src="https://cdn.idntimes.com/content-images/post/20260214/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260214213043.jpg" width="170"> | Giaa JKT48 | malammmmsss | Sabtu, 14 Februari 2026 pukul 21.30.52 WIB |
+| 319 | <img src="https://cdn.idntimes.com/content-images/post/20260214/147e83c8-f3ac-4680-9141-2f518b4b7810-260214212116.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Februari 2026 pukul 21.21.28 WIB |
+| 318 | <img src="https://cdn.idntimes.com/content-images/post/20260214/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260214211653.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Februari 2026 pukul 21.17.09 WIB |
 | 317 | <img src="https://cdn.idntimes.com/content-images/post/20260214/b0d1e6c3-d356-4b00-8d00-846e5297693b-260214205905.jpg" width="170"> | Ella JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Februari 2026 pukul 20.59.11 WIB |
 | 316 | <img src="https://cdn.idntimes.com/content-images/post/20260214/e0ececb4-71d8-4f32-a221-ef21634a746a-260214134434.jpg" width="170"> | Elin JKT48 | Hai | Sabtu, 14 Februari 2026 pukul 13.44.41 WIB |
 | 315 | <img src="https://cdn.idntimes.com/content-images/post/20260214/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260214014611.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Februari 2026 pukul 01.46.19 WIB |
