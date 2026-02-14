@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 322 | <img src="https://cdn.idntimes.com/content-images/post/20260214/85f369d7-6525-41c0-94b8-9a56686713eb-260214213351.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Februari 2026 pukul 21.34.00 WIB |
 | 321 | <img src="https://cdn.idntimes.com/content-images/post/20260214/b0d1e6c3-d356-4b00-8d00-846e5297693b-260214213237.jpg" width="170"> | Ella JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Februari 2026 pukul 21.32.48 WIB |
 | 320 | <img src="https://cdn.idntimes.com/content-images/post/20260214/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260214213043.jpg" width="170"> | Giaa JKT48 | malammmmsss | Sabtu, 14 Februari 2026 pukul 21.30.52 WIB |
 | 319 | <img src="https://cdn.idntimes.com/content-images/post/20260214/147e83c8-f3ac-4680-9141-2f518b4b7810-260214212116.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Februari 2026 pukul 21.21.28 WIB |
