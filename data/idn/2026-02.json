@@ -1538,5 +1538,15 @@
     "live_at_unix": 1771166943,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260215/a557ba58-12d8-4260-bd50-9e5252ac71ef-260215214850.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
+  },
+  {
+    "id": 340,
+    "username": "jkt48_jemima",
+    "creator_name": "Jemima JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 15 Februari 2026 pukul 21.51.18 WIB",
+    "live_at_unix": 1771167078,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260215/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260215215104.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
   }
 ]
