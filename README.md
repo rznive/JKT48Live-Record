@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 329 | <img src="https://cdn.idntimes.com/content-images/post/20260215/7599c984-c466-4962-8c5b-73c1d33d59d9-260215122905.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Minggu, 15 Februari 2026 pukul 12.29.21 WIB |
 | 328 | <img src="https://cdn.idntimes.com/content-images/post/20260214/266ef38a-da00-4d13-ba77-f94da68599ee-260214230552.jpg" width="170"> | Delynn JKT48 | hi | Sabtu, 14 Februari 2026 pukul 23.06.00 WIB |
 | 327 | <img src="https://cdn.idntimes.com/content-images/post/20260214/15dfee86-a928-4a15-8c90-6aa21097d0ff-260214230011.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Februari 2026 pukul 23.00.25 WIB |
 | 326 | <img src="https://cdn.idntimes.com/content-images/post/20260214/a557ba58-12d8-4260-bd50-9e5252ac71ef-260214222703.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Februari 2026 pukul 22.27.16 WIB |
