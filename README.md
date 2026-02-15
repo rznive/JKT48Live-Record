@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 339 | <img src="https://cdn.idntimes.com/content-images/post/20260215/a557ba58-12d8-4260-bd50-9e5252ac71ef-260215214850.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 15 Februari 2026 pukul 21.49.03 WIB |
+| 338 | <img src="https://cdn.idntimes.com/content-images/post/20260215/85f369d7-6525-41c0-94b8-9a56686713eb-260215213709.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 15 Februari 2026 pukul 21.37.22 WIB |
 | 337 | <img src="https://cdn.idntimes.com/content-images/post/20260215/e9170998-f026-4186-bbc5-a17a3b5b2af1-260215205854.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Minggu, 15 Februari 2026 pukul 20.59.02 WIB |
 | 336 | <img src="https://cdn.idntimes.com/content-images/post/20260215/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260215203114.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Minggu, 15 Februari 2026 pukul 20.31.27 WIB |
 | 335 | <img src="https://cdn.idntimes.com/content-images/post/20260215/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260215183335.jpg" width="170"> | Giaa JKT48 | Ayo ngobrol bareng! | Minggu, 15 Februari 2026 pukul 18.33.42 WIB |
