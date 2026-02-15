@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 335 | <img src="https://cdn.idntimes.com/content-images/post/20260215/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260215183335.jpg" width="170"> | Giaa JKT48 | Ayo ngobrol bareng! | Minggu, 15 Februari 2026 pukul 18.33.42 WIB |
 | 334 | <img src="https://cdn.idntimes.com/content-images/post/20260215/f9500eb4-9d6d-491d-a857-40ca6f862d61-260215181006.jpg" width="170"> | Auwia JKT48 | Ngobrol  | Minggu, 15 Februari 2026 pukul 18.10.21 WIB |
 | 333 | <img src="https://cdn.idntimes.com/content-images/post/20260215/33139b05-1c43-4b48-bba3-ec960b18b36e-260215175606.jpg" width="170"> | Danella JKT48 | hui | Minggu, 15 Februari 2026 pukul 17.56.14 WIB |
 | 332 | <img src="https://cdn.idntimes.com/content-images/post/20260215/b11b0692-d0b8-464c-849a-9e81439a048c-260215175329.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Minggu, 15 Februari 2026 pukul 17.53.36 WIB |
