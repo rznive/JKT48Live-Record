@@ -1638,5 +1638,25 @@
     "live_at_unix": 1771229375,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260216/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260216150926.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 350,
+    "username": "jkt48_rilly",
+    "creator_name": "Rilly JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 16 Februari 2026 pukul 17.24.22 WIB",
+    "live_at_unix": 1771237462,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260216/e9170998-f026-4186-bbc5-a17a3b5b2af1-260216172414.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 351,
+    "username": "jkt48_auwia",
+    "creator_name": "Auwia JKT48",
+    "title": "Grwm",
+    "live_at": "Senin, 16 Februari 2026 pukul 17.38.36 WIB",
+    "live_at_unix": 1771238316,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260216/f9500eb4-9d6d-491d-a857-40ca6f862d61-260216173820.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
   }
 ]

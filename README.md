@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 351 | <img src="https://cdn.idntimes.com/content-images/post/20260216/f9500eb4-9d6d-491d-a857-40ca6f862d61-260216173820.jpg" width="170"> | Auwia JKT48 | Grwm | Senin, 16 Februari 2026 pukul 17.38.36 WIB |
+| 350 | <img src="https://cdn.idntimes.com/content-images/post/20260216/e9170998-f026-4186-bbc5-a17a3b5b2af1-260216172414.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 17.24.22 WIB |
 | 349 | <img src="https://cdn.idntimes.com/content-images/post/20260216/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260216150926.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 15.09.35 WIB |
 | 348 | <img src="https://cdn.idntimes.com/content-images/post/20260216/7599c984-c466-4962-8c5b-73c1d33d59d9-260216145514.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 14.55.29 WIB |
 | 347 | <img src="https://cdn.idntimes.com/content-images/post/20260216/147e83c8-f3ac-4680-9141-2f518b4b7810-260216145448.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 14.55.06 WIB |
