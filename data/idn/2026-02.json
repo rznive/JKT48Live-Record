@@ -1688,5 +1688,15 @@
     "live_at_unix": 1771247530,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260216/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260216201151.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
+  },
+  {
+    "id": 355,
+    "username": "jkt48_nayla",
+    "creator_name": "Nayla JKT48",
+    "title": "こんばんは！",
+    "live_at": "Senin, 16 Februari 2026 pukul 21.11.59 WIB",
+    "live_at_unix": 1771251119,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260216/e243be19-74b7-435b-8e19-13fc669e0224-260216211151.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.s29ur0XkIpE2.m3u8"
   }
 ]
