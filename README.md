@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 349 | <img src="https://cdn.idntimes.com/content-images/post/20260216/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260216150926.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 15.09.35 WIB |
+| 348 | <img src="https://cdn.idntimes.com/content-images/post/20260216/7599c984-c466-4962-8c5b-73c1d33d59d9-260216145514.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 14.55.29 WIB |
+| 347 | <img src="https://cdn.idntimes.com/content-images/post/20260216/147e83c8-f3ac-4680-9141-2f518b4b7810-260216145448.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 14.55.06 WIB |
+| 346 | <img src="https://cdn.idntimes.com/content-images/post/20260216/a557ba58-12d8-4260-bd50-9e5252ac71ef-260216144710.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 14.47.23 WIB |
 | 345 | <img src="https://cdn.idntimes.com/content-images/post/20260216/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260216133144.jpg" width="170"> | Lily JKT48 | Grwm | Senin, 16 Februari 2026 pukul 13.31.52 WIB |
 | 344 | <img src="https://cdn.idntimes.com/content-images/post/20260216/f740e9da-772f-4ae2-8ddd-49f717aacf63-260216003725.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 00.37.36 WIB |
 | 343 | <img src="https://cdn.idntimes.com/content-images/post/20260215/a5c72141-65a3-47be-86ef-1dc1feaab10d-260215231554.jpg" width="170"> | Anindya JKT48 | Ayo ngobrol bareng! | Minggu, 15 Februari 2026 pukul 23.16.16 WIB |
