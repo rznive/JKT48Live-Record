@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 354 | <img src="https://cdn.idntimes.com/content-images/post/20260216/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260216201151.jpg" width="170"> | Kathrina JKT48 | greeemell | Senin, 16 Februari 2026 pukul 20.12.10 WIB |
+| 353 | <img src="https://cdn.idntimes.com/content-images/post/20260216/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260216193705.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 19.37.17 WIB |
+| 352 | <img src="https://cdn.idntimes.com/content-images/post/20260216/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260216193635.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 19.36.42 WIB |
 | 351 | <img src="https://cdn.idntimes.com/content-images/post/20260216/f9500eb4-9d6d-491d-a857-40ca6f862d61-260216173820.jpg" width="170"> | Auwia JKT48 | Grwm | Senin, 16 Februari 2026 pukul 17.38.36 WIB |
 | 350 | <img src="https://cdn.idntimes.com/content-images/post/20260216/e9170998-f026-4186-bbc5-a17a3b5b2af1-260216172414.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 17.24.22 WIB |
 | 349 | <img src="https://cdn.idntimes.com/content-images/post/20260216/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260216150926.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 15.09.35 WIB |
