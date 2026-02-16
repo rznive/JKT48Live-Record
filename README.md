@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 357 | <img src="https://cdn.idntimes.com/content-images/post/20260216/33139b05-1c43-4b48-bba3-ec960b18b36e-260216225258.jpg" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 22.53.08 WIB |
+| 356 | <img src="https://cdn.idntimes.com/content-images/post/20260216/f001ba66-3c51-4849-9afa-13cf74eb1571-260216224710.jpg" width="170"> | Aralie JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 22.47.22 WIB |
 | 355 | <img src="https://cdn.idntimes.com/content-images/post/20260216/e243be19-74b7-435b-8e19-13fc669e0224-260216211151.jpg" width="170"> | Nayla JKT48 | こんばんは！ | Senin, 16 Februari 2026 pukul 21.11.59 WIB |
 | 354 | <img src="https://cdn.idntimes.com/content-images/post/20260216/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260216201151.jpg" width="170"> | Kathrina JKT48 | greeemell | Senin, 16 Februari 2026 pukul 20.12.10 WIB |
 | 353 | <img src="https://cdn.idntimes.com/content-images/post/20260216/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260216193705.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 19.37.17 WIB |
