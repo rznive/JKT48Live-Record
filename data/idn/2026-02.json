@@ -1588,5 +1588,15 @@
     "live_at_unix": 1771177056,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260216/f740e9da-772f-4ae2-8ddd-49f717aacf63-260216003725.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Q0uEvM6Dl951.m3u8"
+  },
+  {
+    "id": 345,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Grwm",
+    "live_at": "Senin, 16 Februari 2026 pukul 13.31.52 WIB",
+    "live_at_unix": 1771223512,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260216/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260216133144.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
   }
 ]
