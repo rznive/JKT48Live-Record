@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 365 | <img src="https://cdn.idntimes.com/content-images/post/20260217/147e83c8-f3ac-4680-9141-2f518b4b7810-260217212825.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 17 Februari 2026 pukul 21.28.38 WIB |
+| 364 | <img src="https://cdn.idntimes.com/content-images/post/20260217/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260217210009.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Selasa, 17 Februari 2026 pukul 21.00.34 WIB |
 | 363 | <img src="https://cdn.idntimes.com/content-images/post/20260217/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260217201207.jpg" width="170"> | Intan JKT48 | hi | Selasa, 17 Februari 2026 pukul 20.12.15 WIB |
 | 362 | <img src="https://cdn.idntimes.com/content-images/post/20260217/f9500eb4-9d6d-491d-a857-40ca6f862d61-260217185154.jpg" width="170"> | Auwia JKT48 | Ummm hi  | Selasa, 17 Februari 2026 pukul 18.52.10 WIB |
 | 361 | <img src="https://cdn.idntimes.com/content-images/post/20260217/147e83c8-f3ac-4680-9141-2f518b4b7810-260217161537.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 17 Februari 2026 pukul 16.15.49 WIB |
