@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 369 | <img src="https://cdn.idntimes.com/content-images/post/20260217/e8aa0877-684a-4430-8a3b-d96302e53aab-260217230650.jpg" width="170"> | Amanda JKT48 | Live ke 2 | Selasa, 17 Februari 2026 pukul 23.06.59 WIB |
+| 368 | <img src="https://cdn.idntimes.com/content-images/post/20260217/15dfee86-a928-4a15-8c90-6aa21097d0ff-260217223611.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Selasa, 17 Februari 2026 pukul 22.36.31 WIB |
 | 367 | <img src="https://cdn.idntimes.com/content-images/post/20260217/e2af7271-2598-4ee8-8760-68043e671e6d-260217221958.jpg" width="170"> | Lana JKT48 | Hi | Selasa, 17 Februari 2026 pukul 22.20.06 WIB |
 | 366 | <img src="https://cdn.idntimes.com/content-images/post/20260217/85f369d7-6525-41c0-94b8-9a56686713eb-260217220218.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Selasa, 17 Februari 2026 pukul 22.02.27 WIB |
 | 365 | <img src="https://cdn.idntimes.com/content-images/post/20260217/147e83c8-f3ac-4680-9141-2f518b4b7810-260217212825.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 17 Februari 2026 pukul 21.28.38 WIB |

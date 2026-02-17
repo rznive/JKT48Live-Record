@@ -1818,5 +1818,25 @@
     "live_at_unix": 1771341606,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260217/e2af7271-2598-4ee8-8760-68043e671e6d-260217221958.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 368,
+    "username": "jkt48_lia",
+    "creator_name": "Lia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 17 Februari 2026 pukul 22.36.31 WIB",
+    "live_at_unix": 1771342591,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260217/15dfee86-a928-4a15-8c90-6aa21097d0ff-260217223611.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 369,
+    "username": "jkt48_amanda",
+    "creator_name": "Amanda JKT48",
+    "title": "Live ke 2",
+    "live_at": "Selasa, 17 Februari 2026 pukul 23.06.59 WIB",
+    "live_at_unix": 1771344419,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260217/e8aa0877-684a-4430-8a3b-d96302e53aab-260217230650.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
   }
 ]
