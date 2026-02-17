@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 362 | <img src="https://cdn.idntimes.com/content-images/post/20260217/f9500eb4-9d6d-491d-a857-40ca6f862d61-260217185154.jpg" width="170"> | Auwia JKT48 | Ummm hi  | Selasa, 17 Februari 2026 pukul 18.52.10 WIB |
 | 361 | <img src="https://cdn.idntimes.com/content-images/post/20260217/147e83c8-f3ac-4680-9141-2f518b4b7810-260217161537.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 17 Februari 2026 pukul 16.15.49 WIB |
 | 360 | <img src="https://cdn.idntimes.com/content-images/post/20260217/f740e9da-772f-4ae2-8ddd-49f717aacf63-260217142032.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Selasa, 17 Februari 2026 pukul 14.20.42 WIB |
 | 359 | <img src="https://cdn.idntimes.com/content-images/post/20260216/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260216235332.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Senin, 16 Februari 2026 pukul 23.53.48 WIB |
