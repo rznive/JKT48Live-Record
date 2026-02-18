@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 389 | <img src="https://cdn.idntimes.com/content-images/post/20260219/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260219024657.jpg" width="170"> | Intan JKT48 | hiii | Kamis, 19 Februari 2026 pukul 02.47.11 WIB |
+| 388 | <img src="https://cdn.idntimes.com/content-images/post/20260219/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260219024148.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 02.42.03 WIB |
+| 387 | <img src="https://cdn.idntimes.com/content-images/post/20260219/74e76417-0353-487f-b9b7-7520c0398e87-260219023039.jpg" width="170"> | Alya JKT48 | #AlsahurYa | Kamis, 19 Februari 2026 pukul 02.30.47 WIB |
 | 386 | <img src="https://cdn.idntimes.com/content-images/post/20260218/85482779-8b59-4995-a600-f8a4230c29d8-260218223558.jpg" width="170"> | Fiony JKT48 | Hi | Rabu, 18 Februari 2026 pukul 22.36.17 WIB |
 | 385 | <img src="https://cdn.idntimes.com/content-images/post/20260218/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260218223550.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Rabu, 18 Februari 2026 pukul 22.35.58 WIB |
 | 384 | <img src="https://cdn.idntimes.com/content-images/post/20260218/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260218172134.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Rabu, 18 Februari 2026 pukul 17.21.42 WIB |
