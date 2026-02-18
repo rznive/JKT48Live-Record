@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 398 | <img src="https://cdn.idntimes.com/content-images/post/20260219/b0d1e6c3-d356-4b00-8d00-846e5297693b-260219035039.jpg" width="170"> | Ella JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 03.50.49 WIB |
+| 397 | <img src="https://cdn.idntimes.com/content-images/post/20260219/4f795073-38c9-4df7-9388-74b83de69801-260219034641.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 03.46.55 WIB |
+| 396 | <img src="https://cdn.idntimes.com/content-images/post/20260219/717109e0-a064-4f15-8187-5c4d46e56a58-260219034429.jpg" width="170"> | Fritzy JKT48 | #Zyahur day 1 | Kamis, 19 Februari 2026 pukul 03.44.44 WIB |
+| 395 | <img src="https://cdn.idntimes.com/content-images/post/20260219/92d66abb-0171-4a2b-a30d-37ad58359248-260219034353.jpg" width="170"> | Trisha JKT48 | hai | Kamis, 19 Februari 2026 pukul 03.44.05 WIB |
+| 394 | <img src="https://cdn.idntimes.com/content-images/post/20260219/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260219033755.jpg" width="170"> | Giaa JKT48 | halo | Kamis, 19 Februari 2026 pukul 03.38.03 WIB |
+| 393 | <img src="https://cdn.idntimes.com/content-images/post/20260219/e8aa0877-684a-4430-8a3b-d96302e53aab-260219032409.jpg" width="170"> | Amanda JKT48 | #TTS 1 | Kamis, 19 Februari 2026 pukul 03.24.18 WIB |
 | 392 | <img src="https://cdn.idntimes.com/content-images/post/20260219/e243be19-74b7-435b-8e19-13fc669e0224-260219031354.jpg" width="170"> | Nayla JKT48 | Sahur yuk | Kamis, 19 Februari 2026 pukul 03.14.04 WIB |
 | 391 | <img src="https://cdn.idntimes.com/content-images/post/20260219/a5c72141-65a3-47be-86ef-1dc1feaab10d-260219030932.jpg" width="170"> | Anindya JKT48 | #SABARIN DAY 1 | Kamis, 19 Februari 2026 pukul 03.09.42 WIB |
 | 390 | <img src="https://cdn.idntimes.com/content-images/post/20260219/e2af7271-2598-4ee8-8760-68043e671e6d-260219030548.jpg" width="170"> | Lana JKT48 | SAHURR | Kamis, 19 Februari 2026 pukul 03.05.58 WIB |
