@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 378 | <img src="https://cdn.idntimes.com/content-images/post/20260218/50a27780-93e7-4e40-8474-60f6e0cca6da-260218155351.jpg" width="170"> | JKT48 | Temen Masak EP.3 JKT48! | Rabu, 18 Februari 2026 pukul 15.54.00 WIB |
 | 377 | <img src="https://cdn.idntimes.com/content-images/post/20260218/147e83c8-f3ac-4680-9141-2f518b4b7810-260218143110.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Rabu, 18 Februari 2026 pukul 14.31.24 WIB |
 | 376 | <img src="https://cdn.idntimes.com/content-images/post/20260218/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260218143052.jpg" width="170"> | Intan JKT48 | woy | Rabu, 18 Februari 2026 pukul 14.31.03 WIB |
 | 375 | <img src="https://cdn.idntimes.com/content-images/post/20260218/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260218140033.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 18 Februari 2026 pukul 14.00.50 WIB |
