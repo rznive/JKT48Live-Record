@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 386 | <img src="https://cdn.idntimes.com/content-images/post/20260218/85482779-8b59-4995-a600-f8a4230c29d8-260218223558.jpg" width="170"> | Fiony JKT48 | Hi | Rabu, 18 Februari 2026 pukul 22.36.17 WIB |
+| 385 | <img src="https://cdn.idntimes.com/content-images/post/20260218/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260218223550.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Rabu, 18 Februari 2026 pukul 22.35.58 WIB |
 | 384 | <img src="https://cdn.idntimes.com/content-images/post/20260218/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260218172134.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Rabu, 18 Februari 2026 pukul 17.21.42 WIB |
 | 383 | <img src="https://cdn.idntimes.com/content-images/post/20260218/266ef38a-da00-4d13-ba77-f94da68599ee-260218171213.jpg" width="170"> | Delynn JKT48 | Hi | Rabu, 18 Februari 2026 pukul 17.12.31 WIB |
 | 382 | <img src="https://cdn.idntimes.com/content-images/post/20260218/21a420b0-dd01-4daa-b185-b9020f8bf69d-260218170310.jpg" width="170"> | Nachia JKT48 | yaaa | Rabu, 18 Februari 2026 pukul 17.03.34 WIB |
