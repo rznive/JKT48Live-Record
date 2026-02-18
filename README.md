@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 382 | <img src="https://cdn.idntimes.com/content-images/post/20260218/21a420b0-dd01-4daa-b185-b9020f8bf69d-260218170310.jpg" width="170"> | Nachia JKT48 | yaaa | Rabu, 18 Februari 2026 pukul 17.03.34 WIB |
+| 381 | <img src="https://cdn.idntimes.com/content-images/post/20260218/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260218170154.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Rabu, 18 Februari 2026 pukul 17.02.09 WIB |
+| 380 | <img src="https://cdn.idntimes.com/content-images/post/20260218/f001ba66-3c51-4849-9afa-13cf74eb1571-260218170026.jpg" width="170"> | Aralie JKT48 | Ayo ngobrol bareng! | Rabu, 18 Februari 2026 pukul 17.00.37 WIB |
+| 379 | <img src="https://cdn.idntimes.com/content-images/post/20260218/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260218165309.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Rabu, 18 Februari 2026 pukul 16.53.16 WIB |
 | 378 | <img src="https://cdn.idntimes.com/content-images/post/20260218/50a27780-93e7-4e40-8474-60f6e0cca6da-260218155351.jpg" width="170"> | JKT48 | Temen Masak EP.3 JKT48! | Rabu, 18 Februari 2026 pukul 15.54.00 WIB |
 | 377 | <img src="https://cdn.idntimes.com/content-images/post/20260218/147e83c8-f3ac-4680-9141-2f518b4b7810-260218143110.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Rabu, 18 Februari 2026 pukul 14.31.24 WIB |
 | 376 | <img src="https://cdn.idntimes.com/content-images/post/20260218/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260218143052.jpg" width="170"> | Intan JKT48 | woy | Rabu, 18 Februari 2026 pukul 14.31.03 WIB |
