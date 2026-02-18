@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 375 | <img src="https://cdn.idntimes.com/content-images/post/20260218/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260218140033.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 18 Februari 2026 pukul 14.00.50 WIB |
+| 374 | <img src="https://cdn.idntimes.com/content-images/post/20260218/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260218140008.jpg" width="170"> | Giaa JKT48 | YG MAU LIHAT MANUSIA IMUT | Rabu, 18 Februari 2026 pukul 14.00.22 WIB |
+| 373 | <img src="https://cdn.idntimes.com/content-images/post/20260218/7599c984-c466-4962-8c5b-73c1d33d59d9-260218135927.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Rabu, 18 Februari 2026 pukul 13.59.35 WIB |
+| 372 | <img src="https://cdn.idntimes.com/content-images/post/20260218/85f369d7-6525-41c0-94b8-9a56686713eb-260218135312.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 18 Februari 2026 pukul 13.53.20 WIB |
+| 371 | <img src="https://cdn.idntimes.com/content-images/post/20260218/e9170998-f026-4186-bbc5-a17a3b5b2af1-260218134706.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Rabu, 18 Februari 2026 pukul 13.47.18 WIB |
+| 370 | <img src="https://cdn.idntimes.com/content-images/post/20260218/a557ba58-12d8-4260-bd50-9e5252ac71ef-260218134656.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 18 Februari 2026 pukul 13.47.10 WIB |
 | 369 | <img src="https://cdn.idntimes.com/content-images/post/20260217/e8aa0877-684a-4430-8a3b-d96302e53aab-260217230650.jpg" width="170"> | Amanda JKT48 | Live ke 2 | Selasa, 17 Februari 2026 pukul 23.06.59 WIB |
 | 368 | <img src="https://cdn.idntimes.com/content-images/post/20260217/15dfee86-a928-4a15-8c90-6aa21097d0ff-260217223611.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Selasa, 17 Februari 2026 pukul 22.36.31 WIB |
 | 367 | <img src="https://cdn.idntimes.com/content-images/post/20260217/e2af7271-2598-4ee8-8760-68043e671e6d-260217221958.jpg" width="170"> | Lana JKT48 | Hi | Selasa, 17 Februari 2026 pukul 22.20.06 WIB |
