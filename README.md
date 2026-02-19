@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 406 | <img src="https://cdn.idntimes.com/content-images/post/20260219/82ffac10-ee56-43d0-ad38-ce432384cfe5-260219160654.jpg" width="170"> | Gita JKT48 | Gits | Kamis, 19 Februari 2026 pukul 16.07.07 WIB |
+| 405 | <img src="https://cdn.idntimes.com/content-images/post/20260219/147e83c8-f3ac-4680-9141-2f518b4b7810-260219154426.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 15.44.40 WIB |
 | 404 | <img src="https://cdn.idntimes.com/content-images/post/20260219/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260219153130.jpg" width="170"> | Lily JKT48 | Review | Kamis, 19 Februari 2026 pukul 15.31.38 WIB |
 | 403 | <img src="https://cdn.idntimes.com/content-images/post/20260219/147e83c8-f3ac-4680-9141-2f518b4b7810-260219152929.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 15.29.41 WIB |
 | 402 | <img src="https://cdn.idntimes.com/content-images/post/20260219/a557ba58-12d8-4260-bd50-9e5252ac71ef-260219145016.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 14.50.28 WIB |
