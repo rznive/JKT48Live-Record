@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 421 | <img src="https://cdn.idntimes.com/content-images/post/20260220/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260220023344.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 02.33.59 WIB |
+| 420 | <img src="https://cdn.idntimes.com/content-images/post/20260220/74e76417-0353-487f-b9b7-7520c0398e87-260220022647.jpg" width="170"> | Alya JKT48 | #AlsahurYa #2 | Jumat, 20 Februari 2026 pukul 02.26.55 WIB |
 | 419 | <img src="https://cdn.idntimes.com/content-images/post/20260219/e9170998-f026-4186-bbc5-a17a3b5b2af1-260219222113.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 22.21.23 WIB |
 | 418 | <img src="https://cdn.idntimes.com/content-images/post/20260219/a557ba58-12d8-4260-bd50-9e5252ac71ef-260219214411.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 21.44.24 WIB |
 | 417 | <img src="https://cdn.idntimes.com/content-images/post/20260219/85f369d7-6525-41c0-94b8-9a56686713eb-260219211623.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 21.16.36 WIB |

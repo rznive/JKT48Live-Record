@@ -2338,5 +2338,25 @@
     "live_at_unix": 1771514483,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260219/e9170998-f026-4186-bbc5-a17a3b5b2af1-260219222113.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 420,
+    "username": "jkt48_alya",
+    "creator_name": "Alya JKT48",
+    "title": "#AlsahurYa #2",
+    "live_at": "Jumat, 20 Februari 2026 pukul 02.26.55 WIB",
+    "live_at_unix": 1771529215,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260220/74e76417-0353-487f-b9b7-7520c0398e87-260220022647.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sLZkhRvMutd4.m3u8"
+  },
+  {
+    "id": 421,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 20 Februari 2026 pukul 02.33.59 WIB",
+    "live_at_unix": 1771529639,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260220/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260220023344.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
   }
 ]
