@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 419 | <img src="https://cdn.idntimes.com/content-images/post/20260219/e9170998-f026-4186-bbc5-a17a3b5b2af1-260219222113.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 22.21.23 WIB |
+| 418 | <img src="https://cdn.idntimes.com/content-images/post/20260219/a557ba58-12d8-4260-bd50-9e5252ac71ef-260219214411.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 21.44.24 WIB |
 | 417 | <img src="https://cdn.idntimes.com/content-images/post/20260219/85f369d7-6525-41c0-94b8-9a56686713eb-260219211623.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 21.16.36 WIB |
 | 416 | <img src="https://cdn.idntimes.com/content-images/post/20260219/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260219205344.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 20.54.01 WIB |
 | 415 | <img src="https://cdn.idntimes.com/content-images/post/20260219/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260219205216.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 20.52.26 WIB |
