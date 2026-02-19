@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 431 | <img src="https://cdn.idntimes.com/content-images/post/20260220/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260220034535.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 03.45.45 WIB |
+| 430 | <img src="https://cdn.idntimes.com/content-images/post/20260220/4f795073-38c9-4df7-9388-74b83de69801-260220034303.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 03.43.13 WIB |
 | 429 | <img src="https://cdn.idntimes.com/content-images/post/20260220/147e83c8-f3ac-4680-9141-2f518b4b7810-260220033547.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 03.35.58 WIB |
 | 428 | <img src="https://cdn.idntimes.com/content-images/post/20260220/e8aa0877-684a-4430-8a3b-d96302e53aab-260220032838.jpg" width="170"> | Amanda JKT48 | #TTS 2 | Jumat, 20 Februari 2026 pukul 03.28.48 WIB |
 | 427 | <img src="https://cdn.idntimes.com/content-images/post/20260220/e2af7271-2598-4ee8-8760-68043e671e6d-260220032733.jpg" width="170"> | Lana JKT48 | saURHEL #2 | Jumat, 20 Februari 2026 pukul 03.27.41 WIB |
