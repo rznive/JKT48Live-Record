@@ -2158,5 +2158,15 @@
     "live_at_unix": 1771479392,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260219/7599c984-c466-4962-8c5b-73c1d33d59d9-260219123623.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
+  },
+  {
+    "id": 402,
+    "username": "jkt48_mikaela",
+    "creator_name": "Mikaela JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 19 Februari 2026 pukul 14.50.28 WIB",
+    "live_at_unix": 1771487428,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260219/a557ba58-12d8-4260-bd50-9e5252ac71ef-260219145016.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
   }
 ]
