@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 400 | <img src="https://cdn.idntimes.com/content-images/post/20260219/f740e9da-772f-4ae2-8ddd-49f717aacf63-260219112845.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 11.29.01 WIB |
 | 399 | <img src="https://cdn.idntimes.com/content-images/post/20260219/b0d1e6c3-d356-4b00-8d00-846e5297693b-260219041604.jpg" width="170"> | Ella JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 04.16.12 WIB |
 | 398 | <img src="https://cdn.idntimes.com/content-images/post/20260219/b0d1e6c3-d356-4b00-8d00-846e5297693b-260219035039.jpg" width="170"> | Ella JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 03.50.49 WIB |
 | 397 | <img src="https://cdn.idntimes.com/content-images/post/20260219/4f795073-38c9-4df7-9388-74b83de69801-260219034641.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 03.46.55 WIB |

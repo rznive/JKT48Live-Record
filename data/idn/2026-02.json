@@ -2138,5 +2138,15 @@
     "live_at_unix": 1771449372,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260219/b0d1e6c3-d356-4b00-8d00-846e5297693b-260219041604.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BDGTjOuDMTDH.m3u8"
+  },
+  {
+    "id": 400,
+    "username": "jkt48_cathy",
+    "creator_name": "Cathy JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 19 Februari 2026 pukul 11.29.01 WIB",
+    "live_at_unix": 1771475341,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260219/f740e9da-772f-4ae2-8ddd-49f717aacf63-260219112845.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Q0uEvM6Dl951.m3u8"
   }
 ]
