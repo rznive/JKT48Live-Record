@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 422 | <img src="https://cdn.idntimes.com/content-images/post/20260220/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260220025343.jpg" width="170"> | Giaa JKT48 | #GiAyoSahur | Jumat, 20 Februari 2026 pukul 02.53.51 WIB |
 | 421 | <img src="https://cdn.idntimes.com/content-images/post/20260220/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260220023344.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 02.33.59 WIB |
 | 420 | <img src="https://cdn.idntimes.com/content-images/post/20260220/74e76417-0353-487f-b9b7-7520c0398e87-260220022647.jpg" width="170"> | Alya JKT48 | #AlsahurYa #2 | Jumat, 20 Februari 2026 pukul 02.26.55 WIB |
 | 419 | <img src="https://cdn.idntimes.com/content-images/post/20260219/e9170998-f026-4186-bbc5-a17a3b5b2af1-260219222113.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 22.21.23 WIB |
