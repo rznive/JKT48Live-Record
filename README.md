@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 417 | <img src="https://cdn.idntimes.com/content-images/post/20260219/85f369d7-6525-41c0-94b8-9a56686713eb-260219211623.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 21.16.36 WIB |
+| 416 | <img src="https://cdn.idntimes.com/content-images/post/20260219/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260219205344.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 20.54.01 WIB |
+| 415 | <img src="https://cdn.idntimes.com/content-images/post/20260219/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260219205216.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 20.52.26 WIB |
 | 414 | <img src="https://cdn.idntimes.com/content-images/post/20260219/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260219202008.jpg" width="170"> | Giaa JKT48 | temenin sebentar | Kamis, 19 Februari 2026 pukul 20.20.16 WIB |
 | 413 | <img src="https://cdn.idntimes.com/content-images/post/20260219/15dfee86-a928-4a15-8c90-6aa21097d0ff-260219201125.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 20.11.44 WIB |
 | 412 | <img src="https://cdn.idntimes.com/content-images/post/20260219/a9579a29-9203-40c0-9326-9837b8eae6e8-260219200253.jpg" width="170"> | Jessi JKT48 | kamar sudah beres | Kamis, 19 Februari 2026 pukul 20.03.05 WIB |
