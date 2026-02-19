@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 407 | <img src="https://cdn.idntimes.com/content-images/post/20260219/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260219164320.jpg" width="170"> | Greesel JKT48 | ngabuburitz | Kamis, 19 Februari 2026 pukul 16.43.29 WIB |
 | 406 | <img src="https://cdn.idntimes.com/content-images/post/20260219/82ffac10-ee56-43d0-ad38-ce432384cfe5-260219160654.jpg" width="170"> | Gita JKT48 | Gits | Kamis, 19 Februari 2026 pukul 16.07.07 WIB |
 | 405 | <img src="https://cdn.idntimes.com/content-images/post/20260219/147e83c8-f3ac-4680-9141-2f518b4b7810-260219154426.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Kamis, 19 Februari 2026 pukul 15.44.40 WIB |
 | 404 | <img src="https://cdn.idntimes.com/content-images/post/20260219/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260219153130.jpg" width="170"> | Lily JKT48 | Review | Kamis, 19 Februari 2026 pukul 15.31.38 WIB |
