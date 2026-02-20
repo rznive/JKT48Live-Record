@@ -2508,5 +2508,15 @@
     "live_at_unix": 1771581108,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260220/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260220165139.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8"
+  },
+  {
+    "id": 437,
+    "username": "jkt48_virgi",
+    "creator_name": "Virgi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 20 Februari 2026 pukul 17.02.19 WIB",
+    "live_at_unix": 1771581739,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260220/147e83c8-f3ac-4680-9141-2f518b4b7810-260220170207.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8"
   }
 ]
