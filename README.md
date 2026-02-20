@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 441 | <img src="https://cdn.idntimes.com/content-images/post/20260220/266ef38a-da00-4d13-ba77-f94da68599ee-260220225505.jpg" width="170"> | Delynn JKT48 | hi | Jumat, 20 Februari 2026 pukul 22.55.12 WIB |
 | 440 | <img src="https://cdn.idntimes.com/content-images/post/20260220/a557ba58-12d8-4260-bd50-9e5252ac71ef-260220212651.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 21.27.08 WIB |
 | 439 | <img src="https://cdn.idntimes.com/content-images/post/20260220/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260220210725.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 21.07.42 WIB |
 | 438 | <img src="https://cdn.idntimes.com/content-images/post/20260220/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260220204043.jpg" width="170"> | Lily JKT48 | Heyo | Jumat, 20 Februari 2026 pukul 20.40.51 WIB |
