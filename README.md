@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 455 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260221034135.jpg" width="170"> | Lily JKT48 | SawithLy | Sabtu, 21 Februari 2026 pukul 03.41.44 WIB |
+| 454 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e8aa0877-684a-4430-8a3b-d96302e53aab-260221033530.jpg" width="170"> | Amanda JKT48 | #TTS 3 | Sabtu, 21 Februari 2026 pukul 03.35.42 WIB |
+| 453 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e2af7271-2598-4ee8-8760-68043e671e6d-260221033319.jpg" width="170"> | Lana JKT48 | Haikk | Sabtu, 21 Februari 2026 pukul 03.33.29 WIB |
+| 452 | <img src="https://cdn.idntimes.com/content-images/post/20260221/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260221032842.jpg" width="170"> | Erine JKT48 | ruang gelap (sahur soalny) ada  | Sabtu, 21 Februari 2026 pukul 03.28.52 WIB |
 | 451 | <img src="https://cdn.idntimes.com/content-images/post/20260221/a5c72141-65a3-47be-86ef-1dc1feaab10d-260221032033.jpg" width="170"> | Anindya JKT48 | #SABARIN DAY THREEE | Sabtu, 21 Februari 2026 pukul 03.20.42 WIB |
 | 450 | <img src="https://cdn.idntimes.com/content-images/post/20260221/4f795073-38c9-4df7-9388-74b83de69801-260221031615.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 03.16.25 WIB |
 | 449 | <img src="https://cdn.idntimes.com/content-images/post/20260221/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260221031519.jpg" width="170"> | Intan JKT48 | tuntuntun sahurr | Sabtu, 21 Februari 2026 pukul 03.15.30 WIB |
