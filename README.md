@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 451 | <img src="https://cdn.idntimes.com/content-images/post/20260221/a5c72141-65a3-47be-86ef-1dc1feaab10d-260221032033.jpg" width="170"> | Anindya JKT48 | #SABARIN DAY THREEE | Sabtu, 21 Februari 2026 pukul 03.20.42 WIB |
+| 450 | <img src="https://cdn.idntimes.com/content-images/post/20260221/4f795073-38c9-4df7-9388-74b83de69801-260221031615.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 03.16.25 WIB |
+| 449 | <img src="https://cdn.idntimes.com/content-images/post/20260221/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260221031519.jpg" width="170"> | Intan JKT48 | tuntuntun sahurr | Sabtu, 21 Februari 2026 pukul 03.15.30 WIB |
+| 448 | <img src="https://cdn.idntimes.com/content-images/post/20260221/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260221031022.jpg" width="170"> | Giaa JKT48 | #GiAyoSahur | Sabtu, 21 Februari 2026 pukul 03.10.30 WIB |
+| 447 | <img src="https://cdn.idntimes.com/content-images/post/20260221/147e83c8-f3ac-4680-9141-2f518b4b7810-260221030951.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 03.10.03 WIB |
+| 446 | <img src="https://cdn.idntimes.com/content-images/post/20260221/a9579a29-9203-40c0-9326-9837b8eae6e8-260221030231.jpg" width="170"> | Jessi JKT48 | nemenin sahur | Sabtu, 21 Februari 2026 pukul 03.02.50 WIB |
 | 445 | <img src="https://cdn.idntimes.com/content-images/post/20260221/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260221023813.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 02.38.29 WIB |
 | 444 | <img src="https://cdn.idntimes.com/content-images/post/20260221/a557ba58-12d8-4260-bd50-9e5252ac71ef-260221023219.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 02.32.32 WIB |
 | 443 | <img src="https://cdn.idntimes.com/content-images/post/20260221/74e76417-0353-487f-b9b7-7520c0398e87-260221023047.jpg" width="170"> | Alya JKT48 | #Alsahurya 3 | Sabtu, 21 Februari 2026 pukul 02.30.53 WIB |
