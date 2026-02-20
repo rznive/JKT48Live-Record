@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 436 | <img src="https://cdn.idntimes.com/content-images/post/20260220/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260220165139.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 16.51.48 WIB |
+| 435 | <img src="https://cdn.idntimes.com/content-images/post/20260220/82ffac10-ee56-43d0-ad38-ce432384cfe5-260220162941.jpg" width="170"> | Gita JKT48 | Gits | Jumat, 20 Februari 2026 pukul 16.29.53 WIB |
+| 434 | <img src="https://cdn.idntimes.com/content-images/post/20260220/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260220161002.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 16.10.13 WIB |
 | 433 | <img src="https://cdn.idntimes.com/content-images/post/20260220/e9170998-f026-4186-bbc5-a17a3b5b2af1-260220153935.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 15.39.45 WIB |
 | 432 | <img src="https://cdn.idntimes.com/content-images/post/20260220/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260220040147.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 04.01.57 WIB |
 | 431 | <img src="https://cdn.idntimes.com/content-images/post/20260220/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260220034535.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 03.45.45 WIB |
