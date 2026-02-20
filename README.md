@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 438 | <img src="https://cdn.idntimes.com/content-images/post/20260220/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260220204043.jpg" width="170"> | Lily JKT48 | Heyo | Jumat, 20 Februari 2026 pukul 20.40.51 WIB |
 | 437 | <img src="https://cdn.idntimes.com/content-images/post/20260220/147e83c8-f3ac-4680-9141-2f518b4b7810-260220170207.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 17.02.19 WIB |
 | 436 | <img src="https://cdn.idntimes.com/content-images/post/20260220/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260220165139.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 16.51.48 WIB |
 | 435 | <img src="https://cdn.idntimes.com/content-images/post/20260220/82ffac10-ee56-43d0-ad38-ce432384cfe5-260220162941.jpg" width="170"> | Gita JKT48 | Gits | Jumat, 20 Februari 2026 pukul 16.29.53 WIB |
