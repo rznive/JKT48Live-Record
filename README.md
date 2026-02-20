@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 445 | <img src="https://cdn.idntimes.com/content-images/post/20260221/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260221023813.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 02.38.29 WIB |
+| 444 | <img src="https://cdn.idntimes.com/content-images/post/20260221/a557ba58-12d8-4260-bd50-9e5252ac71ef-260221023219.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 02.32.32 WIB |
+| 443 | <img src="https://cdn.idntimes.com/content-images/post/20260221/74e76417-0353-487f-b9b7-7520c0398e87-260221023047.jpg" width="170"> | Alya JKT48 | #Alsahurya 3 | Sabtu, 21 Februari 2026 pukul 02.30.53 WIB |
+| 442 | <img src="https://cdn.idntimes.com/content-images/post/20260221/b11b0692-d0b8-464c-849a-9e81439a048c-260221022623.jpg" width="170"> | Daisy JKT48 | Daisahur!🫶🏻 | Sabtu, 21 Februari 2026 pukul 02.26.31 WIB |
 | 441 | <img src="https://cdn.idntimes.com/content-images/post/20260220/266ef38a-da00-4d13-ba77-f94da68599ee-260220225505.jpg" width="170"> | Delynn JKT48 | hi | Jumat, 20 Februari 2026 pukul 22.55.12 WIB |
 | 440 | <img src="https://cdn.idntimes.com/content-images/post/20260220/a557ba58-12d8-4260-bd50-9e5252ac71ef-260220212651.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 21.27.08 WIB |
 | 439 | <img src="https://cdn.idntimes.com/content-images/post/20260220/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260220210725.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 20 Februari 2026 pukul 21.07.42 WIB |
