@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 461 | <img src="https://cdn.idntimes.com/content-images/post/20260221/f9500eb4-9d6d-491d-a857-40ca6f862d61-260221182306.jpg" width="170"> | Auwia JKT48 | #BukAuw | Sabtu, 21 Februari 2026 pukul 18.23.22 WIB |
 | 460 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e0ececb4-71d8-4f32-a221-ef21634a746a-260221172018.jpg" width="170"> | Elin JKT48 | Live part 1 | Sabtu, 21 Februari 2026 pukul 17.20.25 WIB |
 | 459 | <img src="https://cdn.idntimes.com/content-images/post/20260221/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-260221153801.jpg" width="170"> | Chelsea JKT48 | GRWM | Sabtu, 21 Februari 2026 pukul 15.38.08 WIB |
 | 458 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e243be19-74b7-435b-8e19-13fc669e0224-260221123610.jpg" width="170"> | Nayla JKT48 | スラマットシアング | Sabtu, 21 Februari 2026 pukul 12.36.28 WIB |
