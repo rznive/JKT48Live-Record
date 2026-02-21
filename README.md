@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 485 | <img src="https://cdn.idntimes.com/content-images/post/20260222/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260222031340.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 03.13.57 WIB |
+| 484 | <img src="https://cdn.idntimes.com/content-images/post/20260222/7599c984-c466-4962-8c5b-73c1d33d59d9-260222031344.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 03.13.56 WIB |
+| 483 | <img src="https://cdn.idntimes.com/content-images/post/20260222/147e83c8-f3ac-4680-9141-2f518b4b7810-260222031146.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 03.12.01 WIB |
+| 482 | <img src="https://cdn.idntimes.com/content-images/post/20260222/e243be19-74b7-435b-8e19-13fc669e0224-260222030830.jpg" width="170"> | Nayla JKT48 | Sahuuur desuuuu  | Minggu, 22 Februari 2026 pukul 03.08.49 WIB |
+| 481 | <img src="https://cdn.idntimes.com/content-images/post/20260222/a5c72141-65a3-47be-86ef-1dc1feaab10d-260222030507.jpg" width="170"> | Anindya JKT48 | #SABARIN DAAYYY FOURRR | Minggu, 22 Februari 2026 pukul 03.05.17 WIB |
 | 480 | <img src="https://cdn.idntimes.com/content-images/post/20260222/21a420b0-dd01-4daa-b185-b9020f8bf69d-260222025204.jpg" width="170"> | Nachia JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 02.52.16 WIB |
 | 479 | <img src="https://cdn.idntimes.com/content-images/post/20260222/a557ba58-12d8-4260-bd50-9e5252ac71ef-260222023352.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 02.34.08 WIB |
 | 478 | <img src="https://cdn.idntimes.com/content-images/post/20260222/74e76417-0353-487f-b9b7-7520c0398e87-260222023304.jpg" width="170"> | Alya JKT48 | #AlsahurYa | Minggu, 22 Februari 2026 pukul 02.33.17 WIB |
