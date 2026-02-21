@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 458 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e243be19-74b7-435b-8e19-13fc669e0224-260221123610.jpg" width="170"> | Nayla JKT48 | スラマットシアング | Sabtu, 21 Februari 2026 pukul 12.36.28 WIB |
+| 457 | <img src="https://cdn.idntimes.com/content-images/post/20260221/f001ba66-3c51-4849-9afa-13cf74eb1571-260221123614.jpg" width="170"> | Aralie JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 12.36.26 WIB |
 | 456 | <img src="https://cdn.idntimes.com/content-images/post/20260221/7599c984-c466-4962-8c5b-73c1d33d59d9-260221035148.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 03.51.59 WIB |
 | 455 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260221034135.jpg" width="170"> | Lily JKT48 | SawithLy | Sabtu, 21 Februari 2026 pukul 03.41.44 WIB |
 | 454 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e8aa0877-684a-4430-8a3b-d96302e53aab-260221033530.jpg" width="170"> | Amanda JKT48 | #TTS 3 | Sabtu, 21 Februari 2026 pukul 03.35.42 WIB |
