@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 471 | <img src="https://cdn.idntimes.com/content-images/post/20260221/cae4d972-5f14-4512-9706-37c1802a0541-260221225002.jpg" width="170"> | Gracie JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 22.50.11 WIB |
 | 470 | <img src="https://cdn.idntimes.com/content-images/post/20260221/82ffac10-ee56-43d0-ad38-ce432384cfe5-260221213115.jpg" width="170"> | Gita JKT48 | #AndaiKuBukanIdolaJKT48 | Sabtu, 21 Februari 2026 pukul 21.31.27 WIB |
 | 469 | <img src="https://cdn.idntimes.com/content-images/post/20260221/a557ba58-12d8-4260-bd50-9e5252ac71ef-260221203403.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 20.34.18 WIB |
 | 468 | <img src="https://cdn.idntimes.com/content-images/post/20260221/147e83c8-f3ac-4680-9141-2f518b4b7810-260221201231.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 20.12.45 WIB |
