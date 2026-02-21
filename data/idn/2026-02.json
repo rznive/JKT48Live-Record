@@ -2998,5 +2998,65 @@
     "live_at_unix": 1771704837,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260222/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260222031340.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.nCPKiODqPEOs.m3u8"
+  },
+  {
+    "id": 486,
+    "username": "jkt48_jemima",
+    "creator_name": "Jemima JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 22 Februari 2026 pukul 03.18.17 WIB",
+    "live_at_unix": 1771705097,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260222/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260222031800.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 487,
+    "username": "jkt48_cynthia",
+    "creator_name": "Cynthia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 22 Februari 2026 pukul 03.26.27 WIB",
+    "live_at_unix": 1771705587,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260222/4f795073-38c9-4df7-9388-74b83de69801-260222032613.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 488,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 22 Februari 2026 pukul 03.31.36 WIB",
+    "live_at_unix": 1771705896,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260222/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260222033124.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 489,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Tung tung sahur",
+    "live_at": "Minggu, 22 Februari 2026 pukul 03.33.06 WIB",
+    "live_at_unix": 1771705986,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260222/e2af7271-2598-4ee8-8760-68043e671e6d-260222033258.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 490,
+    "username": "jkt48_amanda",
+    "creator_name": "Amanda JKT48",
+    "title": "#TTS 4",
+    "live_at": "Minggu, 22 Februari 2026 pukul 03.36.35 WIB",
+    "live_at_unix": 1771706195,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260222/e8aa0877-684a-4430-8a3b-d96302e53aab-260222033624.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
+  },
+  {
+    "id": 491,
+    "username": "jkt48_fiony",
+    "creator_name": "Fiony JKT48",
+    "title": "Kangen showwwwww",
+    "live_at": "Minggu, 22 Februari 2026 pukul 03.37.15 WIB",
+    "live_at_unix": 1771706235,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260222/85482779-8b59-4995-a600-f8a4230c29d8-260222033655.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oDOImnzzGyk8.m3u8"
   }
 ]

@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 491 | <img src="https://cdn.idntimes.com/content-images/post/20260222/85482779-8b59-4995-a600-f8a4230c29d8-260222033655.jpg" width="170"> | Fiony JKT48 | Kangen showwwwww | Minggu, 22 Februari 2026 pukul 03.37.15 WIB |
+| 490 | <img src="https://cdn.idntimes.com/content-images/post/20260222/e8aa0877-684a-4430-8a3b-d96302e53aab-260222033624.jpg" width="170"> | Amanda JKT48 | #TTS 4 | Minggu, 22 Februari 2026 pukul 03.36.35 WIB |
+| 489 | <img src="https://cdn.idntimes.com/content-images/post/20260222/e2af7271-2598-4ee8-8760-68043e671e6d-260222033258.jpg" width="170"> | Lana JKT48 | Tung tung sahur | Minggu, 22 Februari 2026 pukul 03.33.06 WIB |
+| 488 | <img src="https://cdn.idntimes.com/content-images/post/20260222/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260222033124.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 03.31.36 WIB |
+| 487 | <img src="https://cdn.idntimes.com/content-images/post/20260222/4f795073-38c9-4df7-9388-74b83de69801-260222032613.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 03.26.27 WIB |
+| 486 | <img src="https://cdn.idntimes.com/content-images/post/20260222/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260222031800.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 03.18.17 WIB |
 | 485 | <img src="https://cdn.idntimes.com/content-images/post/20260222/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260222031340.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 03.13.57 WIB |
 | 484 | <img src="https://cdn.idntimes.com/content-images/post/20260222/7599c984-c466-4962-8c5b-73c1d33d59d9-260222031344.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 03.13.56 WIB |
 | 483 | <img src="https://cdn.idntimes.com/content-images/post/20260222/147e83c8-f3ac-4680-9141-2f518b4b7810-260222031146.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 03.12.01 WIB |
