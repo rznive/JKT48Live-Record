@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 474 | <img src="https://cdn.idntimes.com/content-images/post/20260222/b11b0692-d0b8-464c-849a-9e81439a048c-260222020249.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 02.03.04 WIB |
+| 473 | <img src="https://cdn.idntimes.com/content-images/post/20260222/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260222015702.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 01.57.19 WIB |
 | 472 | <img src="https://cdn.idntimes.com/content-images/post/20260222/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260222010729.jpg" width="170"> | Erine JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 01.07.37 WIB |
 | 471 | <img src="https://cdn.idntimes.com/content-images/post/20260221/cae4d972-5f14-4512-9706-37c1802a0541-260221225002.jpg" width="170"> | Gracie JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 22.50.11 WIB |
 | 470 | <img src="https://cdn.idntimes.com/content-images/post/20260221/82ffac10-ee56-43d0-ad38-ce432384cfe5-260221213115.jpg" width="170"> | Gita JKT48 | #AndaiKuBukanIdolaJKT48 | Sabtu, 21 Februari 2026 pukul 21.31.27 WIB |
