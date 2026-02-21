@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 479 | <img src="https://cdn.idntimes.com/content-images/post/20260222/a557ba58-12d8-4260-bd50-9e5252ac71ef-260222023352.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 02.34.08 WIB |
+| 478 | <img src="https://cdn.idntimes.com/content-images/post/20260222/74e76417-0353-487f-b9b7-7520c0398e87-260222023304.jpg" width="170"> | Alya JKT48 | #AlsahurYa | Minggu, 22 Februari 2026 pukul 02.33.17 WIB |
+| 477 | <img src="https://cdn.idntimes.com/content-images/post/20260222/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260222023052.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 02.31.13 WIB |
+| 476 | <img src="https://cdn.idntimes.com/content-images/post/20260222/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260222023057.jpg" width="170"> | Giaa JKT48 | #GiAyoSahurr sebentarr | Minggu, 22 Februari 2026 pukul 02.31.08 WIB |
+| 475 | <img src="https://cdn.idntimes.com/content-images/post/20260222/e0ececb4-71d8-4f32-a221-ef21634a746a-260222022454.jpg" width="170"> | Elin JKT48 | Haii | Minggu, 22 Februari 2026 pukul 02.25.00 WIB |
 | 474 | <img src="https://cdn.idntimes.com/content-images/post/20260222/b11b0692-d0b8-464c-849a-9e81439a048c-260222020249.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 02.03.04 WIB |
 | 473 | <img src="https://cdn.idntimes.com/content-images/post/20260222/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260222015702.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 01.57.19 WIB |
 | 472 | <img src="https://cdn.idntimes.com/content-images/post/20260222/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260222010729.jpg" width="170"> | Erine JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 01.07.37 WIB |
