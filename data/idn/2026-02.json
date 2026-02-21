@@ -2728,5 +2728,15 @@
     "live_at_unix": 1771652188,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260221/e243be19-74b7-435b-8e19-13fc669e0224-260221123610.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.s29ur0XkIpE2.m3u8"
+  },
+  {
+    "id": 459,
+    "username": "jkt48_chelsea",
+    "creator_name": "Chelsea JKT48",
+    "title": "GRWM",
+    "live_at": "Sabtu, 21 Februari 2026 pukul 15.38.08 WIB",
+    "live_at_unix": 1771663088,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260221/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-260221153801.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.o3XoGdLr8Ejd.m3u8"
   }
 ]
