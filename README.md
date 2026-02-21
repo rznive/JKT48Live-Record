@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 468 | <img src="https://cdn.idntimes.com/content-images/post/20260221/147e83c8-f3ac-4680-9141-2f518b4b7810-260221201231.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 20.12.45 WIB |
+| 466 | <img src="https://cdn.idntimes.com/content-images/post/20260221/7599c984-c466-4962-8c5b-73c1d33d59d9-260221200952.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 20.10.05 WIB |
+| 467 | <img src="https://cdn.idntimes.com/content-images/post/20260221/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260221200945.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 20.10.05 WIB |
+| 465 | <img src="https://cdn.idntimes.com/content-images/post/20260221/85f369d7-6525-41c0-94b8-9a56686713eb-260221200741.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 20.07.55 WIB |
+| 464 | <img src="https://cdn.idntimes.com/content-images/post/20260221/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260221200431.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 20.04.43 WIB |
+| 463 | <img src="https://cdn.idntimes.com/content-images/post/20260221/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-260221194908.jpg" width="170"> | Chelsea JKT48 | LIVEEE | Sabtu, 21 Februari 2026 pukul 19.49.17 WIB |
+| 462 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260221194823.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Februari 2026 pukul 19.48.36 WIB |
 | 461 | <img src="https://cdn.idntimes.com/content-images/post/20260221/f9500eb4-9d6d-491d-a857-40ca6f862d61-260221182306.jpg" width="170"> | Auwia JKT48 | #BukAuw | Sabtu, 21 Februari 2026 pukul 18.23.22 WIB |
 | 460 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e0ececb4-71d8-4f32-a221-ef21634a746a-260221172018.jpg" width="170"> | Elin JKT48 | Live part 1 | Sabtu, 21 Februari 2026 pukul 17.20.25 WIB |
 | 459 | <img src="https://cdn.idntimes.com/content-images/post/20260221/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-260221153801.jpg" width="170"> | Chelsea JKT48 | GRWM | Sabtu, 21 Februari 2026 pukul 15.38.08 WIB |
