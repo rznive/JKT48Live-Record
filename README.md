@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 498 | <img src="https://cdn.idntimes.com/content-images/post/20260223/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260223020548.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 02.06.03 WIB |
 | 497 | <img src="https://cdn.idntimes.com/content-images/post/20260222/15dfee86-a928-4a15-8c90-6aa21097d0ff-260222190259.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 19.03.19 WIB |
 | 496 | <img src="https://cdn.idntimes.com/content-images/post/20260222/f740e9da-772f-4ae2-8ddd-49f717aacf63-260222151103.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 15.11.10 WIB |
 | 495 | <img src="https://cdn.idntimes.com/content-images/post/20260222/82ffac10-ee56-43d0-ad38-ce432384cfe5-260222143734.jpg" width="170"> | Gita JKT48 | Gits | Minggu, 22 Februari 2026 pukul 14.37.48 WIB |
