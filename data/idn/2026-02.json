@@ -3128,5 +3128,15 @@
     "live_at_unix": 1771787163,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260223/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260223020548.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 499,
+    "username": "jkt48_elin",
+    "creator_name": "Elin JKT48",
+    "title": "Hai",
+    "live_at": "Senin, 23 Februari 2026 pukul 02.36.08 WIB",
+    "live_at_unix": 1771788968,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260223/e0ececb4-71d8-4f32-a221-ef21634a746a-260223023552.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
   }
 ]
