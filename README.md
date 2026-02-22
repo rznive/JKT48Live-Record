@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 496 | <img src="https://cdn.idntimes.com/content-images/post/20260222/f740e9da-772f-4ae2-8ddd-49f717aacf63-260222151103.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 15.11.10 WIB |
 | 495 | <img src="https://cdn.idntimes.com/content-images/post/20260222/82ffac10-ee56-43d0-ad38-ce432384cfe5-260222143734.jpg" width="170"> | Gita JKT48 | Gits | Minggu, 22 Februari 2026 pukul 14.37.48 WIB |
 | 494 | <img src="https://cdn.idntimes.com/content-images/post/20260222/f740e9da-772f-4ae2-8ddd-49f717aacf63-260222142735.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 14.27.44 WIB |
 | 493 | <img src="https://cdn.idntimes.com/content-images/post/20260222/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260222134031.jpg" width="170"> | Lily JKT48 | Grwm | Minggu, 22 Februari 2026 pukul 13.40.38 WIB |
