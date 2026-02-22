@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 501 | <img src="https://cdn.idntimes.com/content-images/post/20260223/a5c72141-65a3-47be-86ef-1dc1feaab10d-260223030737.jpg" width="170"> | Anindya JKT48 | #SABARIN DAAAYY FIVEEEE | Senin, 23 Februari 2026 pukul 03.07.54 WIB |
+| 500 | <img src="https://cdn.idntimes.com/content-images/post/20260223/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260223030304.jpg" width="170"> | Giaa JKT48 | #GiAyoSahur | Senin, 23 Februari 2026 pukul 03.03.11 WIB |
 | 499 | <img src="https://cdn.idntimes.com/content-images/post/20260223/e0ececb4-71d8-4f32-a221-ef21634a746a-260223023552.jpg" width="170"> | Elin JKT48 | Hai | Senin, 23 Februari 2026 pukul 02.36.08 WIB |
 | 498 | <img src="https://cdn.idntimes.com/content-images/post/20260223/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260223020548.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 02.06.03 WIB |
 | 497 | <img src="https://cdn.idntimes.com/content-images/post/20260222/15dfee86-a928-4a15-8c90-6aa21097d0ff-260222190259.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 22 Februari 2026 pukul 19.03.19 WIB |
