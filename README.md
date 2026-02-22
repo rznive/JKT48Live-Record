@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 493 | <img src="https://cdn.idntimes.com/content-images/post/20260222/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260222134031.jpg" width="170"> | Lily JKT48 | Grwm | Minggu, 22 Februari 2026 pukul 13.40.38 WIB |
 | 492 | <img src="https://cdn.idntimes.com/content-images/post/20260222/f9500eb4-9d6d-491d-a857-40ca6f862d61-260222122229.jpg" width="170"> | Auwia JKT48 | GRWM KIW | Minggu, 22 Februari 2026 pukul 12.22.44 WIB |
 | 491 | <img src="https://cdn.idntimes.com/content-images/post/20260222/85482779-8b59-4995-a600-f8a4230c29d8-260222033655.jpg" width="170"> | Fiony JKT48 | Kangen showwwwww | Minggu, 22 Februari 2026 pukul 03.37.15 WIB |
 | 490 | <img src="https://cdn.idntimes.com/content-images/post/20260222/e8aa0877-684a-4430-8a3b-d96302e53aab-260222033624.jpg" width="170"> | Amanda JKT48 | #TTS 4 | Minggu, 22 Februari 2026 pukul 03.36.35 WIB |
