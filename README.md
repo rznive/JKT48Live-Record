@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 505 | <img src="https://cdn.idntimes.com/content-images/post/20260223/4f795073-38c9-4df7-9388-74b83de69801-260223034121.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 03.41.36 WIB |
+| 504 | <img src="https://cdn.idntimes.com/content-images/post/20260223/b11b0692-d0b8-464c-849a-9e81439a048c-260223033645.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 03.36.56 WIB |
+| 503 | <img src="https://cdn.idntimes.com/content-images/post/20260223/85f369d7-6525-41c0-94b8-9a56686713eb-260223033031.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 03.30.44 WIB |
+| 502 | <img src="https://cdn.idntimes.com/content-images/post/20260223/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260223032125.jpg" width="170"> | Erine JKT48 | first time radio kinda nervous  | Senin, 23 Februari 2026 pukul 03.21.34 WIB |
 | 501 | <img src="https://cdn.idntimes.com/content-images/post/20260223/a5c72141-65a3-47be-86ef-1dc1feaab10d-260223030737.jpg" width="170"> | Anindya JKT48 | #SABARIN DAAAYY FIVEEEE | Senin, 23 Februari 2026 pukul 03.07.54 WIB |
 | 500 | <img src="https://cdn.idntimes.com/content-images/post/20260223/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260223030304.jpg" width="170"> | Giaa JKT48 | #GiAyoSahur | Senin, 23 Februari 2026 pukul 03.03.11 WIB |
 | 499 | <img src="https://cdn.idntimes.com/content-images/post/20260223/e0ececb4-71d8-4f32-a221-ef21634a746a-260223023552.jpg" width="170"> | Elin JKT48 | Hai | Senin, 23 Februari 2026 pukul 02.36.08 WIB |
