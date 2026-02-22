@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 506 | <img src="https://cdn.idntimes.com/content-images/post/20260223/74e76417-0353-487f-b9b7-7520c0398e87-260223040025.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 04.00.35 WIB |
 | 505 | <img src="https://cdn.idntimes.com/content-images/post/20260223/4f795073-38c9-4df7-9388-74b83de69801-260223034121.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 03.41.36 WIB |
 | 504 | <img src="https://cdn.idntimes.com/content-images/post/20260223/b11b0692-d0b8-464c-849a-9e81439a048c-260223033645.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 03.36.56 WIB |
 | 503 | <img src="https://cdn.idntimes.com/content-images/post/20260223/85f369d7-6525-41c0-94b8-9a56686713eb-260223033031.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 03.30.44 WIB |
