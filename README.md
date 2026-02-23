@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 523 | <img src="https://cdn.idntimes.com/content-images/post/20260224/4f795073-38c9-4df7-9388-74b83de69801-260224040602.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 04.06.12 WIB |
 | 522 | <img src="https://cdn.idntimes.com/content-images/post/20260224/e8aa0877-684a-4430-8a3b-d96302e53aab-260224034129.jpg" width="170"> | Amanda JKT48 | #TTS KE BRP? | Selasa, 24 Februari 2026 pukul 03.41.39 WIB |
 | 521 | <img src="https://cdn.idntimes.com/content-images/post/20260224/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260224033253.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 03.33.11 WIB |
 | 520 | <img src="https://cdn.idntimes.com/content-images/post/20260224/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260224033112.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 03.31.26 WIB |

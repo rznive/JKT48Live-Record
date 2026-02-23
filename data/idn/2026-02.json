@@ -3368,5 +3368,15 @@
     "live_at_unix": 1771879299,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260224/e8aa0877-684a-4430-8a3b-d96302e53aab-260224034129.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
+  },
+  {
+    "id": 523,
+    "username": "jkt48_cynthia",
+    "creator_name": "Cynthia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 24 Februari 2026 pukul 04.06.12 WIB",
+    "live_at_unix": 1771880772,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260224/4f795073-38c9-4df7-9388-74b83de69801-260224040602.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
   }
 ]
