@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 510 | <img src="https://cdn.idntimes.com/content-images/post/20260223/147e83c8-f3ac-4680-9141-2f518b4b7810-260223181159.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 18.12.12 WIB |
 | 509 | <img src="https://cdn.idntimes.com/content-images/post/20260223/e8aa0877-684a-4430-8a3b-d96302e53aab-260223162232.jpg" width="170"> | Amanda JKT48 | Baru bangun juga | Senin, 23 Februari 2026 pukul 16.22.41 WIB |
 | 508 | <img src="https://cdn.idntimes.com/content-images/post/20260223/f9500eb4-9d6d-491d-a857-40ca6f862d61-260223151615.jpg" width="170"> | Auwia JKT48 | Grwm ngobrol | Senin, 23 Februari 2026 pukul 15.16.33 WIB |
 | 507 | <img src="https://cdn.idntimes.com/content-images/post/20260223/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260223134003.jpg" width="170"> | Lily JKT48 | Sorrry | Senin, 23 Februari 2026 pukul 13.40.12 WIB |
