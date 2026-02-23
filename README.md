@@ -2,6 +2,14 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 522 | <img src="https://cdn.idntimes.com/content-images/post/20260224/e8aa0877-684a-4430-8a3b-d96302e53aab-260224034129.jpg" width="170"> | Amanda JKT48 | #TTS KE BRP? | Selasa, 24 Februari 2026 pukul 03.41.39 WIB |
+| 521 | <img src="https://cdn.idntimes.com/content-images/post/20260224/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260224033253.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 03.33.11 WIB |
+| 520 | <img src="https://cdn.idntimes.com/content-images/post/20260224/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260224033112.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 03.31.26 WIB |
+| 519 | <img src="https://cdn.idntimes.com/content-images/post/20260224/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260224033107.jpg" width="170"> | Lily JKT48 | Hii | Selasa, 24 Februari 2026 pukul 03.31.17 WIB |
+| 518 | <img src="https://cdn.idntimes.com/content-images/post/20260224/b11b0692-d0b8-464c-849a-9e81439a048c-260224033003.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 03.30.13 WIB |
+| 517 | <img src="https://cdn.idntimes.com/content-images/post/20260224/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260224032800.jpg" width="170"> | Giaa JKT48 | #GiAyoSahur | Selasa, 24 Februari 2026 pukul 03.28.11 WIB |
+| 516 | <img src="https://cdn.idntimes.com/content-images/post/20260224/147e83c8-f3ac-4680-9141-2f518b4b7810-260224031248.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 03.13.02 WIB |
+| 515 | <img src="https://cdn.idntimes.com/content-images/post/20260224/a5c72141-65a3-47be-86ef-1dc1feaab10d-260224031110.jpg" width="170"> | Anindya JKT48 | #SABARIN DAY SIXX | Selasa, 24 Februari 2026 pukul 03.11.29 WIB |
 | 514 | <img src="https://cdn.idntimes.com/content-images/post/20260224/74e76417-0353-487f-b9b7-7520c0398e87-260224024527.jpg" width="170"> | Alya JKT48 | #AlsahurYa  | Selasa, 24 Februari 2026 pukul 02.45.35 WIB |
 | 513 | <img src="https://cdn.idntimes.com/content-images/post/20260224/e0ececb4-71d8-4f32-a221-ef21634a746a-260224024405.jpg" width="170"> | Elin JKT48 | YukSahurLin | Selasa, 24 Februari 2026 pukul 02.44.12 WIB |
 | 512 | <img src="https://cdn.idntimes.com/content-images/post/20260223/33139b05-1c43-4b48-bba3-ec960b18b36e-260223230730.jpg" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 23.07.39 WIB |
