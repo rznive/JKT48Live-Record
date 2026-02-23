@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 511 | <img src="https://cdn.idntimes.com/content-images/post/20260223/e9170998-f026-4186-bbc5-a17a3b5b2af1-260223221952.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 22.20.02 WIB |
 | 510 | <img src="https://cdn.idntimes.com/content-images/post/20260223/147e83c8-f3ac-4680-9141-2f518b4b7810-260223181159.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 18.12.12 WIB |
 | 509 | <img src="https://cdn.idntimes.com/content-images/post/20260223/e8aa0877-684a-4430-8a3b-d96302e53aab-260223162232.jpg" width="170"> | Amanda JKT48 | Baru bangun juga | Senin, 23 Februari 2026 pukul 16.22.41 WIB |
 | 508 | <img src="https://cdn.idntimes.com/content-images/post/20260223/f9500eb4-9d6d-491d-a857-40ca6f862d61-260223151615.jpg" width="170"> | Auwia JKT48 | Grwm ngobrol | Senin, 23 Februari 2026 pukul 15.16.33 WIB |
