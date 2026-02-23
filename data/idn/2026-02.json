@@ -3228,5 +3228,15 @@
     "live_at_unix": 1771834593,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260223/f9500eb4-9d6d-491d-a857-40ca6f862d61-260223151615.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
+  },
+  {
+    "id": 509,
+    "username": "jkt48_amanda",
+    "creator_name": "Amanda JKT48",
+    "title": "Baru bangun juga",
+    "live_at": "Senin, 23 Februari 2026 pukul 16.22.41 WIB",
+    "live_at_unix": 1771838561,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260223/e8aa0877-684a-4430-8a3b-d96302e53aab-260223162232.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
   }
 ]
