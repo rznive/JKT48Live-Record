@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 514 | <img src="https://cdn.idntimes.com/content-images/post/20260224/74e76417-0353-487f-b9b7-7520c0398e87-260224024527.jpg" width="170"> | Alya JKT48 | #AlsahurYa  | Selasa, 24 Februari 2026 pukul 02.45.35 WIB |
+| 513 | <img src="https://cdn.idntimes.com/content-images/post/20260224/e0ececb4-71d8-4f32-a221-ef21634a746a-260224024405.jpg" width="170"> | Elin JKT48 | YukSahurLin | Selasa, 24 Februari 2026 pukul 02.44.12 WIB |
 | 512 | <img src="https://cdn.idntimes.com/content-images/post/20260223/33139b05-1c43-4b48-bba3-ec960b18b36e-260223230730.jpg" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 23.07.39 WIB |
 | 511 | <img src="https://cdn.idntimes.com/content-images/post/20260223/e9170998-f026-4186-bbc5-a17a3b5b2af1-260223221952.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 22.20.02 WIB |
 | 510 | <img src="https://cdn.idntimes.com/content-images/post/20260223/147e83c8-f3ac-4680-9141-2f518b4b7810-260223181159.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 23 Februari 2026 pukul 18.12.12 WIB |
