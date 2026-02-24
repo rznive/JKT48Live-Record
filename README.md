@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 545 | <img src="https://cdn.idntimes.com/content-images/post/20260225/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260225034623.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Rabu, 25 Februari 2026 pukul 03.46.34 WIB |
+| 544 | <img src="https://cdn.idntimes.com/content-images/post/20260225/e8aa0877-684a-4430-8a3b-d96302e53aab-260225034547.jpg" width="170"> | Amanda JKT48 | #TTS RESTREAM | Rabu, 25 Februari 2026 pukul 03.45.57 WIB |
+| 543 | <img src="https://cdn.idntimes.com/content-images/post/20260225/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260225034056.jpg" width="170"> | Erine JKT48 | Barybangun makan es pisang ijo | Rabu, 25 Februari 2026 pukul 03.41.06 WIB |
+| 542 | <img src="https://cdn.idntimes.com/content-images/post/20260225/85f369d7-6525-41c0-94b8-9a56686713eb-260225033340.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 25 Februari 2026 pukul 03.33.52 WIB |
+| 541 | <img src="https://cdn.idntimes.com/content-images/post/20260225/a5c72141-65a3-47be-86ef-1dc1feaab10d-260225032630.jpg" width="170"> | Anindya JKT48 | #SABARIN DAY SEVENNNN | Rabu, 25 Februari 2026 pukul 03.26.49 WIB |
 | 540 | <img src="https://cdn.idntimes.com/content-images/post/20260225/b11b0692-d0b8-464c-849a-9e81439a048c-260225031011.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Rabu, 25 Februari 2026 pukul 03.10.20 WIB |
 | 539 | <img src="https://cdn.idntimes.com/content-images/post/20260225/e243be19-74b7-435b-8e19-13fc669e0224-260225030927.jpg" width="170"> | Nayla JKT48 | Sahuru yuk | Rabu, 25 Februari 2026 pukul 03.09.35 WIB |
 | 538 | <img src="https://cdn.idntimes.com/content-images/post/20260224/33139b05-1c43-4b48-bba3-ec960b18b36e-260224224338.jpg" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 22.44.01 WIB |
