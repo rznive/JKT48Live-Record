@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 538 | <img src="https://cdn.idntimes.com/content-images/post/20260224/33139b05-1c43-4b48-bba3-ec960b18b36e-260224224338.jpg" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 22.44.01 WIB |
 | 537 | <img src="https://cdn.idntimes.com/content-images/post/20260224/e9170998-f026-4186-bbc5-a17a3b5b2af1-260224214229.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 21.42.47 WIB |
 | 536 | <img src="https://cdn.idntimes.com/content-images/post/20260224/e9170998-f026-4186-bbc5-a17a3b5b2af1-260224210737.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 21.07.48 WIB |
 | 535 | <img src="https://cdn.idntimes.com/content-images/post/20260224/147e83c8-f3ac-4680-9141-2f518b4b7810-260224210542.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 21.05.58 WIB |
