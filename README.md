@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 536 | <img src="https://cdn.idntimes.com/content-images/post/20260224/e9170998-f026-4186-bbc5-a17a3b5b2af1-260224210737.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 21.07.48 WIB |
+| 535 | <img src="https://cdn.idntimes.com/content-images/post/20260224/147e83c8-f3ac-4680-9141-2f518b4b7810-260224210542.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 21.05.58 WIB |
+| 534 | <img src="https://cdn.idntimes.com/content-images/post/20260224/a557ba58-12d8-4260-bd50-9e5252ac71ef-260224210536.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 21.05.54 WIB |
+| 533 | <img src="https://cdn.idntimes.com/content-images/post/20260224/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260224205639.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 20.56.55 WIB |
+| 532 | <img src="https://cdn.idntimes.com/content-images/post/20260224/85f369d7-6525-41c0-94b8-9a56686713eb-260224204624.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 20.46.39 WIB |
+| 531 | <img src="https://cdn.idntimes.com/content-images/post/20260224/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260224201139.jpg" width="170"> | Giaa JKT48 | gabuts | Selasa, 24 Februari 2026 pukul 20.11.46 WIB |
 | 530 | <img src="https://cdn.idntimes.com/content-images/post/20260224/7599c984-c466-4962-8c5b-73c1d33d59d9-260224200231.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 20.02.40 WIB |
 | 529 | <img src="https://cdn.idntimes.com/content-images/post/20260224/cae4d972-5f14-4512-9706-37c1802a0541-260224194707.jpg" width="170"> | Gracie JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 19.47.14 WIB |
 | 528 | <img src="https://cdn.idntimes.com/content-images/post/20260224/f9500eb4-9d6d-491d-a857-40ca6f862d61-260224183144.jpg" width="170"> | Auwia JKT48 | BukAuw 2 | Selasa, 24 Februari 2026 pukul 18.32.02 WIB |
