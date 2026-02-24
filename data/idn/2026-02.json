@@ -3378,5 +3378,15 @@
     "live_at_unix": 1771880772,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260224/4f795073-38c9-4df7-9388-74b83de69801-260224040602.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 524,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "ayo rayain ultah aku bubbb🥳",
+    "live_at": "Selasa, 24 Februari 2026 pukul 15.33.29 WIB",
+    "live_at_unix": 1771922009,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260224/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260224153321.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
   }
 ]
