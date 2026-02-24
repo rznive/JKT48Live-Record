@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 540 | <img src="https://cdn.idntimes.com/content-images/post/20260225/b11b0692-d0b8-464c-849a-9e81439a048c-260225031011.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Rabu, 25 Februari 2026 pukul 03.10.20 WIB |
+| 539 | <img src="https://cdn.idntimes.com/content-images/post/20260225/e243be19-74b7-435b-8e19-13fc669e0224-260225030927.jpg" width="170"> | Nayla JKT48 | Sahuru yuk | Rabu, 25 Februari 2026 pukul 03.09.35 WIB |
 | 538 | <img src="https://cdn.idntimes.com/content-images/post/20260224/33139b05-1c43-4b48-bba3-ec960b18b36e-260224224338.jpg" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 22.44.01 WIB |
 | 537 | <img src="https://cdn.idntimes.com/content-images/post/20260224/e9170998-f026-4186-bbc5-a17a3b5b2af1-260224214229.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 21.42.47 WIB |
 | 536 | <img src="https://cdn.idntimes.com/content-images/post/20260224/e9170998-f026-4186-bbc5-a17a3b5b2af1-260224210737.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 21.07.48 WIB |
