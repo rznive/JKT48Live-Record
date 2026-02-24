@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 547 | <img src="https://cdn.idntimes.com/content-images/post/20260225/4f795073-38c9-4df7-9388-74b83de69801-260225042104.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 25 Februari 2026 pukul 04.21.17 WIB |
+| 546 | <img src="https://cdn.idntimes.com/content-images/post/20260225/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260225035755.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Rabu, 25 Februari 2026 pukul 03.58.12 WIB |
 | 545 | <img src="https://cdn.idntimes.com/content-images/post/20260225/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260225034623.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Rabu, 25 Februari 2026 pukul 03.46.34 WIB |
 | 544 | <img src="https://cdn.idntimes.com/content-images/post/20260225/e8aa0877-684a-4430-8a3b-d96302e53aab-260225034547.jpg" width="170"> | Amanda JKT48 | #TTS RESTREAM | Rabu, 25 Februari 2026 pukul 03.45.57 WIB |
 | 543 | <img src="https://cdn.idntimes.com/content-images/post/20260225/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260225034056.jpg" width="170"> | Erine JKT48 | Barybangun makan es pisang ijo | Rabu, 25 Februari 2026 pukul 03.41.06 WIB |
