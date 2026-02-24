@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 530 | <img src="https://cdn.idntimes.com/content-images/post/20260224/7599c984-c466-4962-8c5b-73c1d33d59d9-260224200231.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 20.02.40 WIB |
+| 529 | <img src="https://cdn.idntimes.com/content-images/post/20260224/cae4d972-5f14-4512-9706-37c1802a0541-260224194707.jpg" width="170"> | Gracie JKT48 | Ayo ngobrol bareng! | Selasa, 24 Februari 2026 pukul 19.47.14 WIB |
 | 528 | <img src="https://cdn.idntimes.com/content-images/post/20260224/f9500eb4-9d6d-491d-a857-40ca6f862d61-260224183144.jpg" width="170"> | Auwia JKT48 | BukAuw 2 | Selasa, 24 Februari 2026 pukul 18.32.02 WIB |
 | 527 | <img src="https://cdn.idntimes.com/content-images/post/20260224/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260224181639.jpg" width="170"> | Lily JKT48 | Iftaly | Selasa, 24 Februari 2026 pukul 18.16.57 WIB |
 | 526 | <img src="https://cdn.idntimes.com/content-images/post/20260224/f9500eb4-9d6d-491d-a857-40ca6f862d61-260224180426.jpg" width="170"> | Auwia JKT48 | #BukAuw | Selasa, 24 Februari 2026 pukul 18.04.42 WIB |
