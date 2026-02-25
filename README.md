@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 558 | <img src="https://cdn.idntimes.com/content-images/post/20260226/e0ececb4-71d8-4f32-a221-ef21634a746a-260226025753.jpg" width="170"> | Elin JKT48 | yuk sahur lin | Kamis, 26 Februari 2026 pukul 02.58.00 WIB |
+| 557 | <img src="https://cdn.idntimes.com/content-images/post/20260226/b11b0692-d0b8-464c-849a-9e81439a048c-260226024251.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Kamis, 26 Februari 2026 pukul 02.42.59 WIB |
 | 556 | <img src="https://cdn.idntimes.com/content-images/post/20260226/74e76417-0353-487f-b9b7-7520c0398e87-260226023341.jpg" width="170"> | Alya JKT48 | #AlsahurYa | Kamis, 26 Februari 2026 pukul 02.33.48 WIB |
 | 555 | <img src="https://cdn.idntimes.com/content-images/post/20260225/33139b05-1c43-4b48-bba3-ec960b18b36e-260225234151.jpg" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Rabu, 25 Februari 2026 pukul 23.41.58 WIB |
 | 554 | <img src="https://cdn.idntimes.com/content-images/post/20260225/cae4d972-5f14-4512-9706-37c1802a0541-260225221714.jpg" width="170"> | Gracie JKT48 | Ayo ngobrol bareng! | Rabu, 25 Februari 2026 pukul 22.17.24 WIB |
