@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 563 | <img src="https://cdn.idntimes.com/content-images/post/20260226/4f795073-38c9-4df7-9388-74b83de69801-260226052930.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 26 Februari 2026 pukul 05.29.38 WIB |
 | 562 | <img src="https://cdn.idntimes.com/content-images/post/20260226/a5c72141-65a3-47be-86ef-1dc1feaab10d-260226042317.jpg" width="170"> | Anindya JKT48 | #SABARIN DAY EIGHTTT | Kamis, 26 Februari 2026 pukul 04.23.37 WIB |
 | 561 | <img src="https://cdn.idntimes.com/content-images/post/20260226/539f5185-1414-416c-b84d-2ad366b6d60a-260226034039.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Kamis, 26 Februari 2026 pukul 03.40.51 WIB |
 | 560 | <img src="https://cdn.idntimes.com/content-images/post/20260226/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260226032303.jpg" width="170"> | Giaa JKT48 | #GiAyoSahur | Kamis, 26 Februari 2026 pukul 03.23.13 WIB |
