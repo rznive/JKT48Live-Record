@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 552 | <img src="https://cdn.idntimes.com/content-images/post/20260225/a557ba58-12d8-4260-bd50-9e5252ac71ef-260225212927.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 25 Februari 2026 pukul 21.29.48 WIB |
 | 551 | <img src="https://cdn.idntimes.com/content-images/post/20260225/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260225203241.jpg" width="170"> | Giaa JKT48 | makan | Rabu, 25 Februari 2026 pukul 20.32.49 WIB |
 | 550 | <img src="https://cdn.idntimes.com/content-images/post/20260225/e9170998-f026-4186-bbc5-a17a3b5b2af1-260225201528.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Rabu, 25 Februari 2026 pukul 20.15.38 WIB |
 | 549 | <img src="https://cdn.idntimes.com/content-images/post/20260225/f9500eb4-9d6d-491d-a857-40ca6f862d61-260225200034.jpg" width="170"> | Auwia JKT48 | HAAAAIII | Rabu, 25 Februari 2026 pukul 20.00.50 WIB |
