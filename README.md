@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 548 | <img src="https://cdn.idntimes.com/content-images/post/20260225/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260225190352.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Rabu, 25 Februari 2026 pukul 19.04.07 WIB |
 | 547 | <img src="https://cdn.idntimes.com/content-images/post/20260225/4f795073-38c9-4df7-9388-74b83de69801-260225042104.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 25 Februari 2026 pukul 04.21.17 WIB |
 | 546 | <img src="https://cdn.idntimes.com/content-images/post/20260225/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260225035755.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Rabu, 25 Februari 2026 pukul 03.58.12 WIB |
 | 545 | <img src="https://cdn.idntimes.com/content-images/post/20260225/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260225034623.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Rabu, 25 Februari 2026 pukul 03.46.34 WIB |
