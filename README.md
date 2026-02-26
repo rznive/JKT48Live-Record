@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 565 | <img src="https://cdn.idntimes.com/content-images/post/20260226/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260226141433.jpg" width="170"> | Lily JKT48 | Tess | Kamis, 26 Februari 2026 pukul 14.14.43 WIB |
 | 564 | <img src="https://cdn.idntimes.com/content-images/post/20260226/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260226134359.jpg" width="170"> | Olla JKT48 | OllangTahun | Kamis, 26 Februari 2026 pukul 13.44.07 WIB |
 | 563 | <img src="https://cdn.idntimes.com/content-images/post/20260226/4f795073-38c9-4df7-9388-74b83de69801-260226052930.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 26 Februari 2026 pukul 05.29.38 WIB |
 | 562 | <img src="https://cdn.idntimes.com/content-images/post/20260226/a5c72141-65a3-47be-86ef-1dc1feaab10d-260226042317.jpg" width="170"> | Anindya JKT48 | #SABARIN DAY EIGHTTT | Kamis, 26 Februari 2026 pukul 04.23.37 WIB |
