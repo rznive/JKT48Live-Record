@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 569 | <img src="https://cdn.idntimes.com/content-images/post/20260226/4f795073-38c9-4df7-9388-74b83de69801-260226172434.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 26 Februari 2026 pukul 17.24.45 WIB |
+| 568 | <img src="https://cdn.idntimes.com/content-images/post/20260226/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260226171149.jpg" width="170"> | Greesel JKT48 | NgabubuGrees~ | Kamis, 26 Februari 2026 pukul 17.11.56 WIB |
+| 567 | <img src="https://cdn.idntimes.com/content-images/post/20260226/e9170998-f026-4186-bbc5-a17a3b5b2af1-260226170404.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Kamis, 26 Februari 2026 pukul 17.04.15 WIB |
+| 566 | <img src="https://cdn.idntimes.com/content-images/post/20260226/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260226165141.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Kamis, 26 Februari 2026 pukul 16.51.57 WIB |
 | 565 | <img src="https://cdn.idntimes.com/content-images/post/20260226/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260226141433.jpg" width="170"> | Lily JKT48 | Tess | Kamis, 26 Februari 2026 pukul 14.14.43 WIB |
 | 564 | <img src="https://cdn.idntimes.com/content-images/post/20260226/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260226134359.jpg" width="170"> | Olla JKT48 | OllangTahun | Kamis, 26 Februari 2026 pukul 13.44.07 WIB |
 | 563 | <img src="https://cdn.idntimes.com/content-images/post/20260226/4f795073-38c9-4df7-9388-74b83de69801-260226052930.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 26 Februari 2026 pukul 05.29.38 WIB |
