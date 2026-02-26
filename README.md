@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 579 | <img src="https://cdn.idntimes.com/content-images/post/20260227/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260227034948.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Jumat, 27 Februari 2026 pukul 03.50.05 WIB |
+| 578 | <img src="https://cdn.idntimes.com/content-images/post/20260227/e8aa0877-684a-4430-8a3b-d96302e53aab-260227033859.jpg" width="170"> | Amanda JKT48 | #TTS ke brp ni? | Jumat, 27 Februari 2026 pukul 03.39.08 WIB |
 | 577 | <img src="https://cdn.idntimes.com/content-images/post/20260227/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260227023802.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Jumat, 27 Februari 2026 pukul 02.38.18 WIB |
 | 576 | <img src="https://cdn.idntimes.com/content-images/post/20260227/a5c72141-65a3-47be-86ef-1dc1feaab10d-260227023351.jpg" width="170"> | Anindya JKT48 | #SABARIN DAAAYYY NINEEE | Jumat, 27 Februari 2026 pukul 02.34.07 WIB |
 | 575 | <img src="https://cdn.idntimes.com/content-images/post/20260226/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260226205544.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Kamis, 26 Februari 2026 pukul 20.55.59 WIB |
