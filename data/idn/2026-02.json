@@ -3898,5 +3898,25 @@
     "live_at_unix": 1772114159,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260226/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260226205544.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 576,
+    "username": "jkt48_anindya",
+    "creator_name": "Anindya JKT48",
+    "title": "#SABARIN DAAAYYY NINEEE",
+    "live_at": "Jumat, 27 Februari 2026 pukul 02.34.07 WIB",
+    "live_at_unix": 1772134447,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260227/a5c72141-65a3-47be-86ef-1dc1feaab10d-260227023351.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8"
+  },
+  {
+    "id": 577,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 27 Februari 2026 pukul 02.38.18 WIB",
+    "live_at_unix": 1772134698,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260227/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260227023802.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
   }
 ]

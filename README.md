@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 577 | <img src="https://cdn.idntimes.com/content-images/post/20260227/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260227023802.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Jumat, 27 Februari 2026 pukul 02.38.18 WIB |
+| 576 | <img src="https://cdn.idntimes.com/content-images/post/20260227/a5c72141-65a3-47be-86ef-1dc1feaab10d-260227023351.jpg" width="170"> | Anindya JKT48 | #SABARIN DAAAYYY NINEEE | Jumat, 27 Februari 2026 pukul 02.34.07 WIB |
 | 575 | <img src="https://cdn.idntimes.com/content-images/post/20260226/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260226205544.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Kamis, 26 Februari 2026 pukul 20.55.59 WIB |
 | 574 | <img src="https://cdn.idntimes.com/content-images/post/20260226/a557ba58-12d8-4260-bd50-9e5252ac71ef-260226204742.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 26 Februari 2026 pukul 20.47.55 WIB |
 | 573 | <img src="https://cdn.idntimes.com/content-images/post/20260226/147e83c8-f3ac-4680-9141-2f518b4b7810-260226203114.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Kamis, 26 Februari 2026 pukul 20.31.28 WIB |
