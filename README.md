@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 570 | <img src="https://cdn.idntimes.com/content-images/post/20260226/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260226180124.jpg" width="170"> | Greesel JKT48 | lanjutt | Kamis, 26 Februari 2026 pukul 18.01.34 WIB |
 | 569 | <img src="https://cdn.idntimes.com/content-images/post/20260226/4f795073-38c9-4df7-9388-74b83de69801-260226172434.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 26 Februari 2026 pukul 17.24.45 WIB |
 | 568 | <img src="https://cdn.idntimes.com/content-images/post/20260226/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260226171149.jpg" width="170"> | Greesel JKT48 | NgabubuGrees~ | Kamis, 26 Februari 2026 pukul 17.11.56 WIB |
 | 567 | <img src="https://cdn.idntimes.com/content-images/post/20260226/e9170998-f026-4186-bbc5-a17a3b5b2af1-260226170404.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Kamis, 26 Februari 2026 pukul 17.04.15 WIB |
