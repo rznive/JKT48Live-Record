@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 581 | <img src="https://cdn.idntimes.com/content-images/post/20260227/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260227040944.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Jumat, 27 Februari 2026 pukul 04.10.03 WIB |
+| 580 | <img src="https://cdn.idntimes.com/content-images/post/20260227/b11b0692-d0b8-464c-849a-9e81439a048c-260227040800.jpg" width="170"> | Daisy JKT48 | Daisahur | Jumat, 27 Februari 2026 pukul 04.08.10 WIB |
 | 579 | <img src="https://cdn.idntimes.com/content-images/post/20260227/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260227034948.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Jumat, 27 Februari 2026 pukul 03.50.05 WIB |
 | 578 | <img src="https://cdn.idntimes.com/content-images/post/20260227/e8aa0877-684a-4430-8a3b-d96302e53aab-260227033859.jpg" width="170"> | Amanda JKT48 | #TTS ke brp ni? | Jumat, 27 Februari 2026 pukul 03.39.08 WIB |
 | 577 | <img src="https://cdn.idntimes.com/content-images/post/20260227/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260227023802.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Jumat, 27 Februari 2026 pukul 02.38.18 WIB |
