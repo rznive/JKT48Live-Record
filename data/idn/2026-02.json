@@ -3848,5 +3848,15 @@
     "live_at_unix": 1772103694,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260226/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260226180124.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.z3nXSqOvE9Fs.m3u8"
+  },
+  {
+    "id": 571,
+    "username": "jkt48_eli",
+    "creator_name": "Eli JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 26 Februari 2026 pukul 18.22.06 WIB",
+    "live_at_unix": 1772104926,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260226/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260226182147.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8"
   }
 ]
