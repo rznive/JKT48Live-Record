@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 596 | <img src="https://cdn.idntimes.com/content-images/post/20260228/717109e0-a064-4f15-8187-5c4d46e56a58-260228033343.jpg" width="170"> | Fritzy JKT48 | #ZYAHURRR | Sabtu, 28 Februari 2026 pukul 03.34.04 WIB |
 | 595 | <img src="https://cdn.idntimes.com/content-images/post/20260228/a5c72141-65a3-47be-86ef-1dc1feaab10d-260228033032.jpg" width="170"> | Anindya JKT48 | #SABARIN DAAAY TEEENNN | Sabtu, 28 Februari 2026 pukul 03.30.50 WIB |
 | 594 | <img src="https://cdn.idntimes.com/content-images/post/20260228/74e76417-0353-487f-b9b7-7520c0398e87-260228031440.jpg" width="170"> | Alya JKT48 | #AlsahurYa | Sabtu, 28 Februari 2026 pukul 03.14.49 WIB |
 | 592 | <img src="https://cdn.idntimes.com/content-images/post/20260228/4f795073-38c9-4df7-9388-74b83de69801-260228031002.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Februari 2026 pukul 03.10.15 WIB |
