@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 595 | <img src="https://cdn.idntimes.com/content-images/post/20260228/a5c72141-65a3-47be-86ef-1dc1feaab10d-260228033032.jpg" width="170"> | Anindya JKT48 | #SABARIN DAAAY TEEENNN | Sabtu, 28 Februari 2026 pukul 03.30.50 WIB |
+| 594 | <img src="https://cdn.idntimes.com/content-images/post/20260228/74e76417-0353-487f-b9b7-7520c0398e87-260228031440.jpg" width="170"> | Alya JKT48 | #AlsahurYa | Sabtu, 28 Februari 2026 pukul 03.14.49 WIB |
+| 592 | <img src="https://cdn.idntimes.com/content-images/post/20260228/4f795073-38c9-4df7-9388-74b83de69801-260228031002.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Februari 2026 pukul 03.10.15 WIB |
+| 593 | <img src="https://cdn.idntimes.com/content-images/post/20260228/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260228030957.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Februari 2026 pukul 03.10.15 WIB |
 | 591 | <img src="https://cdn.idntimes.com/content-images/post/20260228/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260228025056.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Februari 2026 pukul 02.51.12 WIB |
 | 590 | <img src="https://cdn.idntimes.com/content-images/post/20260228/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260228024846.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Februari 2026 pukul 02.49.02 WIB |
 | 589 | <img src="https://cdn.idntimes.com/content-images/post/20260227/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260227213945.jpg" width="170"> | Intan JKT48 | ulang bang | Jumat, 27 Februari 2026 pukul 21.39.54 WIB |
