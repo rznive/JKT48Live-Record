@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 591 | <img src="https://cdn.idntimes.com/content-images/post/20260228/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260228025056.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Februari 2026 pukul 02.51.12 WIB |
+| 590 | <img src="https://cdn.idntimes.com/content-images/post/20260228/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260228024846.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Februari 2026 pukul 02.49.02 WIB |
 | 589 | <img src="https://cdn.idntimes.com/content-images/post/20260227/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260227213945.jpg" width="170"> | Intan JKT48 | ulang bang | Jumat, 27 Februari 2026 pukul 21.39.54 WIB |
 | 588 | <img src="https://cdn.idntimes.com/content-images/post/20260227/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260227210219.jpg" width="170"> | Intan JKT48 | hi | Jumat, 27 Februari 2026 pukul 21.02.28 WIB |
 | 587 | <img src="https://cdn.idntimes.com/content-images/post/20260227/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260227205748.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 27 Februari 2026 pukul 20.58.06 WIB |
