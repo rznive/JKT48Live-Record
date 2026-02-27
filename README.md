@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 588 | <img src="https://cdn.idntimes.com/content-images/post/20260227/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260227210219.jpg" width="170"> | Intan JKT48 | hi | Jumat, 27 Februari 2026 pukul 21.02.28 WIB |
+| 587 | <img src="https://cdn.idntimes.com/content-images/post/20260227/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260227205748.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 27 Februari 2026 pukul 20.58.06 WIB |
 | 586 | <img src="https://cdn.idntimes.com/content-images/post/20260227/e0ececb4-71d8-4f32-a221-ef21634a746a-260227181202.jpg" width="170"> | Elin JKT48 | Hai #BerbukaLin | Jumat, 27 Februari 2026 pukul 18.12.08 WIB |
 | 585 | <img src="https://cdn.idntimes.com/content-images/post/20260227/4f795073-38c9-4df7-9388-74b83de69801-260227172534.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Jumat, 27 Februari 2026 pukul 17.25.41 WIB |
 | 584 | <img src="https://cdn.idntimes.com/content-images/post/20260227/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260227162539.jpg" width="170"> | Giaa JKT48 | p | Jumat, 27 Februari 2026 pukul 16.25.46 WIB |
