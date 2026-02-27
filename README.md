@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 584 | <img src="https://cdn.idntimes.com/content-images/post/20260227/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260227162539.jpg" width="170"> | Giaa JKT48 | p | Jumat, 27 Februari 2026 pukul 16.25.46 WIB |
 | 583 | <img src="https://cdn.idntimes.com/content-images/post/20260227/f001ba66-3c51-4849-9afa-13cf74eb1571-260227160120.jpg" width="170"> | Aralie JKT48 | Ayo ngobrol bareng! | Jumat, 27 Februari 2026 pukul 16.01.32 WIB |
 | 582 | <img src="https://cdn.idntimes.com/content-images/post/20260227/f740e9da-772f-4ae2-8ddd-49f717aacf63-260227140837.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Jumat, 27 Februari 2026 pukul 14.08.49 WIB |
 | 581 | <img src="https://cdn.idntimes.com/content-images/post/20260227/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260227040944.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Jumat, 27 Februari 2026 pukul 04.10.03 WIB |
