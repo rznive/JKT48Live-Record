@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 611 | <img src="https://cdn.idntimes.com/content-images/post/20260301/85f369d7-6525-41c0-94b8-9a56686713eb-260301033043.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 03.30.56 WIB |
+| 610 | <img src="https://cdn.idntimes.com/content-images/post/20260301/74e76417-0353-487f-b9b7-7520c0398e87-260301032622.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 03.26.31 WIB |
+| 609 | <img src="https://cdn.idntimes.com/content-images/post/20260301/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260301032118.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 03.21.37 WIB |
+| 608 | <img src="https://cdn.idntimes.com/content-images/post/20260301/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260301031200.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 03.12.07 WIB |
 | 607 | <img src="https://cdn.idntimes.com/content-images/post/20260301/e0ececb4-71d8-4f32-a221-ef21634a746a-260301030026.jpg" width="170"> | Elin JKT48 | Yuksahurlin  | Minggu, 01 Maret 2026 pukul 03.00.32 WIB |
 | 606 | <img src="https://cdn.idntimes.com/content-images/post/20260301/4f795073-38c9-4df7-9388-74b83de69801-260301030006.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 03.00.18 WIB |
 | 605 | <img src="https://cdn.idntimes.com/content-images/post/20260301/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260301030003.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 03.00.11 WIB |
