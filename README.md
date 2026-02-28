@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 598 | <img src="https://cdn.idntimes.com/content-images/post/20260228/82ffac10-ee56-43d0-ad38-ce432384cfe5-260228164514.jpg" width="170"> | Gita JKT48 | Gits | Sabtu, 28 Februari 2026 pukul 16.45.26 WIB |
 | 597 | <img src="https://cdn.idntimes.com/content-images/post/20260228/f9500eb4-9d6d-491d-a857-40ca6f862d61-260228094940.jpg" width="170"> | Auwia JKT48 | Live gabut hehe | Sabtu, 28 Februari 2026 pukul 09.49.55 WIB |
 | 596 | <img src="https://cdn.idntimes.com/content-images/post/20260228/717109e0-a064-4f15-8187-5c4d46e56a58-260228033343.jpg" width="170"> | Fritzy JKT48 | #ZYAHURRR | Sabtu, 28 Februari 2026 pukul 03.34.04 WIB |
 | 595 | <img src="https://cdn.idntimes.com/content-images/post/20260228/a5c72141-65a3-47be-86ef-1dc1feaab10d-260228033032.jpg" width="170"> | Anindya JKT48 | #SABARIN DAAAY TEEENNN | Sabtu, 28 Februari 2026 pukul 03.30.50 WIB |
