@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 600 | <img src="https://cdn.idntimes.com/content-images/post/20260228/e9170998-f026-4186-bbc5-a17a3b5b2af1-260228195948.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Februari 2026 pukul 19.59.57 WIB |
 | 599 | <img src="https://cdn.idntimes.com/content-images/post/20260228/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260228182219.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Februari 2026 pukul 18.22.29 WIB |
 | 598 | <img src="https://cdn.idntimes.com/content-images/post/20260228/82ffac10-ee56-43d0-ad38-ce432384cfe5-260228164514.jpg" width="170"> | Gita JKT48 | Gits | Sabtu, 28 Februari 2026 pukul 16.45.26 WIB |
 | 597 | <img src="https://cdn.idntimes.com/content-images/post/20260228/f9500eb4-9d6d-491d-a857-40ca6f862d61-260228094940.jpg" width="170"> | Auwia JKT48 | Live gabut hehe | Sabtu, 28 Februari 2026 pukul 09.49.55 WIB |
