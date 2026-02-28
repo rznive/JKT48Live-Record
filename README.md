@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 602 | <img src="https://cdn.idntimes.com/content-images/post/20260228/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260228211654.jpg" width="170"> | Giaa JKT48 | p | Sabtu, 28 Februari 2026 pukul 21.17.04 WIB |
+| 601 | <img src="https://cdn.idntimes.com/content-images/post/20260228/e9170998-f026-4186-bbc5-a17a3b5b2af1-260228211552.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Februari 2026 pukul 21.16.01 WIB |
 | 600 | <img src="https://cdn.idntimes.com/content-images/post/20260228/e9170998-f026-4186-bbc5-a17a3b5b2af1-260228195948.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Februari 2026 pukul 19.59.57 WIB |
 | 599 | <img src="https://cdn.idntimes.com/content-images/post/20260228/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260228182219.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Februari 2026 pukul 18.22.29 WIB |
 | 598 | <img src="https://cdn.idntimes.com/content-images/post/20260228/82ffac10-ee56-43d0-ad38-ce432384cfe5-260228164514.jpg" width="170"> | Gita JKT48 | Gits | Sabtu, 28 Februari 2026 pukul 16.45.26 WIB |
