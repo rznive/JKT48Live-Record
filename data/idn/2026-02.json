@@ -4178,5 +4178,15 @@
     "live_at_unix": 1772292050,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260228/85f369d7-6525-41c0-94b8-9a56686713eb-260228222037.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
+  },
+  {
+    "id": 604,
+    "username": "jkt48_daisy",
+    "creator_name": "Daisy JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 01 Maret 2026 pukul 01.34.57 WIB",
+    "live_at_unix": 1772303697,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260301/b11b0692-d0b8-464c-849a-9e81439a048c-260301013449.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
   }
 ]
