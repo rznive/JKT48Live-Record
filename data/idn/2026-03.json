@@ -98,5 +98,25 @@
     "live_at_unix": 1772376336,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260301/85f369d7-6525-41c0-94b8-9a56686713eb-260301214523.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
+  },
+  {
+    "id": 622,
+    "username": "jkt48_amanda",
+    "creator_name": "Amanda JKT48",
+    "title": "#TTS again",
+    "live_at": "Senin, 02 Maret 2026 pukul 03.43.18 WIB",
+    "live_at_unix": 1772397798,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260302/e8aa0877-684a-4430-8a3b-d96302e53aab-260302034309.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
+  },
+  {
+    "id": 623,
+    "username": "jkt48_alya",
+    "creator_name": "Alya JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 02 Maret 2026 pukul 03.56.02 WIB",
+    "live_at_unix": 1772398562,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260302/74e76417-0353-487f-b9b7-7520c0398e87-260302035540.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sLZkhRvMutd4.m3u8"
   }
 ]

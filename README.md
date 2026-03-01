@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 623 | <img src="https://cdn.idntimes.com/content-images/post/20260302/74e76417-0353-487f-b9b7-7520c0398e87-260302035540.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 03.56.02 WIB |
+| 622 | <img src="https://cdn.idntimes.com/content-images/post/20260302/e8aa0877-684a-4430-8a3b-d96302e53aab-260302034309.jpg" width="170"> | Amanda JKT48 | #TTS again | Senin, 02 Maret 2026 pukul 03.43.18 WIB |
 | 621 | <img src="https://cdn.idntimes.com/content-images/post/20260301/85f369d7-6525-41c0-94b8-9a56686713eb-260301214523.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 21.45.36 WIB |
 | 620 | <img src="https://cdn.idntimes.com/content-images/post/20260301/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260301210237.jpg" width="170"> | Giaa JKT48 | malaamm | Minggu, 01 Maret 2026 pukul 21.02.45 WIB |
 | 619 | <img src="https://cdn.idntimes.com/content-images/post/20260301/147e83c8-f3ac-4680-9141-2f518b4b7810-260301205841.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 20.58.55 WIB |
