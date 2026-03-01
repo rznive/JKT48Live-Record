@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 621 | <img src="https://cdn.idntimes.com/content-images/post/20260301/85f369d7-6525-41c0-94b8-9a56686713eb-260301214523.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 21.45.36 WIB |
 | 620 | <img src="https://cdn.idntimes.com/content-images/post/20260301/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260301210237.jpg" width="170"> | Giaa JKT48 | malaamm | Minggu, 01 Maret 2026 pukul 21.02.45 WIB |
 | 619 | <img src="https://cdn.idntimes.com/content-images/post/20260301/147e83c8-f3ac-4680-9141-2f518b4b7810-260301205841.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 20.58.55 WIB |
 | 618 | <img src="https://cdn.idntimes.com/content-images/post/20260301/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260301204146.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 20.42.02 WIB |
