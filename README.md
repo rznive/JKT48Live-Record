@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 617 | <img src="https://cdn.idntimes.com/content-images/post/20260301/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260301202007.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 20.20.15 WIB |
 | 616 | <img src="https://cdn.idntimes.com/content-images/post/20260301/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260301175632.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 17.56.43 WIB |
 | 615 | <img src="https://cdn.idntimes.com/content-images/post/20260301/f001ba66-3c51-4849-9afa-13cf74eb1571-260301154531.jpg" width="170"> | Aralie JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 15.45.42 WIB |
 | 614 | <img src="https://cdn.idntimes.com/content-images/post/20260301/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260301143050.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 14.31.06 WIB |
