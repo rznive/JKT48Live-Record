@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 620 | <img src="https://cdn.idntimes.com/content-images/post/20260301/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260301210237.jpg" width="170"> | Giaa JKT48 | malaamm | Minggu, 01 Maret 2026 pukul 21.02.45 WIB |
+| 619 | <img src="https://cdn.idntimes.com/content-images/post/20260301/147e83c8-f3ac-4680-9141-2f518b4b7810-260301205841.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 20.58.55 WIB |
 | 618 | <img src="https://cdn.idntimes.com/content-images/post/20260301/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260301204146.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 20.42.02 WIB |
 | 617 | <img src="https://cdn.idntimes.com/content-images/post/20260301/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260301202007.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 20.20.15 WIB |
 | 616 | <img src="https://cdn.idntimes.com/content-images/post/20260301/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260301175632.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Minggu, 01 Maret 2026 pukul 17.56.43 WIB |
