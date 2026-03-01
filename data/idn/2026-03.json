@@ -1,0 +1,12 @@
+[
+  {
+    "id": 612,
+    "username": "jkt48_cathy",
+    "creator_name": "Cathy JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 01 Maret 2026 pukul 12.30.37 WIB",
+    "live_at_unix": 1772343037,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260301/f740e9da-772f-4ae2-8ddd-49f717aacf63-260301123024.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Q0uEvM6Dl951.m3u8"
+  }
+]
