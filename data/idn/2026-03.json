@@ -28,5 +28,15 @@
     "live_at_unix": 1772350266,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260301/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260301143050.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 615,
+    "username": "jkt48_aralie",
+    "creator_name": "Aralie JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 01 Maret 2026 pukul 15.45.42 WIB",
+    "live_at_unix": 1772354742,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260301/f001ba66-3c51-4849-9afa-13cf74eb1571-260301154531.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oxXRFBYUK9HN.m3u8"
   }
 ]
