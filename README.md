@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 625 | <img src="https://cdn.idntimes.com/content-images/post/20260302/7599c984-c466-4962-8c5b-73c1d33d59d9-260302130723.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 13.07.31 WIB |
 | 624 | <img src="https://cdn.idntimes.com/content-images/post/20260302/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260302040519.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 04.05.35 WIB |
 | 623 | <img src="https://cdn.idntimes.com/content-images/post/20260302/74e76417-0353-487f-b9b7-7520c0398e87-260302035540.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 03.56.02 WIB |
 | 622 | <img src="https://cdn.idntimes.com/content-images/post/20260302/e8aa0877-684a-4430-8a3b-d96302e53aab-260302034309.jpg" width="170"> | Amanda JKT48 | #TTS again | Senin, 02 Maret 2026 pukul 03.43.18 WIB |
