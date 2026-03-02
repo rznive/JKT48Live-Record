@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 631 | <img src="https://cdn.idntimes.com/content-images/post/20260302/728d224e-6ccb-43d2-a029-a0147dc7fdee-260302230147.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 23.02.03 WIB |
 | 630 | <img src="https://cdn.idntimes.com/content-images/post/20260302/a557ba58-12d8-4260-bd50-9e5252ac71ef-260302223331.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 22.33.44 WIB |
 | 629 | <img src="https://cdn.idntimes.com/content-images/post/20260302/85f369d7-6525-41c0-94b8-9a56686713eb-260302221227.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 22.12.42 WIB |
 | 628 | <img src="https://cdn.idntimes.com/content-images/post/20260302/e9170998-f026-4186-bbc5-a17a3b5b2af1-260302221004.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 22.10.16 WIB |
