@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 626 | <img src="https://cdn.idntimes.com/content-images/post/20260302/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260302210608.jpg" width="170"> | Giaa JKT48 | Ulanggg | Senin, 02 Maret 2026 pukul 21.06.16 WIB |
 | 625 | <img src="https://cdn.idntimes.com/content-images/post/20260302/7599c984-c466-4962-8c5b-73c1d33d59d9-260302130723.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 13.07.31 WIB |
 | 624 | <img src="https://cdn.idntimes.com/content-images/post/20260302/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260302040519.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 04.05.35 WIB |
 | 623 | <img src="https://cdn.idntimes.com/content-images/post/20260302/74e76417-0353-487f-b9b7-7520c0398e87-260302035540.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 03.56.02 WIB |
