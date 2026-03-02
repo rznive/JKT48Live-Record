@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 630 | <img src="https://cdn.idntimes.com/content-images/post/20260302/a557ba58-12d8-4260-bd50-9e5252ac71ef-260302223331.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 22.33.44 WIB |
+| 629 | <img src="https://cdn.idntimes.com/content-images/post/20260302/85f369d7-6525-41c0-94b8-9a56686713eb-260302221227.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 22.12.42 WIB |
+| 628 | <img src="https://cdn.idntimes.com/content-images/post/20260302/e9170998-f026-4186-bbc5-a17a3b5b2af1-260302221004.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 22.10.16 WIB |
 | 627 | <img src="https://cdn.idntimes.com/content-images/post/20260302/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260302213737.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 21.37.51 WIB |
 | 626 | <img src="https://cdn.idntimes.com/content-images/post/20260302/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260302210608.jpg" width="170"> | Giaa JKT48 | Ulanggg | Senin, 02 Maret 2026 pukul 21.06.16 WIB |
 | 625 | <img src="https://cdn.idntimes.com/content-images/post/20260302/7599c984-c466-4962-8c5b-73c1d33d59d9-260302130723.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 13.07.31 WIB |
