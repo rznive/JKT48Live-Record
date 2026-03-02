@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 635 | <img src="https://cdn.idntimes.com/content-images/post/20260303/b11b0692-d0b8-464c-849a-9e81439a048c-260303025335.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Selasa, 03 Maret 2026 pukul 02.53.43 WIB |
+| 634 | <img src="https://cdn.idntimes.com/content-images/post/20260303/e0ececb4-71d8-4f32-a221-ef21634a746a-260303025215.jpg" width="170"> | Elin JKT48 | Hai | Selasa, 03 Maret 2026 pukul 02.52.21 WIB |
 | 633 | <img src="https://cdn.idntimes.com/content-images/post/20260302/728d224e-6ccb-43d2-a029-a0147dc7fdee-260302234350.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 23.44.05 WIB |
 | 632 | <img src="https://cdn.idntimes.com/content-images/post/20260302/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260302230720.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 23.07.39 WIB |
 | 631 | <img src="https://cdn.idntimes.com/content-images/post/20260302/728d224e-6ccb-43d2-a029-a0147dc7fdee-260302230147.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Senin, 02 Maret 2026 pukul 23.02.03 WIB |
