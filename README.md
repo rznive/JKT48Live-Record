@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 639 | <img src="https://cdn.idntimes.com/content-images/post/20260303/a9579a29-9203-40c0-9326-9837b8eae6e8-260303144930.jpg" width="170"> | Jessi JKT48 | h | Selasa, 03 Maret 2026 pukul 14.49.49 WIB |
+| 638 | <img src="https://cdn.idntimes.com/content-images/post/20260303/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260303144130.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Selasa, 03 Maret 2026 pukul 14.41.38 WIB |
 | 637 | <img src="https://cdn.idntimes.com/content-images/post/20260303/74e76417-0353-487f-b9b7-7520c0398e87-260303033107.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Selasa, 03 Maret 2026 pukul 03.31.16 WIB |
 | 636 | <img src="https://cdn.idntimes.com/content-images/post/20260303/e2af7271-2598-4ee8-8760-68043e671e6d-260303032753.jpg" width="170"> | Lana JKT48 | Hiii | Selasa, 03 Maret 2026 pukul 03.28.00 WIB |
 | 635 | <img src="https://cdn.idntimes.com/content-images/post/20260303/b11b0692-d0b8-464c-849a-9e81439a048c-260303025335.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Selasa, 03 Maret 2026 pukul 02.53.43 WIB |
