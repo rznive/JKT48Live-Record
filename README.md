@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 642 | <img src="https://cdn.idntimes.com/content-images/post/20260303/e9170998-f026-4186-bbc5-a17a3b5b2af1-260303165450.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Selasa, 03 Maret 2026 pukul 16.55.02 WIB |
+| 641 | <img src="https://cdn.idntimes.com/content-images/post/20260303/50a27780-93e7-4e40-8474-60f6e0cca6da-260303164649.jpg" width="170"> | JKT48 | Nunggu Bedug EP.2 | Selasa, 03 Maret 2026 pukul 16.46.56 WIB |
+| 640 | <img src="https://cdn.idntimes.com/content-images/post/20260303/266ef38a-da00-4d13-ba77-f94da68599ee-260303161900.jpg" width="170"> | Delynn JKT48 | Hi | Selasa, 03 Maret 2026 pukul 16.19.17 WIB |
 | 639 | <img src="https://cdn.idntimes.com/content-images/post/20260303/a9579a29-9203-40c0-9326-9837b8eae6e8-260303144930.jpg" width="170"> | Jessi JKT48 | h | Selasa, 03 Maret 2026 pukul 14.49.49 WIB |
 | 638 | <img src="https://cdn.idntimes.com/content-images/post/20260303/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260303144130.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Selasa, 03 Maret 2026 pukul 14.41.38 WIB |
 | 637 | <img src="https://cdn.idntimes.com/content-images/post/20260303/74e76417-0353-487f-b9b7-7520c0398e87-260303033107.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Selasa, 03 Maret 2026 pukul 03.31.16 WIB |
