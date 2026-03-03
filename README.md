@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 648 | <img src="https://cdn.idntimes.com/content-images/post/20260303/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260303193138.jpg" width="170"> | Giaa JKT48 | haii | Selasa, 03 Maret 2026 pukul 19.31.47 WIB |
+| 647 | <img src="https://cdn.idntimes.com/content-images/post/20260303/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260303192930.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Selasa, 03 Maret 2026 pukul 19.29.45 WIB |
+| 646 | <img src="https://cdn.idntimes.com/content-images/post/20260303/7599c984-c466-4962-8c5b-73c1d33d59d9-260303192925.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 03 Maret 2026 pukul 19.29.32 WIB |
+| 645 | <img src="https://cdn.idntimes.com/content-images/post/20260303/147e83c8-f3ac-4680-9141-2f518b4b7810-260303192906.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 03 Maret 2026 pukul 19.29.18 WIB |
 | 644 | <img src="https://cdn.idntimes.com/content-images/post/20260303/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260303180245.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Selasa, 03 Maret 2026 pukul 18.03.03 WIB |
 | 643 | <img src="https://cdn.idntimes.com/content-images/post/20260303/266ef38a-da00-4d13-ba77-f94da68599ee-260303175823.jpg" width="170"> | Delynn JKT48 | Omg | Selasa, 03 Maret 2026 pukul 17.58.38 WIB |
 | 642 | <img src="https://cdn.idntimes.com/content-images/post/20260303/e9170998-f026-4186-bbc5-a17a3b5b2af1-260303165450.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Selasa, 03 Maret 2026 pukul 16.55.02 WIB |
