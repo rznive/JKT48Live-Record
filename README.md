@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 653 | <img src="https://cdn.idntimes.com/content-images/post/20260304/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260304142909.jpg" width="170"> | Giaa JKT48 | live bntrr sebelum vc | Rabu, 04 Maret 2026 pukul 14.29.16 WIB |
 | 652 | <img src="https://cdn.idntimes.com/content-images/post/20260304/f9500eb4-9d6d-491d-a857-40ca6f862d61-260304132921.jpg" width="170"> | Auwia JKT48 | Grem | Rabu, 04 Maret 2026 pukul 13.29.35 WIB |
 | 651 | <img src="https://cdn.idntimes.com/content-images/post/20260304/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260304103600.jpg" width="170"> | Lily JKT48 | Grwm | Rabu, 04 Maret 2026 pukul 10.36.08 WIB |
 | 650 | <img src="https://cdn.idntimes.com/content-images/post/20260304/e8aa0877-684a-4430-8a3b-d96302e53aab-260304035234.jpg" width="170"> | Amanda JKT48 | #TTS  | Rabu, 04 Maret 2026 pukul 03.52.43 WIB |
