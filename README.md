@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 661 | <img src="https://cdn.idntimes.com/content-images/post/20260305/e2af7271-2598-4ee8-8760-68043e671e6d-260305031717.jpg" width="170"> | Lana JKT48 | Sahurrr | Kamis, 05 Maret 2026 pukul 03.17.25 WIB |
+| 660 | <img src="https://cdn.idntimes.com/content-images/post/20260305/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260305030329.jpg" width="170"> | Lily JKT48 | Sahur | Kamis, 05 Maret 2026 pukul 03.03.36 WIB |
+| 659 | <img src="https://cdn.idntimes.com/content-images/post/20260305/e0ececb4-71d8-4f32-a221-ef21634a746a-260305025932.jpg" width="170"> | Elin JKT48 | Makan bareng | Kamis, 05 Maret 2026 pukul 02.59.39 WIB |
 | 658 | <img src="https://cdn.idntimes.com/content-images/post/20260305/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260305024855.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Kamis, 05 Maret 2026 pukul 02.49.11 WIB |
 | 657 | <img src="https://cdn.idntimes.com/content-images/post/20260304/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260304183523.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Rabu, 04 Maret 2026 pukul 18.35.38 WIB |
 | 656 | <img src="https://cdn.idntimes.com/content-images/post/20260304/b11b0692-d0b8-464c-849a-9e81439a048c-260304174218.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Rabu, 04 Maret 2026 pukul 17.42.26 WIB |
