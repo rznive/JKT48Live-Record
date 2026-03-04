@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 655 | <img src="https://cdn.idntimes.com/content-images/post/20260304/e0ececb4-71d8-4f32-a221-ef21634a746a-260304163231.jpg" width="170"> | Elin JKT48 | Hai | Rabu, 04 Maret 2026 pukul 16.32.38 WIB |
 | 654 | <img src="https://cdn.idntimes.com/content-images/post/20260304/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260304153649.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Rabu, 04 Maret 2026 pukul 15.37.02 WIB |
 | 653 | <img src="https://cdn.idntimes.com/content-images/post/20260304/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260304142909.jpg" width="170"> | Giaa JKT48 | live bntrr sebelum vc | Rabu, 04 Maret 2026 pukul 14.29.16 WIB |
 | 652 | <img src="https://cdn.idntimes.com/content-images/post/20260304/f9500eb4-9d6d-491d-a857-40ca6f862d61-260304132921.jpg" width="170"> | Auwia JKT48 | Grem | Rabu, 04 Maret 2026 pukul 13.29.35 WIB |
