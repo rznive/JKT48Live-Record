@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 663 | <img src="https://cdn.idntimes.com/content-images/post/20260305/a557ba58-12d8-4260-bd50-9e5252ac71ef-260305170653.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 05 Maret 2026 pukul 17.07.05 WIB |
 | 662 | <img src="https://cdn.idntimes.com/content-images/post/20260305/50a27780-93e7-4e40-8474-60f6e0cca6da-260305165014.jpg" width="170"> | JKT48 | Temen Ngabuburit Bareng Esemag | Kamis, 05 Maret 2026 pukul 16.50.20 WIB |
 | 661 | <img src="https://cdn.idntimes.com/content-images/post/20260305/e2af7271-2598-4ee8-8760-68043e671e6d-260305031717.jpg" width="170"> | Lana JKT48 | Sahurrr | Kamis, 05 Maret 2026 pukul 03.17.25 WIB |
 | 660 | <img src="https://cdn.idntimes.com/content-images/post/20260305/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260305030329.jpg" width="170"> | Lily JKT48 | Sahur | Kamis, 05 Maret 2026 pukul 03.03.36 WIB |
