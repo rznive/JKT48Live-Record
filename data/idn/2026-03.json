@@ -518,5 +518,15 @@
     "live_at_unix": 1772705225,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260305/a557ba58-12d8-4260-bd50-9e5252ac71ef-260305170653.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
+  },
+  {
+    "id": 664,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "bukber",
+    "live_at": "Kamis, 05 Maret 2026 pukul 18.04.11 WIB",
+    "live_at_unix": 1772708651,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260305/a9579a29-9203-40c0-9326-9837b8eae6e8-260305180352.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
   }
 ]
