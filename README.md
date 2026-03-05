@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 669 | <img src="https://cdn.idntimes.com/content-images/post/20260306/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260306024735.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Jumat, 06 Maret 2026 pukul 02.47.50 WIB |
 | 668 | <img src="https://cdn.idntimes.com/content-images/post/20260305/e8aa0877-684a-4430-8a3b-d96302e53aab-260305211030.jpg" width="170"> | Amanda JKT48 | LAIP | Kamis, 05 Maret 2026 pukul 21.10.39 WIB |
 | 667 | <img src="https://cdn.idntimes.com/content-images/post/20260305/85f369d7-6525-41c0-94b8-9a56686713eb-260305202940.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Kamis, 05 Maret 2026 pukul 20.29.53 WIB |
 | 666 | <img src="https://cdn.idntimes.com/content-images/post/20260305/7599c984-c466-4962-8c5b-73c1d33d59d9-260305202906.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Kamis, 05 Maret 2026 pukul 20.29.32 WIB |
