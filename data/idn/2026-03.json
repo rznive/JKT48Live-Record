@@ -498,5 +498,15 @@
     "live_at_unix": 1772655445,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260305/e2af7271-2598-4ee8-8760-68043e671e6d-260305031717.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 662,
+    "username": "jkt48-official",
+    "creator_name": "JKT48",
+    "title": "Temen Ngabuburit Bareng Esemag",
+    "live_at": "Kamis, 05 Maret 2026 pukul 16.50.20 WIB",
+    "live_at_unix": 1772704220,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260305/50a27780-93e7-4e40-8474-60f6e0cca6da-260305165014.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4idUspKIZskG.m3u8"
   }
 ]

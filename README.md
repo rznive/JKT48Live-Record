@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 662 | <img src="https://cdn.idntimes.com/content-images/post/20260305/50a27780-93e7-4e40-8474-60f6e0cca6da-260305165014.jpg" width="170"> | JKT48 | Temen Ngabuburit Bareng Esemag | Kamis, 05 Maret 2026 pukul 16.50.20 WIB |
 | 661 | <img src="https://cdn.idntimes.com/content-images/post/20260305/e2af7271-2598-4ee8-8760-68043e671e6d-260305031717.jpg" width="170"> | Lana JKT48 | Sahurrr | Kamis, 05 Maret 2026 pukul 03.17.25 WIB |
 | 660 | <img src="https://cdn.idntimes.com/content-images/post/20260305/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260305030329.jpg" width="170"> | Lily JKT48 | Sahur | Kamis, 05 Maret 2026 pukul 03.03.36 WIB |
 | 659 | <img src="https://cdn.idntimes.com/content-images/post/20260305/e0ececb4-71d8-4f32-a221-ef21634a746a-260305025932.jpg" width="170"> | Elin JKT48 | Makan bareng | Kamis, 05 Maret 2026 pukul 02.59.39 WIB |
