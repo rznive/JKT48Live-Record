@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 667 | <img src="https://cdn.idntimes.com/content-images/post/20260305/85f369d7-6525-41c0-94b8-9a56686713eb-260305202940.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Kamis, 05 Maret 2026 pukul 20.29.53 WIB |
+| 666 | <img src="https://cdn.idntimes.com/content-images/post/20260305/7599c984-c466-4962-8c5b-73c1d33d59d9-260305202906.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Kamis, 05 Maret 2026 pukul 20.29.32 WIB |
 | 665 | <img src="https://cdn.idntimes.com/content-images/post/20260305/b11b0692-d0b8-464c-849a-9e81439a048c-260305195024.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Kamis, 05 Maret 2026 pukul 19.50.32 WIB |
 | 664 | <img src="https://cdn.idntimes.com/content-images/post/20260305/a9579a29-9203-40c0-9326-9837b8eae6e8-260305180352.jpg" width="170"> | Jessi JKT48 | bukber | Kamis, 05 Maret 2026 pukul 18.04.11 WIB |
 | 663 | <img src="https://cdn.idntimes.com/content-images/post/20260305/a557ba58-12d8-4260-bd50-9e5252ac71ef-260305170653.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 05 Maret 2026 pukul 17.07.05 WIB |
