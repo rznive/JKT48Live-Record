@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 672 | <img src="https://cdn.idntimes.com/content-images/post/20260306/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260306171904.jpg" width="170"> | Giaa JKT48 | ngabuburitt | Jumat, 06 Maret 2026 pukul 17.19.14 WIB |
 | 671 | <img src="https://cdn.idntimes.com/content-images/post/20260306/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260306152925.jpg" width="170"> | Olla JKT48 | ngabuburit | Jumat, 06 Maret 2026 pukul 15.29.34 WIB |
 | 670 | <img src="https://cdn.idntimes.com/content-images/post/20260306/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260306031034.jpg" width="170"> | Intan JKT48 | hii | Jumat, 06 Maret 2026 pukul 03.10.42 WIB |
 | 669 | <img src="https://cdn.idntimes.com/content-images/post/20260306/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260306024735.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Jumat, 06 Maret 2026 pukul 02.47.50 WIB |
