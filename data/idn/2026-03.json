@@ -588,5 +588,15 @@
     "live_at_unix": 1772741442,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260306/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260306031034.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 671,
+    "username": "jkt48_olla",
+    "creator_name": "Olla JKT48",
+    "title": "ngabuburit",
+    "live_at": "Jumat, 06 Maret 2026 pukul 15.29.34 WIB",
+    "live_at_unix": 1772785774,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260306/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260306152925.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8"
   }
 ]
