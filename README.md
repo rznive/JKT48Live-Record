@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 678 | <img src="https://cdn.idntimes.com/content-images/post/20260306/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260306205435.jpg" width="170"> | Giaa JKT48 | hai | Jumat, 06 Maret 2026 pukul 20.54.49 WIB |
+| 677 | <img src="https://cdn.idntimes.com/content-images/post/20260306/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260306205428.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 06 Maret 2026 pukul 20.54.47 WIB |
+| 676 | <img src="https://cdn.idntimes.com/content-images/post/20260306/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260306205407.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Jumat, 06 Maret 2026 pukul 20.54.16 WIB |
+| 675 | <img src="https://cdn.idntimes.com/content-images/post/20260306/a557ba58-12d8-4260-bd50-9e5252ac71ef-260306205324.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Jumat, 06 Maret 2026 pukul 20.53.37 WIB |
 | 674 | <img src="https://cdn.idntimes.com/content-images/post/20260306/f001ba66-3c51-4849-9afa-13cf74eb1571-260306180638.jpg" width="170"> | Aralie JKT48 | hai | Jumat, 06 Maret 2026 pukul 18.06.51 WIB |
 | 673 | <img src="https://cdn.idntimes.com/content-images/post/20260306/e9170998-f026-4186-bbc5-a17a3b5b2af1-260306174630.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Jumat, 06 Maret 2026 pukul 17.46.41 WIB |
 | 672 | <img src="https://cdn.idntimes.com/content-images/post/20260306/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260306171904.jpg" width="170"> | Giaa JKT48 | ngabuburitt | Jumat, 06 Maret 2026 pukul 17.19.14 WIB |
