@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 680 | <img src="https://cdn.idntimes.com/content-images/post/20260307/f9500eb4-9d6d-491d-a857-40ca6f862d61-260307181039.jpg" width="170"> | Auwia JKT48 | Hehe dah bedebu | Sabtu, 07 Maret 2026 pukul 18.10.54 WIB |
 | 679 | <img src="https://cdn.idntimes.com/content-images/post/20260307/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260307171348.jpg" width="170"> | Giaa JKT48 | siap siap | Sabtu, 07 Maret 2026 pukul 17.13.55 WIB |
 | 678 | <img src="https://cdn.idntimes.com/content-images/post/20260306/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260306205435.jpg" width="170"> | Giaa JKT48 | hai | Jumat, 06 Maret 2026 pukul 20.54.49 WIB |
 | 677 | <img src="https://cdn.idntimes.com/content-images/post/20260306/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260306205428.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 06 Maret 2026 pukul 20.54.47 WIB |
