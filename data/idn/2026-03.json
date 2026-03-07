@@ -668,5 +668,15 @@
     "live_at_unix": 1772805289,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260306/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260306205435.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
+  },
+  {
+    "id": 679,
+    "username": "jkt48_giaa",
+    "creator_name": "Giaa JKT48",
+    "title": "siap siap",
+    "live_at": "Sabtu, 07 Maret 2026 pukul 17.13.55 WIB",
+    "live_at_unix": 1772878435,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260307/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260307171348.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
   }
 ]
