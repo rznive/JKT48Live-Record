@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 690 | <img src="https://cdn.idntimes.com/content-images/post/20260309/e0ececb4-71d8-4f32-a221-ef21634a746a-260309023537.jpg" width="170"> | Elin JKT48 | Hai | Senin, 09 Maret 2026 pukul 02.35.44 WIB |
 | 689 | <img src="https://cdn.idntimes.com/content-images/post/20260309/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260309021044.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Senin, 09 Maret 2026 pukul 02.11.00 WIB |
 | 688 | <img src="https://cdn.idntimes.com/content-images/post/20260308/e2af7271-2598-4ee8-8760-68043e671e6d-260308225946.jpg" width="170"> | Lana JKT48 | Hi | Minggu, 08 Maret 2026 pukul 22.59.54 WIB |
 | 687 | <img src="https://cdn.idntimes.com/content-images/post/20260308/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260308225111.jpg" width="170"> | Lily JKT48 | Kaujanann | Minggu, 08 Maret 2026 pukul 22.51.18 WIB |
