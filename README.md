@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 688 | <img src="https://cdn.idntimes.com/content-images/post/20260308/e2af7271-2598-4ee8-8760-68043e671e6d-260308225946.jpg" width="170"> | Lana JKT48 | Hi | Minggu, 08 Maret 2026 pukul 22.59.54 WIB |
 | 687 | <img src="https://cdn.idntimes.com/content-images/post/20260308/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260308225111.jpg" width="170"> | Lily JKT48 | Kaujanann | Minggu, 08 Maret 2026 pukul 22.51.18 WIB |
 | 686 | <img src="https://cdn.idntimes.com/content-images/post/20260308/266ef38a-da00-4d13-ba77-f94da68599ee-260308203829.jpg" width="170"> | Delynn JKT48 | Ayo ngobrol bareng! | Minggu, 08 Maret 2026 pukul 20.38.46 WIB |
 | 685 | <img src="https://cdn.idntimes.com/content-images/post/20260308/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260308193006.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Minggu, 08 Maret 2026 pukul 19.30.19 WIB |
