@@ -788,5 +788,15 @@
     "live_at_unix": 1772998544,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260309/e0ececb4-71d8-4f32-a221-ef21634a746a-260309023537.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
+  },
+  {
+    "id": 691,
+    "username": "jkt48_amanda",
+    "creator_name": "Amanda JKT48",
+    "title": "#TTS",
+    "live_at": "Senin, 09 Maret 2026 pukul 03.56.03 WIB",
+    "live_at_unix": 1773003363,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260309/e8aa0877-684a-4430-8a3b-d96302e53aab-260309035554.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
   }
 ]
