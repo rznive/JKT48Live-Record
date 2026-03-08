@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 683 | <img src="https://cdn.idntimes.com/content-images/post/20260308/f9500eb4-9d6d-491d-a857-40ca6f862d61-260308124155.jpg" width="170"> | Auwia JKT48 | Grem | Minggu, 08 Maret 2026 pukul 12.42.11 WIB |
 | 682 | <img src="https://cdn.idntimes.com/content-images/post/20260308/e0ececb4-71d8-4f32-a221-ef21634a746a-260308032259.jpg" width="170"> | Elin JKT48 | #YukSahurLin | Minggu, 08 Maret 2026 pukul 03.23.06 WIB |
 | 681 | <img src="https://cdn.idntimes.com/content-images/post/20260308/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260308031817.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Minggu, 08 Maret 2026 pukul 03.18.34 WIB |
 | 680 | <img src="https://cdn.idntimes.com/content-images/post/20260307/f9500eb4-9d6d-491d-a857-40ca6f862d61-260307181039.jpg" width="170"> | Auwia JKT48 | Hehe dah bedebu | Sabtu, 07 Maret 2026 pukul 18.10.54 WIB |
