@@ -728,5 +728,15 @@
     "live_at_unix": 1772950420,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260308/f9500eb4-9d6d-491d-a857-40ca6f862d61-260308131324.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
+  },
+  {
+    "id": 685,
+    "username": "jkt48_nala",
+    "creator_name": "Nala JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 08 Maret 2026 pukul 19.30.19 WIB",
+    "live_at_unix": 1772973019,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260308/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260308193006.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.nCPKiODqPEOs.m3u8"
   }
 ]

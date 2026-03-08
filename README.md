@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 685 | <img src="https://cdn.idntimes.com/content-images/post/20260308/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260308193006.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Minggu, 08 Maret 2026 pukul 19.30.19 WIB |
 | 684 | <img src="https://cdn.idntimes.com/content-images/post/20260308/f9500eb4-9d6d-491d-a857-40ca6f862d61-260308131324.jpg" width="170"> | Auwia JKT48 | Ngok | Minggu, 08 Maret 2026 pukul 13.13.40 WIB |
 | 683 | <img src="https://cdn.idntimes.com/content-images/post/20260308/f9500eb4-9d6d-491d-a857-40ca6f862d61-260308124155.jpg" width="170"> | Auwia JKT48 | Grem | Minggu, 08 Maret 2026 pukul 12.42.11 WIB |
 | 682 | <img src="https://cdn.idntimes.com/content-images/post/20260308/e0ececb4-71d8-4f32-a221-ef21634a746a-260308032259.jpg" width="170"> | Elin JKT48 | #YukSahurLin | Minggu, 08 Maret 2026 pukul 03.23.06 WIB |
