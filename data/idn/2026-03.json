@@ -748,5 +748,15 @@
     "live_at_unix": 1772977126,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260308/266ef38a-da00-4d13-ba77-f94da68599ee-260308203829.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
+  },
+  {
+    "id": 687,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Kaujanann",
+    "live_at": "Minggu, 08 Maret 2026 pukul 22.51.18 WIB",
+    "live_at_unix": 1772985078,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260308/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260308225111.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
   }
 ]
