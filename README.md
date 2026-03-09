@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 693 | <img src="https://cdn.idntimes.com/content-images/post/20260309/e9170998-f026-4186-bbc5-a17a3b5b2af1-260309185703.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Senin, 09 Maret 2026 pukul 18.57.18 WIB |
+| 692 | <img src="https://cdn.idntimes.com/content-images/post/20260309/f9500eb4-9d6d-491d-a857-40ca6f862d61-260309184449.jpg" width="170"> | Auwia JKT48 | Radio | Senin, 09 Maret 2026 pukul 18.45.07 WIB |
 | 691 | <img src="https://cdn.idntimes.com/content-images/post/20260309/e8aa0877-684a-4430-8a3b-d96302e53aab-260309035554.jpg" width="170"> | Amanda JKT48 | #TTS | Senin, 09 Maret 2026 pukul 03.56.03 WIB |
 | 690 | <img src="https://cdn.idntimes.com/content-images/post/20260309/e0ececb4-71d8-4f32-a221-ef21634a746a-260309023537.jpg" width="170"> | Elin JKT48 | Hai | Senin, 09 Maret 2026 pukul 02.35.44 WIB |
 | 689 | <img src="https://cdn.idntimes.com/content-images/post/20260309/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260309021044.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Senin, 09 Maret 2026 pukul 02.11.00 WIB |

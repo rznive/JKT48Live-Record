@@ -798,5 +798,25 @@
     "live_at_unix": 1773003363,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260309/e8aa0877-684a-4430-8a3b-d96302e53aab-260309035554.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
+  },
+  {
+    "id": 692,
+    "username": "jkt48_auwia",
+    "creator_name": "Auwia JKT48",
+    "title": "Radio",
+    "live_at": "Senin, 09 Maret 2026 pukul 18.45.07 WIB",
+    "live_at_unix": 1773056707,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260309/f9500eb4-9d6d-491d-a857-40ca6f862d61-260309184449.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
+  },
+  {
+    "id": 693,
+    "username": "jkt48_rilly",
+    "creator_name": "Rilly JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 09 Maret 2026 pukul 18.57.18 WIB",
+    "live_at_unix": 1773057438,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260309/e9170998-f026-4186-bbc5-a17a3b5b2af1-260309185703.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
   }
 ]
