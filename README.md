@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 696 | <img src="https://cdn.idntimes.com/content-images/post/20260309/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260309205308.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 09 Maret 2026 pukul 20.53.23 WIB |
+| 695 | <img src="https://cdn.idntimes.com/content-images/post/20260309/85f369d7-6525-41c0-94b8-9a56686713eb-260309203158.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 09 Maret 2026 pukul 20.32.12 WIB |
 | 694 | <img src="https://cdn.idntimes.com/content-images/post/20260309/7599c984-c466-4962-8c5b-73c1d33d59d9-260309190510.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Senin, 09 Maret 2026 pukul 19.05.20 WIB |
 | 693 | <img src="https://cdn.idntimes.com/content-images/post/20260309/e9170998-f026-4186-bbc5-a17a3b5b2af1-260309185703.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Senin, 09 Maret 2026 pukul 18.57.18 WIB |
 | 692 | <img src="https://cdn.idntimes.com/content-images/post/20260309/f9500eb4-9d6d-491d-a857-40ca6f862d61-260309184449.jpg" width="170"> | Auwia JKT48 | Radio | Senin, 09 Maret 2026 pukul 18.45.07 WIB |
