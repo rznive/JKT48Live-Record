@@ -818,5 +818,15 @@
     "live_at_unix": 1773057438,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260309/e9170998-f026-4186-bbc5-a17a3b5b2af1-260309185703.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 694,
+    "username": "jkt48_maira",
+    "creator_name": "Maira JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 09 Maret 2026 pukul 19.05.20 WIB",
+    "live_at_unix": 1773057920,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260309/7599c984-c466-4962-8c5b-73c1d33d59d9-260309190510.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
   }
 ]
