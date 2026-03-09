@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 700 | <img src="https://cdn.idntimes.com/content-images/post/20260309/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260309224432.jpg" width="170"> | Olla JKT48 | yey udh sidang  | Senin, 09 Maret 2026 pukul 22.44.40 WIB |
+| 699 | <img src="https://cdn.idntimes.com/content-images/post/20260309/a557ba58-12d8-4260-bd50-9e5252ac71ef-260309221641.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 09 Maret 2026 pukul 22.16.54 WIB |
 | 698 | <img src="https://cdn.idntimes.com/content-images/post/20260309/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260309215634.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 09 Maret 2026 pukul 21.56.51 WIB |
 | 697 | <img src="https://cdn.idntimes.com/content-images/post/20260309/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260309211741.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Senin, 09 Maret 2026 pukul 21.17.55 WIB |
 | 696 | <img src="https://cdn.idntimes.com/content-images/post/20260309/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260309205308.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 09 Maret 2026 pukul 20.53.23 WIB |
