@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 712 | <img src="https://cdn.idntimes.com/content-images/post/20260311/82ffac10-ee56-43d0-ad38-ce432384cfe5-260311014543.jpg" width="170"> | Gita JKT48 | Gits | Rabu, 11 Maret 2026 pukul 01.45.56 WIB |
 | 711 | <img src="https://cdn.idntimes.com/content-images/post/20260311/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260311000310.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Rabu, 11 Maret 2026 pukul 00.03.21 WIB |
 | 710 | <img src="https://cdn.idntimes.com/content-images/post/20260310/f740e9da-772f-4ae2-8ddd-49f717aacf63-260310232435.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Selasa, 10 Maret 2026 pukul 23.24.47 WIB |
 | 709 | <img src="https://cdn.idntimes.com/content-images/post/20260310/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260310231353.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Selasa, 10 Maret 2026 pukul 23.14.10 WIB |
