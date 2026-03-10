@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 707 | <img src="https://cdn.idntimes.com/content-images/post/20260310/f9500eb4-9d6d-491d-a857-40ca6f862d61-260310195123.jpg" width="170"> | Auwia JKT48 | Ummmmmmmmm ngok | Selasa, 10 Maret 2026 pukul 19.51.39 WIB |
 | 706 | <img src="https://cdn.idntimes.com/content-images/post/20260310/50a27780-93e7-4e40-8474-60f6e0cca6da-260310165104.jpg" width="170"> | JKT48 | NUNGGU BEDUG BARENG SMARTFREN | Selasa, 10 Maret 2026 pukul 16.51.24 WIB |
 | 705 | <img src="https://cdn.idntimes.com/content-images/post/20260310/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260310140039.jpg" width="170"> | Giaa JKT48 | haiii sebentarr | Selasa, 10 Maret 2026 pukul 14.00.50 WIB |
 | 704 | <img src="https://cdn.idntimes.com/content-images/post/20260310/74e76417-0353-487f-b9b7-7520c0398e87-260310031552.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Selasa, 10 Maret 2026 pukul 03.16.00 WIB |
