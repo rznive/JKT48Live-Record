@@ -938,5 +938,15 @@
     "live_at_unix": 1773126050,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260310/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260310140039.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
+  },
+  {
+    "id": 706,
+    "username": "jkt48-official",
+    "creator_name": "JKT48",
+    "title": "NUNGGU BEDUG BARENG SMARTFREN",
+    "live_at": "Selasa, 10 Maret 2026 pukul 16.51.24 WIB",
+    "live_at_unix": 1773136284,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260310/50a27780-93e7-4e40-8474-60f6e0cca6da-260310165104.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4idUspKIZskG.m3u8"
   }
 ]
