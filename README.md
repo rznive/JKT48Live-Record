@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 718 | <img src="https://cdn.idntimes.com/content-images/post/20260311/e9170998-f026-4186-bbc5-a17a3b5b2af1-260311211610.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Rabu, 11 Maret 2026 pukul 21.16.20 WIB |
 | 717 | <img src="https://cdn.idntimes.com/content-images/post/20260311/85f369d7-6525-41c0-94b8-9a56686713eb-260311193643.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 11 Maret 2026 pukul 19.36.55 WIB |
 | 716 | <img src="https://cdn.idntimes.com/content-images/post/20260311/15dfee86-a928-4a15-8c90-6aa21097d0ff-260311173303.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Rabu, 11 Maret 2026 pukul 17.33.20 WIB |
 | 715 | <img src="https://cdn.idntimes.com/content-images/post/20260311/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260311170907.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Rabu, 11 Maret 2026 pukul 17.09.18 WIB |
