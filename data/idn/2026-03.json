@@ -1048,5 +1048,15 @@
     "live_at_unix": 1773225200,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260311/15dfee86-a928-4a15-8c90-6aa21097d0ff-260311173303.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 717,
+    "username": "jkt48_ekin",
+    "creator_name": "Ekin JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 11 Maret 2026 pukul 19.36.55 WIB",
+    "live_at_unix": 1773232615,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260311/85f369d7-6525-41c0-94b8-9a56686713eb-260311193643.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
   }
 ]
