@@ -1068,5 +1068,25 @@
     "live_at_unix": 1773238580,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260311/e9170998-f026-4186-bbc5-a17a3b5b2af1-260311211610.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 719,
+    "username": "jkt48_giaa",
+    "creator_name": "Giaa JKT48",
+    "title": "mam es bungo sblm tidur",
+    "live_at": "Rabu, 11 Maret 2026 pukul 22.09.34 WIB",
+    "live_at_unix": 1773241774,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260311/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260311220927.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
+  },
+  {
+    "id": 720,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Radio temenin makeup yu",
+    "live_at": "Rabu, 11 Maret 2026 pukul 22.42.58 WIB",
+    "live_at_unix": 1773243778,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260311/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260311224249.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
   }
 ]
