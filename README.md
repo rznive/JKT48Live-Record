@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 715 | <img src="https://cdn.idntimes.com/content-images/post/20260311/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260311170907.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Rabu, 11 Maret 2026 pukul 17.09.18 WIB |
 | 714 | <img src="https://cdn.idntimes.com/content-images/post/20260311/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260311164957.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Rabu, 11 Maret 2026 pukul 16.50.27 WIB |
 | 713 | <img src="https://cdn.idntimes.com/content-images/post/20260311/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260311024500.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Rabu, 11 Maret 2026 pukul 02.45.08 WIB |
 | 712 | <img src="https://cdn.idntimes.com/content-images/post/20260311/82ffac10-ee56-43d0-ad38-ce432384cfe5-260311014543.jpg" width="170"> | Gita JKT48 | Gits | Rabu, 11 Maret 2026 pukul 01.45.56 WIB |
