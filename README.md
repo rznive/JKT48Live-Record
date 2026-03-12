@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 728 | <img src="https://cdn.idntimes.com/content-images/post/20260312/e0ececb4-71d8-4f32-a221-ef21634a746a-260312232052.jpg" width="170"> | Elin JKT48 | Haii | Kamis, 12 Maret 2026 pukul 23.20.59 WIB |
+| 727 | <img src="https://cdn.idntimes.com/content-images/post/20260312/4f795073-38c9-4df7-9388-74b83de69801-260312230211.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 12 Maret 2026 pukul 23.02.22 WIB |
 | 726 | <img src="https://cdn.idntimes.com/content-images/post/20260312/a9579a29-9203-40c0-9326-9837b8eae6e8-260312174733.jpg" width="170"> | Jessi JKT48 | hi | Kamis, 12 Maret 2026 pukul 17.47.40 WIB |
 | 725 | <img src="https://cdn.idntimes.com/content-images/post/20260312/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260312155253.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Kamis, 12 Maret 2026 pukul 15.53.01 WIB |
 | 724 | <img src="https://cdn.idntimes.com/content-images/post/20260312/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260312153545.jpg" width="170"> | Lily JKT48 | Pokemon | Kamis, 12 Maret 2026 pukul 15.35.53 WIB |

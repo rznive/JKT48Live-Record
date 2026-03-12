@@ -1148,5 +1148,25 @@
     "live_at_unix": 1773312460,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260312/a9579a29-9203-40c0-9326-9837b8eae6e8-260312174733.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 727,
+    "username": "jkt48_cynthia",
+    "creator_name": "Cynthia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 12 Maret 2026 pukul 23.02.22 WIB",
+    "live_at_unix": 1773331342,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260312/4f795073-38c9-4df7-9388-74b83de69801-260312230211.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 728,
+    "username": "jkt48_elin",
+    "creator_name": "Elin JKT48",
+    "title": "Haii",
+    "live_at": "Kamis, 12 Maret 2026 pukul 23.20.59 WIB",
+    "live_at_unix": 1773332459,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260312/e0ececb4-71d8-4f32-a221-ef21634a746a-260312232052.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
   }
 ]
