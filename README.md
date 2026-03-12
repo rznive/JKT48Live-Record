@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 723 | <img src="https://cdn.idntimes.com/content-images/post/20260312/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260312122403.jpg" width="170"> | Lily JKT48 | RadioLy | Kamis, 12 Maret 2026 pukul 12.24.11 WIB |
 | 722 | <img src="https://cdn.idntimes.com/content-images/post/20260312/a557ba58-12d8-4260-bd50-9e5252ac71ef-260312084124.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 12 Maret 2026 pukul 08.41.38 WIB |
 | 721 | <img src="https://cdn.idntimes.com/content-images/post/20260312/f740e9da-772f-4ae2-8ddd-49f717aacf63-260312010957.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Kamis, 12 Maret 2026 pukul 01.10.08 WIB |
 | 720 | <img src="https://cdn.idntimes.com/content-images/post/20260311/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260311224249.jpg" width="170"> | Lily JKT48 | Radio temenin makeup yu | Rabu, 11 Maret 2026 pukul 22.42.58 WIB |
