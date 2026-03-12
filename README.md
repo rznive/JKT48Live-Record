@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 730 | <img src="https://cdn.idntimes.com/content-images/post/20260313/f740e9da-772f-4ae2-8ddd-49f717aacf63-260313003849.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Jumat, 13 Maret 2026 pukul 00.38.58 WIB |
 | 729 | <img src="https://cdn.idntimes.com/content-images/post/20260313/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260313001940.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Jumat, 13 Maret 2026 pukul 00.19.56 WIB |
 | 728 | <img src="https://cdn.idntimes.com/content-images/post/20260312/e0ececb4-71d8-4f32-a221-ef21634a746a-260312232052.jpg" width="170"> | Elin JKT48 | Haii | Kamis, 12 Maret 2026 pukul 23.20.59 WIB |
 | 727 | <img src="https://cdn.idntimes.com/content-images/post/20260312/4f795073-38c9-4df7-9388-74b83de69801-260312230211.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 12 Maret 2026 pukul 23.02.22 WIB |
