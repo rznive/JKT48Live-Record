@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 725 | <img src="https://cdn.idntimes.com/content-images/post/20260312/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260312155253.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Kamis, 12 Maret 2026 pukul 15.53.01 WIB |
+| 724 | <img src="https://cdn.idntimes.com/content-images/post/20260312/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260312153545.jpg" width="170"> | Lily JKT48 | Pokemon | Kamis, 12 Maret 2026 pukul 15.35.53 WIB |
 | 723 | <img src="https://cdn.idntimes.com/content-images/post/20260312/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260312122403.jpg" width="170"> | Lily JKT48 | RadioLy | Kamis, 12 Maret 2026 pukul 12.24.11 WIB |
 | 722 | <img src="https://cdn.idntimes.com/content-images/post/20260312/a557ba58-12d8-4260-bd50-9e5252ac71ef-260312084124.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 12 Maret 2026 pukul 08.41.38 WIB |
 | 721 | <img src="https://cdn.idntimes.com/content-images/post/20260312/f740e9da-772f-4ae2-8ddd-49f717aacf63-260312010957.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Kamis, 12 Maret 2026 pukul 01.10.08 WIB |
