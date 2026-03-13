@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 736 | <img src="https://cdn.idntimes.com/content-images/post/20260313/7599c984-c466-4962-8c5b-73c1d33d59d9-260313184721.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Jumat, 13 Maret 2026 pukul 18.47.30 WIB |
+| 735 | <img src="https://cdn.idntimes.com/content-images/post/20260313/147e83c8-f3ac-4680-9141-2f518b4b7810-260313184705.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Jumat, 13 Maret 2026 pukul 18.47.17 WIB |
 | 734 | <img src="https://cdn.idntimes.com/content-images/post/20260313/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260313155130.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Jumat, 13 Maret 2026 pukul 15.51.38 WIB |
 | 733 | <img src="https://cdn.idntimes.com/content-images/post/20260313/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260313150920.jpg" width="170"> | Giaa JKT48 | siap2 | Jumat, 13 Maret 2026 pukul 15.09.28 WIB |
 | 732 | <img src="https://cdn.idntimes.com/content-images/post/20260313/4f795073-38c9-4df7-9388-74b83de69801-260313041959.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Jumat, 13 Maret 2026 pukul 04.20.10 WIB |
