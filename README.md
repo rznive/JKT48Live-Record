@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 734 | <img src="https://cdn.idntimes.com/content-images/post/20260313/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260313155130.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Jumat, 13 Maret 2026 pukul 15.51.38 WIB |
 | 733 | <img src="https://cdn.idntimes.com/content-images/post/20260313/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260313150920.jpg" width="170"> | Giaa JKT48 | siap2 | Jumat, 13 Maret 2026 pukul 15.09.28 WIB |
 | 732 | <img src="https://cdn.idntimes.com/content-images/post/20260313/4f795073-38c9-4df7-9388-74b83de69801-260313041959.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Jumat, 13 Maret 2026 pukul 04.20.10 WIB |
 | 731 | <img src="https://cdn.idntimes.com/content-images/post/20260313/e8aa0877-684a-4430-8a3b-d96302e53aab-260313040754.jpg" width="170"> | Amanda JKT48 | #TTS YOK | Jumat, 13 Maret 2026 pukul 04.08.06 WIB |
