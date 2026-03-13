@@ -1278,5 +1278,15 @@
     "live_at_unix": 1773429351,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260314/f740e9da-772f-4ae2-8ddd-49f717aacf63-260314021542.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Q0uEvM6Dl951.m3u8"
+  },
+  {
+    "id": 740,
+    "username": "jkt48_amanda",
+    "creator_name": "Amanda JKT48",
+    "title": "#TTS LAGIII",
+    "live_at": "Sabtu, 14 Maret 2026 pukul 03.58.27 WIB",
+    "live_at_unix": 1773435507,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260314/e8aa0877-684a-4430-8a3b-d96302e53aab-260314035814.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
   }
 ]
