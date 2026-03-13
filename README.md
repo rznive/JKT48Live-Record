@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 739 | <img src="https://cdn.idntimes.com/content-images/post/20260314/f740e9da-772f-4ae2-8ddd-49f717aacf63-260314021542.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Maret 2026 pukul 02.15.51 WIB |
 | 738 | <img src="https://cdn.idntimes.com/content-images/post/20260314/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260314010424.jpg" width="170"> | Erine JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Maret 2026 pukul 01.04.32 WIB |
 | 737 | <img src="https://cdn.idntimes.com/content-images/post/20260313/728d224e-6ccb-43d2-a029-a0147dc7fdee-260313203157.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Jumat, 13 Maret 2026 pukul 20.32.06 WIB |
 | 736 | <img src="https://cdn.idntimes.com/content-images/post/20260313/7599c984-c466-4962-8c5b-73c1d33d59d9-260313184721.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Jumat, 13 Maret 2026 pukul 18.47.30 WIB |
