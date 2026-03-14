@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 744 | <img src="https://cdn.idntimes.com/content-images/post/20260314/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260314184251.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Maret 2026 pukul 18.43.03 WIB |
+| 743 | <img src="https://cdn.idntimes.com/content-images/post/20260314/f9500eb4-9d6d-491d-a857-40ca6f862d61-260314184049.jpg" width="170"> | Auwia JKT48 | Tmnin | Sabtu, 14 Maret 2026 pukul 18.41.05 WIB |
 | 742 | <img src="https://cdn.idntimes.com/content-images/post/20260314/4f795073-38c9-4df7-9388-74b83de69801-260314174946.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Maret 2026 pukul 17.49.58 WIB |
 | 741 | <img src="https://cdn.idntimes.com/content-images/post/20260314/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260314115906.jpg" width="170"> | Lily JKT48 | Mwheheh | Sabtu, 14 Maret 2026 pukul 11.59.18 WIB |
 | 740 | <img src="https://cdn.idntimes.com/content-images/post/20260314/e8aa0877-684a-4430-8a3b-d96302e53aab-260314035814.jpg" width="170"> | Amanda JKT48 | #TTS LAGIII | Sabtu, 14 Maret 2026 pukul 03.58.27 WIB |
