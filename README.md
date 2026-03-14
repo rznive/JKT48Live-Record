@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 746 | <img src="https://cdn.idntimes.com/content-images/post/20260314/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260314235930.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Maret 2026 pukul 23.59.52 WIB |
 | 745 | <img src="https://cdn.idntimes.com/content-images/post/20260314/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260314220836.jpg" width="170"> | Giaa JKT48 | hai malam | Sabtu, 14 Maret 2026 pukul 22.08.44 WIB |
 | 744 | <img src="https://cdn.idntimes.com/content-images/post/20260314/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260314184251.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Maret 2026 pukul 18.43.03 WIB |
 | 743 | <img src="https://cdn.idntimes.com/content-images/post/20260314/f9500eb4-9d6d-491d-a857-40ca6f862d61-260314184049.jpg" width="170"> | Auwia JKT48 | Tmnin | Sabtu, 14 Maret 2026 pukul 18.41.05 WIB |
