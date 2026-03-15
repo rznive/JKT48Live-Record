@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 761 | <img src="https://cdn.idntimes.com/content-images/post/20260315/15dfee86-a928-4a15-8c90-6aa21097d0ff-260315235250.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 23.53.00 WIB |
+| 760 | <img src="https://cdn.idntimes.com/content-images/post/20260315/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260315233934.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 23.39.59 WIB |
 | 759 | <img src="https://cdn.idntimes.com/content-images/post/20260315/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260315232406.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 23.24.22 WIB |
 | 758 | <img src="https://cdn.idntimes.com/content-images/post/20260315/e0ececb4-71d8-4f32-a221-ef21634a746a-260315232328.jpg" width="170"> | Elin JKT48 | Hai | Minggu, 15 Maret 2026 pukul 23.23.37 WIB |
 | 757 | <img src="https://cdn.idntimes.com/content-images/post/20260315/e2af7271-2598-4ee8-8760-68043e671e6d-260315232309.jpg" width="170"> | Lana JKT48 | Ppppppppppp | Minggu, 15 Maret 2026 pukul 23.23.18 WIB |
