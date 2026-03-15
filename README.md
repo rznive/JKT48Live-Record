@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 753 | <img src="https://cdn.idntimes.com/content-images/post/20260315/b11b0692-d0b8-464c-849a-9e81439a048c-260315224016.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 22.40.24 WIB |
+| 752 | <img src="https://cdn.idntimes.com/content-images/post/20260315/33139b05-1c43-4b48-bba3-ec960b18b36e-260315223031.jpg" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 22.30.39 WIB |
 | 751 | <img src="https://cdn.idntimes.com/content-images/post/20260315/f9500eb4-9d6d-491d-a857-40ca6f862d61-260315131127.jpg" width="170"> | Auwia JKT48 | Hi | Minggu, 15 Maret 2026 pukul 13.11.43 WIB |
 | 750 | <img src="https://cdn.idntimes.com/content-images/post/20260315/f740e9da-772f-4ae2-8ddd-49f717aacf63-260315130910.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 13.09.21 WIB |
 | 749 | <img src="https://cdn.idntimes.com/content-images/post/20260315/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260315114711.jpg" width="170"> | Lily JKT48 | Hi | Minggu, 15 Maret 2026 pukul 11.47.19 WIB |
