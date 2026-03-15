@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 759 | <img src="https://cdn.idntimes.com/content-images/post/20260315/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260315232406.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 23.24.22 WIB |
+| 758 | <img src="https://cdn.idntimes.com/content-images/post/20260315/e0ececb4-71d8-4f32-a221-ef21634a746a-260315232328.jpg" width="170"> | Elin JKT48 | Hai | Minggu, 15 Maret 2026 pukul 23.23.37 WIB |
+| 757 | <img src="https://cdn.idntimes.com/content-images/post/20260315/e2af7271-2598-4ee8-8760-68043e671e6d-260315232309.jpg" width="170"> | Lana JKT48 | Ppppppppppp | Minggu, 15 Maret 2026 pukul 23.23.18 WIB |
+| 756 | <img src="https://cdn.idntimes.com/content-images/post/20260315/f001ba66-3c51-4849-9afa-13cf74eb1571-260315231819.jpg" width="170"> | Aralie JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 23.18.32 WIB |
+| 755 | <img src="https://cdn.idntimes.com/content-images/post/20260315/4f795073-38c9-4df7-9388-74b83de69801-260315230402.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 23.04.11 WIB |
 | 754 | <img src="https://cdn.idntimes.com/content-images/post/20260315/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260315225223.jpg" width="170"> | Erine JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 22.52.33 WIB |
 | 753 | <img src="https://cdn.idntimes.com/content-images/post/20260315/b11b0692-d0b8-464c-849a-9e81439a048c-260315224016.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 22.40.24 WIB |
 | 752 | <img src="https://cdn.idntimes.com/content-images/post/20260315/33139b05-1c43-4b48-bba3-ec960b18b36e-260315223031.jpg" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 22.30.39 WIB |
