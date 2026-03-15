@@ -1508,5 +1508,35 @@
     "live_at_unix": 1773603831,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260316/147e83c8-f3ac-4680-9141-2f518b4b7810-260316024339.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8"
+  },
+  {
+    "id": 763,
+    "username": "jkt48_amanda",
+    "creator_name": "Amanda JKT48",
+    "title": "#TTS X #SahurwithCyn X #SABARIN ",
+    "live_at": "Senin, 16 Maret 2026 pukul 03.30.55 WIB",
+    "live_at_unix": 1773606655,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260316/e8aa0877-684a-4430-8a3b-d96302e53aab-260316033045.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
+  },
+  {
+    "id": 764,
+    "username": "jkt48_cynthia",
+    "creator_name": "Cynthia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 16 Maret 2026 pukul 03.36.09 WIB",
+    "live_at_unix": 1773606969,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260316/4f795073-38c9-4df7-9388-74b83de69801-260316033600.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 765,
+    "username": "jkt48_auwia",
+    "creator_name": "Auwia JKT48",
+    "title": "#SAuwhur",
+    "live_at": "Senin, 16 Maret 2026 pukul 03.41.28 WIB",
+    "live_at_unix": 1773607288,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260316/f9500eb4-9d6d-491d-a857-40ca6f862d61-260316034112.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
   }
 ]
