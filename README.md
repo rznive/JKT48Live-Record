@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 762 | <img src="https://cdn.idntimes.com/content-images/post/20260316/147e83c8-f3ac-4680-9141-2f518b4b7810-260316024339.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 16 Maret 2026 pukul 02.43.51 WIB |
 | 761 | <img src="https://cdn.idntimes.com/content-images/post/20260315/15dfee86-a928-4a15-8c90-6aa21097d0ff-260315235250.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 23.53.00 WIB |
 | 760 | <img src="https://cdn.idntimes.com/content-images/post/20260315/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260315233934.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 23.39.59 WIB |
 | 759 | <img src="https://cdn.idntimes.com/content-images/post/20260315/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260315232406.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 23.24.22 WIB |
