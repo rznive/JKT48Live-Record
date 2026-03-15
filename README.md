@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 749 | <img src="https://cdn.idntimes.com/content-images/post/20260315/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260315114711.jpg" width="170"> | Lily JKT48 | Hi | Minggu, 15 Maret 2026 pukul 11.47.19 WIB |
 | 748 | <img src="https://cdn.idntimes.com/content-images/post/20260315/4f795073-38c9-4df7-9388-74b83de69801-260315062418.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 06.24.30 WIB |
 | 747 | <img src="https://cdn.idntimes.com/content-images/post/20260315/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260315002824.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Minggu, 15 Maret 2026 pukul 00.28.47 WIB |
 | 746 | <img src="https://cdn.idntimes.com/content-images/post/20260314/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260314235930.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Sabtu, 14 Maret 2026 pukul 23.59.52 WIB |
