@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 766 | <img src="https://cdn.idntimes.com/content-images/post/20260316/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260316230223.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Senin, 16 Maret 2026 pukul 23.02.38 WIB |
 | 765 | <img src="https://cdn.idntimes.com/content-images/post/20260316/f9500eb4-9d6d-491d-a857-40ca6f862d61-260316034112.jpg" width="170"> | Auwia JKT48 | #SAuwhur | Senin, 16 Maret 2026 pukul 03.41.28 WIB |
 | 764 | <img src="https://cdn.idntimes.com/content-images/post/20260316/4f795073-38c9-4df7-9388-74b83de69801-260316033600.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 16 Maret 2026 pukul 03.36.09 WIB |
 | 763 | <img src="https://cdn.idntimes.com/content-images/post/20260316/e8aa0877-684a-4430-8a3b-d96302e53aab-260316033045.jpg" width="170"> | Amanda JKT48 | #TTS X #SahurwithCyn X #SABARIN  | Senin, 16 Maret 2026 pukul 03.30.55 WIB |
