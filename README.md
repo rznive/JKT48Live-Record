@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 770 | <img src="https://cdn.idntimes.com/content-images/post/20260317/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260317024302.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Selasa, 17 Maret 2026 pukul 02.43.17 WIB |
 | 769 | <img src="https://cdn.idntimes.com/content-images/post/20260316/f740e9da-772f-4ae2-8ddd-49f717aacf63-260316233048.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Senin, 16 Maret 2026 pukul 23.30.59 WIB |
 | 768 | <img src="https://cdn.idntimes.com/content-images/post/20260316/e0ececb4-71d8-4f32-a221-ef21634a746a-260316232808.jpg" width="170"> | Elin JKT48 | Hai | Senin, 16 Maret 2026 pukul 23.28.15 WIB |
 | 767 | <img src="https://cdn.idntimes.com/content-images/post/20260316/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260316232123.jpg" width="170"> | Lily JKT48 | Belajar quiz | Senin, 16 Maret 2026 pukul 23.21.30 WIB |
