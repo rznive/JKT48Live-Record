@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 769 | <img src="https://cdn.idntimes.com/content-images/post/20260316/f740e9da-772f-4ae2-8ddd-49f717aacf63-260316233048.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Senin, 16 Maret 2026 pukul 23.30.59 WIB |
+| 768 | <img src="https://cdn.idntimes.com/content-images/post/20260316/e0ececb4-71d8-4f32-a221-ef21634a746a-260316232808.jpg" width="170"> | Elin JKT48 | Hai | Senin, 16 Maret 2026 pukul 23.28.15 WIB |
+| 767 | <img src="https://cdn.idntimes.com/content-images/post/20260316/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260316232123.jpg" width="170"> | Lily JKT48 | Belajar quiz | Senin, 16 Maret 2026 pukul 23.21.30 WIB |
 | 766 | <img src="https://cdn.idntimes.com/content-images/post/20260316/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260316230223.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Senin, 16 Maret 2026 pukul 23.02.38 WIB |
 | 765 | <img src="https://cdn.idntimes.com/content-images/post/20260316/f9500eb4-9d6d-491d-a857-40ca6f862d61-260316034112.jpg" width="170"> | Auwia JKT48 | #SAuwhur | Senin, 16 Maret 2026 pukul 03.41.28 WIB |
 | 764 | <img src="https://cdn.idntimes.com/content-images/post/20260316/4f795073-38c9-4df7-9388-74b83de69801-260316033600.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 16 Maret 2026 pukul 03.36.09 WIB |
