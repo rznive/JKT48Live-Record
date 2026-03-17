@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 773 | <img src="https://cdn.idntimes.com/content-images/post/20260317/f740e9da-772f-4ae2-8ddd-49f717aacf63-260317175516.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Selasa, 17 Maret 2026 pukul 17.55.28 WIB |
 | 772 | <img src="https://cdn.idntimes.com/content-images/post/20260317/50a27780-93e7-4e40-8474-60f6e0cca6da-260317165348.jpg" width="170"> | JKT48 | NUNGGU BEDUG BARENG SMARTFREN | Selasa, 17 Maret 2026 pukul 16.53.54 WIB |
 | 771 | <img src="https://cdn.idntimes.com/content-images/post/20260317/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260317132503.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Selasa, 17 Maret 2026 pukul 13.25.25 WIB |
 | 770 | <img src="https://cdn.idntimes.com/content-images/post/20260317/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260317024302.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Selasa, 17 Maret 2026 pukul 02.43.17 WIB |
