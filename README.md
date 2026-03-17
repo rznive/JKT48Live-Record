@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 776 | <img src="https://cdn.idntimes.com/content-images/post/20260317/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260317214446.jpg" width="170"> | Lily JKT48 | Radioly | Selasa, 17 Maret 2026 pukul 21.44.53 WIB |
+| 775 | <img src="https://cdn.idntimes.com/content-images/post/20260317/4f795073-38c9-4df7-9388-74b83de69801-260317213504.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Selasa, 17 Maret 2026 pukul 21.35.15 WIB |
+| 774 | <img src="https://cdn.idntimes.com/content-images/post/20260317/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260317212804.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Selasa, 17 Maret 2026 pukul 21.28.19 WIB |
 | 773 | <img src="https://cdn.idntimes.com/content-images/post/20260317/f740e9da-772f-4ae2-8ddd-49f717aacf63-260317175516.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Selasa, 17 Maret 2026 pukul 17.55.28 WIB |
 | 772 | <img src="https://cdn.idntimes.com/content-images/post/20260317/50a27780-93e7-4e40-8474-60f6e0cca6da-260317165348.jpg" width="170"> | JKT48 | NUNGGU BEDUG BARENG SMARTFREN | Selasa, 17 Maret 2026 pukul 16.53.54 WIB |
 | 771 | <img src="https://cdn.idntimes.com/content-images/post/20260317/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260317132503.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Selasa, 17 Maret 2026 pukul 13.25.25 WIB |
