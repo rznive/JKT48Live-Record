@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 779 | <img src="https://cdn.idntimes.com/content-images/post/20260317/e2af7271-2598-4ee8-8760-68043e671e6d-260317225314.jpg" width="170"> | Lana JKT48 | Hai | Selasa, 17 Maret 2026 pukul 22.53.21 WIB |
+| 778 | <img src="https://cdn.idntimes.com/content-images/post/20260317/266ef38a-da00-4d13-ba77-f94da68599ee-260317222743.jpg" width="170"> | Delynn JKT48 | Hi  | Selasa, 17 Maret 2026 pukul 22.28.00 WIB |
+| 777 | <img src="https://cdn.idntimes.com/content-images/post/20260317/15dfee86-a928-4a15-8c90-6aa21097d0ff-260317221023.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Selasa, 17 Maret 2026 pukul 22.10.31 WIB |
 | 776 | <img src="https://cdn.idntimes.com/content-images/post/20260317/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260317214446.jpg" width="170"> | Lily JKT48 | Radioly | Selasa, 17 Maret 2026 pukul 21.44.53 WIB |
 | 775 | <img src="https://cdn.idntimes.com/content-images/post/20260317/4f795073-38c9-4df7-9388-74b83de69801-260317213504.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Selasa, 17 Maret 2026 pukul 21.35.15 WIB |
 | 774 | <img src="https://cdn.idntimes.com/content-images/post/20260317/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260317212804.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Selasa, 17 Maret 2026 pukul 21.28.19 WIB |
