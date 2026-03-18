@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 788 | <img src="https://cdn.idntimes.com/content-images/post/20260318/266ef38a-da00-4d13-ba77-f94da68599ee-260318214021.jpg" width="170"> | Delynn JKT48 | Hi | Rabu, 18 Maret 2026 pukul 21.40.37 WIB |
+| 787 | <img src="https://cdn.idntimes.com/content-images/post/20260318/85f369d7-6525-41c0-94b8-9a56686713eb-260318213045.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 18 Maret 2026 pukul 21.31.02 WIB |
+| 786 | <img src="https://cdn.idntimes.com/content-images/post/20260318/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260318210037.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Rabu, 18 Maret 2026 pukul 21.00.58 WIB |
+| 785 | <img src="https://cdn.idntimes.com/content-images/post/20260318/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260318204506.jpg" width="170"> | Giaa JKT48 | yuyur  | Rabu, 18 Maret 2026 pukul 20.45.17 WIB |
 | 784 | <img src="https://cdn.idntimes.com/content-images/post/20260318/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260318195000.jpg" width="170"> | Lily JKT48 | Radioly | Rabu, 18 Maret 2026 pukul 19.50.06 WIB |
 | 783 | <img src="https://cdn.idntimes.com/content-images/post/20260318/e9170998-f026-4186-bbc5-a17a3b5b2af1-260318182409.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Rabu, 18 Maret 2026 pukul 18.24.19 WIB |
 | 782 | <img src="https://cdn.idntimes.com/content-images/post/20260318/e0ececb4-71d8-4f32-a221-ef21634a746a-260318170602.jpg" width="170"> | Elin JKT48 | NgabuberLin | Rabu, 18 Maret 2026 pukul 17.06.09 WIB |
