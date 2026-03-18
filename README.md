@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 798 | <img src="https://cdn.idntimes.com/content-images/post/20260319/e8aa0877-684a-4430-8a3b-d96302e53aab-260319035401.jpg" width="170"> | Amanda JKT48 | #TTS semoga ga ngelag | Kamis, 19 Maret 2026 pukul 03.54.29 WIB |
+| 797 | <img src="https://cdn.idntimes.com/content-images/post/20260319/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260319034107.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Kamis, 19 Maret 2026 pukul 03.41.22 WIB |
+| 796 | <img src="https://cdn.idntimes.com/content-images/post/20260319/85f369d7-6525-41c0-94b8-9a56686713eb-260319034015.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Kamis, 19 Maret 2026 pukul 03.40.28 WIB |
 | 795 | <img src="https://cdn.idntimes.com/content-images/post/20260319/74e76417-0353-487f-b9b7-7520c0398e87-260319030803.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Kamis, 19 Maret 2026 pukul 03.08.11 WIB |
 | 794 | <img src="https://cdn.idntimes.com/content-images/post/20260319/f001ba66-3c51-4849-9afa-13cf74eb1571-260319000453.jpg" width="170"> | Aralie JKT48 | Ayo ngobrol bareng! | Kamis, 19 Maret 2026 pukul 00.05.04 WIB |
 | 793 | <img src="https://cdn.idntimes.com/content-images/post/20260318/f740e9da-772f-4ae2-8ddd-49f717aacf63-260318234108.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Rabu, 18 Maret 2026 pukul 23.41.20 WIB |
