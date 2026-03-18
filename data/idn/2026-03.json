@@ -1828,5 +1828,15 @@
     "live_at_unix": 1773853504,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260319/f001ba66-3c51-4849-9afa-13cf74eb1571-260319000453.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oxXRFBYUK9HN.m3u8"
+  },
+  {
+    "id": 795,
+    "username": "jkt48_alya",
+    "creator_name": "Alya JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 19 Maret 2026 pukul 03.08.11 WIB",
+    "live_at_unix": 1773864491,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260319/74e76417-0353-487f-b9b7-7520c0398e87-260319030803.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sLZkhRvMutd4.m3u8"
   }
 ]
