@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 790 | <img src="https://cdn.idntimes.com/content-images/post/20260318/e2af7271-2598-4ee8-8760-68043e671e6d-260318221258.jpg" width="170"> | Lana JKT48 | Temenin buat slime!!  | Rabu, 18 Maret 2026 pukul 22.13.13 WIB |
+| 789 | <img src="https://cdn.idntimes.com/content-images/post/20260318/728d224e-6ccb-43d2-a029-a0147dc7fdee-260318215617.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Rabu, 18 Maret 2026 pukul 21.56.25 WIB |
 | 788 | <img src="https://cdn.idntimes.com/content-images/post/20260318/266ef38a-da00-4d13-ba77-f94da68599ee-260318214021.jpg" width="170"> | Delynn JKT48 | Hi | Rabu, 18 Maret 2026 pukul 21.40.37 WIB |
 | 787 | <img src="https://cdn.idntimes.com/content-images/post/20260318/85f369d7-6525-41c0-94b8-9a56686713eb-260318213045.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 18 Maret 2026 pukul 21.31.02 WIB |
 | 786 | <img src="https://cdn.idntimes.com/content-images/post/20260318/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260318210037.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Rabu, 18 Maret 2026 pukul 21.00.58 WIB |

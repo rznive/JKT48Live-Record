@@ -1768,5 +1768,25 @@
     "live_at_unix": 1773844837,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260318/266ef38a-da00-4d13-ba77-f94da68599ee-260318214021.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
+  },
+  {
+    "id": 789,
+    "username": "jkt48_raisha",
+    "creator_name": "Raisha JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 18 Maret 2026 pukul 21.56.25 WIB",
+    "live_at_unix": 1773845785,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260318/728d224e-6ccb-43d2-a029-a0147dc7fdee-260318215617.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.rjVZYmbffgGE.m3u8"
+  },
+  {
+    "id": 790,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Temenin buat slime!! ",
+    "live_at": "Rabu, 18 Maret 2026 pukul 22.13.13 WIB",
+    "live_at_unix": 1773846793,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260318/e2af7271-2598-4ee8-8760-68043e671e6d-260318221258.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
   }
 ]
