@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 794 | <img src="https://cdn.idntimes.com/content-images/post/20260319/f001ba66-3c51-4849-9afa-13cf74eb1571-260319000453.jpg" width="170"> | Aralie JKT48 | Ayo ngobrol bareng! | Kamis, 19 Maret 2026 pukul 00.05.04 WIB |
 | 793 | <img src="https://cdn.idntimes.com/content-images/post/20260318/f740e9da-772f-4ae2-8ddd-49f717aacf63-260318234108.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Rabu, 18 Maret 2026 pukul 23.41.20 WIB |
 | 792 | <img src="https://cdn.idntimes.com/content-images/post/20260318/4f795073-38c9-4df7-9388-74b83de69801-260318232231.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 18 Maret 2026 pukul 23.22.42 WIB |
 | 791 | <img src="https://cdn.idntimes.com/content-images/post/20260318/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260318232104.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Rabu, 18 Maret 2026 pukul 23.21.16 WIB |
