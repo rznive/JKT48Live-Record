@@ -1998,5 +1998,15 @@
     "live_at_unix": 1773950714,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260320/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260320030456.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 812,
+    "username": "jkt48_amanda",
+    "creator_name": "Amanda JKT48",
+    "title": "Last #TTS Finale",
+    "live_at": "Jumat, 20 Maret 2026 pukul 03.36.24 WIB",
+    "live_at_unix": 1773952584,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260320/e8aa0877-684a-4430-8a3b-d96302e53aab-260320033615.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
   }
 ]

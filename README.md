@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 812 | <img src="https://cdn.idntimes.com/content-images/post/20260320/e8aa0877-684a-4430-8a3b-d96302e53aab-260320033615.jpg" width="170"> | Amanda JKT48 | Last #TTS Finale | Jumat, 20 Maret 2026 pukul 03.36.24 WIB |
 | 811 | <img src="https://cdn.idntimes.com/content-images/post/20260320/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260320030456.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Jumat, 20 Maret 2026 pukul 03.05.14 WIB |
 | 810 | <img src="https://cdn.idntimes.com/content-images/post/20260320/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260320024939.jpg" width="170"> | Erine JKT48 | Ayo ngobrol bareng! | Jumat, 20 Maret 2026 pukul 02.49.50 WIB |
 | 809 | <img src="https://cdn.idntimes.com/content-images/post/20260320/4f795073-38c9-4df7-9388-74b83de69801-260320022420.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Jumat, 20 Maret 2026 pukul 02.24.31 WIB |
