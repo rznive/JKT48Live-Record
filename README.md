@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 807 | <img src="https://cdn.idntimes.com/content-images/post/20260319/147e83c8-f3ac-4680-9141-2f518b4b7810-260319214524.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Kamis, 19 Maret 2026 pukul 21.45.42 WIB |
 | 806 | <img src="https://cdn.idntimes.com/content-images/post/20260319/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260319213111.jpg" width="170"> | Giaa JKT48 | mlm sblm tidur | Kamis, 19 Maret 2026 pukul 21.31.20 WIB |
 | 805 | <img src="https://cdn.idntimes.com/content-images/post/20260319/21a420b0-dd01-4daa-b185-b9020f8bf69d-260319205421.jpg" width="170"> | Nachia JKT48 | hii | Kamis, 19 Maret 2026 pukul 20.54.35 WIB |
 | 804 | <img src="https://cdn.idntimes.com/content-images/post/20260319/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260319205338.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Kamis, 19 Maret 2026 pukul 20.53.56 WIB |
