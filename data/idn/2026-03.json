@@ -1918,5 +1918,35 @@
     "live_at_unix": 1773927149,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260319/266ef38a-da00-4d13-ba77-f94da68599ee-260319203212.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
+  },
+  {
+    "id": 804,
+    "username": "jkt48_nala",
+    "creator_name": "Nala JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 19 Maret 2026 pukul 20.53.56 WIB",
+    "live_at_unix": 1773928436,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260319/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260319205338.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.nCPKiODqPEOs.m3u8"
+  },
+  {
+    "id": 805,
+    "username": "jkt48_nachia",
+    "creator_name": "Nachia JKT48",
+    "title": "hii",
+    "live_at": "Kamis, 19 Maret 2026 pukul 20.54.35 WIB",
+    "live_at_unix": 1773928475,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260319/21a420b0-dd01-4daa-b185-b9020f8bf69d-260319205421.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8"
+  },
+  {
+    "id": 806,
+    "username": "jkt48_giaa",
+    "creator_name": "Giaa JKT48",
+    "title": "mlm sblm tidur",
+    "live_at": "Kamis, 19 Maret 2026 pukul 21.31.20 WIB",
+    "live_at_unix": 1773930680,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260319/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260319213111.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
   }
 ]

@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 806 | <img src="https://cdn.idntimes.com/content-images/post/20260319/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260319213111.jpg" width="170"> | Giaa JKT48 | mlm sblm tidur | Kamis, 19 Maret 2026 pukul 21.31.20 WIB |
+| 805 | <img src="https://cdn.idntimes.com/content-images/post/20260319/21a420b0-dd01-4daa-b185-b9020f8bf69d-260319205421.jpg" width="170"> | Nachia JKT48 | hii | Kamis, 19 Maret 2026 pukul 20.54.35 WIB |
+| 804 | <img src="https://cdn.idntimes.com/content-images/post/20260319/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260319205338.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Kamis, 19 Maret 2026 pukul 20.53.56 WIB |
 | 803 | <img src="https://cdn.idntimes.com/content-images/post/20260319/266ef38a-da00-4d13-ba77-f94da68599ee-260319203212.jpg" width="170"> | Delynn JKT48 | Hi | Kamis, 19 Maret 2026 pukul 20.32.29 WIB |
 | 802 | <img src="https://cdn.idntimes.com/content-images/post/20260319/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260319190010.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Kamis, 19 Maret 2026 pukul 19.00.34 WIB |
 | 801 | <img src="https://cdn.idntimes.com/content-images/post/20260319/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260319172853.jpg" width="170"> | Lily JKT48 | Radioly  | Kamis, 19 Maret 2026 pukul 17.28.59 WIB |
