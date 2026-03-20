@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 817 | <img src="https://cdn.idntimes.com/content-images/post/20260320/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260320190104.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Jumat, 20 Maret 2026 pukul 19.01.14 WIB |
 | 816 | <img src="https://cdn.idntimes.com/content-images/post/20260320/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260320184420.jpg" width="170"> | Lily JKT48 | Makan | Jumat, 20 Maret 2026 pukul 18.44.27 WIB |
 | 815 | <img src="https://cdn.idntimes.com/content-images/post/20260320/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260320170920.jpg" width="170"> | Giaa JKT48 | masyaallah | Jumat, 20 Maret 2026 pukul 17.09.28 WIB |
 | 814 | <img src="https://cdn.idntimes.com/content-images/post/20260320/7599c984-c466-4962-8c5b-73c1d33d59d9-260320142938.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Jumat, 20 Maret 2026 pukul 14.29.47 WIB |
