@@ -2038,5 +2038,15 @@
     "live_at_unix": 1774001368,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260320/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260320170920.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
+  },
+  {
+    "id": 816,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Makan",
+    "live_at": "Jumat, 20 Maret 2026 pukul 18.44.27 WIB",
+    "live_at_unix": 1774007067,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260320/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260320184420.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
   }
 ]
