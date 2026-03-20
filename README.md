@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 820 | <img src="https://cdn.idntimes.com/content-images/post/20260320/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260320222515.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Jumat, 20 Maret 2026 pukul 22.25.31 WIB |
 | 819 | <img src="https://cdn.idntimes.com/content-images/post/20260320/266ef38a-da00-4d13-ba77-f94da68599ee-260320200235.jpg" width="170"> | Delynn JKT48 | Hi radio | Jumat, 20 Maret 2026 pukul 20.02.53 WIB |
 | 818 | <img src="https://cdn.idntimes.com/content-images/post/20260320/15dfee86-a928-4a15-8c90-6aa21097d0ff-260320195555.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 20 Maret 2026 pukul 19.56.08 WIB |
 | 817 | <img src="https://cdn.idntimes.com/content-images/post/20260320/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260320190104.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Jumat, 20 Maret 2026 pukul 19.01.14 WIB |
