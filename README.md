@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 819 | <img src="https://cdn.idntimes.com/content-images/post/20260320/266ef38a-da00-4d13-ba77-f94da68599ee-260320200235.jpg" width="170"> | Delynn JKT48 | Hi radio | Jumat, 20 Maret 2026 pukul 20.02.53 WIB |
+| 818 | <img src="https://cdn.idntimes.com/content-images/post/20260320/15dfee86-a928-4a15-8c90-6aa21097d0ff-260320195555.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 20 Maret 2026 pukul 19.56.08 WIB |
 | 817 | <img src="https://cdn.idntimes.com/content-images/post/20260320/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260320190104.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Jumat, 20 Maret 2026 pukul 19.01.14 WIB |
 | 816 | <img src="https://cdn.idntimes.com/content-images/post/20260320/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260320184420.jpg" width="170"> | Lily JKT48 | Makan | Jumat, 20 Maret 2026 pukul 18.44.27 WIB |
 | 815 | <img src="https://cdn.idntimes.com/content-images/post/20260320/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260320170920.jpg" width="170"> | Giaa JKT48 | masyaallah | Jumat, 20 Maret 2026 pukul 17.09.28 WIB |
