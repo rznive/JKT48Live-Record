@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 828 | <img src="https://cdn.idntimes.com/content-images/post/20260321/85f369d7-6525-41c0-94b8-9a56686713eb-260321215952.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Maret 2026 pukul 22.00.05 WIB |
 | 827 | <img src="https://cdn.idntimes.com/content-images/post/20260321/266ef38a-da00-4d13-ba77-f94da68599ee-260321213629.jpg" width="170"> | Delynn JKT48 | Hi | Sabtu, 21 Maret 2026 pukul 21.36.45 WIB |
 | 826 | <img src="https://cdn.idntimes.com/content-images/post/20260321/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260321212219.jpg" width="170"> | Lily JKT48 | Radioly | Sabtu, 21 Maret 2026 pukul 21.22.26 WIB |
 | 825 | <img src="https://cdn.idntimes.com/content-images/post/20260321/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260321194414.jpg" width="170"> | Giaa JKT48 | met lebarannnn | Sabtu, 21 Maret 2026 pukul 19.44.22 WIB |
