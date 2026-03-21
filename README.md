@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 825 | <img src="https://cdn.idntimes.com/content-images/post/20260321/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260321194414.jpg" width="170"> | Giaa JKT48 | met lebarannnn | Sabtu, 21 Maret 2026 pukul 19.44.22 WIB |
 | 824 | <img src="https://cdn.idntimes.com/content-images/post/20260321/74e76417-0353-487f-b9b7-7520c0398e87-260321185304.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Maret 2026 pukul 18.53.12 WIB |
 | 823 | <img src="https://cdn.idntimes.com/content-images/post/20260321/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260321125555.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Sabtu, 21 Maret 2026 pukul 12.56.02 WIB |
 | 822 | <img src="https://cdn.idntimes.com/content-images/post/20260320/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260320225820.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Jumat, 20 Maret 2026 pukul 22.58.35 WIB |
