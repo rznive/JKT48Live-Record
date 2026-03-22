@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 833 | <img src="https://cdn.idntimes.com/content-images/post/20260322/b11b0692-d0b8-464c-849a-9e81439a048c-260322174736.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Minggu, 22 Maret 2026 pukul 17.47.45 WIB |
 | 832 | <img src="https://cdn.idntimes.com/content-images/post/20260322/33139b05-1c43-4b48-bba3-ec960b18b36e-260322163318.jpg" width="170"> | Danella JKT48 | hi | Minggu, 22 Maret 2026 pukul 16.33.31 WIB |
 | 831 | <img src="https://cdn.idntimes.com/content-images/post/20260322/b11b0692-d0b8-464c-849a-9e81439a048c-260322162505.jpg" width="170"> | Daisy JKT48 | Haiiiii!!!!🫶🏻 | Minggu, 22 Maret 2026 pukul 16.25.32 WIB |
 | 830 | <img src="https://cdn.idntimes.com/content-images/post/20260322/e8aa0877-684a-4430-8a3b-d96302e53aab-260322002002.jpg" width="170"> | Amanda JKT48 | random aja | Minggu, 22 Maret 2026 pukul 00.20.11 WIB |
