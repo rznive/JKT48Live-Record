@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 836 | <img src="https://cdn.idntimes.com/content-images/post/20260322/a5c72141-65a3-47be-86ef-1dc1feaab10d-260322211448.jpg" width="170"> | Anindya JKT48 | temenin night selfcare routinee | Minggu, 22 Maret 2026 pukul 21.14.57 WIB |
+| 835 | <img src="https://cdn.idntimes.com/content-images/post/20260322/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260322210656.jpg" width="170"> | Lily JKT48 | Radioly | Minggu, 22 Maret 2026 pukul 21.07.03 WIB |
 | 834 | <img src="https://cdn.idntimes.com/content-images/post/20260322/f001ba66-3c51-4849-9afa-13cf74eb1571-260322190037.jpg" width="170"> | Aralie JKT48 | Ayo ngobrol bareng! | Minggu, 22 Maret 2026 pukul 19.00.49 WIB |
 | 833 | <img src="https://cdn.idntimes.com/content-images/post/20260322/b11b0692-d0b8-464c-849a-9e81439a048c-260322174736.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Minggu, 22 Maret 2026 pukul 17.47.45 WIB |
 | 832 | <img src="https://cdn.idntimes.com/content-images/post/20260322/33139b05-1c43-4b48-bba3-ec960b18b36e-260322163318.jpg" width="170"> | Danella JKT48 | hi | Minggu, 22 Maret 2026 pukul 16.33.31 WIB |
