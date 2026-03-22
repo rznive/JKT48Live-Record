@@ -2258,5 +2258,25 @@
     "live_at_unix": 1774192969,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260322/e2af7271-2598-4ee8-8760-68043e671e6d-260322222241.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 838,
+    "username": "jkt48_amanda",
+    "creator_name": "Amanda JKT48",
+    "title": "Malammm",
+    "live_at": "Minggu, 22 Maret 2026 pukul 23.02.57 WIB",
+    "live_at_unix": 1774195377,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260322/e8aa0877-684a-4430-8a3b-d96302e53aab-260322230248.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
+  },
+  {
+    "id": 839,
+    "username": "jkt48_delynn",
+    "creator_name": "Delynn JKT48",
+    "title": "Hi",
+    "live_at": "Minggu, 22 Maret 2026 pukul 23.03.28 WIB",
+    "live_at_unix": 1774195408,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260322/266ef38a-da00-4d13-ba77-f94da68599ee-260322230311.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
   }
 ]

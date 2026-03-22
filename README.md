@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 839 | <img src="https://cdn.idntimes.com/content-images/post/20260322/266ef38a-da00-4d13-ba77-f94da68599ee-260322230311.jpg" width="170"> | Delynn JKT48 | Hi | Minggu, 22 Maret 2026 pukul 23.03.28 WIB |
+| 838 | <img src="https://cdn.idntimes.com/content-images/post/20260322/e8aa0877-684a-4430-8a3b-d96302e53aab-260322230248.jpg" width="170"> | Amanda JKT48 | Malammm | Minggu, 22 Maret 2026 pukul 23.02.57 WIB |
 | 837 | <img src="https://cdn.idntimes.com/content-images/post/20260322/e2af7271-2598-4ee8-8760-68043e671e6d-260322222241.jpg" width="170"> | Lana JKT48 | Hii | Minggu, 22 Maret 2026 pukul 22.22.49 WIB |
 | 836 | <img src="https://cdn.idntimes.com/content-images/post/20260322/a5c72141-65a3-47be-86ef-1dc1feaab10d-260322211448.jpg" width="170"> | Anindya JKT48 | temenin night selfcare routinee | Minggu, 22 Maret 2026 pukul 21.14.57 WIB |
 | 835 | <img src="https://cdn.idntimes.com/content-images/post/20260322/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260322210656.jpg" width="170"> | Lily JKT48 | Radioly | Minggu, 22 Maret 2026 pukul 21.07.03 WIB |
