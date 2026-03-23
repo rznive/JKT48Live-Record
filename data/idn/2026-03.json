@@ -2298,5 +2298,15 @@
     "live_at_unix": 1774199158,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260323/266ef38a-da00-4d13-ba77-f94da68599ee-260323000543.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
+  },
+  {
+    "id": 842,
+    "username": "jkt48_anindya",
+    "creator_name": "Anindya JKT48",
+    "title": "GRWM",
+    "live_at": "Senin, 23 Maret 2026 pukul 14.35.18 WIB",
+    "live_at_unix": 1774251318,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260323/a5c72141-65a3-47be-86ef-1dc1feaab10d-260323143510.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8"
   }
 ]
