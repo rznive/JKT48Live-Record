@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 848 | <img src="https://cdn.idntimes.com/content-images/post/20260324/4f795073-38c9-4df7-9388-74b83de69801-260324000129.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Selasa, 24 Maret 2026 pukul 00.01.43 WIB |
 | 847 | <img src="https://cdn.idntimes.com/content-images/post/20260323/a5c72141-65a3-47be-86ef-1dc1feaab10d-260323204741.jpg" width="170"> | Anindya JKT48 | udaah pulangg | Senin, 23 Maret 2026 pukul 20.47.54 WIB |
 | 846 | <img src="https://cdn.idntimes.com/content-images/post/20260323/266ef38a-da00-4d13-ba77-f94da68599ee-260323203855.jpg" width="170"> | Delynn JKT48 | hi | Senin, 23 Maret 2026 pukul 20.39.06 WIB |
 | 845 | <img src="https://cdn.idntimes.com/content-images/post/20260323/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260323202159.jpg" width="170"> | Giaa JKT48 | yoo | Senin, 23 Maret 2026 pukul 20.22.08 WIB |
