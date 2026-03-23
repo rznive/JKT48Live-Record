@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 843 | <img src="https://cdn.idntimes.com/content-images/post/20260323/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260323193105.jpg" width="170"> | Intan JKT48 | oi | Senin, 23 Maret 2026 pukul 19.31.20 WIB |
 | 842 | <img src="https://cdn.idntimes.com/content-images/post/20260323/a5c72141-65a3-47be-86ef-1dc1feaab10d-260323143510.jpg" width="170"> | Anindya JKT48 | GRWM | Senin, 23 Maret 2026 pukul 14.35.18 WIB |
 | 841 | <img src="https://cdn.idntimes.com/content-images/post/20260323/266ef38a-da00-4d13-ba77-f94da68599ee-260323000543.jpg" width="170"> | Delynn JKT48 | Hui  | Senin, 23 Maret 2026 pukul 00.05.58 WIB |
 | 840 | <img src="https://cdn.idntimes.com/content-images/post/20260322/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260322231923.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 22 Maret 2026 pukul 23.19.32 WIB |
