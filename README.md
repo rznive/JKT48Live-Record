@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 855 | <img src="https://cdn.idntimes.com/content-images/post/20260324/15dfee86-a928-4a15-8c90-6aa21097d0ff-260324233203.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Selasa, 24 Maret 2026 pukul 23.32.13 WIB |
 | 854 | <img src="https://cdn.idntimes.com/content-images/post/20260324/e2af7271-2598-4ee8-8760-68043e671e6d-260324222145.jpg" width="170"> | Lana JKT48 | Hiii | Selasa, 24 Maret 2026 pukul 22.21.53 WIB |
 | 853 | <img src="https://cdn.idntimes.com/content-images/post/20260324/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260324220646.jpg" width="170"> | Giaa JKT48 | hai | Selasa, 24 Maret 2026 pukul 22.06.53 WIB |
 | 852 | <img src="https://cdn.idntimes.com/content-images/post/20260324/266ef38a-da00-4d13-ba77-f94da68599ee-260324210553.jpg" width="170"> | Delynn JKT48 | hi lagi | Selasa, 24 Maret 2026 pukul 21.06.05 WIB |
