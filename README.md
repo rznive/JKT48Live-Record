@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 852 | <img src="https://cdn.idntimes.com/content-images/post/20260324/266ef38a-da00-4d13-ba77-f94da68599ee-260324210553.jpg" width="170"> | Delynn JKT48 | hi lagi | Selasa, 24 Maret 2026 pukul 21.06.05 WIB |
 | 851 | <img src="https://cdn.idntimes.com/content-images/post/20260324/e8aa0877-684a-4430-8a3b-d96302e53aab-260324193955.jpg" width="170"> | Amanda JKT48 | Lipee | Selasa, 24 Maret 2026 pukul 19.40.06 WIB |
 | 850 | <img src="https://cdn.idntimes.com/content-images/post/20260324/85f369d7-6525-41c0-94b8-9a56686713eb-260324160952.jpg" width="170"> | Ekin JKT48 | kebun  | Selasa, 24 Maret 2026 pukul 16.10.15 WIB |
 | 849 | <img src="https://cdn.idntimes.com/content-images/post/20260324/e9170998-f026-4186-bbc5-a17a3b5b2af1-260324144418.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Selasa, 24 Maret 2026 pukul 14.44.26 WIB |
