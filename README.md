@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 854 | <img src="https://cdn.idntimes.com/content-images/post/20260324/e2af7271-2598-4ee8-8760-68043e671e6d-260324222145.jpg" width="170"> | Lana JKT48 | Hiii | Selasa, 24 Maret 2026 pukul 22.21.53 WIB |
+| 853 | <img src="https://cdn.idntimes.com/content-images/post/20260324/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260324220646.jpg" width="170"> | Giaa JKT48 | hai | Selasa, 24 Maret 2026 pukul 22.06.53 WIB |
 | 852 | <img src="https://cdn.idntimes.com/content-images/post/20260324/266ef38a-da00-4d13-ba77-f94da68599ee-260324210553.jpg" width="170"> | Delynn JKT48 | hi lagi | Selasa, 24 Maret 2026 pukul 21.06.05 WIB |
 | 851 | <img src="https://cdn.idntimes.com/content-images/post/20260324/e8aa0877-684a-4430-8a3b-d96302e53aab-260324193955.jpg" width="170"> | Amanda JKT48 | Lipee | Selasa, 24 Maret 2026 pukul 19.40.06 WIB |
 | 850 | <img src="https://cdn.idntimes.com/content-images/post/20260324/85f369d7-6525-41c0-94b8-9a56686713eb-260324160952.jpg" width="170"> | Ekin JKT48 | kebun  | Selasa, 24 Maret 2026 pukul 16.10.15 WIB |
