@@ -2438,5 +2438,25 @@
     "live_at_unix": 1774369933,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260324/15dfee86-a928-4a15-8c90-6aa21097d0ff-260324233203.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 856,
+    "username": "jkt48_danella",
+    "creator_name": "Danella JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 25 Maret 2026 pukul 00.21.27 WIB",
+    "live_at_unix": 1774372887,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260325/33139b05-1c43-4b48-bba3-ec960b18b36e-260325002116.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
+  },
+  {
+    "id": 857,
+    "username": "jkt48_daisy",
+    "creator_name": "Daisy JKT48",
+    "title": "Goodnight🫰🏻",
+    "live_at": "Rabu, 25 Maret 2026 pukul 00.21.27 WIB",
+    "live_at_unix": 1774372887,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260325/b11b0692-d0b8-464c-849a-9e81439a048c-260325002116.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
   }
 ]

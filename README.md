@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 856 | <img src="https://cdn.idntimes.com/content-images/post/20260325/33139b05-1c43-4b48-bba3-ec960b18b36e-260325002116.jpg" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 00.21.27 WIB |
+| 857 | <img src="https://cdn.idntimes.com/content-images/post/20260325/b11b0692-d0b8-464c-849a-9e81439a048c-260325002116.jpg" width="170"> | Daisy JKT48 | Goodnight🫰🏻 | Rabu, 25 Maret 2026 pukul 00.21.27 WIB |
 | 855 | <img src="https://cdn.idntimes.com/content-images/post/20260324/15dfee86-a928-4a15-8c90-6aa21097d0ff-260324233203.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Selasa, 24 Maret 2026 pukul 23.32.13 WIB |
 | 854 | <img src="https://cdn.idntimes.com/content-images/post/20260324/e2af7271-2598-4ee8-8760-68043e671e6d-260324222145.jpg" width="170"> | Lana JKT48 | Hiii | Selasa, 24 Maret 2026 pukul 22.21.53 WIB |
 | 853 | <img src="https://cdn.idntimes.com/content-images/post/20260324/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260324220646.jpg" width="170"> | Giaa JKT48 | hai | Selasa, 24 Maret 2026 pukul 22.06.53 WIB |
