@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 860 | <img src="https://cdn.idntimes.com/content-images/post/20260325/f001ba66-3c51-4849-9afa-13cf74eb1571-260325172350.jpg" width="170"> | Aralie JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 17.24.02 WIB |
+| 859 | <img src="https://cdn.idntimes.com/content-images/post/20260325/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260325171003.jpg" width="170"> | Lily JKT48 | Radioly | Rabu, 25 Maret 2026 pukul 17.10.31 WIB |
 | 858 | <img src="https://cdn.idntimes.com/content-images/post/20260325/a557ba58-12d8-4260-bd50-9e5252ac71ef-260325160125.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 16.01.38 WIB |
 | 856 | <img src="https://cdn.idntimes.com/content-images/post/20260325/33139b05-1c43-4b48-bba3-ec960b18b36e-260325002116.jpg" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 00.21.27 WIB |
 | 857 | <img src="https://cdn.idntimes.com/content-images/post/20260325/b11b0692-d0b8-464c-849a-9e81439a048c-260325002116.jpg" width="170"> | Daisy JKT48 | Goodnight🫰🏻 | Rabu, 25 Maret 2026 pukul 00.21.27 WIB |
