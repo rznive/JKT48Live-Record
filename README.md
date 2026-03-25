@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 864 | <img src="https://cdn.idntimes.com/content-images/post/20260325/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260325205101.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 20.51.14 WIB |
+| 863 | <img src="https://cdn.idntimes.com/content-images/post/20260325/85f369d7-6525-41c0-94b8-9a56686713eb-260325203617.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 20.36.30 WIB |
 | 862 | <img src="https://cdn.idntimes.com/content-images/post/20260325/147e83c8-f3ac-4680-9141-2f518b4b7810-260325185512.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 18.55.28 WIB |
 | 861 | <img src="https://cdn.idntimes.com/content-images/post/20260325/7599c984-c466-4962-8c5b-73c1d33d59d9-260325185511.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 18.55.23 WIB |
 | 860 | <img src="https://cdn.idntimes.com/content-images/post/20260325/f001ba66-3c51-4849-9afa-13cf74eb1571-260325172350.jpg" width="170"> | Aralie JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 17.24.02 WIB |
