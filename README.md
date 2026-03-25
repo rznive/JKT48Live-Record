@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 868 | <img src="https://cdn.idntimes.com/content-images/post/20260325/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260325213556.jpg" width="170"> | Giaa JKT48 | malam | Rabu, 25 Maret 2026 pukul 21.36.07 WIB |
+| 867 | <img src="https://cdn.idntimes.com/content-images/post/20260325/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260325213108.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 21.31.26 WIB |
+| 866 | <img src="https://cdn.idntimes.com/content-images/post/20260325/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260325213050.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 21.31.10 WIB |
+| 865 | <img src="https://cdn.idntimes.com/content-images/post/20260325/266ef38a-da00-4d13-ba77-f94da68599ee-260325212523.jpg" width="170"> | Delynn JKT48 | Hi | Rabu, 25 Maret 2026 pukul 21.25.43 WIB |
 | 864 | <img src="https://cdn.idntimes.com/content-images/post/20260325/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260325205101.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 20.51.14 WIB |
 | 863 | <img src="https://cdn.idntimes.com/content-images/post/20260325/85f369d7-6525-41c0-94b8-9a56686713eb-260325203617.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 20.36.30 WIB |
 | 862 | <img src="https://cdn.idntimes.com/content-images/post/20260325/147e83c8-f3ac-4680-9141-2f518b4b7810-260325185512.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 18.55.28 WIB |
