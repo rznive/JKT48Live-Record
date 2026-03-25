@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 872 | <img src="https://cdn.idntimes.com/content-images/post/20260325/e2af7271-2598-4ee8-8760-68043e671e6d-260325224114.jpg" width="170"> | Lana JKT48 | Hi | Rabu, 25 Maret 2026 pukul 22.41.23 WIB |
+| 871 | <img src="https://cdn.idntimes.com/content-images/post/20260325/e8aa0877-684a-4430-8a3b-d96302e53aab-260325220546.jpg" width="170"> | Amanda JKT48 | Laip mageran | Rabu, 25 Maret 2026 pukul 22.05.57 WIB |
+| 870 | <img src="https://cdn.idntimes.com/content-images/post/20260325/728d224e-6ccb-43d2-a029-a0147dc7fdee-260325220327.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 22.03.42 WIB |
+| 869 | <img src="https://cdn.idntimes.com/content-images/post/20260325/a557ba58-12d8-4260-bd50-9e5252ac71ef-260325220039.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 22.00.52 WIB |
 | 868 | <img src="https://cdn.idntimes.com/content-images/post/20260325/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260325213556.jpg" width="170"> | Giaa JKT48 | malam | Rabu, 25 Maret 2026 pukul 21.36.07 WIB |
 | 867 | <img src="https://cdn.idntimes.com/content-images/post/20260325/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260325213108.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 21.31.26 WIB |
 | 866 | <img src="https://cdn.idntimes.com/content-images/post/20260325/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260325213050.jpg" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 21.31.10 WIB |
