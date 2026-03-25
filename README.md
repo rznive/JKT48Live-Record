@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 862 | <img src="https://cdn.idntimes.com/content-images/post/20260325/147e83c8-f3ac-4680-9141-2f518b4b7810-260325185512.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 18.55.28 WIB |
+| 861 | <img src="https://cdn.idntimes.com/content-images/post/20260325/7599c984-c466-4962-8c5b-73c1d33d59d9-260325185511.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 18.55.23 WIB |
 | 860 | <img src="https://cdn.idntimes.com/content-images/post/20260325/f001ba66-3c51-4849-9afa-13cf74eb1571-260325172350.jpg" width="170"> | Aralie JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 17.24.02 WIB |
 | 859 | <img src="https://cdn.idntimes.com/content-images/post/20260325/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260325171003.jpg" width="170"> | Lily JKT48 | Radioly | Rabu, 25 Maret 2026 pukul 17.10.31 WIB |
 | 858 | <img src="https://cdn.idntimes.com/content-images/post/20260325/a557ba58-12d8-4260-bd50-9e5252ac71ef-260325160125.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 16.01.38 WIB |
