@@ -2658,5 +2658,45 @@
     "live_at_unix": 1774534178,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260326/4f795073-38c9-4df7-9388-74b83de69801-260326210918.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 878,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Hi",
+    "live_at": "Kamis, 26 Maret 2026 pukul 21.33.07 WIB",
+    "live_at_unix": 1774535587,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260326/e2af7271-2598-4ee8-8760-68043e671e6d-260326213255.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 879,
+    "username": "jkt48_amanda",
+    "creator_name": "Amanda JKT48",
+    "title": "Laippp",
+    "live_at": "Kamis, 26 Maret 2026 pukul 21.40.51 WIB",
+    "live_at_unix": 1774536051,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260326/e8aa0877-684a-4430-8a3b-d96302e53aab-260326214039.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
+  },
+  {
+    "id": 880,
+    "username": "jkt48_danella",
+    "creator_name": "Danella JKT48",
+    "title": "Hiii",
+    "live_at": "Kamis, 26 Maret 2026 pukul 22.34.35 WIB",
+    "live_at_unix": 1774539275,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260326/33139b05-1c43-4b48-bba3-ec960b18b36e-260326223426.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
+  },
+  {
+    "id": 881,
+    "username": "jkt48_daisy",
+    "creator_name": "Daisy JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 26 Maret 2026 pukul 22.36.22 WIB",
+    "live_at_unix": 1774539382,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260326/b11b0692-d0b8-464c-849a-9e81439a048c-260326223612.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
   }
 ]

@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 881 | <img src="https://cdn.idntimes.com/content-images/post/20260326/b11b0692-d0b8-464c-849a-9e81439a048c-260326223612.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Kamis, 26 Maret 2026 pukul 22.36.22 WIB |
+| 880 | <img src="https://cdn.idntimes.com/content-images/post/20260326/33139b05-1c43-4b48-bba3-ec960b18b36e-260326223426.jpg" width="170"> | Danella JKT48 | Hiii | Kamis, 26 Maret 2026 pukul 22.34.35 WIB |
+| 879 | <img src="https://cdn.idntimes.com/content-images/post/20260326/e8aa0877-684a-4430-8a3b-d96302e53aab-260326214039.jpg" width="170"> | Amanda JKT48 | Laippp | Kamis, 26 Maret 2026 pukul 21.40.51 WIB |
+| 878 | <img src="https://cdn.idntimes.com/content-images/post/20260326/e2af7271-2598-4ee8-8760-68043e671e6d-260326213255.jpg" width="170"> | Lana JKT48 | Hi | Kamis, 26 Maret 2026 pukul 21.33.07 WIB |
 | 877 | <img src="https://cdn.idntimes.com/content-images/post/20260326/4f795073-38c9-4df7-9388-74b83de69801-260326210918.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 26 Maret 2026 pukul 21.09.38 WIB |
 | 876 | <img src="https://cdn.idntimes.com/content-images/post/20260326/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260326210539.jpg" width="170"> | Intan JKT48 | p p apa | Kamis, 26 Maret 2026 pukul 21.05.55 WIB |
 | 875 | <img src="https://cdn.idntimes.com/content-images/post/20260326/a5c72141-65a3-47be-86ef-1dc1feaab10d-260326210254.jpg" width="170"> | Anindya JKT48 | Ayo ngobrol bareng! | Kamis, 26 Maret 2026 pukul 21.03.05 WIB |
