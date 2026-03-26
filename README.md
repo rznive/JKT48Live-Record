@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 877 | <img src="https://cdn.idntimes.com/content-images/post/20260326/4f795073-38c9-4df7-9388-74b83de69801-260326210918.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 26 Maret 2026 pukul 21.09.38 WIB |
+| 876 | <img src="https://cdn.idntimes.com/content-images/post/20260326/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260326210539.jpg" width="170"> | Intan JKT48 | p p apa | Kamis, 26 Maret 2026 pukul 21.05.55 WIB |
+| 875 | <img src="https://cdn.idntimes.com/content-images/post/20260326/a5c72141-65a3-47be-86ef-1dc1feaab10d-260326210254.jpg" width="170"> | Anindya JKT48 | Ayo ngobrol bareng! | Kamis, 26 Maret 2026 pukul 21.03.05 WIB |
 | 874 | <img src="https://cdn.idntimes.com/content-images/post/20260326/266ef38a-da00-4d13-ba77-f94da68599ee-260326191252.jpg" width="170"> | Delynn JKT48 | Hi | Kamis, 26 Maret 2026 pukul 19.13.07 WIB |
 | 873 | <img src="https://cdn.idntimes.com/content-images/post/20260326/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260326133312.jpg" width="170"> | Greesel JKT48 | #GreeFM latihan duluu~~~ | Kamis, 26 Maret 2026 pukul 13.33.18 WIB |
 | 872 | <img src="https://cdn.idntimes.com/content-images/post/20260325/e2af7271-2598-4ee8-8760-68043e671e6d-260325224114.jpg" width="170"> | Lana JKT48 | Hi | Rabu, 25 Maret 2026 pukul 22.41.23 WIB |
