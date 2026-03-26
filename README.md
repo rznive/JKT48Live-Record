@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 873 | <img src="https://cdn.idntimes.com/content-images/post/20260326/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260326133312.jpg" width="170"> | Greesel JKT48 | #GreeFM latihan duluu~~~ | Kamis, 26 Maret 2026 pukul 13.33.18 WIB |
 | 872 | <img src="https://cdn.idntimes.com/content-images/post/20260325/e2af7271-2598-4ee8-8760-68043e671e6d-260325224114.jpg" width="170"> | Lana JKT48 | Hi | Rabu, 25 Maret 2026 pukul 22.41.23 WIB |
 | 871 | <img src="https://cdn.idntimes.com/content-images/post/20260325/e8aa0877-684a-4430-8a3b-d96302e53aab-260325220546.jpg" width="170"> | Amanda JKT48 | Laip mageran | Rabu, 25 Maret 2026 pukul 22.05.57 WIB |
 | 870 | <img src="https://cdn.idntimes.com/content-images/post/20260325/728d224e-6ccb-43d2-a029-a0147dc7fdee-260325220327.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Rabu, 25 Maret 2026 pukul 22.03.42 WIB |
