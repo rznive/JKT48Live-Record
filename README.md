@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 883 | <img src="https://cdn.idntimes.com/content-images/post/20260327/266ef38a-da00-4d13-ba77-f94da68599ee-260327155211.jpg" width="170"> | Delynn JKT48 | hi | Jumat, 27 Maret 2026 pukul 15.52.19 WIB |
 | 882 | <img src="https://cdn.idntimes.com/content-images/post/20260327/b11b0692-d0b8-464c-849a-9e81439a048c-260327150246.jpg" width="170"> | Daisy JKT48 | Gremmm | Jumat, 27 Maret 2026 pukul 15.02.55 WIB |
 | 881 | <img src="https://cdn.idntimes.com/content-images/post/20260326/b11b0692-d0b8-464c-849a-9e81439a048c-260326223612.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Kamis, 26 Maret 2026 pukul 22.36.22 WIB |
 | 880 | <img src="https://cdn.idntimes.com/content-images/post/20260326/33139b05-1c43-4b48-bba3-ec960b18b36e-260326223426.jpg" width="170"> | Danella JKT48 | Hiii | Kamis, 26 Maret 2026 pukul 22.34.35 WIB |
