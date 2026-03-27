@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 885 | <img src="https://cdn.idntimes.com/content-images/post/20260327/a9579a29-9203-40c0-9326-9837b8eae6e8-260327190450.jpg" width="170"> | Jessi JKT48 | dubay cuwi | Jumat, 27 Maret 2026 pukul 19.05.06 WIB |
 | 884 | <img src="https://cdn.idntimes.com/content-images/post/20260327/f740e9da-772f-4ae2-8ddd-49f717aacf63-260327170520.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Jumat, 27 Maret 2026 pukul 17.05.30 WIB |
 | 883 | <img src="https://cdn.idntimes.com/content-images/post/20260327/266ef38a-da00-4d13-ba77-f94da68599ee-260327155211.jpg" width="170"> | Delynn JKT48 | hi | Jumat, 27 Maret 2026 pukul 15.52.19 WIB |
 | 882 | <img src="https://cdn.idntimes.com/content-images/post/20260327/b11b0692-d0b8-464c-849a-9e81439a048c-260327150246.jpg" width="170"> | Daisy JKT48 | Gremmm | Jumat, 27 Maret 2026 pukul 15.02.55 WIB |
