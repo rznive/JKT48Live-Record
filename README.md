@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 894 | <img src="https://cdn.idntimes.com/content-images/post/20260327/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260327224800.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Jumat, 27 Maret 2026 pukul 22.48.08 WIB |
 | 893 | <img src="https://cdn.idntimes.com/content-images/post/20260327/b11b0692-d0b8-464c-849a-9e81439a048c-260327220742.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Jumat, 27 Maret 2026 pukul 22.07.52 WIB |
 | 892 | <img src="https://cdn.idntimes.com/content-images/post/20260327/33139b05-1c43-4b48-bba3-ec960b18b36e-260327220504.jpg" width="170"> | Danella JKT48 | Hi | Jumat, 27 Maret 2026 pukul 22.05.15 WIB |
 | 891 | <img src="https://cdn.idntimes.com/content-images/post/20260327/a5c72141-65a3-47be-86ef-1dc1feaab10d-260327213912.jpg" width="170"> | Anindya JKT48 | 💜💜💜 | Jumat, 27 Maret 2026 pukul 21.39.21 WIB |
