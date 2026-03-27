@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 890 | <img src="https://cdn.idntimes.com/content-images/post/20260327/147e83c8-f3ac-4680-9141-2f518b4b7810-260327212012.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Jumat, 27 Maret 2026 pukul 21.20.26 WIB |
+| 889 | <img src="https://cdn.idntimes.com/content-images/post/20260327/7599c984-c466-4962-8c5b-73c1d33d59d9-260327212008.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Jumat, 27 Maret 2026 pukul 21.20.19 WIB |
+| 888 | <img src="https://cdn.idntimes.com/content-images/post/20260327/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260327205109.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 27 Maret 2026 pukul 20.51.22 WIB |
 | 887 | <img src="https://cdn.idntimes.com/content-images/post/20260327/a9579a29-9203-40c0-9326-9837b8eae6e8-260327201734.jpg" width="170"> | Jessi JKT48 | hi | Jumat, 27 Maret 2026 pukul 20.17.50 WIB |
 | 886 | <img src="https://cdn.idntimes.com/content-images/post/20260327/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260327200811.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Jumat, 27 Maret 2026 pukul 20.08.19 WIB |
 | 885 | <img src="https://cdn.idntimes.com/content-images/post/20260327/a9579a29-9203-40c0-9326-9837b8eae6e8-260327190450.jpg" width="170"> | Jessi JKT48 | dubay cuwi | Jumat, 27 Maret 2026 pukul 19.05.06 WIB |
