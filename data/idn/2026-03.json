@@ -2698,5 +2698,15 @@
     "live_at_unix": 1774539382,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260326/b11b0692-d0b8-464c-849a-9e81439a048c-260326223612.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
+  },
+  {
+    "id": 882,
+    "username": "jkt48_daisy",
+    "creator_name": "Daisy JKT48",
+    "title": "Gremmm",
+    "live_at": "Jumat, 27 Maret 2026 pukul 15.02.55 WIB",
+    "live_at_unix": 1774598575,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260327/b11b0692-d0b8-464c-849a-9e81439a048c-260327150246.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
   }
 ]
