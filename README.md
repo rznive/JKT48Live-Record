@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 897 | <img src="https://cdn.idntimes.com/content-images/post/20260328/e9170998-f026-4186-bbc5-a17a3b5b2af1-260328193346.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Maret 2026 pukul 19.33.57 WIB |
+| 896 | <img src="https://cdn.idntimes.com/content-images/post/20260328/85f369d7-6525-41c0-94b8-9a56686713eb-260328192957.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Maret 2026 pukul 19.30.08 WIB |
 | 895 | <img src="https://cdn.idntimes.com/content-images/post/20260328/b11b0692-d0b8-464c-849a-9e81439a048c-260328125218.jpg" width="170"> | Daisy JKT48 | hiii | Sabtu, 28 Maret 2026 pukul 12.52.38 WIB |
 | 894 | <img src="https://cdn.idntimes.com/content-images/post/20260327/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260327224800.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Jumat, 27 Maret 2026 pukul 22.48.08 WIB |
 | 893 | <img src="https://cdn.idntimes.com/content-images/post/20260327/b11b0692-d0b8-464c-849a-9e81439a048c-260327220742.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Jumat, 27 Maret 2026 pukul 22.07.52 WIB |
