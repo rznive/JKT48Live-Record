@@ -2878,5 +2878,15 @@
     "live_at_unix": 1774707496,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260328/e8aa0877-684a-4430-8a3b-d96302e53aab-260328211807.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.08vLei7g32Nv.m3u8"
+  },
+  {
+    "id": 900,
+    "username": "jkt48_anindya",
+    "creator_name": "Anindya JKT48",
+    "title": "💚",
+    "live_at": "Sabtu, 28 Maret 2026 pukul 21.55.34 WIB",
+    "live_at_unix": 1774709734,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260328/a5c72141-65a3-47be-86ef-1dc1feaab10d-260328215524.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8"
   }
 ]

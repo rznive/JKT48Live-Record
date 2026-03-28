@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 900 | <img src="https://cdn.idntimes.com/content-images/post/20260328/a5c72141-65a3-47be-86ef-1dc1feaab10d-260328215524.jpg" width="170"> | Anindya JKT48 | 💚 | Sabtu, 28 Maret 2026 pukul 21.55.34 WIB |
 | 899 | <img src="https://cdn.idntimes.com/content-images/post/20260328/e8aa0877-684a-4430-8a3b-d96302e53aab-260328211807.jpg" width="170"> | Amanda JKT48 | Last idn live | Sabtu, 28 Maret 2026 pukul 21.18.16 WIB |
 | 898 | <img src="https://cdn.idntimes.com/content-images/post/20260328/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260328211706.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Maret 2026 pukul 21.17.13 WIB |
 | 897 | <img src="https://cdn.idntimes.com/content-images/post/20260328/e9170998-f026-4186-bbc5-a17a3b5b2af1-260328193346.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Sabtu, 28 Maret 2026 pukul 19.33.57 WIB |
