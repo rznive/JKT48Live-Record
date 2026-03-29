@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 913 | <img src="https://cdn.idntimes.com/content-images/post/20260329/e2af7271-2598-4ee8-8760-68043e671e6d-260329223908.jpg" width="170"> | Lana JKT48 | Hi | Minggu, 29 Maret 2026 pukul 22.39.15 WIB |
 | 912 | <img src="https://cdn.idntimes.com/content-images/post/20260329/4f795073-38c9-4df7-9388-74b83de69801-260329220811.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 29 Maret 2026 pukul 22.08.19 WIB |
 | 911 | <img src="https://cdn.idntimes.com/content-images/post/20260329/85f369d7-6525-41c0-94b8-9a56686713eb-260329213106.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 29 Maret 2026 pukul 21.31.20 WIB |
 | 910 | <img src="https://cdn.idntimes.com/content-images/post/20260329/a5c72141-65a3-47be-86ef-1dc1feaab10d-260329205927.jpg" width="170"> | Anindya JKT48 | 💙 | Minggu, 29 Maret 2026 pukul 20.59.36 WIB |
