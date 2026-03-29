@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 915 | <img src="https://cdn.idntimes.com/content-images/post/20260330/b11b0692-d0b8-464c-849a-9e81439a048c-260330001112.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Senin, 30 Maret 2026 pukul 00.11.20 WIB |
+| 914 | <img src="https://cdn.idntimes.com/content-images/post/20260330/33139b05-1c43-4b48-bba3-ec960b18b36e-260330000650.jpg" width="170"> | Danella JKT48 | Hi | Senin, 30 Maret 2026 pukul 00.07.01 WIB |
 | 913 | <img src="https://cdn.idntimes.com/content-images/post/20260329/e2af7271-2598-4ee8-8760-68043e671e6d-260329223908.jpg" width="170"> | Lana JKT48 | Hi | Minggu, 29 Maret 2026 pukul 22.39.15 WIB |
 | 912 | <img src="https://cdn.idntimes.com/content-images/post/20260329/4f795073-38c9-4df7-9388-74b83de69801-260329220811.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 29 Maret 2026 pukul 22.08.19 WIB |
 | 911 | <img src="https://cdn.idntimes.com/content-images/post/20260329/85f369d7-6525-41c0-94b8-9a56686713eb-260329213106.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 29 Maret 2026 pukul 21.31.20 WIB |
