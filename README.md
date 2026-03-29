@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 912 | <img src="https://cdn.idntimes.com/content-images/post/20260329/4f795073-38c9-4df7-9388-74b83de69801-260329220811.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 29 Maret 2026 pukul 22.08.19 WIB |
 | 911 | <img src="https://cdn.idntimes.com/content-images/post/20260329/85f369d7-6525-41c0-94b8-9a56686713eb-260329213106.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 29 Maret 2026 pukul 21.31.20 WIB |
 | 910 | <img src="https://cdn.idntimes.com/content-images/post/20260329/a5c72141-65a3-47be-86ef-1dc1feaab10d-260329205927.jpg" width="170"> | Anindya JKT48 | 💙 | Minggu, 29 Maret 2026 pukul 20.59.36 WIB |
 | 909 | <img src="https://cdn.idntimes.com/content-images/post/20260329/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260329205810.jpg" width="170"> | Intan JKT48 | p p apa | Minggu, 29 Maret 2026 pukul 20.58.24 WIB |
