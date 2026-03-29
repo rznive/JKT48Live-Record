@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 910 | <img src="https://cdn.idntimes.com/content-images/post/20260329/a5c72141-65a3-47be-86ef-1dc1feaab10d-260329205927.jpg" width="170"> | Anindya JKT48 | 💙 | Minggu, 29 Maret 2026 pukul 20.59.36 WIB |
+| 909 | <img src="https://cdn.idntimes.com/content-images/post/20260329/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260329205810.jpg" width="170"> | Intan JKT48 | p p apa | Minggu, 29 Maret 2026 pukul 20.58.24 WIB |
 | 908 | <img src="https://cdn.idntimes.com/content-images/post/20260329/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260329204858.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 29 Maret 2026 pukul 20.49.09 WIB |
 | 907 | <img src="https://cdn.idntimes.com/content-images/post/20260329/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260329201308.jpg" width="170"> | Lily JKT48 | Hello | Minggu, 29 Maret 2026 pukul 20.13.15 WIB |
 | 906 | <img src="https://cdn.idntimes.com/content-images/post/20260329/e243be19-74b7-435b-8e19-13fc669e0224-260329183612.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Minggu, 29 Maret 2026 pukul 18.36.21 WIB |
