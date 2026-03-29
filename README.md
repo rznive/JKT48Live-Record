@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 908 | <img src="https://cdn.idntimes.com/content-images/post/20260329/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260329204858.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 29 Maret 2026 pukul 20.49.09 WIB |
+| 907 | <img src="https://cdn.idntimes.com/content-images/post/20260329/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260329201308.jpg" width="170"> | Lily JKT48 | Hello | Minggu, 29 Maret 2026 pukul 20.13.15 WIB |
 | 906 | <img src="https://cdn.idntimes.com/content-images/post/20260329/e243be19-74b7-435b-8e19-13fc669e0224-260329183612.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Minggu, 29 Maret 2026 pukul 18.36.21 WIB |
 | 905 | <img src="https://cdn.idntimes.com/content-images/post/20260329/f001ba66-3c51-4849-9afa-13cf74eb1571-260329163501.jpg" width="170"> | Aralie JKT48 | cobaaaa | Minggu, 29 Maret 2026 pukul 16.35.13 WIB |
 | 904 | <img src="https://cdn.idntimes.com/content-images/post/20260329/33139b05-1c43-4b48-bba3-ec960b18b36e-260329000647.jpg" width="170"> | Danella JKT48 | Hi | Minggu, 29 Maret 2026 pukul 00.06.59 WIB |
