@@ -3098,5 +3098,25 @@
     "live_at_unix": 1774880150,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260330/7599c984-c466-4962-8c5b-73c1d33d59d9-260330211539.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
+  },
+  {
+    "id": 922,
+    "username": "jkt48_anindya",
+    "creator_name": "Anindya JKT48",
+    "title": "🖤",
+    "live_at": "Senin, 30 Maret 2026 pukul 21.50.36 WIB",
+    "live_at_unix": 1774882236,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260330/a5c72141-65a3-47be-86ef-1dc1feaab10d-260330215027.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8"
+  },
+  {
+    "id": 923,
+    "username": "jkt48_daisy",
+    "creator_name": "Daisy JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 30 Maret 2026 pukul 22.41.24 WIB",
+    "live_at_unix": 1774885284,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260330/b11b0692-d0b8-464c-849a-9e81439a048c-260330224116.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
   }
 ]
