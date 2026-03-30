@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 921 | <img src="https://cdn.idntimes.com/content-images/post/20260330/7599c984-c466-4962-8c5b-73c1d33d59d9-260330211539.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Senin, 30 Maret 2026 pukul 21.15.50 WIB |
 | 920 | <img src="https://cdn.idntimes.com/content-images/post/20260330/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260330202100.jpg" width="170"> | Giaa JKT48 | Ayo ngobrol bareng! | Senin, 30 Maret 2026 pukul 20.21.06 WIB |
 | 919 | <img src="https://cdn.idntimes.com/content-images/post/20260330/f9500eb4-9d6d-491d-a857-40ca6f862d61-260330202006.jpg" width="170"> | Auwia JKT48 | Podcast awgi | Senin, 30 Maret 2026 pukul 20.20.21 WIB |
 | 918 | <img src="https://cdn.idntimes.com/content-images/post/20260330/f9500eb4-9d6d-491d-a857-40ca6f862d61-260330172442.jpg" width="170"> | Auwia JKT48 | Grem | Senin, 30 Maret 2026 pukul 17.24.57 WIB |
