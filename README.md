@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 920 | <img src="https://cdn.idntimes.com/content-images/post/20260330/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260330202100.jpg" width="170"> | Giaa JKT48 | Ayo ngobrol bareng! | Senin, 30 Maret 2026 pukul 20.21.06 WIB |
+| 919 | <img src="https://cdn.idntimes.com/content-images/post/20260330/f9500eb4-9d6d-491d-a857-40ca6f862d61-260330202006.jpg" width="170"> | Auwia JKT48 | Podcast awgi | Senin, 30 Maret 2026 pukul 20.20.21 WIB |
 | 918 | <img src="https://cdn.idntimes.com/content-images/post/20260330/f9500eb4-9d6d-491d-a857-40ca6f862d61-260330172442.jpg" width="170"> | Auwia JKT48 | Grem | Senin, 30 Maret 2026 pukul 17.24.57 WIB |
 | 917 | <img src="https://cdn.idntimes.com/content-images/post/20260330/e9170998-f026-4186-bbc5-a17a3b5b2af1-260330145736.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Senin, 30 Maret 2026 pukul 14.57.46 WIB |
 | 916 | <img src="https://cdn.idntimes.com/content-images/post/20260330/b11b0692-d0b8-464c-849a-9e81439a048c-260330133130.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Senin, 30 Maret 2026 pukul 13.31.39 WIB |
