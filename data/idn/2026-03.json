@@ -3048,5 +3048,15 @@
     "live_at_unix": 1774852299,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260330/b11b0692-d0b8-464c-849a-9e81439a048c-260330133130.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
+  },
+  {
+    "id": 917,
+    "username": "jkt48_rilly",
+    "creator_name": "Rilly JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 30 Maret 2026 pukul 14.57.46 WIB",
+    "live_at_unix": 1774857466,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260330/e9170998-f026-4186-bbc5-a17a3b5b2af1-260330145736.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
   }
 ]
