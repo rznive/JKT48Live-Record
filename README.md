@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 927 | <img src="https://cdn.idntimes.com/content-images/post/20260331/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260331190600.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Selasa, 31 Maret 2026 pukul 19.06.06 WIB |
 | 926 | <img src="https://cdn.idntimes.com/content-images/post/20260331/a5c72141-65a3-47be-86ef-1dc1feaab10d-260331160915.jpg" width="170"> | Anindya JKT48 | 🖤 | Selasa, 31 Maret 2026 pukul 16.09.26 WIB |
 | 925 | <img src="https://cdn.idntimes.com/content-images/post/20260331/33139b05-1c43-4b48-bba3-ec960b18b36e-260331134130.jpg" width="170"> | Danella JKT48 | Hi | Selasa, 31 Maret 2026 pukul 13.41.40 WIB |
 | 924 | <img src="https://cdn.idntimes.com/content-images/post/20260331/266ef38a-da00-4d13-ba77-f94da68599ee-260331001037.jpg" width="170"> | Delynn JKT48 | Hi | Selasa, 31 Maret 2026 pukul 00.10.52 WIB |
