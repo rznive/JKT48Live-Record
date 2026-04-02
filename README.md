@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 932 | <img src="https://cdn.idntimes.com/content-images/post/20260402/82ffac10-ee56-43d0-ad38-ce432384cfe5-260402132356.jpg" width="170"> | Gita JKT48 | Gits | Kamis, 02 April 2026 pukul 13.24.09 WIB |
 | 931 | <img src="https://cdn.idntimes.com/content-images/post/20260331/a5c72141-65a3-47be-86ef-1dc1feaab10d-260331222645.jpg" width="170"> | Anindya JKT48 | 🖤 | Selasa, 31 Maret 2026 pukul 22.26.56 WIB |
 | 930 | <img src="https://cdn.idntimes.com/content-images/post/20260331/74e76417-0353-487f-b9b7-7520c0398e87-260331222123.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Selasa, 31 Maret 2026 pukul 22.21.37 WIB |
 | 929 | <img src="https://cdn.idntimes.com/content-images/post/20260331/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260331221549.jpg" width="170"> | Erine JKT48 | Ayo ngobrol bareng! | Selasa, 31 Maret 2026 pukul 22.15.57 WIB |
