@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 939 | <img src="https://cdn.idntimes.com/content-images/post/20260403/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260403222807.jpg" width="170"> | Intan JKT48 | p p apa | Jumat, 03 April 2026 pukul 22.28.24 WIB |
+| 938 | <img src="https://cdn.idntimes.com/content-images/post/20260403/a557ba58-12d8-4260-bd50-9e5252ac71ef-260403222622.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Jumat, 03 April 2026 pukul 22.26.34 WIB |
+| 937 | <img src="https://cdn.idntimes.com/content-images/post/20260403/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260403222354.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 03 April 2026 pukul 22.24.07 WIB |
+| 936 | <img src="https://cdn.idntimes.com/content-images/post/20260403/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260403215925.jpg" width="170"> | Giaa JKT48 | malamm | Jumat, 03 April 2026 pukul 21.59.34 WIB |
 | 935 | <img src="https://cdn.idntimes.com/content-images/post/20260403/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260403213849.jpg" width="170"> | Intan JKT48 | p p apa | Jumat, 03 April 2026 pukul 21.39.08 WIB |
 | 934 | <img src="https://cdn.idntimes.com/content-images/post/20260403/85f369d7-6525-41c0-94b8-9a56686713eb-260403210242.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Jumat, 03 April 2026 pukul 21.02.57 WIB |
 | 933 | <img src="https://cdn.idntimes.com/content-images/post/20260402/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260402223223.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Kamis, 02 April 2026 pukul 22.32.31 WIB |
