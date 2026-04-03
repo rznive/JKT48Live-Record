@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 934 | <img src="https://cdn.idntimes.com/content-images/post/20260403/85f369d7-6525-41c0-94b8-9a56686713eb-260403210242.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Jumat, 03 April 2026 pukul 21.02.57 WIB |
 | 933 | <img src="https://cdn.idntimes.com/content-images/post/20260402/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260402223223.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Kamis, 02 April 2026 pukul 22.32.31 WIB |
 | 932 | <img src="https://cdn.idntimes.com/content-images/post/20260402/82ffac10-ee56-43d0-ad38-ce432384cfe5-260402132356.jpg" width="170"> | Gita JKT48 | Gits | Kamis, 02 April 2026 pukul 13.24.09 WIB |
 | 931 | <img src="https://cdn.idntimes.com/content-images/post/20260331/a5c72141-65a3-47be-86ef-1dc1feaab10d-260331222645.jpg" width="170"> | Anindya JKT48 | 🖤 | Selasa, 31 Maret 2026 pukul 22.26.56 WIB |
