@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 945 | <img src="https://cdn.idntimes.com/content-images/post/20260405/a557ba58-12d8-4260-bd50-9e5252ac71ef-260405183833.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 05 April 2026 pukul 18.38.46 WIB |
+| 944 | <img src="https://cdn.idntimes.com/content-images/post/20260405/e9170998-f026-4186-bbc5-a17a3b5b2af1-260405183827.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Minggu, 05 April 2026 pukul 18.38.36 WIB |
+| 943 | <img src="https://cdn.idntimes.com/content-images/post/20260405/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260405182004.jpg" width="170"> | Intan JKT48 | p p apa | Minggu, 05 April 2026 pukul 18.20.23 WIB |
 | 942 | <img src="https://cdn.idntimes.com/content-images/post/20260404/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260404200714.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Sabtu, 04 April 2026 pukul 20.07.36 WIB |
 | 941 | <img src="https://cdn.idntimes.com/content-images/post/20260404/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260404175953.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Sabtu, 04 April 2026 pukul 18.00.01 WIB |
 | 940 | <img src="https://cdn.idntimes.com/content-images/post/20260403/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260403224727.jpg" width="170"> | Lily JKT48 | Radioly | Jumat, 03 April 2026 pukul 22.47.34 WIB |
