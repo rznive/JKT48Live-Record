@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 954 | <img src="https://cdn.idntimes.com/content-images/post/20260405/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260405233056.jpg" width="170"> | Erine JKT48 | Erin  | Minggu, 05 April 2026 pukul 23.31.04 WIB |
 | 953 | <img src="https://cdn.idntimes.com/content-images/post/20260405/e2af7271-2598-4ee8-8760-68043e671e6d-260405230343.jpg" width="170"> | Lana JKT48 | Hi | Minggu, 05 April 2026 pukul 23.03.51 WIB |
 | 952 | <img src="https://cdn.idntimes.com/content-images/post/20260405/4f795073-38c9-4df7-9388-74b83de69801-260405230004.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 05 April 2026 pukul 23.00.12 WIB |
 | 951 | <img src="https://cdn.idntimes.com/content-images/post/20260405/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260405212627.jpg" width="170"> | Lily JKT48 | Helo | Minggu, 05 April 2026 pukul 21.26.34 WIB |
