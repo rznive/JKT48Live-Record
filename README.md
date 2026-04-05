@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 948 | <img src="https://cdn.idntimes.com/content-images/post/20260405/6970e68a-b488-497a-b793-3a735db5e997-260405195912.jpg" width="170"> | Michie JKT48 | main boardgameee | Minggu, 05 April 2026 pukul 19.59.21 WIB |
+| 947 | <img src="https://cdn.idntimes.com/content-images/post/20260405/f740e9da-772f-4ae2-8ddd-49f717aacf63-260405195536.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Minggu, 05 April 2026 pukul 19.55.49 WIB |
+| 946 | <img src="https://cdn.idntimes.com/content-images/post/20260405/717109e0-a064-4f15-8187-5c4d46e56a58-260405193442.jpg" width="170"> | Fritzy JKT48 | Ayo ngobrol bareng! | Minggu, 05 April 2026 pukul 19.34.51 WIB |
 | 945 | <img src="https://cdn.idntimes.com/content-images/post/20260405/a557ba58-12d8-4260-bd50-9e5252ac71ef-260405183833.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 05 April 2026 pukul 18.38.46 WIB |
 | 944 | <img src="https://cdn.idntimes.com/content-images/post/20260405/e9170998-f026-4186-bbc5-a17a3b5b2af1-260405183827.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Minggu, 05 April 2026 pukul 18.38.36 WIB |
 | 943 | <img src="https://cdn.idntimes.com/content-images/post/20260405/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260405182004.jpg" width="170"> | Intan JKT48 | p p apa | Minggu, 05 April 2026 pukul 18.20.23 WIB |

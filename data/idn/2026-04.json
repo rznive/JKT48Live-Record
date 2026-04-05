@@ -138,5 +138,35 @@
     "live_at_unix": 1775389126,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260405/a557ba58-12d8-4260-bd50-9e5252ac71ef-260405183833.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
+  },
+  {
+    "id": 946,
+    "username": "jkt48_fritzy",
+    "creator_name": "Fritzy JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 05 April 2026 pukul 19.34.51 WIB",
+    "live_at_unix": 1775392491,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260405/717109e0-a064-4f15-8187-5c4d46e56a58-260405193442.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
+  },
+  {
+    "id": 947,
+    "username": "jkt48_cathy",
+    "creator_name": "Cathy JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 05 April 2026 pukul 19.55.49 WIB",
+    "live_at_unix": 1775393749,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260405/f740e9da-772f-4ae2-8ddd-49f717aacf63-260405195536.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Q0uEvM6Dl951.m3u8"
+  },
+  {
+    "id": 948,
+    "username": "jkt48_michie",
+    "creator_name": "Michie JKT48",
+    "title": "main boardgameee",
+    "live_at": "Minggu, 05 April 2026 pukul 19.59.21 WIB",
+    "live_at_unix": 1775393961,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260405/6970e68a-b488-497a-b793-3a735db5e997-260405195912.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.uE0Cu8MD1aMc.m3u8"
   }
 ]
