@@ -308,5 +308,15 @@
     "live_at_unix": 1775575751,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260407/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260407222902.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
+  },
+  {
+    "id": 963,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "p ",
+    "live_at": "Selasa, 07 April 2026 pukul 22.58.04 WIB",
+    "live_at_unix": 1775577484,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260407/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260407225748.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
   }
 ]
