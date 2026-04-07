@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 962 | <img src="https://cdn.idntimes.com/content-images/post/20260407/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260407222902.jpg" width="170"> | Giaa JKT48 | temenin | Selasa, 07 April 2026 pukul 22.29.11 WIB |
+| 961 | <img src="https://cdn.idntimes.com/content-images/post/20260407/a557ba58-12d8-4260-bd50-9e5252ac71ef-260407222000.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 07 April 2026 pukul 22.20.13 WIB |
+| 960 | <img src="https://cdn.idntimes.com/content-images/post/20260407/85f369d7-6525-41c0-94b8-9a56686713eb-260407221942.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Selasa, 07 April 2026 pukul 22.19.58 WIB |
+| 959 | <img src="https://cdn.idntimes.com/content-images/post/20260407/e9170998-f026-4186-bbc5-a17a3b5b2af1-260407221800.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Selasa, 07 April 2026 pukul 22.18.10 WIB |
+| 958 | <img src="https://cdn.idntimes.com/content-images/post/20260407/e243be19-74b7-435b-8e19-13fc669e0224-260407221533.jpg" width="170"> | Nayla JKT48 | Hai  | Selasa, 07 April 2026 pukul 22.15.41 WIB |
 | 957 | <img src="https://cdn.idntimes.com/content-images/post/20260407/50a27780-93e7-4e40-8474-60f6e0cca6da-260407153033.jpg" width="170"> | JKT48 | Temen Main JKT48  E.P 1! | Selasa, 07 April 2026 pukul 15.30.39 WIB |
 | 956 | <img src="https://cdn.idntimes.com/content-images/post/20260406/15dfee86-a928-4a15-8c90-6aa21097d0ff-260406173507.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Senin, 06 April 2026 pukul 17.35.15 WIB |
 | 955 | <img src="https://cdn.idntimes.com/content-images/post/20260406/82ffac10-ee56-43d0-ad38-ce432384cfe5-260406170626.jpg" width="170"> | Gita JKT48 | Gits | Senin, 06 April 2026 pukul 17.06.43 WIB |
