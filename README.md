@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 966 | <img src="https://cdn.idntimes.com/content-images/post/20260408/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260408223708.jpg" width="170"> | Giaa JKT48 | temenin | Rabu, 08 April 2026 pukul 22.37.15 WIB |
+| 965 | <img src="https://cdn.idntimes.com/content-images/post/20260408/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260408223258.jpg" width="170"> | Lily JKT48 | Pokemon maily | Rabu, 08 April 2026 pukul 22.33.05 WIB |
+| 964 | <img src="https://cdn.idntimes.com/content-images/post/20260408/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260408223204.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 08 April 2026 pukul 22.32.16 WIB |
 | 963 | <img src="https://cdn.idntimes.com/content-images/post/20260407/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260407225748.jpg" width="170"> | Intan JKT48 | p  | Selasa, 07 April 2026 pukul 22.58.04 WIB |
 | 962 | <img src="https://cdn.idntimes.com/content-images/post/20260407/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260407222902.jpg" width="170"> | Giaa JKT48 | temenin | Selasa, 07 April 2026 pukul 22.29.11 WIB |
 | 961 | <img src="https://cdn.idntimes.com/content-images/post/20260407/a557ba58-12d8-4260-bd50-9e5252ac71ef-260407222000.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 07 April 2026 pukul 22.20.13 WIB |
