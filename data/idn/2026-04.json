@@ -408,5 +408,15 @@
     "live_at_unix": 1775725925,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260409/7599c984-c466-4962-8c5b-73c1d33d59d9-260409161157.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
+  },
+  {
+    "id": 973,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Haii",
+    "live_at": "Kamis, 09 April 2026 pukul 22.35.21 WIB",
+    "live_at_unix": 1775748921,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260409/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260409223515.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
   }
 ]

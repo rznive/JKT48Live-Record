@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 973 | <img src="https://cdn.idntimes.com/content-images/post/20260409/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260409223515.jpg" width="170"> | Lily JKT48 | Haii | Kamis, 09 April 2026 pukul 22.35.21 WIB |
 | 972 | <img src="https://cdn.idntimes.com/content-images/post/20260409/7599c984-c466-4962-8c5b-73c1d33d59d9-260409161157.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Kamis, 09 April 2026 pukul 16.12.05 WIB |
 | 971 | <img src="https://cdn.idntimes.com/content-images/post/20260409/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260409155948.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Kamis, 09 April 2026 pukul 16.00.01 WIB |
 | 970 | <img src="https://cdn.idntimes.com/content-images/post/20260409/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260409153638.jpg" width="170"> | Intan JKT48 | hi | Kamis, 09 April 2026 pukul 15.36.52 WIB |
