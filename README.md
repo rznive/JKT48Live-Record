@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 967 | <img src="https://cdn.idntimes.com/content-images/post/20260409/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260409121014.jpg" width="170"> | Intan JKT48 | p | Kamis, 09 April 2026 pukul 12.10.31 WIB |
 | 966 | <img src="https://cdn.idntimes.com/content-images/post/20260408/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260408223708.jpg" width="170"> | Giaa JKT48 | temenin | Rabu, 08 April 2026 pukul 22.37.15 WIB |
 | 965 | <img src="https://cdn.idntimes.com/content-images/post/20260408/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260408223258.jpg" width="170"> | Lily JKT48 | Pokemon maily | Rabu, 08 April 2026 pukul 22.33.05 WIB |
 | 964 | <img src="https://cdn.idntimes.com/content-images/post/20260408/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260408223204.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 08 April 2026 pukul 22.32.16 WIB |
