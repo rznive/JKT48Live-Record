@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 972 | <img src="https://cdn.idntimes.com/content-images/post/20260409/7599c984-c466-4962-8c5b-73c1d33d59d9-260409161157.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Kamis, 09 April 2026 pukul 16.12.05 WIB |
+| 971 | <img src="https://cdn.idntimes.com/content-images/post/20260409/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260409155948.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Kamis, 09 April 2026 pukul 16.00.01 WIB |
+| 970 | <img src="https://cdn.idntimes.com/content-images/post/20260409/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260409153638.jpg" width="170"> | Intan JKT48 | hi | Kamis, 09 April 2026 pukul 15.36.52 WIB |
+| 969 | <img src="https://cdn.idntimes.com/content-images/post/20260409/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260409153414.jpg" width="170"> | Giaa JKT48 | p  | Kamis, 09 April 2026 pukul 15.34.21 WIB |
 | 968 | <img src="https://cdn.idntimes.com/content-images/post/20260409/147e83c8-f3ac-4680-9141-2f518b4b7810-260409144924.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Kamis, 09 April 2026 pukul 14.49.35 WIB |
 | 967 | <img src="https://cdn.idntimes.com/content-images/post/20260409/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260409121014.jpg" width="170"> | Intan JKT48 | p | Kamis, 09 April 2026 pukul 12.10.31 WIB |
 | 966 | <img src="https://cdn.idntimes.com/content-images/post/20260408/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260408223708.jpg" width="170"> | Giaa JKT48 | temenin | Rabu, 08 April 2026 pukul 22.37.15 WIB |
