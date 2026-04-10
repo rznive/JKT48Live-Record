@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 975 | <img src="https://cdn.idntimes.com/content-images/post/20260410/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260410113546.jpg" width="170"> | Intan JKT48 | grwm | Jumat, 10 April 2026 pukul 11.36.01 WIB |
 | 974 | <img src="https://cdn.idntimes.com/content-images/post/20260410/4f795073-38c9-4df7-9388-74b83de69801-260410005707.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Jumat, 10 April 2026 pukul 00.57.18 WIB |
 | 973 | <img src="https://cdn.idntimes.com/content-images/post/20260409/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260409223515.jpg" width="170"> | Lily JKT48 | Haii | Kamis, 09 April 2026 pukul 22.35.21 WIB |
 | 972 | <img src="https://cdn.idntimes.com/content-images/post/20260409/7599c984-c466-4962-8c5b-73c1d33d59d9-260409161157.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Kamis, 09 April 2026 pukul 16.12.05 WIB |

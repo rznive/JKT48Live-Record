@@ -428,5 +428,15 @@
     "live_at_unix": 1775757438,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260410/4f795073-38c9-4df7-9388-74b83de69801-260410005707.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 975,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "grwm",
+    "live_at": "Jumat, 10 April 2026 pukul 11.36.01 WIB",
+    "live_at_unix": 1775795761,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260410/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260410113546.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
   }
 ]
