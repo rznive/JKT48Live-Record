@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 977 | <img src="https://cdn.idntimes.com/content-images/post/20260410/e9170998-f026-4186-bbc5-a17a3b5b2af1-260410131340.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Jumat, 10 April 2026 pukul 13.13.49 WIB |
+| 976 | <img src="https://cdn.idntimes.com/content-images/post/20260410/74e76417-0353-487f-b9b7-7520c0398e87-260410124731.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Jumat, 10 April 2026 pukul 12.47.38 WIB |
 | 975 | <img src="https://cdn.idntimes.com/content-images/post/20260410/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260410113546.jpg" width="170"> | Intan JKT48 | grwm | Jumat, 10 April 2026 pukul 11.36.01 WIB |
 | 974 | <img src="https://cdn.idntimes.com/content-images/post/20260410/4f795073-38c9-4df7-9388-74b83de69801-260410005707.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Jumat, 10 April 2026 pukul 00.57.18 WIB |
 | 973 | <img src="https://cdn.idntimes.com/content-images/post/20260409/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260409223515.jpg" width="170"> | Lily JKT48 | Haii | Kamis, 09 April 2026 pukul 22.35.21 WIB |
