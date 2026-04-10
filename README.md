@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 983 | <img src="https://cdn.idntimes.com/content-images/post/20260410/e9170998-f026-4186-bbc5-a17a3b5b2af1-260410220603.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Jumat, 10 April 2026 pukul 22.06.21 WIB |
+| 982 | <img src="https://cdn.idntimes.com/content-images/post/20260410/a557ba58-12d8-4260-bd50-9e5252ac71ef-260410220443.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Jumat, 10 April 2026 pukul 22.04.57 WIB |
+| 981 | <img src="https://cdn.idntimes.com/content-images/post/20260410/85f369d7-6525-41c0-94b8-9a56686713eb-260410220438.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Jumat, 10 April 2026 pukul 22.04.50 WIB |
+| 980 | <img src="https://cdn.idntimes.com/content-images/post/20260410/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260410215540.jpg" width="170"> | Giaa JKT48 | malam | Jumat, 10 April 2026 pukul 21.55.48 WIB |
+| 979 | <img src="https://cdn.idntimes.com/content-images/post/20260410/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260410213931.jpg" width="170"> | Intan JKT48 | bubb | Jumat, 10 April 2026 pukul 21.39.52 WIB |
+| 978 | <img src="https://cdn.idntimes.com/content-images/post/20260410/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260410213220.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 10 April 2026 pukul 21.32.33 WIB |
 | 977 | <img src="https://cdn.idntimes.com/content-images/post/20260410/e9170998-f026-4186-bbc5-a17a3b5b2af1-260410131340.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Jumat, 10 April 2026 pukul 13.13.49 WIB |
 | 976 | <img src="https://cdn.idntimes.com/content-images/post/20260410/74e76417-0353-487f-b9b7-7520c0398e87-260410124731.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Jumat, 10 April 2026 pukul 12.47.38 WIB |
 | 975 | <img src="https://cdn.idntimes.com/content-images/post/20260410/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260410113546.jpg" width="170"> | Intan JKT48 | grwm | Jumat, 10 April 2026 pukul 11.36.01 WIB |
