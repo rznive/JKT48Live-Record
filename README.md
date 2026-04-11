@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 992 | <img src="https://cdn.idntimes.com/content-images/post/20260412/4f795073-38c9-4df7-9388-74b83de69801-260412002500.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 12 April 2026 pukul 00.25.11 WIB |
 | 991 | <img src="https://cdn.idntimes.com/content-images/post/20260411/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260411200434.jpg" width="170"> | Giaa JKT48 | mam | Sabtu, 11 April 2026 pukul 20.04.41 WIB |
 | 990 | <img src="https://cdn.idntimes.com/content-images/post/20260411/e9170998-f026-4186-bbc5-a17a3b5b2af1-260411200342.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Sabtu, 11 April 2026 pukul 20.03.50 WIB |
 | 989 | <img src="https://cdn.idntimes.com/content-images/post/20260411/a557ba58-12d8-4260-bd50-9e5252ac71ef-260411200311.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Sabtu, 11 April 2026 pukul 20.03.24 WIB |
