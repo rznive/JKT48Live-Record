@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 991 | <img src="https://cdn.idntimes.com/content-images/post/20260411/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260411200434.jpg" width="170"> | Giaa JKT48 | mam | Sabtu, 11 April 2026 pukul 20.04.41 WIB |
+| 990 | <img src="https://cdn.idntimes.com/content-images/post/20260411/e9170998-f026-4186-bbc5-a17a3b5b2af1-260411200342.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Sabtu, 11 April 2026 pukul 20.03.50 WIB |
+| 989 | <img src="https://cdn.idntimes.com/content-images/post/20260411/a557ba58-12d8-4260-bd50-9e5252ac71ef-260411200311.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Sabtu, 11 April 2026 pukul 20.03.24 WIB |
 | 988 | <img src="https://cdn.idntimes.com/content-images/post/20260411/e9170998-f026-4186-bbc5-a17a3b5b2af1-260411133428.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Sabtu, 11 April 2026 pukul 13.34.36 WIB |
 | 987 | <img src="https://cdn.idntimes.com/content-images/post/20260411/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260411132354.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Sabtu, 11 April 2026 pukul 13.24.05 WIB |
 | 986 | <img src="https://cdn.idntimes.com/content-images/post/20260411/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260411132308.jpg" width="170"> | Intan JKT48 | p | Sabtu, 11 April 2026 pukul 13.23.22 WIB |
