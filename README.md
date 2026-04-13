@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 997 | <img src="https://cdn.idntimes.com/content-images/post/20260413/4f795073-38c9-4df7-9388-74b83de69801-260413201238.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 13 April 2026 pukul 20.12.45 WIB |
 | 996 | <img src="https://cdn.idntimes.com/content-images/post/20260413/f9500eb4-9d6d-491d-a857-40ca6f862d61-260413134829.jpg" width="170"> | Auwia JKT48 | Kita melukisssss | Senin, 13 April 2026 pukul 13.48.46 WIB |
 | 995 | <img src="https://cdn.idntimes.com/content-images/post/20260413/a557ba58-12d8-4260-bd50-9e5252ac71ef-260413134442.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 13 April 2026 pukul 13.44.54 WIB |
 | 994 | <img src="https://cdn.idntimes.com/content-images/post/20260412/33139b05-1c43-4b48-bba3-ec960b18b36e-260412222305.jpg" width="170"> | Danella JKT48 | Hi | Minggu, 12 April 2026 pukul 22.23.16 WIB |
