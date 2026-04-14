@@ -718,5 +718,25 @@
     "live_at_unix": 1776094806,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260413/74e76417-0353-487f-b9b7-7520c0398e87-260413223956.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sLZkhRvMutd4.m3u8"
+  },
+  {
+    "id": 1004,
+    "username": "jkt48-official",
+    "creator_name": "JKT48",
+    "title": "Temen Main JKT48 E.P2!",
+    "live_at": "Selasa, 14 April 2026 pukul 15.33.36 WIB",
+    "live_at_unix": 1776155616,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260414/50a27780-93e7-4e40-8474-60f6e0cca6da-260414153324.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4idUspKIZskG.m3u8"
+  },
+  {
+    "id": 1005,
+    "username": "jkt48_rilly",
+    "creator_name": "Rilly JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 14 April 2026 pukul 15.34.31 WIB",
+    "live_at_unix": 1776155671,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260414/e9170998-f026-4186-bbc5-a17a3b5b2af1-260414153422.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
   }
 ]
