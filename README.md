@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1008 | <img src="https://cdn.idntimes.com/content-images/post/20260414/4f795073-38c9-4df7-9388-74b83de69801-260414223827.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Selasa, 14 April 2026 pukul 22.38.43 WIB |
+| 1007 | <img src="https://cdn.idntimes.com/content-images/post/20260414/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260414223116.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Selasa, 14 April 2026 pukul 22.31.26 WIB |
+| 1006 | <img src="https://cdn.idntimes.com/content-images/post/20260414/a557ba58-12d8-4260-bd50-9e5252ac71ef-260414223003.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 14 April 2026 pukul 22.30.16 WIB |
 | 1005 | <img src="https://cdn.idntimes.com/content-images/post/20260414/e9170998-f026-4186-bbc5-a17a3b5b2af1-260414153422.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Selasa, 14 April 2026 pukul 15.34.31 WIB |
 | 1004 | <img src="https://cdn.idntimes.com/content-images/post/20260414/50a27780-93e7-4e40-8474-60f6e0cca6da-260414153324.jpg" width="170"> | JKT48 | Temen Main JKT48 E.P2! | Selasa, 14 April 2026 pukul 15.33.36 WIB |
 | 1003 | <img src="https://cdn.idntimes.com/content-images/post/20260413/74e76417-0353-487f-b9b7-7520c0398e87-260413223956.jpg" width="170"> | Alya JKT48 | hiiii | Senin, 13 April 2026 pukul 22.40.06 WIB |

@@ -738,5 +738,35 @@
     "live_at_unix": 1776155671,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260414/e9170998-f026-4186-bbc5-a17a3b5b2af1-260414153422.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 1006,
+    "username": "jkt48_mikaela",
+    "creator_name": "Mikaela JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 14 April 2026 pukul 22.30.16 WIB",
+    "live_at_unix": 1776180616,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260414/a557ba58-12d8-4260-bd50-9e5252ac71ef-260414223003.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
+  },
+  {
+    "id": 1007,
+    "username": "jkt48_levi",
+    "creator_name": "Levi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 14 April 2026 pukul 22.31.26 WIB",
+    "live_at_unix": 1776180686,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260414/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260414223116.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 1008,
+    "username": "jkt48_cynthia",
+    "creator_name": "Cynthia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 14 April 2026 pukul 22.38.43 WIB",
+    "live_at_unix": 1776181123,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260414/4f795073-38c9-4df7-9388-74b83de69801-260414223827.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
   }
 ]
