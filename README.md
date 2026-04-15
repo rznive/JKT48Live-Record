@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1012 | <img src="https://cdn.idntimes.com/content-images/post/20260415/33139b05-1c43-4b48-bba3-ec960b18b36e-260415163844.jpg" width="170"> | Danella JKT48 | Hi | Rabu, 15 April 2026 pukul 16.38.55 WIB |
+| 1011 | <img src="https://cdn.idntimes.com/content-images/post/20260415/85f369d7-6525-41c0-94b8-9a56686713eb-260415161839.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 15 April 2026 pukul 16.18.50 WIB |
+| 1010 | <img src="https://cdn.idntimes.com/content-images/post/20260415/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260415161718.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 15 April 2026 pukul 16.17.31 WIB |
+| 1009 | <img src="https://cdn.idntimes.com/content-images/post/20260415/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260415161359.jpg" width="170"> | Giaa JKT48 | ama jem and kin | Rabu, 15 April 2026 pukul 16.14.06 WIB |
 | 1008 | <img src="https://cdn.idntimes.com/content-images/post/20260414/4f795073-38c9-4df7-9388-74b83de69801-260414223827.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Selasa, 14 April 2026 pukul 22.38.43 WIB |
 | 1007 | <img src="https://cdn.idntimes.com/content-images/post/20260414/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260414223116.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Selasa, 14 April 2026 pukul 22.31.26 WIB |
 | 1006 | <img src="https://cdn.idntimes.com/content-images/post/20260414/a557ba58-12d8-4260-bd50-9e5252ac71ef-260414223003.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 14 April 2026 pukul 22.30.16 WIB |
