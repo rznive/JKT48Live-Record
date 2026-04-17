@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1022 | <img src="https://cdn.idntimes.com/content-images/post/20260417/b11b0692-d0b8-464c-849a-9e81439a048c-260417224618.jpg" width="170"> | Daisy JKT48 | Thankyou percin todaisy!!🥹❤️‍🔥🔥 | Jumat, 17 April 2026 pukul 22.46.26 WIB |
 | 1021 | <img src="https://cdn.idntimes.com/content-images/post/20260417/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260417205827.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 17 April 2026 pukul 20.58.40 WIB |
 | 1020 | <img src="https://cdn.idntimes.com/content-images/post/20260417/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260417205704.jpg" width="170"> | Giaa JKT48 | sebentarr aj | Jumat, 17 April 2026 pukul 20.57.11 WIB |
 | 1019 | <img src="https://cdn.idntimes.com/content-images/post/20260417/147e83c8-f3ac-4680-9141-2f518b4b7810-260417183510.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Jumat, 17 April 2026 pukul 18.35.21 WIB |
