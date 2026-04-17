@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1016 | <img src="https://cdn.idntimes.com/content-images/post/20260417/85f369d7-6525-41c0-94b8-9a56686713eb-260417173830.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Jumat, 17 April 2026 pukul 17.38.44 WIB |
 | 1015 | <img src="https://cdn.idntimes.com/content-images/post/20260416/a557ba58-12d8-4260-bd50-9e5252ac71ef-260416210112.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 16 April 2026 pukul 21.01.25 WIB |
 | 1014 | <img src="https://cdn.idntimes.com/content-images/post/20260416/147e83c8-f3ac-4680-9141-2f518b4b7810-260416204144.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Kamis, 16 April 2026 pukul 20.42.00 WIB |
 | 1013 | <img src="https://cdn.idntimes.com/content-images/post/20260416/b11b0692-d0b8-464c-849a-9e81439a048c-260416193249.jpg" width="170"> | Daisy JKT48 | Hai ngobrol yuks🥰 | Kamis, 16 April 2026 pukul 19.32.57 WIB |
