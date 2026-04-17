@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1021 | <img src="https://cdn.idntimes.com/content-images/post/20260417/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260417205827.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 17 April 2026 pukul 20.58.40 WIB |
+| 1020 | <img src="https://cdn.idntimes.com/content-images/post/20260417/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260417205704.jpg" width="170"> | Giaa JKT48 | sebentarr aj | Jumat, 17 April 2026 pukul 20.57.11 WIB |
 | 1019 | <img src="https://cdn.idntimes.com/content-images/post/20260417/147e83c8-f3ac-4680-9141-2f518b4b7810-260417183510.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Jumat, 17 April 2026 pukul 18.35.21 WIB |
 | 1018 | <img src="https://cdn.idntimes.com/content-images/post/20260417/7599c984-c466-4962-8c5b-73c1d33d59d9-260417181505.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Jumat, 17 April 2026 pukul 18.15.13 WIB |
 | 1017 | <img src="https://cdn.idntimes.com/content-images/post/20260417/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260417181409.jpg" width="170"> | Intan JKT48 | yu | Jumat, 17 April 2026 pukul 18.14.23 WIB |
