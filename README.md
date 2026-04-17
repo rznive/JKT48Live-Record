@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1018 | <img src="https://cdn.idntimes.com/content-images/post/20260417/7599c984-c466-4962-8c5b-73c1d33d59d9-260417181505.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Jumat, 17 April 2026 pukul 18.15.13 WIB |
+| 1017 | <img src="https://cdn.idntimes.com/content-images/post/20260417/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260417181409.jpg" width="170"> | Intan JKT48 | yu | Jumat, 17 April 2026 pukul 18.14.23 WIB |
 | 1016 | <img src="https://cdn.idntimes.com/content-images/post/20260417/85f369d7-6525-41c0-94b8-9a56686713eb-260417173830.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Jumat, 17 April 2026 pukul 17.38.44 WIB |
 | 1015 | <img src="https://cdn.idntimes.com/content-images/post/20260416/a557ba58-12d8-4260-bd50-9e5252ac71ef-260416210112.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 16 April 2026 pukul 21.01.25 WIB |
 | 1014 | <img src="https://cdn.idntimes.com/content-images/post/20260416/147e83c8-f3ac-4680-9141-2f518b4b7810-260416204144.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Kamis, 16 April 2026 pukul 20.42.00 WIB |
