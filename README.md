@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1028 | <img src="https://cdn.idntimes.com/content-images/post/20260419/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260419160244.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 19 April 2026 pukul 16.02.56 WIB |
+| 1027 | <img src="https://cdn.idntimes.com/content-images/post/20260419/e9170998-f026-4186-bbc5-a17a3b5b2af1-260419155738.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Minggu, 19 April 2026 pukul 15.57.45 WIB |
+| 1026 | <img src="https://cdn.idntimes.com/content-images/post/20260419/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260419155617.jpg" width="170"> | Giaa JKT48 | sebentarr aj | Minggu, 19 April 2026 pukul 15.56.24 WIB |
+| 1025 | <img src="https://cdn.idntimes.com/content-images/post/20260419/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260419155447.jpg" width="170"> | Intan JKT48 | hi bub | Minggu, 19 April 2026 pukul 15.55.08 WIB |
+| 1024 | <img src="https://cdn.idntimes.com/content-images/post/20260419/147e83c8-f3ac-4680-9141-2f518b4b7810-260419155447.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 19 April 2026 pukul 15.55.03 WIB |
 | 1023 | <img src="https://cdn.idntimes.com/content-images/post/20260418/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260418143325.jpg" width="170"> | Lily JKT48 | Belajar ujian | Sabtu, 18 April 2026 pukul 14.33.39 WIB |
 | 1022 | <img src="https://cdn.idntimes.com/content-images/post/20260417/b11b0692-d0b8-464c-849a-9e81439a048c-260417224618.jpg" width="170"> | Daisy JKT48 | Thankyou percin todaisy!!🥹❤️‍🔥🔥 | Jumat, 17 April 2026 pukul 22.46.26 WIB |
 | 1021 | <img src="https://cdn.idntimes.com/content-images/post/20260417/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260417205827.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 17 April 2026 pukul 20.58.40 WIB |
