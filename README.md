@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1030 | <img src="https://cdn.idntimes.com/content-images/post/20260419/a557ba58-12d8-4260-bd50-9e5252ac71ef-260419214957.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 19 April 2026 pukul 21.50.10 WIB |
+| 1029 | <img src="https://cdn.idntimes.com/content-images/post/20260419/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260419214859.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Minggu, 19 April 2026 pukul 21.49.10 WIB |
 | 1028 | <img src="https://cdn.idntimes.com/content-images/post/20260419/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260419160244.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 19 April 2026 pukul 16.02.56 WIB |
 | 1027 | <img src="https://cdn.idntimes.com/content-images/post/20260419/e9170998-f026-4186-bbc5-a17a3b5b2af1-260419155738.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Minggu, 19 April 2026 pukul 15.57.45 WIB |
 | 1026 | <img src="https://cdn.idntimes.com/content-images/post/20260419/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260419155617.jpg" width="170"> | Giaa JKT48 | sebentarr aj | Minggu, 19 April 2026 pukul 15.56.24 WIB |
