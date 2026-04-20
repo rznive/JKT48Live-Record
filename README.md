@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1035 | <img src="https://cdn.idntimes.com/content-images/post/20260420/e9170998-f026-4186-bbc5-a17a3b5b2af1-260420221744.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Senin, 20 April 2026 pukul 22.17.53 WIB |
+| 1034 | <img src="https://cdn.idntimes.com/content-images/post/20260420/a557ba58-12d8-4260-bd50-9e5252ac71ef-260420221722.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 20 April 2026 pukul 22.17.35 WIB |
+| 1033 | <img src="https://cdn.idntimes.com/content-images/post/20260420/85f369d7-6525-41c0-94b8-9a56686713eb-260420221703.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 20 April 2026 pukul 22.17.15 WIB |
+| 1032 | <img src="https://cdn.idntimes.com/content-images/post/20260420/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260420220745.jpg" width="170"> | Giaa JKT48 | mlm | Senin, 20 April 2026 pukul 22.07.52 WIB |
 | 1031 | <img src="https://cdn.idntimes.com/content-images/post/20260419/85f369d7-6525-41c0-94b8-9a56686713eb-260419223619.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 19 April 2026 pukul 22.36.29 WIB |
 | 1030 | <img src="https://cdn.idntimes.com/content-images/post/20260419/a557ba58-12d8-4260-bd50-9e5252ac71ef-260419214957.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 19 April 2026 pukul 21.50.10 WIB |
 | 1029 | <img src="https://cdn.idntimes.com/content-images/post/20260419/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260419214859.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Minggu, 19 April 2026 pukul 21.49.10 WIB |
