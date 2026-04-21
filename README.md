@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1040 | <img src="https://cdn.idntimes.com/content-images/post/20260421/7599c984-c466-4962-8c5b-73c1d33d59d9-260421203439.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 21 April 2026 pukul 20.34.47 WIB |
 | 1039 | <img src="https://cdn.idntimes.com/content-images/post/20260421/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260421183152.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Selasa, 21 April 2026 pukul 18.31.59 WIB |
 | 1038 | <img src="https://cdn.idntimes.com/content-images/post/20260421/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260421175029.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Selasa, 21 April 2026 pukul 17.50.38 WIB |
 | 1037 | <img src="https://cdn.idntimes.com/content-images/post/20260421/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260421175014.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Selasa, 21 April 2026 pukul 17.50.24 WIB |
