@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1043 | <img src="https://cdn.idntimes.com/content-images/post/20260421/a557ba58-12d8-4260-bd50-9e5252ac71ef-260421224049.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 21 April 2026 pukul 22.41.02 WIB |
+| 1042 | <img src="https://cdn.idntimes.com/content-images/post/20260421/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260421220412.jpg" width="170"> | Greesel JKT48 | teman makan kak olla | Selasa, 21 April 2026 pukul 22.04.19 WIB |
+| 1041 | <img src="https://cdn.idntimes.com/content-images/post/20260421/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260421212312.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Selasa, 21 April 2026 pukul 21.23.23 WIB |
 | 1040 | <img src="https://cdn.idntimes.com/content-images/post/20260421/7599c984-c466-4962-8c5b-73c1d33d59d9-260421203439.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 21 April 2026 pukul 20.34.47 WIB |
 | 1039 | <img src="https://cdn.idntimes.com/content-images/post/20260421/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260421183152.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Selasa, 21 April 2026 pukul 18.31.59 WIB |
 | 1038 | <img src="https://cdn.idntimes.com/content-images/post/20260421/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260421175029.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Selasa, 21 April 2026 pukul 17.50.38 WIB |
