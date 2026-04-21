@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1039 | <img src="https://cdn.idntimes.com/content-images/post/20260421/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260421183152.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Selasa, 21 April 2026 pukul 18.31.59 WIB |
+| 1038 | <img src="https://cdn.idntimes.com/content-images/post/20260421/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260421175029.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Selasa, 21 April 2026 pukul 17.50.38 WIB |
+| 1037 | <img src="https://cdn.idntimes.com/content-images/post/20260421/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260421175014.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Selasa, 21 April 2026 pukul 17.50.24 WIB |
 | 1036 | <img src="https://cdn.idntimes.com/content-images/post/20260421/50a27780-93e7-4e40-8474-60f6e0cca6da-260421153711.jpg" width="170"> | JKT48 | Temen Ngobrol JKT48! | Selasa, 21 April 2026 pukul 15.37.23 WIB |
 | 1035 | <img src="https://cdn.idntimes.com/content-images/post/20260420/e9170998-f026-4186-bbc5-a17a3b5b2af1-260420221744.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Senin, 20 April 2026 pukul 22.17.53 WIB |
 | 1034 | <img src="https://cdn.idntimes.com/content-images/post/20260420/a557ba58-12d8-4260-bd50-9e5252ac71ef-260420221722.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 20 April 2026 pukul 22.17.35 WIB |
