@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1051 | <img src="https://cdn.idntimes.com/content-images/post/20260422/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260422203057.jpg" width="170"> | Intan JKT48 | hi  | Rabu, 22 April 2026 pukul 20.31.12 WIB |
 | 1050 | <img src="https://cdn.idntimes.com/content-images/post/20260422/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260422193548.jpg" width="170"> | Giaa JKT48 | haii | Rabu, 22 April 2026 pukul 19.35.55 WIB |
 | 1049 | <img src="https://cdn.idntimes.com/content-images/post/20260422/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260422192924.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 22 April 2026 pukul 19.29.36 WIB |
 | 1048 | <img src="https://cdn.idntimes.com/content-images/post/20260422/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260422180731.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Rabu, 22 April 2026 pukul 18.07.48 WIB |
