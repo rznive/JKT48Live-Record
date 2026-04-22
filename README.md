@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1057 | <img src="https://cdn.idntimes.com/content-images/post/20260422/266ef38a-da00-4d13-ba77-f94da68599ee-260422231720.jpg" width="170"> | Delynn JKT48 | Hii | Rabu, 22 April 2026 pukul 23.17.35 WIB |
+| 1056 | <img src="https://cdn.idntimes.com/content-images/post/20260422/f740e9da-772f-4ae2-8ddd-49f717aacf63-260422231639.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Rabu, 22 April 2026 pukul 23.16.52 WIB |
+| 1055 | <img src="https://cdn.idntimes.com/content-images/post/20260422/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260422230028.jpg" width="170"> | Intan JKT48 | hi | Rabu, 22 April 2026 pukul 23.00.44 WIB |
+| 1054 | <img src="https://cdn.idntimes.com/content-images/post/20260422/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260422225838.jpg" width="170"> | Lily JKT48 | Radioly | Rabu, 22 April 2026 pukul 22.58.45 WIB |
 | 1053 | <img src="https://cdn.idntimes.com/content-images/post/20260422/85f369d7-6525-41c0-94b8-9a56686713eb-260422223904.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 22 April 2026 pukul 22.39.16 WIB |
 | 1052 | <img src="https://cdn.idntimes.com/content-images/post/20260422/a557ba58-12d8-4260-bd50-9e5252ac71ef-260422220004.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 22 April 2026 pukul 22.00.17 WIB |
 | 1051 | <img src="https://cdn.idntimes.com/content-images/post/20260422/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260422203057.jpg" width="170"> | Intan JKT48 | hi  | Rabu, 22 April 2026 pukul 20.31.12 WIB |

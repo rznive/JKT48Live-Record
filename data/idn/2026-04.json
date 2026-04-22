@@ -1218,5 +1218,45 @@
     "live_at_unix": 1776872356,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260422/85f369d7-6525-41c0-94b8-9a56686713eb-260422223904.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
+  },
+  {
+    "id": 1054,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Radioly",
+    "live_at": "Rabu, 22 April 2026 pukul 22.58.45 WIB",
+    "live_at_unix": 1776873525,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260422/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260422225838.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
+  },
+  {
+    "id": 1055,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "hi",
+    "live_at": "Rabu, 22 April 2026 pukul 23.00.44 WIB",
+    "live_at_unix": 1776873644,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260422/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260422230028.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 1056,
+    "username": "jkt48_cathy",
+    "creator_name": "Cathy JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 22 April 2026 pukul 23.16.52 WIB",
+    "live_at_unix": 1776874612,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260422/f740e9da-772f-4ae2-8ddd-49f717aacf63-260422231639.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Q0uEvM6Dl951.m3u8"
+  },
+  {
+    "id": 1057,
+    "username": "jkt48_delynn",
+    "creator_name": "Delynn JKT48",
+    "title": "Hii",
+    "live_at": "Rabu, 22 April 2026 pukul 23.17.35 WIB",
+    "live_at_unix": 1776874655,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260422/266ef38a-da00-4d13-ba77-f94da68599ee-260422231720.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
   }
 ]
