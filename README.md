@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1048 | <img src="https://cdn.idntimes.com/content-images/post/20260422/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260422180731.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Rabu, 22 April 2026 pukul 18.07.48 WIB |
 | 1047 | <img src="https://cdn.idntimes.com/content-images/post/20260422/e9170998-f026-4186-bbc5-a17a3b5b2af1-260422174030.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Rabu, 22 April 2026 pukul 17.40.40 WIB |
 | 1046 | <img src="https://cdn.idntimes.com/content-images/post/20260422/33139b05-1c43-4b48-bba3-ec960b18b36e-260422143002.jpg" width="170"> | Danella JKT48 | hi | Rabu, 22 April 2026 pukul 14.30.18 WIB |
 | 1045 | <img src="https://cdn.idntimes.com/content-images/post/20260422/b11b0692-d0b8-464c-849a-9e81439a048c-260422142537.jpg" width="170"> | Daisy JKT48 | Haiiiiiiu | Rabu, 22 April 2026 pukul 14.25.46 WIB |
