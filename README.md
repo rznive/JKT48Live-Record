@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1046 | <img src="https://cdn.idntimes.com/content-images/post/20260422/33139b05-1c43-4b48-bba3-ec960b18b36e-260422143002.jpg" width="170"> | Danella JKT48 | hi | Rabu, 22 April 2026 pukul 14.30.18 WIB |
+| 1045 | <img src="https://cdn.idntimes.com/content-images/post/20260422/b11b0692-d0b8-464c-849a-9e81439a048c-260422142537.jpg" width="170"> | Daisy JKT48 | Haiiiiiiu | Rabu, 22 April 2026 pukul 14.25.46 WIB |
 | 1044 | <img src="https://cdn.idntimes.com/content-images/post/20260421/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260421224610.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 21 April 2026 pukul 22.46.24 WIB |
 | 1043 | <img src="https://cdn.idntimes.com/content-images/post/20260421/a557ba58-12d8-4260-bd50-9e5252ac71ef-260421224049.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 21 April 2026 pukul 22.41.02 WIB |
 | 1042 | <img src="https://cdn.idntimes.com/content-images/post/20260421/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260421220412.jpg" width="170"> | Greesel JKT48 | teman makan kak olla | Selasa, 21 April 2026 pukul 22.04.19 WIB |
