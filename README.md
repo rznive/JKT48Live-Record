@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1053 | <img src="https://cdn.idntimes.com/content-images/post/20260422/85f369d7-6525-41c0-94b8-9a56686713eb-260422223904.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 22 April 2026 pukul 22.39.16 WIB |
+| 1052 | <img src="https://cdn.idntimes.com/content-images/post/20260422/a557ba58-12d8-4260-bd50-9e5252ac71ef-260422220004.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 22 April 2026 pukul 22.00.17 WIB |
 | 1051 | <img src="https://cdn.idntimes.com/content-images/post/20260422/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260422203057.jpg" width="170"> | Intan JKT48 | hi  | Rabu, 22 April 2026 pukul 20.31.12 WIB |
 | 1050 | <img src="https://cdn.idntimes.com/content-images/post/20260422/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260422193548.jpg" width="170"> | Giaa JKT48 | haii | Rabu, 22 April 2026 pukul 19.35.55 WIB |
 | 1049 | <img src="https://cdn.idntimes.com/content-images/post/20260422/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260422192924.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 22 April 2026 pukul 19.29.36 WIB |
