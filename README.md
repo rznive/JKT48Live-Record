@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1062 | <img src="https://cdn.idntimes.com/content-images/post/20260423/e9170998-f026-4186-bbc5-a17a3b5b2af1-260423184451.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Kamis, 23 April 2026 pukul 18.45.01 WIB |
+| 1061 | <img src="https://cdn.idntimes.com/content-images/post/20260423/21a420b0-dd01-4daa-b185-b9020f8bf69d-260423182928.jpg" width="170"> | Nachia JKT48 | Ayo ngobrol bareng! | Kamis, 23 April 2026 pukul 18.29.41 WIB |
 | 1060 | <img src="https://cdn.idntimes.com/content-images/post/20260423/33139b05-1c43-4b48-bba3-ec960b18b36e-260423165014.jpg" width="170"> | Danella JKT48 | Hi | Kamis, 23 April 2026 pukul 16.50.25 WIB |
 | 1059 | <img src="https://cdn.idntimes.com/content-images/post/20260423/b11b0692-d0b8-464c-849a-9e81439a048c-260423164959.jpg" width="170"> | Daisy JKT48 | Haiiiiiiu | Kamis, 23 April 2026 pukul 16.50.06 WIB |
 | 1058 | <img src="https://cdn.idntimes.com/content-images/post/20260423/4f795073-38c9-4df7-9388-74b83de69801-260423150513.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 23 April 2026 pukul 15.05.25 WIB |
