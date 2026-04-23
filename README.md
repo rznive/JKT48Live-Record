@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1067 | <img src="https://cdn.idntimes.com/content-images/post/20260423/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260423234257.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Kamis, 23 April 2026 pukul 23.43.05 WIB |
+| 1066 | <img src="https://cdn.idntimes.com/content-images/post/20260423/266ef38a-da00-4d13-ba77-f94da68599ee-260423225625.jpg" width="170"> | Delynn JKT48 | Hi | Kamis, 23 April 2026 pukul 22.56.40 WIB |
 | 1065 | <img src="https://cdn.idntimes.com/content-images/post/20260423/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260423220656.jpg" width="170"> | Giaa JKT48 | mlm | Kamis, 23 April 2026 pukul 22.07.03 WIB |
 | 1064 | <img src="https://cdn.idntimes.com/content-images/post/20260423/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260423212642.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 23 April 2026 pukul 21.26.54 WIB |
 | 1063 | <img src="https://cdn.idntimes.com/content-images/post/20260423/85f369d7-6525-41c0-94b8-9a56686713eb-260423210730.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Kamis, 23 April 2026 pukul 21.07.41 WIB |
