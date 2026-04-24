@@ -1368,5 +1368,25 @@
     "live_at_unix": 1777020754,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260424/21a420b0-dd01-4daa-b185-b9020f8bf69d-260424155224.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8"
+  },
+  {
+    "id": 1069,
+    "username": "jkt48_rilly",
+    "creator_name": "Rilly JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 24 April 2026 pukul 18.07.04 WIB",
+    "live_at_unix": 1777028824,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260424/e9170998-f026-4186-bbc5-a17a3b5b2af1-260424180653.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 1070,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Ngerjain pr",
+    "live_at": "Jumat, 24 April 2026 pukul 18.19.05 WIB",
+    "live_at_unix": 1777029545,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260424/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260424181858.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
   }
 ]

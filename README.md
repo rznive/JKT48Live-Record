@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1070 | <img src="https://cdn.idntimes.com/content-images/post/20260424/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260424181858.jpg" width="170"> | Lily JKT48 | Ngerjain pr | Jumat, 24 April 2026 pukul 18.19.05 WIB |
+| 1069 | <img src="https://cdn.idntimes.com/content-images/post/20260424/e9170998-f026-4186-bbc5-a17a3b5b2af1-260424180653.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Jumat, 24 April 2026 pukul 18.07.04 WIB |
 | 1068 | <img src="https://cdn.idntimes.com/content-images/post/20260424/21a420b0-dd01-4daa-b185-b9020f8bf69d-260424155224.jpg" width="170"> | Nachia JKT48 | Ayo ngobrol bareng! | Jumat, 24 April 2026 pukul 15.52.34 WIB |
 | 1067 | <img src="https://cdn.idntimes.com/content-images/post/20260423/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260423234257.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Kamis, 23 April 2026 pukul 23.43.05 WIB |
 | 1066 | <img src="https://cdn.idntimes.com/content-images/post/20260423/266ef38a-da00-4d13-ba77-f94da68599ee-260423225625.jpg" width="170"> | Delynn JKT48 | Hi | Kamis, 23 April 2026 pukul 22.56.40 WIB |
