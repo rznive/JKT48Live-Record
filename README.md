@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1079 | <img src="https://cdn.idntimes.com/content-images/post/20260425/33139b05-1c43-4b48-bba3-ec960b18b36e-260425231909.jpg" width="170"> | Danella JKT48 | Hi | Sabtu, 25 April 2026 pukul 23.19.19 WIB |
+| 1078 | <img src="https://cdn.idntimes.com/content-images/post/20260425/b11b0692-d0b8-464c-849a-9e81439a048c-260425223844.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Sabtu, 25 April 2026 pukul 22.38.51 WIB |
 | 1077 | <img src="https://cdn.idntimes.com/content-images/post/20260425/33139b05-1c43-4b48-bba3-ec960b18b36e-260425223801.jpg" width="170"> | Danella JKT48 | Hi | Sabtu, 25 April 2026 pukul 22.38.12 WIB |
 | 1076 | <img src="https://cdn.idntimes.com/content-images/post/20260425/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260425223757.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Sabtu, 25 April 2026 pukul 22.38.08 WIB |
 | 1075 | <img src="https://cdn.idntimes.com/content-images/post/20260425/728d224e-6ccb-43d2-a029-a0147dc7fdee-260425223752.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Sabtu, 25 April 2026 pukul 22.37.59 WIB |
