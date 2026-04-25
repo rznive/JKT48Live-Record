@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1074 | <img src="https://cdn.idntimes.com/content-images/post/20260425/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260425160035.jpg" width="170"> | Giaa JKT48 | mlm | Sabtu, 25 April 2026 pukul 16.00.42 WIB |
+| 1073 | <img src="https://cdn.idntimes.com/content-images/post/20260425/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260425155912.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Sabtu, 25 April 2026 pukul 15.59.25 WIB |
+| 1072 | <img src="https://cdn.idntimes.com/content-images/post/20260425/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260425155857.jpg" width="170"> | Intan JKT48 | woy | Sabtu, 25 April 2026 pukul 15.59.11 WIB |
 | 1071 | <img src="https://cdn.idntimes.com/content-images/post/20260425/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260425000318.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Sabtu, 25 April 2026 pukul 00.03.30 WIB |
 | 1070 | <img src="https://cdn.idntimes.com/content-images/post/20260424/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260424181858.jpg" width="170"> | Lily JKT48 | Ngerjain pr | Jumat, 24 April 2026 pukul 18.19.05 WIB |
 | 1069 | <img src="https://cdn.idntimes.com/content-images/post/20260424/e9170998-f026-4186-bbc5-a17a3b5b2af1-260424180653.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Jumat, 24 April 2026 pukul 18.07.04 WIB |
