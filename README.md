@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1077 | <img src="https://cdn.idntimes.com/content-images/post/20260425/33139b05-1c43-4b48-bba3-ec960b18b36e-260425223801.jpg" width="170"> | Danella JKT48 | Hi | Sabtu, 25 April 2026 pukul 22.38.12 WIB |
+| 1076 | <img src="https://cdn.idntimes.com/content-images/post/20260425/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260425223757.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Sabtu, 25 April 2026 pukul 22.38.08 WIB |
+| 1075 | <img src="https://cdn.idntimes.com/content-images/post/20260425/728d224e-6ccb-43d2-a029-a0147dc7fdee-260425223752.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Sabtu, 25 April 2026 pukul 22.37.59 WIB |
 | 1074 | <img src="https://cdn.idntimes.com/content-images/post/20260425/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260425160035.jpg" width="170"> | Giaa JKT48 | mlm | Sabtu, 25 April 2026 pukul 16.00.42 WIB |
 | 1073 | <img src="https://cdn.idntimes.com/content-images/post/20260425/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260425155912.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Sabtu, 25 April 2026 pukul 15.59.25 WIB |
 | 1072 | <img src="https://cdn.idntimes.com/content-images/post/20260425/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260425155857.jpg" width="170"> | Intan JKT48 | woy | Sabtu, 25 April 2026 pukul 15.59.11 WIB |
