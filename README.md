@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1081 | <img src="https://cdn.idntimes.com/content-images/post/20260426/e2af7271-2598-4ee8-8760-68043e671e6d-260426221201.jpg" width="170"> | Lana JKT48 | Haiiii | Minggu, 26 April 2026 pukul 22.12.10 WIB |
 | 1080 | <img src="https://cdn.idntimes.com/content-images/post/20260426/717109e0-a064-4f15-8187-5c4d46e56a58-260426203826.jpg" width="170"> | Fritzy JKT48 | LOVE 12  SECONDSS🩷 | Minggu, 26 April 2026 pukul 20.38.44 WIB |
 | 1079 | <img src="https://cdn.idntimes.com/content-images/post/20260425/33139b05-1c43-4b48-bba3-ec960b18b36e-260425231909.jpg" width="170"> | Danella JKT48 | Hi | Sabtu, 25 April 2026 pukul 23.19.19 WIB |
 | 1078 | <img src="https://cdn.idntimes.com/content-images/post/20260425/b11b0692-d0b8-464c-849a-9e81439a048c-260425223844.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Sabtu, 25 April 2026 pukul 22.38.51 WIB |
