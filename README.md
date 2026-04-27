@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1089 | <img src="https://cdn.idntimes.com/content-images/post/20260427/4f795073-38c9-4df7-9388-74b83de69801-260427225747.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 27 April 2026 pukul 22.57.55 WIB |
+| 1088 | <img src="https://cdn.idntimes.com/content-images/post/20260427/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260427222337.jpg" width="170"> | Giaa JKT48 | mlm | Senin, 27 April 2026 pukul 22.23.44 WIB |
 | 1087 | <img src="https://cdn.idntimes.com/content-images/post/20260427/a557ba58-12d8-4260-bd50-9e5252ac71ef-260427213314.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 27 April 2026 pukul 21.33.26 WIB |
 | 1086 | <img src="https://cdn.idntimes.com/content-images/post/20260427/15dfee86-a928-4a15-8c90-6aa21097d0ff-260427211909.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Senin, 27 April 2026 pukul 21.19.17 WIB |
 | 1085 | <img src="https://cdn.idntimes.com/content-images/post/20260427/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260427210437.jpg" width="170"> | Intan JKT48 | woi | Senin, 27 April 2026 pukul 21.04.53 WIB |

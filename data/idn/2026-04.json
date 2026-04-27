@@ -1558,5 +1558,25 @@
     "live_at_unix": 1777300406,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260427/a557ba58-12d8-4260-bd50-9e5252ac71ef-260427213314.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
+  },
+  {
+    "id": 1088,
+    "username": "jkt48_giaa",
+    "creator_name": "Giaa JKT48",
+    "title": "mlm",
+    "live_at": "Senin, 27 April 2026 pukul 22.23.44 WIB",
+    "live_at_unix": 1777303424,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260427/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260427222337.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
+  },
+  {
+    "id": 1089,
+    "username": "jkt48_cynthia",
+    "creator_name": "Cynthia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 27 April 2026 pukul 22.57.55 WIB",
+    "live_at_unix": 1777305475,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260427/4f795073-38c9-4df7-9388-74b83de69801-260427225747.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
   }
 ]
