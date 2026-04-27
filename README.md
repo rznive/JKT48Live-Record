@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1087 | <img src="https://cdn.idntimes.com/content-images/post/20260427/a557ba58-12d8-4260-bd50-9e5252ac71ef-260427213314.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 27 April 2026 pukul 21.33.26 WIB |
+| 1086 | <img src="https://cdn.idntimes.com/content-images/post/20260427/15dfee86-a928-4a15-8c90-6aa21097d0ff-260427211909.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Senin, 27 April 2026 pukul 21.19.17 WIB |
+| 1085 | <img src="https://cdn.idntimes.com/content-images/post/20260427/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260427210437.jpg" width="170"> | Intan JKT48 | woi | Senin, 27 April 2026 pukul 21.04.53 WIB |
 | 1084 | <img src="https://cdn.idntimes.com/content-images/post/20260427/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260427192827.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Senin, 27 April 2026 pukul 19.28.34 WIB |
 | 1083 | <img src="https://cdn.idntimes.com/content-images/post/20260427/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260427192344.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Senin, 27 April 2026 pukul 19.23.54 WIB |
 | 1082 | <img src="https://cdn.idntimes.com/content-images/post/20260426/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260426234431.jpg" width="170"> | Greesel JKT48 | teman makan kak olla | Minggu, 26 April 2026 pukul 23.44.39 WIB |
