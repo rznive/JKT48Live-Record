@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1084 | <img src="https://cdn.idntimes.com/content-images/post/20260427/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260427192827.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Senin, 27 April 2026 pukul 19.28.34 WIB |
+| 1083 | <img src="https://cdn.idntimes.com/content-images/post/20260427/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260427192344.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Senin, 27 April 2026 pukul 19.23.54 WIB |
 | 1082 | <img src="https://cdn.idntimes.com/content-images/post/20260426/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260426234431.jpg" width="170"> | Greesel JKT48 | teman makan kak olla | Minggu, 26 April 2026 pukul 23.44.39 WIB |
 | 1081 | <img src="https://cdn.idntimes.com/content-images/post/20260426/e2af7271-2598-4ee8-8760-68043e671e6d-260426221201.jpg" width="170"> | Lana JKT48 | Haiiii | Minggu, 26 April 2026 pukul 22.12.10 WIB |
 | 1080 | <img src="https://cdn.idntimes.com/content-images/post/20260426/717109e0-a064-4f15-8187-5c4d46e56a58-260426203826.jpg" width="170"> | Fritzy JKT48 | LOVE 12  SECONDSS🩷 | Minggu, 26 April 2026 pukul 20.38.44 WIB |
