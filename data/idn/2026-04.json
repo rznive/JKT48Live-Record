@@ -1578,5 +1578,25 @@
     "live_at_unix": 1777305475,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260427/4f795073-38c9-4df7-9388-74b83de69801-260427225747.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 1090,
+    "username": "jkt48-official",
+    "creator_name": "JKT48",
+    "title": "TEMEN MAIN SPORTY EP.4",
+    "live_at": "Selasa, 28 April 2026 pukul 15.47.03 WIB",
+    "live_at_unix": 1777366023,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260428/50a27780-93e7-4e40-8474-60f6e0cca6da-260428154653.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4idUspKIZskG.m3u8"
+  },
+  {
+    "id": 1091,
+    "username": "jkt48_aralie",
+    "creator_name": "Aralie JKT48",
+    "title": "cobaaaa",
+    "live_at": "Selasa, 28 April 2026 pukul 16.00.20 WIB",
+    "live_at_unix": 1777366820,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260428/f001ba66-3c51-4849-9afa-13cf74eb1571-260428160010.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oxXRFBYUK9HN.m3u8"
   }
 ]
