@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1101 | <img src="https://cdn.idntimes.com/content-images/post/20260429/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260429221733.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Rabu, 29 April 2026 pukul 22.17.44 WIB |
+| 1100 | <img src="https://cdn.idntimes.com/content-images/post/20260429/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260429221148.jpg" width="170"> | Lily JKT48 | Radioly | Rabu, 29 April 2026 pukul 22.11.54 WIB |
+| 1099 | <img src="https://cdn.idntimes.com/content-images/post/20260429/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260429210412.jpg" width="170"> | Intan JKT48 | woi | Rabu, 29 April 2026 pukul 21.04.27 WIB |
 | 1098 | <img src="https://cdn.idntimes.com/content-images/post/20260429/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260429201857.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 29 April 2026 pukul 20.19.11 WIB |
 | 1097 | <img src="https://cdn.idntimes.com/content-images/post/20260429/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260429201740.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Rabu, 29 April 2026 pukul 20.17.48 WIB |
 | 1096 | <img src="https://cdn.idntimes.com/content-images/post/20260429/7599c984-c466-4962-8c5b-73c1d33d59d9-260429193832.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Rabu, 29 April 2026 pukul 19.38.39 WIB |

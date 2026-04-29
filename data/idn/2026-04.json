@@ -1668,5 +1668,35 @@
     "live_at_unix": 1777468751,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260429/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260429201857.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 1099,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "woi",
+    "live_at": "Rabu, 29 April 2026 pukul 21.04.27 WIB",
+    "live_at_unix": 1777471467,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260429/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260429210412.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 1100,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Radioly",
+    "live_at": "Rabu, 29 April 2026 pukul 22.11.54 WIB",
+    "live_at_unix": 1777475514,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260429/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260429221148.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
+  },
+  {
+    "id": 1101,
+    "username": "jkt48_lyn",
+    "creator_name": "Lyn JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 29 April 2026 pukul 22.17.44 WIB",
+    "live_at_unix": 1777475864,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260429/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260429221733.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8"
   }
 ]
