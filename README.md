@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1098 | <img src="https://cdn.idntimes.com/content-images/post/20260429/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260429201857.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 29 April 2026 pukul 20.19.11 WIB |
+| 1097 | <img src="https://cdn.idntimes.com/content-images/post/20260429/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260429201740.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Rabu, 29 April 2026 pukul 20.17.48 WIB |
+| 1096 | <img src="https://cdn.idntimes.com/content-images/post/20260429/7599c984-c466-4962-8c5b-73c1d33d59d9-260429193832.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Rabu, 29 April 2026 pukul 19.38.39 WIB |
 | 1095 | <img src="https://cdn.idntimes.com/content-images/post/20260429/85f369d7-6525-41c0-94b8-9a56686713eb-260429183021.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 29 April 2026 pukul 18.30.33 WIB |
 | 1094 | <img src="https://cdn.idntimes.com/content-images/post/20260429/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260429153348.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Rabu, 29 April 2026 pukul 15.33.55 WIB |
 | 1093 | <img src="https://cdn.idntimes.com/content-images/post/20260428/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260428221937.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 28 April 2026 pukul 22.19.47 WIB |
