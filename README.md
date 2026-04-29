@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1094 | <img src="https://cdn.idntimes.com/content-images/post/20260429/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260429153348.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Rabu, 29 April 2026 pukul 15.33.55 WIB |
 | 1093 | <img src="https://cdn.idntimes.com/content-images/post/20260428/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260428221937.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 28 April 2026 pukul 22.19.47 WIB |
 | 1092 | <img src="https://cdn.idntimes.com/content-images/post/20260428/266ef38a-da00-4d13-ba77-f94da68599ee-260428220430.jpg" width="170"> | Delynn JKT48 | Hola | Selasa, 28 April 2026 pukul 22.04.45 WIB |
 | 1091 | <img src="https://cdn.idntimes.com/content-images/post/20260428/f001ba66-3c51-4849-9afa-13cf74eb1571-260428160010.jpg" width="170"> | Aralie JKT48 | cobaaaa | Selasa, 28 April 2026 pukul 16.00.20 WIB |
