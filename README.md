@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1110 | <img src="https://cdn.idntimes.com/content-images/post/20260501/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260501210851.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 01 Mei 2026 pukul 21.09.03 WIB |
+| 1109 | <img src="https://cdn.idntimes.com/content-images/post/20260501/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260501204056.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Jumat, 01 Mei 2026 pukul 20.41.06 WIB |
 | 1108 | <img src="https://cdn.idntimes.com/content-images/post/20260501/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260501195530.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Jumat, 01 Mei 2026 pukul 19.55.41 WIB |
 | 1107 | <img src="https://cdn.idntimes.com/content-images/post/20260501/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260501193506.jpg" width="170"> | Nala JKT48 | may! | Jumat, 01 Mei 2026 pukul 19.35.21 WIB |
 | 1106 | <img src="https://cdn.idntimes.com/content-images/post/20260501/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260501155716.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Jumat, 01 Mei 2026 pukul 15.57.22 WIB |
