@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1114 | <img src="https://cdn.idntimes.com/content-images/post/20260501/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260501225309.jpg" width="170"> | Lily JKT48 | Pokemonn | Jumat, 01 Mei 2026 pukul 22.53.16 WIB |
+| 1113 | <img src="https://cdn.idntimes.com/content-images/post/20260501/e2af7271-2598-4ee8-8760-68043e671e6d-260501224330.jpg" width="170"> | Lana JKT48 | Happy 1 tahunn ♥️ | Jumat, 01 Mei 2026 pukul 22.43.38 WIB |
+| 1112 | <img src="https://cdn.idntimes.com/content-images/post/20260501/a557ba58-12d8-4260-bd50-9e5252ac71ef-260501222319.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Jumat, 01 Mei 2026 pukul 22.23.31 WIB |
 | 1111 | <img src="https://cdn.idntimes.com/content-images/post/20260501/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260501221217.jpg" width="170"> | Intan JKT48 | woi | Jumat, 01 Mei 2026 pukul 22.12.36 WIB |
 | 1110 | <img src="https://cdn.idntimes.com/content-images/post/20260501/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260501210851.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 01 Mei 2026 pukul 21.09.03 WIB |
 | 1109 | <img src="https://cdn.idntimes.com/content-images/post/20260501/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260501204056.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Jumat, 01 Mei 2026 pukul 20.41.06 WIB |

@@ -58,5 +58,35 @@
     "live_at_unix": 1777648356,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260501/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260501221217.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 1112,
+    "username": "jkt48_mikaela",
+    "creator_name": "Mikaela JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 01 Mei 2026 pukul 22.23.31 WIB",
+    "live_at_unix": 1777649011,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260501/a557ba58-12d8-4260-bd50-9e5252ac71ef-260501222319.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
+  },
+  {
+    "id": 1113,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Happy 1 tahunn ♥️",
+    "live_at": "Jumat, 01 Mei 2026 pukul 22.43.38 WIB",
+    "live_at_unix": 1777650218,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260501/e2af7271-2598-4ee8-8760-68043e671e6d-260501224330.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 1114,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Pokemonn",
+    "live_at": "Jumat, 01 Mei 2026 pukul 22.53.16 WIB",
+    "live_at_unix": 1777650796,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260501/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260501225309.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
   }
 ]
