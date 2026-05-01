@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1108 | <img src="https://cdn.idntimes.com/content-images/post/20260501/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260501195530.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Jumat, 01 Mei 2026 pukul 19.55.41 WIB |
+| 1107 | <img src="https://cdn.idntimes.com/content-images/post/20260501/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260501193506.jpg" width="170"> | Nala JKT48 | may! | Jumat, 01 Mei 2026 pukul 19.35.21 WIB |
 | 1106 | <img src="https://cdn.idntimes.com/content-images/post/20260501/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260501155716.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Jumat, 01 Mei 2026 pukul 15.57.22 WIB |
 | 1105 | <img src="https://cdn.idntimes.com/content-images/post/20260430/92d66abb-0171-4a2b-a30d-37ad58359248-260430210410.jpg" width="170"> | Trisha JKT48 | haiiii | Kamis, 30 April 2026 pukul 21.04.22 WIB |
 | 1104 | <img src="https://cdn.idntimes.com/content-images/post/20260430/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260430203832.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Kamis, 30 April 2026 pukul 20.38.40 WIB |
