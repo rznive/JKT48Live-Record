@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1126 | <img src="https://cdn.idntimes.com/content-images/post/20260502/e0ececb4-71d8-4f32-a221-ef21634a746a-260502222308.jpg" width="170"> | Elin JKT48 | Hai | Sabtu, 02 Mei 2026 pukul 22.23.23 WIB |
+| 1125 | <img src="https://cdn.idntimes.com/content-images/post/20260502/74e76417-0353-487f-b9b7-7520c0398e87-260502220749.jpg" width="170"> | Alya JKT48 | hiiii | Sabtu, 02 Mei 2026 pukul 22.07.58 WIB |
+| 1124 | <img src="https://cdn.idntimes.com/content-images/post/20260502/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260502215911.jpg" width="170"> | Intan JKT48 | hi cinta | Sabtu, 02 Mei 2026 pukul 21.59.27 WIB |
+| 1123 | <img src="https://cdn.idntimes.com/content-images/post/20260502/15dfee86-a928-4a15-8c90-6aa21097d0ff-260502214905.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Sabtu, 02 Mei 2026 pukul 21.49.16 WIB |
 | 1122 | <img src="https://cdn.idntimes.com/content-images/post/20260502/266ef38a-da00-4d13-ba77-f94da68599ee-260502212436.jpg" width="170"> | Delynn JKT48 | Hi | Sabtu, 02 Mei 2026 pukul 21.24.54 WIB |
 | 1121 | <img src="https://cdn.idntimes.com/content-images/post/20260502/33139b05-1c43-4b48-bba3-ec960b18b36e-260502211550.jpg" width="170"> | Danella JKT48 | Hi | Sabtu, 02 Mei 2026 pukul 21.16.02 WIB |
 | 1120 | <img src="https://cdn.idntimes.com/content-images/post/20260502/b11b0692-d0b8-464c-849a-9e81439a048c-260502203040.jpg" width="170"> | Daisy JKT48 | Haiiiiiiu | Sabtu, 02 Mei 2026 pukul 20.30.50 WIB |
