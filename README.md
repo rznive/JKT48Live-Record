@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1116 | <img src="https://cdn.idntimes.com/content-images/post/20260502/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260502142443.jpg" width="170"> | Lily JKT48 | Radioly | Sabtu, 02 Mei 2026 pukul 14.24.50 WIB |
 | 1115 | <img src="https://cdn.idntimes.com/content-images/post/20260502/4f795073-38c9-4df7-9388-74b83de69801-260502021711.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 02 Mei 2026 pukul 02.17.19 WIB |
 | 1114 | <img src="https://cdn.idntimes.com/content-images/post/20260501/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260501225309.jpg" width="170"> | Lily JKT48 | Pokemonn | Jumat, 01 Mei 2026 pukul 22.53.16 WIB |
 | 1113 | <img src="https://cdn.idntimes.com/content-images/post/20260501/e2af7271-2598-4ee8-8760-68043e671e6d-260501224330.jpg" width="170"> | Lana JKT48 | Happy 1 tahunn ♥️ | Jumat, 01 Mei 2026 pukul 22.43.38 WIB |
