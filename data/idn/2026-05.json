@@ -108,5 +108,45 @@
     "live_at_unix": 1777706690,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260502/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260502142443.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
+  },
+  {
+    "id": 1117,
+    "username": "jkt48_eli",
+    "creator_name": "Eli JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 02 Mei 2026 pukul 20.08.24 WIB",
+    "live_at_unix": 1777727304,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260502/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260502200817.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8"
+  },
+  {
+    "id": 1118,
+    "username": "jkt48_ribka",
+    "creator_name": "Ribka JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 02 Mei 2026 pukul 20.15.36 WIB",
+    "live_at_unix": 1777727736,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260502/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260502201525.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.m6srSRt8fTY6.m3u8"
+  },
+  {
+    "id": 1119,
+    "username": "jkt48_danella",
+    "creator_name": "Danella JKT48",
+    "title": "Hi",
+    "live_at": "Sabtu, 02 Mei 2026 pukul 20.30.34 WIB",
+    "live_at_unix": 1777728634,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260502/33139b05-1c43-4b48-bba3-ec960b18b36e-260502203018.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
+  },
+  {
+    "id": 1120,
+    "username": "jkt48_daisy",
+    "creator_name": "Daisy JKT48",
+    "title": "Haiiiiiiu",
+    "live_at": "Sabtu, 02 Mei 2026 pukul 20.30.50 WIB",
+    "live_at_unix": 1777728650,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260502/b11b0692-d0b8-464c-849a-9e81439a048c-260502203040.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
   }
 ]
