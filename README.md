@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1135 | <img src="https://cdn.idntimes.com/content-images/post/20260503/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260503224026.jpg" width="170"> | Lily JKT48 | Radioly | Minggu, 03 Mei 2026 pukul 22.40.34 WIB |
+| 1134 | <img src="https://cdn.idntimes.com/content-images/post/20260503/b11b0692-d0b8-464c-849a-9e81439a048c-260503222725.jpg" width="170"> | Daisy JKT48 | Tengkyu percinnya❤️😆 | Minggu, 03 Mei 2026 pukul 22.27.37 WIB |
 | 1133 | <img src="https://cdn.idntimes.com/content-images/post/20260503/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260503220240.jpg" width="170"> | Intan JKT48 | hi cinta | Minggu, 03 Mei 2026 pukul 22.02.57 WIB |
 | 1132 | <img src="https://cdn.idntimes.com/content-images/post/20260503/85f369d7-6525-41c0-94b8-9a56686713eb-260503213645.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 03 Mei 2026 pukul 21.36.58 WIB |
 | 1131 | <img src="https://cdn.idntimes.com/content-images/post/20260503/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260503211004.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 03 Mei 2026 pukul 21.10.15 WIB |
