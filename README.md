@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1131 | <img src="https://cdn.idntimes.com/content-images/post/20260503/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260503211004.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 03 Mei 2026 pukul 21.10.15 WIB |
+| 1130 | <img src="https://cdn.idntimes.com/content-images/post/20260503/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260503204400.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 03 Mei 2026 pukul 20.44.13 WIB |
+| 1129 | <img src="https://cdn.idntimes.com/content-images/post/20260503/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260503203108.jpg" width="170"> | Giaa JKT48 | haiii | Minggu, 03 Mei 2026 pukul 20.31.15 WIB |
+| 1128 | <img src="https://cdn.idntimes.com/content-images/post/20260503/e9170998-f026-4186-bbc5-a17a3b5b2af1-260503202227.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Minggu, 03 Mei 2026 pukul 20.22.37 WIB |
 | 1127 | <img src="https://cdn.idntimes.com/content-images/post/20260503/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260503191223.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Minggu, 03 Mei 2026 pukul 19.12.31 WIB |
 | 1126 | <img src="https://cdn.idntimes.com/content-images/post/20260502/e0ececb4-71d8-4f32-a221-ef21634a746a-260502222308.jpg" width="170"> | Elin JKT48 | Hai | Sabtu, 02 Mei 2026 pukul 22.23.23 WIB |
 | 1125 | <img src="https://cdn.idntimes.com/content-images/post/20260502/74e76417-0353-487f-b9b7-7520c0398e87-260502220749.jpg" width="170"> | Alya JKT48 | hiiii | Sabtu, 02 Mei 2026 pukul 22.07.58 WIB |

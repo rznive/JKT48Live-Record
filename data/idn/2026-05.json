@@ -218,5 +218,45 @@
     "live_at_unix": 1777810351,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260503/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260503191223.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 1128,
+    "username": "jkt48_rilly",
+    "creator_name": "Rilly JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 03 Mei 2026 pukul 20.22.37 WIB",
+    "live_at_unix": 1777814557,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260503/e9170998-f026-4186-bbc5-a17a3b5b2af1-260503202227.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 1129,
+    "username": "jkt48_giaa",
+    "creator_name": "Giaa JKT48",
+    "title": "haiii",
+    "live_at": "Minggu, 03 Mei 2026 pukul 20.31.15 WIB",
+    "live_at_unix": 1777815075,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260503/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260503203108.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
+  },
+  {
+    "id": 1130,
+    "username": "jkt48_jemima",
+    "creator_name": "Jemima JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 03 Mei 2026 pukul 20.44.13 WIB",
+    "live_at_unix": 1777815853,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260503/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260503204400.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 1131,
+    "username": "jkt48_ribka",
+    "creator_name": "Ribka JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 03 Mei 2026 pukul 21.10.15 WIB",
+    "live_at_unix": 1777817415,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260503/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260503211004.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.m6srSRt8fTY6.m3u8"
   }
 ]
