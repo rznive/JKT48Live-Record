@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1145 | <img src="https://cdn.idntimes.com/content-images/post/20260504/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260504220335.jpg" width="170"> | Giaa JKT48 | haiii | Senin, 04 Mei 2026 pukul 22.03.42 WIB |
+| 1144 | <img src="https://cdn.idntimes.com/content-images/post/20260504/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260504214829.jpg" width="170"> | Lily JKT48 | Radioly | Senin, 04 Mei 2026 pukul 21.48.35 WIB |
+| 1143 | <img src="https://cdn.idntimes.com/content-images/post/20260504/15dfee86-a928-4a15-8c90-6aa21097d0ff-260504213020.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Senin, 04 Mei 2026 pukul 21.30.35 WIB |
+| 1142 | <img src="https://cdn.idntimes.com/content-images/post/20260504/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260504211719.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Senin, 04 Mei 2026 pukul 21.17.26 WIB |
+| 1141 | <img src="https://cdn.idntimes.com/content-images/post/20260504/266ef38a-da00-4d13-ba77-f94da68599ee-260504210900.jpg" width="170"> | Delynn JKT48 | 5.5 FlashSale!! | Senin, 04 Mei 2026 pukul 21.09.11 WIB |
+| 1140 | <img src="https://cdn.idntimes.com/content-images/post/20260504/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260504205909.jpg" width="170"> | Intan JKT48 | hi bub | Senin, 04 Mei 2026 pukul 20.59.26 WIB |
+| 1139 | <img src="https://cdn.idntimes.com/content-images/post/20260504/85f369d7-6525-41c0-94b8-9a56686713eb-260504204148.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 04 Mei 2026 pukul 20.42.03 WIB |
 | 1138 | <img src="https://cdn.idntimes.com/content-images/post/20260504/147e83c8-f3ac-4680-9141-2f518b4b7810-260504200419.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 04 Mei 2026 pukul 20.04.33 WIB |
 | 1137 | <img src="https://cdn.idntimes.com/content-images/post/20260504/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260504200125.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Senin, 04 Mei 2026 pukul 20.01.33 WIB |
 | 1136 | <img src="https://cdn.idntimes.com/content-images/post/20260503/4f795073-38c9-4df7-9388-74b83de69801-260503230003.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 03 Mei 2026 pukul 23.00.12 WIB |
