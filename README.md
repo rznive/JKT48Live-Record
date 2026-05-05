@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1151 | <img src="https://cdn.idntimes.com/content-images/post/20260505/74e76417-0353-487f-b9b7-7520c0398e87-260505194252.jpg" width="170"> | Alya JKT48 | hiiii | Selasa, 05 Mei 2026 pukul 19.43.02 WIB |
+| 1150 | <img src="https://cdn.idntimes.com/content-images/post/20260505/b11b0692-d0b8-464c-849a-9e81439a048c-260505193836.jpg" width="170"> | Daisy JKT48 | Hiiii | Selasa, 05 Mei 2026 pukul 19.38.45 WIB |
 | 1149 | <img src="https://cdn.idntimes.com/content-images/post/20260505/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260505171130.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Selasa, 05 Mei 2026 pukul 17.11.40 WIB |
 | 1148 | <img src="https://cdn.idntimes.com/content-images/post/20260505/82ffac10-ee56-43d0-ad38-ce432384cfe5-260505170106.jpg" width="170"> | Gita JKT48 | Gits | Selasa, 05 Mei 2026 pukul 17.01.18 WIB |
 | 1147 | <img src="https://cdn.idntimes.com/content-images/post/20260505/21a420b0-dd01-4daa-b185-b9020f8bf69d-260505164024.jpg" width="170"> | Nachia JKT48 | lesgo | Selasa, 05 Mei 2026 pukul 16.40.41 WIB |
