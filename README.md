@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1149 | <img src="https://cdn.idntimes.com/content-images/post/20260505/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260505171130.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Selasa, 05 Mei 2026 pukul 17.11.40 WIB |
+| 1148 | <img src="https://cdn.idntimes.com/content-images/post/20260505/82ffac10-ee56-43d0-ad38-ce432384cfe5-260505170106.jpg" width="170"> | Gita JKT48 | Gits | Selasa, 05 Mei 2026 pukul 17.01.18 WIB |
+| 1147 | <img src="https://cdn.idntimes.com/content-images/post/20260505/21a420b0-dd01-4daa-b185-b9020f8bf69d-260505164024.jpg" width="170"> | Nachia JKT48 | lesgo | Selasa, 05 Mei 2026 pukul 16.40.41 WIB |
 | 1146 | <img src="https://cdn.idntimes.com/content-images/post/20260504/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260504230559.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Senin, 04 Mei 2026 pukul 23.06.11 WIB |
 | 1145 | <img src="https://cdn.idntimes.com/content-images/post/20260504/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260504220335.jpg" width="170"> | Giaa JKT48 | haiii | Senin, 04 Mei 2026 pukul 22.03.42 WIB |
 | 1144 | <img src="https://cdn.idntimes.com/content-images/post/20260504/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260504214829.jpg" width="170"> | Lily JKT48 | Radioly | Senin, 04 Mei 2026 pukul 21.48.35 WIB |
