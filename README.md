@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1157 | <img src="https://cdn.idntimes.com/content-images/post/20260506/f9500eb4-9d6d-491d-a857-40ca6f862d61-260506165150.jpg" width="170"> | Auwia JKT48 | Temenin | Rabu, 06 Mei 2026 pukul 16.52.05 WIB |
+| 1156 | <img src="https://cdn.idntimes.com/content-images/post/20260506/f001ba66-3c51-4849-9afa-13cf74eb1571-260506163926.jpg" width="170"> | Aralie JKT48 | hii | Rabu, 06 Mei 2026 pukul 16.39.38 WIB |
+| 1155 | <img src="https://cdn.idntimes.com/content-images/post/20260506/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260506161558.jpg" width="170"> | Lily JKT48 | Hii | Rabu, 06 Mei 2026 pukul 16.16.05 WIB |
 | 1154 | <img src="https://cdn.idntimes.com/content-images/post/20260506/e9170998-f026-4186-bbc5-a17a3b5b2af1-260506145623.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Rabu, 06 Mei 2026 pukul 14.56.33 WIB |
 | 1153 | <img src="https://cdn.idntimes.com/content-images/post/20260505/85f369d7-6525-41c0-94b8-9a56686713eb-260505230857.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Selasa, 05 Mei 2026 pukul 23.09.09 WIB |
 | 1152 | <img src="https://cdn.idntimes.com/content-images/post/20260505/a557ba58-12d8-4260-bd50-9e5252ac71ef-260505220746.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 05 Mei 2026 pukul 22.07.58 WIB |
