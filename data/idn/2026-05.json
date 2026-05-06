@@ -518,5 +518,25 @@
     "live_at_unix": 1778061125,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260506/f9500eb4-9d6d-491d-a857-40ca6f862d61-260506165150.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
+  },
+  {
+    "id": 1158,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "P",
+    "live_at": "Rabu, 06 Mei 2026 pukul 18.08.04 WIB",
+    "live_at_unix": 1778065684,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260506/e2af7271-2598-4ee8-8760-68043e671e6d-260506180756.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 1159,
+    "username": "jkt48_greesel",
+    "creator_name": "Greesel JKT48",
+    "title": "wadupp",
+    "live_at": "Rabu, 06 Mei 2026 pukul 18.38.07 WIB",
+    "live_at_unix": 1778067487,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260506/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260506183758.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.z3nXSqOvE9Fs.m3u8"
   }
 ]

@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1159 | <img src="https://cdn.idntimes.com/content-images/post/20260506/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260506183758.jpg" width="170"> | Greesel JKT48 | wadupp | Rabu, 06 Mei 2026 pukul 18.38.07 WIB |
+| 1158 | <img src="https://cdn.idntimes.com/content-images/post/20260506/e2af7271-2598-4ee8-8760-68043e671e6d-260506180756.jpg" width="170"> | Lana JKT48 | P | Rabu, 06 Mei 2026 pukul 18.08.04 WIB |
 | 1157 | <img src="https://cdn.idntimes.com/content-images/post/20260506/f9500eb4-9d6d-491d-a857-40ca6f862d61-260506165150.jpg" width="170"> | Auwia JKT48 | Temenin | Rabu, 06 Mei 2026 pukul 16.52.05 WIB |
 | 1156 | <img src="https://cdn.idntimes.com/content-images/post/20260506/f001ba66-3c51-4849-9afa-13cf74eb1571-260506163926.jpg" width="170"> | Aralie JKT48 | hii | Rabu, 06 Mei 2026 pukul 16.39.38 WIB |
 | 1155 | <img src="https://cdn.idntimes.com/content-images/post/20260506/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260506161558.jpg" width="170"> | Lily JKT48 | Hii | Rabu, 06 Mei 2026 pukul 16.16.05 WIB |
