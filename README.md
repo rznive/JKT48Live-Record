@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1154 | <img src="https://cdn.idntimes.com/content-images/post/20260506/e9170998-f026-4186-bbc5-a17a3b5b2af1-260506145623.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Rabu, 06 Mei 2026 pukul 14.56.33 WIB |
 | 1153 | <img src="https://cdn.idntimes.com/content-images/post/20260505/85f369d7-6525-41c0-94b8-9a56686713eb-260505230857.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Selasa, 05 Mei 2026 pukul 23.09.09 WIB |
 | 1152 | <img src="https://cdn.idntimes.com/content-images/post/20260505/a557ba58-12d8-4260-bd50-9e5252ac71ef-260505220746.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 05 Mei 2026 pukul 22.07.58 WIB |
 | 1151 | <img src="https://cdn.idntimes.com/content-images/post/20260505/74e76417-0353-487f-b9b7-7520c0398e87-260505194252.jpg" width="170"> | Alya JKT48 | hiiii | Selasa, 05 Mei 2026 pukul 19.43.02 WIB |
