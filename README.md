@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1162 | <img src="https://cdn.idntimes.com/content-images/post/20260506/33139b05-1c43-4b48-bba3-ec960b18b36e-260506225519.jpg" width="170"> | Danella JKT48 | hi | Rabu, 06 Mei 2026 pukul 22.55.31 WIB |
+| 1161 | <img src="https://cdn.idntimes.com/content-images/post/20260506/b11b0692-d0b8-464c-849a-9e81439a048c-260506224916.jpg" width="170"> | Daisy JKT48 | Hiiii | Rabu, 06 Mei 2026 pukul 22.49.25 WIB |
+| 1160 | <img src="https://cdn.idntimes.com/content-images/post/20260506/85f369d7-6525-41c0-94b8-9a56686713eb-260506223520.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 06 Mei 2026 pukul 22.35.35 WIB |
 | 1159 | <img src="https://cdn.idntimes.com/content-images/post/20260506/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260506183758.jpg" width="170"> | Greesel JKT48 | wadupp | Rabu, 06 Mei 2026 pukul 18.38.07 WIB |
 | 1158 | <img src="https://cdn.idntimes.com/content-images/post/20260506/e2af7271-2598-4ee8-8760-68043e671e6d-260506180756.jpg" width="170"> | Lana JKT48 | P | Rabu, 06 Mei 2026 pukul 18.08.04 WIB |
 | 1157 | <img src="https://cdn.idntimes.com/content-images/post/20260506/f9500eb4-9d6d-491d-a857-40ca6f862d61-260506165150.jpg" width="170"> | Auwia JKT48 | Temenin | Rabu, 06 Mei 2026 pukul 16.52.05 WIB |
