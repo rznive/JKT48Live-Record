@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1164 | <img src="https://cdn.idntimes.com/content-images/post/20260507/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260507180835.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Kamis, 07 Mei 2026 pukul 18.08.41 WIB |
 | 1163 | <img src="https://cdn.idntimes.com/content-images/post/20260507/f9500eb4-9d6d-491d-a857-40ca6f862d61-260507161033.jpg" width="170"> | Auwia JKT48 | Radio | Kamis, 07 Mei 2026 pukul 16.10.49 WIB |
 | 1162 | <img src="https://cdn.idntimes.com/content-images/post/20260506/33139b05-1c43-4b48-bba3-ec960b18b36e-260506225519.jpg" width="170"> | Danella JKT48 | hi | Rabu, 06 Mei 2026 pukul 22.55.31 WIB |
 | 1161 | <img src="https://cdn.idntimes.com/content-images/post/20260506/b11b0692-d0b8-464c-849a-9e81439a048c-260506224916.jpg" width="170"> | Daisy JKT48 | Hiiii | Rabu, 06 Mei 2026 pukul 22.49.25 WIB |
