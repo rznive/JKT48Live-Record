@@ -2,6 +2,14 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1174 | <img src="https://cdn.idntimes.com/content-images/post/20260507/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260507221616.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 07 Mei 2026 pukul 22.16.29 WIB |
+| 1173 | <img src="https://cdn.idntimes.com/content-images/post/20260507/b0d1e6c3-d356-4b00-8d00-846e5297693b-260507221328.jpg" width="170"> | Ella JKT48 | Ayo ngobrol bareng! | Kamis, 07 Mei 2026 pukul 22.13.36 WIB |
+| 1172 | <img src="https://cdn.idntimes.com/content-images/post/20260507/a557ba58-12d8-4260-bd50-9e5252ac71ef-260507221314.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 07 Mei 2026 pukul 22.13.27 WIB |
+| 1171 | <img src="https://cdn.idntimes.com/content-images/post/20260507/74e76417-0353-487f-b9b7-7520c0398e87-260507220431.jpg" width="170"> | Alya JKT48 | hiiii | Kamis, 07 Mei 2026 pukul 22.04.39 WIB |
+| 1170 | <img src="https://cdn.idntimes.com/content-images/post/20260507/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260507215505.jpg" width="170"> | Lily JKT48 | Unbox sama cerita | Kamis, 07 Mei 2026 pukul 21.55.12 WIB |
+| 1169 | <img src="https://cdn.idntimes.com/content-images/post/20260507/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260507213041.jpg" width="170"> | Giaa JKT48 | haiii | Kamis, 07 Mei 2026 pukul 21.30.49 WIB |
+| 1168 | <img src="https://cdn.idntimes.com/content-images/post/20260507/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260507205431.jpg" width="170"> | Intan JKT48 | hi bub | Kamis, 07 Mei 2026 pukul 20.54.48 WIB |
+| 1167 | <img src="https://cdn.idntimes.com/content-images/post/20260507/147e83c8-f3ac-4680-9141-2f518b4b7810-260507200645.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Kamis, 07 Mei 2026 pukul 20.06.57 WIB |
 | 1166 | <img src="https://cdn.idntimes.com/content-images/post/20260507/85f369d7-6525-41c0-94b8-9a56686713eb-260507185222.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Kamis, 07 Mei 2026 pukul 18.52.34 WIB |
 | 1165 | <img src="https://cdn.idntimes.com/content-images/post/20260507/e9170998-f026-4186-bbc5-a17a3b5b2af1-260507184356.jpg" width="170"> | Rilly JKT48 | Santaii ajaa | Kamis, 07 Mei 2026 pukul 18.44.05 WIB |
 | 1164 | <img src="https://cdn.idntimes.com/content-images/post/20260507/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260507180835.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Kamis, 07 Mei 2026 pukul 18.08.41 WIB |
