@@ -698,5 +698,25 @@
     "live_at_unix": 1778172851,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260507/e2af7271-2598-4ee8-8760-68043e671e6d-260507235402.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 1176,
+    "username": "jkt48_lia",
+    "creator_name": "Lia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 08 Mei 2026 pukul 13.42.34 WIB",
+    "live_at_unix": 1778222554,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260508/15dfee86-a928-4a15-8c90-6aa21097d0ff-260508134224.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 1177,
+    "username": "jkt48_auwia",
+    "creator_name": "Auwia JKT48",
+    "title": "Grem",
+    "live_at": "Jumat, 08 Mei 2026 pukul 13.45.18 WIB",
+    "live_at_unix": 1778222718,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260508/f9500eb4-9d6d-491d-a857-40ca6f862d61-260508134503.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
   }
 ]

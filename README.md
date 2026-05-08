@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1177 | <img src="https://cdn.idntimes.com/content-images/post/20260508/f9500eb4-9d6d-491d-a857-40ca6f862d61-260508134503.jpg" width="170"> | Auwia JKT48 | Grem | Jumat, 08 Mei 2026 pukul 13.45.18 WIB |
+| 1176 | <img src="https://cdn.idntimes.com/content-images/post/20260508/15dfee86-a928-4a15-8c90-6aa21097d0ff-260508134224.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 08 Mei 2026 pukul 13.42.34 WIB |
 | 1175 | <img src="https://cdn.idntimes.com/content-images/post/20260507/e2af7271-2598-4ee8-8760-68043e671e6d-260507235402.jpg" width="170"> | Lana JKT48 | Hai | Kamis, 07 Mei 2026 pukul 23.54.11 WIB |
 | 1174 | <img src="https://cdn.idntimes.com/content-images/post/20260507/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260507221616.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 07 Mei 2026 pukul 22.16.29 WIB |
 | 1173 | <img src="https://cdn.idntimes.com/content-images/post/20260507/b0d1e6c3-d356-4b00-8d00-846e5297693b-260507221328.jpg" width="170"> | Ella JKT48 | Ayo ngobrol bareng! | Kamis, 07 Mei 2026 pukul 22.13.36 WIB |
