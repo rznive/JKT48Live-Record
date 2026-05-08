@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1190 | <img src="https://cdn.idntimes.com/content-images/post/20260508/15dfee86-a928-4a15-8c90-6aa21097d0ff-260508225018.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 08 Mei 2026 pukul 22.50.33 WIB |
+| 1189 | <img src="https://cdn.idntimes.com/content-images/post/20260508/e2af7271-2598-4ee8-8760-68043e671e6d-260508224729.jpg" width="170"> | Lana JKT48 | Hai | Jumat, 08 Mei 2026 pukul 22.47.37 WIB |
+| 1188 | <img src="https://cdn.idntimes.com/content-images/post/20260508/266ef38a-da00-4d13-ba77-f94da68599ee-260508221205.jpg" width="170"> | Delynn JKT48 | Hi | Jumat, 08 Mei 2026 pukul 22.12.16 WIB |
 | 1187 | <img src="https://cdn.idntimes.com/content-images/post/20260508/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260508212738.jpg" width="170"> | Giaa JKT48 | haiii | Jumat, 08 Mei 2026 pukul 21.27.45 WIB |
 | 1186 | <img src="https://cdn.idntimes.com/content-images/post/20260508/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260508211551.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 08 Mei 2026 pukul 21.16.04 WIB |
 | 1185 | <img src="https://cdn.idntimes.com/content-images/post/20260508/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260508210042.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Jumat, 08 Mei 2026 pukul 21.00.54 WIB |
