@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1187 | <img src="https://cdn.idntimes.com/content-images/post/20260508/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260508212738.jpg" width="170"> | Giaa JKT48 | haiii | Jumat, 08 Mei 2026 pukul 21.27.45 WIB |
+| 1186 | <img src="https://cdn.idntimes.com/content-images/post/20260508/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260508211551.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 08 Mei 2026 pukul 21.16.04 WIB |
+| 1185 | <img src="https://cdn.idntimes.com/content-images/post/20260508/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260508210042.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Jumat, 08 Mei 2026 pukul 21.00.54 WIB |
+| 1184 | <img src="https://cdn.idntimes.com/content-images/post/20260508/85f369d7-6525-41c0-94b8-9a56686713eb-260508205205.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Jumat, 08 Mei 2026 pukul 20.52.16 WIB |
+| 1183 | <img src="https://cdn.idntimes.com/content-images/post/20260508/a557ba58-12d8-4260-bd50-9e5252ac71ef-260508205113.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Jumat, 08 Mei 2026 pukul 20.51.32 WIB |
+| 1182 | <img src="https://cdn.idntimes.com/content-images/post/20260508/e9170998-f026-4186-bbc5-a17a3b5b2af1-260508205109.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Jumat, 08 Mei 2026 pukul 20.51.20 WIB |
+| 1181 | <img src="https://cdn.idntimes.com/content-images/post/20260508/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260508203355.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Jumat, 08 Mei 2026 pukul 20.34.06 WIB |
 | 1180 | <img src="https://cdn.idntimes.com/content-images/post/20260508/a9579a29-9203-40c0-9326-9837b8eae6e8-260508163511.jpg" width="170"> | Jessi JKT48 | hello | Jumat, 08 Mei 2026 pukul 16.35.27 WIB |
 | 1179 | <img src="https://cdn.idntimes.com/content-images/post/20260508/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260508150421.jpg" width="170"> | Intan JKT48 | hi bub | Jumat, 08 Mei 2026 pukul 15.04.36 WIB |
 | 1178 | <img src="https://cdn.idntimes.com/content-images/post/20260508/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260508150328.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 08 Mei 2026 pukul 15.03.42 WIB |
