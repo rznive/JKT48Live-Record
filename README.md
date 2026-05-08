@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1180 | <img src="https://cdn.idntimes.com/content-images/post/20260508/a9579a29-9203-40c0-9326-9837b8eae6e8-260508163511.jpg" width="170"> | Jessi JKT48 | hello | Jumat, 08 Mei 2026 pukul 16.35.27 WIB |
 | 1179 | <img src="https://cdn.idntimes.com/content-images/post/20260508/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260508150421.jpg" width="170"> | Intan JKT48 | hi bub | Jumat, 08 Mei 2026 pukul 15.04.36 WIB |
 | 1178 | <img src="https://cdn.idntimes.com/content-images/post/20260508/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260508150328.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 08 Mei 2026 pukul 15.03.42 WIB |
 | 1177 | <img src="https://cdn.idntimes.com/content-images/post/20260508/f9500eb4-9d6d-491d-a857-40ca6f862d61-260508134503.jpg" width="170"> | Auwia JKT48 | Grem | Jumat, 08 Mei 2026 pukul 13.45.18 WIB |

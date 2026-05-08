@@ -738,5 +738,15 @@
     "live_at_unix": 1778227476,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260508/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260508150421.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 1180,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "hello",
+    "live_at": "Jumat, 08 Mei 2026 pukul 16.35.27 WIB",
+    "live_at_unix": 1778232927,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260508/a9579a29-9203-40c0-9326-9837b8eae6e8-260508163511.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
   }
 ]
