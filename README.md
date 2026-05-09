@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1204 | <img src="https://cdn.idntimes.com/content-images/post/20260509/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260509222756.jpg" width="170"> | Oniel JKT48 | passion 4 | Sabtu, 09 Mei 2026 pukul 22.28.04 WIB |
+| 1203 | <img src="https://cdn.idntimes.com/content-images/post/20260509/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260509222349.jpg" width="170"> | Kathrina JKT48 | passion 3 | Sabtu, 09 Mei 2026 pukul 22.23.58 WIB |
+| 1202 | <img src="https://cdn.idntimes.com/content-images/post/20260509/a9579a29-9203-40c0-9326-9837b8eae6e8-260509222014.jpg" width="170"> | Jessi JKT48 | passion 2 | Sabtu, 09 Mei 2026 pukul 22.20.28 WIB |
+| 1201 | <img src="https://cdn.idntimes.com/content-images/post/20260509/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260509221655.jpg" width="170"> | Ribka JKT48 | Passion 6 | Sabtu, 09 Mei 2026 pukul 22.17.08 WIB |
+| 1200 | <img src="https://cdn.idntimes.com/content-images/post/20260509/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260509221634.jpg" width="170"> | Muthe JKT48 | PASSION 5 | Sabtu, 09 Mei 2026 pukul 22.16.45 WIB |
+| 1199 | <img src="https://cdn.idntimes.com/content-images/post/20260509/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260509215407.jpg" width="170"> | Nala JKT48 | may! | Sabtu, 09 Mei 2026 pukul 21.54.19 WIB |
 | 1198 | <img src="https://cdn.idntimes.com/content-images/post/20260509/b0d1e6c3-d356-4b00-8d00-846e5297693b-260509205326.jpg" width="170"> | Ella JKT48 | Ayo ngobrol bareng! | Sabtu, 09 Mei 2026 pukul 20.53.33 WIB |
 | 1197 | <img src="https://cdn.idntimes.com/content-images/post/20260509/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260509204710.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Sabtu, 09 Mei 2026 pukul 20.47.17 WIB |
 | 1196 | <img src="https://cdn.idntimes.com/content-images/post/20260509/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260509204514.jpg" width="170"> | Greesel JKT48 | wadupp | Sabtu, 09 Mei 2026 pukul 20.45.21 WIB |
