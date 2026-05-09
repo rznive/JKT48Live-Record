@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1194 | <img src="https://cdn.idntimes.com/content-images/post/20260509/e0ececb4-71d8-4f32-a221-ef21634a746a-260509180947.jpg" width="170"> | Elin JKT48 | Soreyy | Sabtu, 09 Mei 2026 pukul 18.10.05 WIB |
 | 1193 | <img src="https://cdn.idntimes.com/content-images/post/20260509/15dfee86-a928-4a15-8c90-6aa21097d0ff-260509172422.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Sabtu, 09 Mei 2026 pukul 17.24.29 WIB |
 | 1192 | <img src="https://cdn.idntimes.com/content-images/post/20260509/74e76417-0353-487f-b9b7-7520c0398e87-260509165923.jpg" width="170"> | Alya JKT48 | hiiii | Sabtu, 09 Mei 2026 pukul 16.59.31 WIB |
 | 1191 | <img src="https://cdn.idntimes.com/content-images/post/20260509/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260509160429.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Sabtu, 09 Mei 2026 pukul 16.04.42 WIB |

@@ -878,5 +878,15 @@
     "live_at_unix": 1778322269,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260509/15dfee86-a928-4a15-8c90-6aa21097d0ff-260509172422.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 1194,
+    "username": "jkt48_elin",
+    "creator_name": "Elin JKT48",
+    "title": "Soreyy",
+    "live_at": "Sabtu, 09 Mei 2026 pukul 18.10.05 WIB",
+    "live_at_unix": 1778325005,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260509/e0ececb4-71d8-4f32-a221-ef21634a746a-260509180947.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
   }
 ]
