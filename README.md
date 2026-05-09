@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1191 | <img src="https://cdn.idntimes.com/content-images/post/20260509/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260509160429.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Sabtu, 09 Mei 2026 pukul 16.04.42 WIB |
 | 1190 | <img src="https://cdn.idntimes.com/content-images/post/20260508/15dfee86-a928-4a15-8c90-6aa21097d0ff-260508225018.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 08 Mei 2026 pukul 22.50.33 WIB |
 | 1189 | <img src="https://cdn.idntimes.com/content-images/post/20260508/e2af7271-2598-4ee8-8760-68043e671e6d-260508224729.jpg" width="170"> | Lana JKT48 | Hai | Jumat, 08 Mei 2026 pukul 22.47.37 WIB |
 | 1188 | <img src="https://cdn.idntimes.com/content-images/post/20260508/266ef38a-da00-4d13-ba77-f94da68599ee-260508221205.jpg" width="170"> | Delynn JKT48 | Hi | Jumat, 08 Mei 2026 pukul 22.12.16 WIB |
