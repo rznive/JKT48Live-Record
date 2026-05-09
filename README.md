@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1198 | <img src="https://cdn.idntimes.com/content-images/post/20260509/b0d1e6c3-d356-4b00-8d00-846e5297693b-260509205326.jpg" width="170"> | Ella JKT48 | Ayo ngobrol bareng! | Sabtu, 09 Mei 2026 pukul 20.53.33 WIB |
+| 1197 | <img src="https://cdn.idntimes.com/content-images/post/20260509/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260509204710.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Sabtu, 09 Mei 2026 pukul 20.47.17 WIB |
 | 1196 | <img src="https://cdn.idntimes.com/content-images/post/20260509/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260509204514.jpg" width="170"> | Greesel JKT48 | wadupp | Sabtu, 09 Mei 2026 pukul 20.45.21 WIB |
 | 1195 | <img src="https://cdn.idntimes.com/content-images/post/20260509/717109e0-a064-4f15-8187-5c4d46e56a58-260509204221.jpg" width="170"> | Fritzy JKT48 | p apa | Sabtu, 09 Mei 2026 pukul 20.42.30 WIB |
 | 1194 | <img src="https://cdn.idntimes.com/content-images/post/20260509/e0ececb4-71d8-4f32-a221-ef21634a746a-260509180947.jpg" width="170"> | Elin JKT48 | Soreyy | Sabtu, 09 Mei 2026 pukul 18.10.05 WIB |
