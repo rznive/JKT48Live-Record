@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1211 | <img src="https://cdn.idntimes.com/content-images/post/20260510/728d224e-6ccb-43d2-a029-a0147dc7fdee-260510000024.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Minggu, 10 Mei 2026 pukul 00.00.39 WIB |
 | 1210 | <img src="https://cdn.idntimes.com/content-images/post/20260509/33139b05-1c43-4b48-bba3-ec960b18b36e-260509230656.jpg" width="170"> | Danella JKT48 | Hi | Sabtu, 09 Mei 2026 pukul 23.07.07 WIB |
 | 1209 | <img src="https://cdn.idntimes.com/content-images/post/20260509/4f795073-38c9-4df7-9388-74b83de69801-260509230218.jpg" width="170"> | Cynthia JKT48 | Mau unboxingggg! | Sabtu, 09 Mei 2026 pukul 23.02.31 WIB |
 | 1208 | <img src="https://cdn.idntimes.com/content-images/post/20260509/b11b0692-d0b8-464c-849a-9e81439a048c-260509230023.jpg" width="170"> | Daisy JKT48 | Hiiii | Sabtu, 09 Mei 2026 pukul 23.00.32 WIB |
