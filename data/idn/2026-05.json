@@ -1058,5 +1058,15 @@
     "live_at_unix": 1778346039,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260510/728d224e-6ccb-43d2-a029-a0147dc7fdee-260510000024.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.rjVZYmbffgGE.m3u8"
+  },
+  {
+    "id": 1212,
+    "username": "jkt48_elin",
+    "creator_name": "Elin JKT48",
+    "title": "Hai hai 2",
+    "live_at": "Minggu, 10 Mei 2026 pukul 13.51.58 WIB",
+    "live_at_unix": 1778395918,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260510/e0ececb4-71d8-4f32-a221-ef21634a746a-260510135141.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
   }
 ]
