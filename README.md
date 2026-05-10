@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1225 | <img src="https://cdn.idntimes.com/content-images/post/20260510/266ef38a-da00-4d13-ba77-f94da68599ee-260510234312.jpg" width="170"> | Delynn JKT48 | Hi | Minggu, 10 Mei 2026 pukul 23.43.26 WIB |
 | 1224 | <img src="https://cdn.idntimes.com/content-images/post/20260510/4f795073-38c9-4df7-9388-74b83de69801-260510223223.jpg" width="170"> | Cynthia JKT48 | Mau unboxingggg! | Minggu, 10 Mei 2026 pukul 22.32.31 WIB |
 | 1223 | <img src="https://cdn.idntimes.com/content-images/post/20260510/85f369d7-6525-41c0-94b8-9a56686713eb-260510222537.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 10 Mei 2026 pukul 22.25.49 WIB |
 | 1222 | <img src="https://cdn.idntimes.com/content-images/post/20260510/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260510222159.jpg" width="170"> | Giaa JKT48 | haiii | Minggu, 10 Mei 2026 pukul 22.22.06 WIB |
