@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1218 | <img src="https://cdn.idntimes.com/content-images/post/20260510/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260510202746.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 10 Mei 2026 pukul 20.27.59 WIB |
 | 1217 | <img src="https://cdn.idntimes.com/content-images/post/20260510/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260510180721.jpg" width="170"> | Oniel JKT48 | passion 3 | Minggu, 10 Mei 2026 pukul 18.07.28 WIB |
 | 1216 | <img src="https://cdn.idntimes.com/content-images/post/20260510/a9579a29-9203-40c0-9326-9837b8eae6e8-260510174047.jpg" width="170"> | Jessi JKT48 | passion 1 | Minggu, 10 Mei 2026 pukul 17.41.06 WIB |
 | 1215 | <img src="https://cdn.idntimes.com/content-images/post/20260510/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260510174024.jpg" width="170"> | Muthe JKT48 | PASSION 3 | Minggu, 10 Mei 2026 pukul 17.40.32 WIB |
