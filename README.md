@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1217 | <img src="https://cdn.idntimes.com/content-images/post/20260510/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260510180721.jpg" width="170"> | Oniel JKT48 | passion 3 | Minggu, 10 Mei 2026 pukul 18.07.28 WIB |
+| 1216 | <img src="https://cdn.idntimes.com/content-images/post/20260510/a9579a29-9203-40c0-9326-9837b8eae6e8-260510174047.jpg" width="170"> | Jessi JKT48 | passion 1 | Minggu, 10 Mei 2026 pukul 17.41.06 WIB |
+| 1215 | <img src="https://cdn.idntimes.com/content-images/post/20260510/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260510174024.jpg" width="170"> | Muthe JKT48 | PASSION 3 | Minggu, 10 Mei 2026 pukul 17.40.32 WIB |
+| 1214 | <img src="https://cdn.idntimes.com/content-images/post/20260510/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260510174016.jpg" width="170"> | Kathrina JKT48 | passion 2 | Minggu, 10 Mei 2026 pukul 17.40.25 WIB |
 | 1213 | <img src="https://cdn.idntimes.com/content-images/post/20260510/15dfee86-a928-4a15-8c90-6aa21097d0ff-260510151017.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 10 Mei 2026 pukul 15.10.28 WIB |
 | 1212 | <img src="https://cdn.idntimes.com/content-images/post/20260510/e0ececb4-71d8-4f32-a221-ef21634a746a-260510135141.jpg" width="170"> | Elin JKT48 | Hai hai 2 | Minggu, 10 Mei 2026 pukul 13.51.58 WIB |
 | 1211 | <img src="https://cdn.idntimes.com/content-images/post/20260510/728d224e-6ccb-43d2-a029-a0147dc7fdee-260510000024.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Minggu, 10 Mei 2026 pukul 00.00.39 WIB |

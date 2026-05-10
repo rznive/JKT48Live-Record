@@ -1078,5 +1078,45 @@
     "live_at_unix": 1778400628,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260510/15dfee86-a928-4a15-8c90-6aa21097d0ff-260510151017.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 1214,
+    "username": "jkt48_kathrina",
+    "creator_name": "Kathrina JKT48",
+    "title": "passion 2",
+    "live_at": "Minggu, 10 Mei 2026 pukul 17.40.25 WIB",
+    "live_at_unix": 1778409625,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260510/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260510174016.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
+  },
+  {
+    "id": 1215,
+    "username": "jkt48_muthe",
+    "creator_name": "Muthe JKT48",
+    "title": "PASSION 3",
+    "live_at": "Minggu, 10 Mei 2026 pukul 17.40.32 WIB",
+    "live_at_unix": 1778409632,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260510/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260510174024.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sm9AmQPkGDGS.m3u8"
+  },
+  {
+    "id": 1216,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "passion 1",
+    "live_at": "Minggu, 10 Mei 2026 pukul 17.41.06 WIB",
+    "live_at_unix": 1778409666,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260510/a9579a29-9203-40c0-9326-9837b8eae6e8-260510174047.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 1217,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "passion 3",
+    "live_at": "Minggu, 10 Mei 2026 pukul 18.07.28 WIB",
+    "live_at_unix": 1778411248,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260510/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260510180721.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
   }
 ]
