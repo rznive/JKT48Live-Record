@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1213 | <img src="https://cdn.idntimes.com/content-images/post/20260510/15dfee86-a928-4a15-8c90-6aa21097d0ff-260510151017.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 10 Mei 2026 pukul 15.10.28 WIB |
 | 1212 | <img src="https://cdn.idntimes.com/content-images/post/20260510/e0ececb4-71d8-4f32-a221-ef21634a746a-260510135141.jpg" width="170"> | Elin JKT48 | Hai hai 2 | Minggu, 10 Mei 2026 pukul 13.51.58 WIB |
 | 1211 | <img src="https://cdn.idntimes.com/content-images/post/20260510/728d224e-6ccb-43d2-a029-a0147dc7fdee-260510000024.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Minggu, 10 Mei 2026 pukul 00.00.39 WIB |
 | 1210 | <img src="https://cdn.idntimes.com/content-images/post/20260509/33139b05-1c43-4b48-bba3-ec960b18b36e-260509230656.jpg" width="170"> | Danella JKT48 | Hi | Sabtu, 09 Mei 2026 pukul 23.07.07 WIB |
