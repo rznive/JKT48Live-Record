@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1241 | <img src="https://cdn.idntimes.com/content-images/post/20260511/4f795073-38c9-4df7-9388-74b83de69801-260511225925.jpg" width="170"> | Cynthia JKT48 | Yuk ngobrol | Senin, 11 Mei 2026 pukul 22.59.33 WIB |
+| 1240 | <img src="https://cdn.idntimes.com/content-images/post/20260511/728d224e-6ccb-43d2-a029-a0147dc7fdee-260511225245.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Senin, 11 Mei 2026 pukul 22.53.00 WIB |
+| 1239 | <img src="https://cdn.idntimes.com/content-images/post/20260511/266ef38a-da00-4d13-ba77-f94da68599ee-260511225204.jpg" width="170"> | Delynn JKT48 | Hi | Senin, 11 Mei 2026 pukul 22.52.14 WIB |
+| 1238 | <img src="https://cdn.idntimes.com/content-images/post/20260511/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260511224533.jpg" width="170"> | Greesel JKT48 | wadupp | Senin, 11 Mei 2026 pukul 22.45.40 WIB |
 | 1237 | <img src="https://cdn.idntimes.com/content-images/post/20260511/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260511210328.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Senin, 11 Mei 2026 pukul 21.03.36 WIB |
 | 1236 | <img src="https://cdn.idntimes.com/content-images/post/20260511/717109e0-a064-4f15-8187-5c4d46e56a58-260511210133.jpg" width="170"> | Fritzy JKT48 | bts album heheh | Senin, 11 Mei 2026 pukul 21.01.45 WIB |
 | 1235 | <img src="https://cdn.idntimes.com/content-images/post/20260511/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260511205408.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Senin, 11 Mei 2026 pukul 20.54.18 WIB |
