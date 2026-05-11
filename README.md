@@ -2,6 +2,14 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1237 | <img src="https://cdn.idntimes.com/content-images/post/20260511/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260511210328.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Senin, 11 Mei 2026 pukul 21.03.36 WIB |
+| 1236 | <img src="https://cdn.idntimes.com/content-images/post/20260511/717109e0-a064-4f15-8187-5c4d46e56a58-260511210133.jpg" width="170"> | Fritzy JKT48 | bts album heheh | Senin, 11 Mei 2026 pukul 21.01.45 WIB |
+| 1235 | <img src="https://cdn.idntimes.com/content-images/post/20260511/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260511205408.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Senin, 11 Mei 2026 pukul 20.54.18 WIB |
+| 1234 | <img src="https://cdn.idntimes.com/content-images/post/20260511/147e83c8-f3ac-4680-9141-2f518b4b7810-260511205340.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 11 Mei 2026 pukul 20.53.55 WIB |
+| 1233 | <img src="https://cdn.idntimes.com/content-images/post/20260511/a557ba58-12d8-4260-bd50-9e5252ac71ef-260511205054.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 11 Mei 2026 pukul 20.51.09 WIB |
+| 1232 | <img src="https://cdn.idntimes.com/content-images/post/20260511/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260511205050.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Senin, 11 Mei 2026 pukul 20.51.04 WIB |
+| 1231 | <img src="https://cdn.idntimes.com/content-images/post/20260511/a5c72141-65a3-47be-86ef-1dc1feaab10d-260511204416.jpg" width="170"> | Anindya JKT48 | helooooooo | Senin, 11 Mei 2026 pukul 20.44.24 WIB |
+| 1230 | <img src="https://cdn.idntimes.com/content-images/post/20260511/7599c984-c466-4962-8c5b-73c1d33d59d9-260511203523.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Senin, 11 Mei 2026 pukul 20.35.39 WIB |
 | 1229 | <img src="https://cdn.idntimes.com/content-images/post/20260511/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260511183559.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Senin, 11 Mei 2026 pukul 18.36.10 WIB |
 | 1228 | <img src="https://cdn.idntimes.com/content-images/post/20260511/a9579a29-9203-40c0-9326-9837b8eae6e8-260511183532.jpg" width="170"> | Jessi JKT48 | kacila | Senin, 11 Mei 2026 pukul 18.35.47 WIB |
 | 1226 | <img src="https://cdn.idntimes.com/content-images/post/20260511/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260511110621.jpg" width="170"> | Erine JKT48 | Erin  | Senin, 11 Mei 2026 pukul 11.06.31 WIB |
