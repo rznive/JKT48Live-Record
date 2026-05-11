@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1229 | <img src="https://cdn.idntimes.com/content-images/post/20260511/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260511183559.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Senin, 11 Mei 2026 pukul 18.36.10 WIB |
+| 1228 | <img src="https://cdn.idntimes.com/content-images/post/20260511/a9579a29-9203-40c0-9326-9837b8eae6e8-260511183532.jpg" width="170"> | Jessi JKT48 | kacila | Senin, 11 Mei 2026 pukul 18.35.47 WIB |
 | 1226 | <img src="https://cdn.idntimes.com/content-images/post/20260511/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260511110621.jpg" width="170"> | Erine JKT48 | Erin  | Senin, 11 Mei 2026 pukul 11.06.31 WIB |
 | 1227 | <img src="https://cdn.idntimes.com/content-images/post/20260511/e2af7271-2598-4ee8-8760-68043e671e6d-260511110621.jpg" width="170"> | Lana JKT48 | Hai | Senin, 11 Mei 2026 pukul 11.06.31 WIB |
 | 1225 | <img src="https://cdn.idntimes.com/content-images/post/20260510/266ef38a-da00-4d13-ba77-f94da68599ee-260510234312.jpg" width="170"> | Delynn JKT48 | Hi | Minggu, 10 Mei 2026 pukul 23.43.26 WIB |
