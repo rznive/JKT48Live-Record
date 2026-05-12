@@ -1368,5 +1368,15 @@
     "live_at_unix": 1778568140,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260512/50a27780-93e7-4e40-8474-60f6e0cca6da-260512134216.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4idUspKIZskG.m3u8"
+  },
+  {
+    "id": 1243,
+    "username": "jkt48_auwia",
+    "creator_name": "Auwia JKT48",
+    "title": "RADIOOO",
+    "live_at": "Selasa, 12 Mei 2026 pukul 16.08.48 WIB",
+    "live_at_unix": 1778576928,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260512/f9500eb4-9d6d-491d-a857-40ca6f862d61-260512160832.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
   }
 ]

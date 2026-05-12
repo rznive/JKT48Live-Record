@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1243 | <img src="https://cdn.idntimes.com/content-images/post/20260512/f9500eb4-9d6d-491d-a857-40ca6f862d61-260512160832.jpg" width="170"> | Auwia JKT48 | RADIOOO | Selasa, 12 Mei 2026 pukul 16.08.48 WIB |
 | 1242 | <img src="https://cdn.idntimes.com/content-images/post/20260512/50a27780-93e7-4e40-8474-60f6e0cca6da-260512134216.jpg" width="170"> | JKT48 | Temen Masak JKT48 Ep.2! | Selasa, 12 Mei 2026 pukul 13.42.20 WIB |
 | 1241 | <img src="https://cdn.idntimes.com/content-images/post/20260511/4f795073-38c9-4df7-9388-74b83de69801-260511225925.jpg" width="170"> | Cynthia JKT48 | Yuk ngobrol | Senin, 11 Mei 2026 pukul 22.59.33 WIB |
 | 1240 | <img src="https://cdn.idntimes.com/content-images/post/20260511/728d224e-6ccb-43d2-a029-a0147dc7fdee-260511225245.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Senin, 11 Mei 2026 pukul 22.53.00 WIB |
