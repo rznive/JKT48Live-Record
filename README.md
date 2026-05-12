@@ -2,6 +2,16 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1253 | <img src="https://cdn.idntimes.com/content-images/post/20260512/82ffac10-ee56-43d0-ad38-ce432384cfe5-260512214343.jpg" width="170"> | Gita JKT48 | Gits | Selasa, 12 Mei 2026 pukul 21.43.56 WIB |
+| 1252 | <img src="https://cdn.idntimes.com/content-images/post/20260512/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260512214057.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Selasa, 12 Mei 2026 pukul 21.41.09 WIB |
+| 1251 | <img src="https://cdn.idntimes.com/content-images/post/20260512/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260512214047.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 12 Mei 2026 pukul 21.41.02 WIB |
+| 1250 | <img src="https://cdn.idntimes.com/content-images/post/20260512/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260512212954.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Selasa, 12 Mei 2026 pukul 21.30.07 WIB |
+| 1249 | <img src="https://cdn.idntimes.com/content-images/post/20260512/717109e0-a064-4f15-8187-5c4d46e56a58-260512212808.jpg" width="170"> | Fritzy JKT48 | pppppp | Selasa, 12 Mei 2026 pukul 21.28.21 WIB |
+| 1248 | <img src="https://cdn.idntimes.com/content-images/post/20260512/cae4d972-5f14-4512-9706-37c1802a0541-260512212807.jpg" width="170"> | Gracie JKT48 | Ayo ngobrol bareng! | Selasa, 12 Mei 2026 pukul 21.28.16 WIB |
+| 1247 | <img src="https://cdn.idntimes.com/content-images/post/20260512/f001ba66-3c51-4849-9afa-13cf74eb1571-260512211727.jpg" width="170"> | Aralie JKT48 | hii | Selasa, 12 Mei 2026 pukul 21.17.43 WIB |
+| 1246 | <img src="https://cdn.idntimes.com/content-images/post/20260512/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260512211728.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Selasa, 12 Mei 2026 pukul 21.17.42 WIB |
+| 1245 | <img src="https://cdn.idntimes.com/content-images/post/20260512/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260512211558.jpg" width="170"> | Intan JKT48 | oi | Selasa, 12 Mei 2026 pukul 21.16.13 WIB |
+| 1244 | <img src="https://cdn.idntimes.com/content-images/post/20260512/b11b0692-d0b8-464c-849a-9e81439a048c-260512205726.jpg" width="170"> | Daisy JKT48 | Main makeup makeupann🤭🥰 | Selasa, 12 Mei 2026 pukul 20.57.33 WIB |
 | 1243 | <img src="https://cdn.idntimes.com/content-images/post/20260512/f9500eb4-9d6d-491d-a857-40ca6f862d61-260512160832.jpg" width="170"> | Auwia JKT48 | RADIOOO | Selasa, 12 Mei 2026 pukul 16.08.48 WIB |
 | 1242 | <img src="https://cdn.idntimes.com/content-images/post/20260512/50a27780-93e7-4e40-8474-60f6e0cca6da-260512134216.jpg" width="170"> | JKT48 | Temen Masak JKT48 Ep.2! | Selasa, 12 Mei 2026 pukul 13.42.20 WIB |
 | 1241 | <img src="https://cdn.idntimes.com/content-images/post/20260511/4f795073-38c9-4df7-9388-74b83de69801-260511225925.jpg" width="170"> | Cynthia JKT48 | Yuk ngobrol | Senin, 11 Mei 2026 pukul 22.59.33 WIB |
