@@ -1358,5 +1358,15 @@
     "live_at_unix": 1778515173,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260511/4f795073-38c9-4df7-9388-74b83de69801-260511225925.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 1242,
+    "username": "jkt48-official",
+    "creator_name": "JKT48",
+    "title": "Temen Masak JKT48 Ep.2!",
+    "live_at": "Selasa, 12 Mei 2026 pukul 13.42.20 WIB",
+    "live_at_unix": 1778568140,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260512/50a27780-93e7-4e40-8474-60f6e0cca6da-260512134216.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4idUspKIZskG.m3u8"
   }
 ]
