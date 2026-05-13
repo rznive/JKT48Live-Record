@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1254 | <img src="https://cdn.idntimes.com/content-images/post/20260513/717109e0-a064-4f15-8187-5c4d46e56a58-260513140646.jpg" width="170"> | Fritzy JKT48 | GRWM | Rabu, 13 Mei 2026 pukul 14.06.56 WIB |
 | 1253 | <img src="https://cdn.idntimes.com/content-images/post/20260512/82ffac10-ee56-43d0-ad38-ce432384cfe5-260512214343.jpg" width="170"> | Gita JKT48 | Gits | Selasa, 12 Mei 2026 pukul 21.43.56 WIB |
 | 1252 | <img src="https://cdn.idntimes.com/content-images/post/20260512/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260512214057.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Selasa, 12 Mei 2026 pukul 21.41.09 WIB |
 | 1251 | <img src="https://cdn.idntimes.com/content-images/post/20260512/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260512214047.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 12 Mei 2026 pukul 21.41.02 WIB |
