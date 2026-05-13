@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1271 | <img src="https://cdn.idntimes.com/content-images/post/20260514/f740e9da-772f-4ae2-8ddd-49f717aacf63-260514000606.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Kamis, 14 Mei 2026 pukul 00.06.14 WIB |
+| 1270 | <img src="https://cdn.idntimes.com/content-images/post/20260513/e2af7271-2598-4ee8-8760-68043e671e6d-260513234530.jpg" width="170"> | Lana JKT48 | Hai | Rabu, 13 Mei 2026 pukul 23.45.38 WIB |
+| 1269 | <img src="https://cdn.idntimes.com/content-images/post/20260513/e0ececb4-71d8-4f32-a221-ef21634a746a-260513234047.jpg" width="170"> | Elin JKT48 | Malam | Rabu, 13 Mei 2026 pukul 23.41.02 WIB |
 | 1268 | <img src="https://cdn.idntimes.com/content-images/post/20260513/a5c72141-65a3-47be-86ef-1dc1feaab10d-260513221700.jpg" width="170"> | Anindya JKT48 | helo | Rabu, 13 Mei 2026 pukul 22.17.09 WIB |
 | 1267 | <img src="https://cdn.idntimes.com/content-images/post/20260513/b0d1e6c3-d356-4b00-8d00-846e5297693b-260513220405.jpg" width="170"> | Ella JKT48 | Ayo ngobrol bareng! | Rabu, 13 Mei 2026 pukul 22.04.16 WIB |
 | 1266 | <img src="https://cdn.idntimes.com/content-images/post/20260513/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260513220028.jpg" width="170"> | Intan JKT48 | oi | Rabu, 13 Mei 2026 pukul 22.00.45 WIB |
