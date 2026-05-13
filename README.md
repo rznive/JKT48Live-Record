@@ -2,6 +2,17 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1268 | <img src="https://cdn.idntimes.com/content-images/post/20260513/a5c72141-65a3-47be-86ef-1dc1feaab10d-260513221700.jpg" width="170"> | Anindya JKT48 | helo | Rabu, 13 Mei 2026 pukul 22.17.09 WIB |
+| 1267 | <img src="https://cdn.idntimes.com/content-images/post/20260513/b0d1e6c3-d356-4b00-8d00-846e5297693b-260513220405.jpg" width="170"> | Ella JKT48 | Ayo ngobrol bareng! | Rabu, 13 Mei 2026 pukul 22.04.16 WIB |
+| 1266 | <img src="https://cdn.idntimes.com/content-images/post/20260513/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260513220028.jpg" width="170"> | Intan JKT48 | oi | Rabu, 13 Mei 2026 pukul 22.00.45 WIB |
+| 1265 | <img src="https://cdn.idntimes.com/content-images/post/20260513/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260513215512.jpg" width="170"> | Olla JKT48 | ooohaaalooooo | Rabu, 13 Mei 2026 pukul 21.55.25 WIB |
+| 1264 | <img src="https://cdn.idntimes.com/content-images/post/20260513/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260513213726.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 13 Mei 2026 pukul 21.37.39 WIB |
+| 1263 | <img src="https://cdn.idntimes.com/content-images/post/20260513/82ffac10-ee56-43d0-ad38-ce432384cfe5-260513213058.jpg" width="170"> | Gita JKT48 | Gits | Rabu, 13 Mei 2026 pukul 21.31.11 WIB |
+| 1262 | <img src="https://cdn.idntimes.com/content-images/post/20260513/266ef38a-da00-4d13-ba77-f94da68599ee-260513211658.jpg" width="170"> | Delynn JKT48 | hi | Rabu, 13 Mei 2026 pukul 21.17.13 WIB |
+| 1261 | <img src="https://cdn.idntimes.com/content-images/post/20260513/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260513211657.jpg" width="170"> | Greesel JKT48 | wadupp | Rabu, 13 Mei 2026 pukul 21.17.06 WIB |
+| 1260 | <img src="https://cdn.idntimes.com/content-images/post/20260513/85f369d7-6525-41c0-94b8-9a56686713eb-260513211521.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 13 Mei 2026 pukul 21.15.32 WIB |
+| 1259 | <img src="https://cdn.idntimes.com/content-images/post/20260513/e9170998-f026-4186-bbc5-a17a3b5b2af1-260513211131.jpg" width="170"> | Rilly JKT48 | Livee radioo | Rabu, 13 Mei 2026 pukul 21.11.41 WIB |
+| 1258 | <img src="https://cdn.idntimes.com/content-images/post/20260513/a557ba58-12d8-4260-bd50-9e5252ac71ef-260513210107.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 13 Mei 2026 pukul 21.01.20 WIB |
 | 1257 | <img src="https://cdn.idntimes.com/content-images/post/20260513/50a27780-93e7-4e40-8474-60f6e0cca6da-260513190356.jpg" width="170"> | JKT48 | Trial IDN Live - JKT48 Generasi 14 | Rabu, 13 Mei 2026 pukul 19.04.04 WIB |
 | 1256 | <img src="https://cdn.idntimes.com/content-images/post/20260513/50a27780-93e7-4e40-8474-60f6e0cca6da-260513170008.jpg" width="170"> | JKT48 | Trial Live IDN - JKT48 Generasi 14 | Rabu, 13 Mei 2026 pukul 17.00.15 WIB |
 | 1255 | <img src="https://cdn.idntimes.com/content-images/post/20260513/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260513164656.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Rabu, 13 Mei 2026 pukul 16.47.06 WIB |
