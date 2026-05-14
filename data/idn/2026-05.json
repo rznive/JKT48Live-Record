@@ -1698,5 +1698,25 @@
     "live_at_unix": 1778756404,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260514/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260514175955.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8"
+  },
+  {
+    "id": 1276,
+    "username": "jkt48_levi",
+    "creator_name": "Levi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 14 Mei 2026 pukul 20.00.57 WIB",
+    "live_at_unix": 1778763657,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260514/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260514200049.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 1277,
+    "username": "jkt48_ella",
+    "creator_name": "Ella JKT48",
+    "title": "aloo",
+    "live_at": "Kamis, 14 Mei 2026 pukul 20.08.30 WIB",
+    "live_at_unix": 1778764110,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260514/b0d1e6c3-d356-4b00-8d00-846e5297693b-260514200818.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BDGTjOuDMTDH.m3u8"
   }
 ]
