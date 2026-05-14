@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1284 | <img src="https://cdn.idntimes.com/content-images/post/20260514/74e76417-0353-487f-b9b7-7520c0398e87-260514222453.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Kamis, 14 Mei 2026 pukul 22.25.00 WIB |
+| 1283 | <img src="https://cdn.idntimes.com/content-images/post/20260514/e0ececb4-71d8-4f32-a221-ef21634a746a-260514222412.jpg" width="170"> | Elin JKT48 | Haii | Kamis, 14 Mei 2026 pukul 22.24.19 WIB |
+| 1282 | <img src="https://cdn.idntimes.com/content-images/post/20260514/e2af7271-2598-4ee8-8760-68043e671e6d-260514222008.jpg" width="170"> | Lana JKT48 | Hai | Kamis, 14 Mei 2026 pukul 22.20.16 WIB |
+| 1281 | <img src="https://cdn.idntimes.com/content-images/post/20260514/15dfee86-a928-4a15-8c90-6aa21097d0ff-260514221821.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Kamis, 14 Mei 2026 pukul 22.18.38 WIB |
+| 1280 | <img src="https://cdn.idntimes.com/content-images/post/20260514/539f5185-1414-416c-b84d-2ad366b6d60a-260514221438.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Kamis, 14 Mei 2026 pukul 22.14.48 WIB |
+| 1279 | <img src="https://cdn.idntimes.com/content-images/post/20260514/a2b5d818-475d-44ce-af52-e99526482aaf-260514214601.jpg" width="170"> | Oline JKT48 | kk | Kamis, 14 Mei 2026 pukul 21.46.11 WIB |
+| 1278 | <img src="https://cdn.idntimes.com/content-images/post/20260514/f001ba66-3c51-4849-9afa-13cf74eb1571-260514211001.jpg" width="170"> | Aralie JKT48 | yapss  | Kamis, 14 Mei 2026 pukul 21.10.10 WIB |
 | 1277 | <img src="https://cdn.idntimes.com/content-images/post/20260514/b0d1e6c3-d356-4b00-8d00-846e5297693b-260514200818.jpg" width="170"> | Ella JKT48 | aloo | Kamis, 14 Mei 2026 pukul 20.08.30 WIB |
 | 1276 | <img src="https://cdn.idntimes.com/content-images/post/20260514/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260514200049.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Kamis, 14 Mei 2026 pukul 20.00.57 WIB |
 | 1275 | <img src="https://cdn.idntimes.com/content-images/post/20260514/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260514175955.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Kamis, 14 Mei 2026 pukul 18.00.04 WIB |
