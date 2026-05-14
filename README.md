@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1274 | <img src="https://cdn.idntimes.com/content-images/post/20260514/4f795073-38c9-4df7-9388-74b83de69801-260514154243.jpg" width="170"> | Cynthia JKT48 | Yuk ngobrol | Kamis, 14 Mei 2026 pukul 15.42.53 WIB |
+| 1273 | <img src="https://cdn.idntimes.com/content-images/post/20260514/a5c72141-65a3-47be-86ef-1dc1feaab10d-260514154101.jpg" width="170"> | Anindya JKT48 | helo | Kamis, 14 Mei 2026 pukul 15.41.11 WIB |
 | 1272 | <img src="https://cdn.idntimes.com/content-images/post/20260514/15dfee86-a928-4a15-8c90-6aa21097d0ff-260514132624.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Kamis, 14 Mei 2026 pukul 13.26.34 WIB |
 | 1271 | <img src="https://cdn.idntimes.com/content-images/post/20260514/f740e9da-772f-4ae2-8ddd-49f717aacf63-260514000606.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Kamis, 14 Mei 2026 pukul 00.06.14 WIB |
 | 1270 | <img src="https://cdn.idntimes.com/content-images/post/20260513/e2af7271-2598-4ee8-8760-68043e671e6d-260513234530.jpg" width="170"> | Lana JKT48 | Hai | Rabu, 13 Mei 2026 pukul 23.45.38 WIB |
