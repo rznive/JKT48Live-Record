@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1294 | <img src="https://cdn.idntimes.com/content-images/post/20260515/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260515213133.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 15 Mei 2026 pukul 21.31.45 WIB |
+| 1293 | <img src="https://cdn.idntimes.com/content-images/post/20260515/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260515210543.jpg" width="170"> | Lily JKT48 | Haii | Jumat, 15 Mei 2026 pukul 21.05.50 WIB |
+| 1292 | <img src="https://cdn.idntimes.com/content-images/post/20260515/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260515210448.jpg" width="170"> | Kathrina JKT48 | Woohooo | Jumat, 15 Mei 2026 pukul 21.05.05 WIB |
+| 1291 | <img src="https://cdn.idntimes.com/content-images/post/20260515/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260515210421.jpg" width="170"> | Marsha JKT48 | Haiiiuuu | Jumat, 15 Mei 2026 pukul 21.04.30 WIB |
+| 1290 | <img src="https://cdn.idntimes.com/content-images/post/20260515/f001ba66-3c51-4849-9afa-13cf74eb1571-260515205949.jpg" width="170"> | Aralie JKT48 | yapss  | Jumat, 15 Mei 2026 pukul 20.59.58 WIB |
 | 1289 | <img src="https://cdn.idntimes.com/content-images/post/20260515/74e76417-0353-487f-b9b7-7520c0398e87-260515172017.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Jumat, 15 Mei 2026 pukul 17.20.24 WIB |
 | 1288 | <img src="https://cdn.idntimes.com/content-images/post/20260515/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260515164048.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Jumat, 15 Mei 2026 pukul 16.40.59 WIB |
 | 1287 | <img src="https://cdn.idntimes.com/content-images/post/20260515/a9579a29-9203-40c0-9326-9837b8eae6e8-260515163715.jpg" width="170"> | Jessi JKT48 | helo | Jumat, 15 Mei 2026 pukul 16.37.23 WIB |
