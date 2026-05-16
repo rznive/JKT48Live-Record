@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1313 | <img src="https://cdn.idntimes.com/content-images/post/20260516/4f795073-38c9-4df7-9388-74b83de69801-260516233837.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 16 Mei 2026 pukul 23.38.49 WIB |
+| 1312 | <img src="https://cdn.idntimes.com/content-images/post/20260516/b11b0692-d0b8-464c-849a-9e81439a048c-260516232350.jpg" width="170"> | Daisy JKT48 | passion 7 | Sabtu, 16 Mei 2026 pukul 23.24.06 WIB |
+| 1311 | <img src="https://cdn.idntimes.com/content-images/post/20260516/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260516232339.jpg" width="170"> | Levi JKT48 | passion 14 | Sabtu, 16 Mei 2026 pukul 23.23.53 WIB |
 | 1310 | <img src="https://cdn.idntimes.com/content-images/post/20260516/a557ba58-12d8-4260-bd50-9e5252ac71ef-260516222532.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Sabtu, 16 Mei 2026 pukul 22.25.45 WIB |
 | 1309 | <img src="https://cdn.idntimes.com/content-images/post/20260516/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260516222109.jpg" width="170"> | Giaa JKT48 | haiii | Sabtu, 16 Mei 2026 pukul 22.21.16 WIB |
 | 1308 | <img src="https://cdn.idntimes.com/content-images/post/20260516/92d66abb-0171-4a2b-a30d-37ad58359248-260516205508.jpg" width="170"> | Trisha JKT48 | halooooo | Sabtu, 16 Mei 2026 pukul 20.55.17 WIB |
