@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1301 | <img src="https://cdn.idntimes.com/content-images/post/20260516/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260516172843.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Sabtu, 16 Mei 2026 pukul 17.28.54 WIB |
+| 1300 | <img src="https://cdn.idntimes.com/content-images/post/20260516/85f369d7-6525-41c0-94b8-9a56686713eb-260516172830.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Sabtu, 16 Mei 2026 pukul 17.28.40 WIB |
 | 1299 | <img src="https://cdn.idntimes.com/content-images/post/20260515/b11b0692-d0b8-464c-849a-9e81439a048c-260515225941.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Jumat, 15 Mei 2026 pukul 22.59.48 WIB |
 | 1298 | <img src="https://cdn.idntimes.com/content-images/post/20260515/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260515224741.jpg" width="170"> | Erine JKT48 | Erin | Jumat, 15 Mei 2026 pukul 22.47.53 WIB |
 | 1297 | <img src="https://cdn.idntimes.com/content-images/post/20260515/33139b05-1c43-4b48-bba3-ec960b18b36e-260515222322.jpg" width="170"> | Danella JKT48 | Hi | Jumat, 15 Mei 2026 pukul 22.23.30 WIB |
