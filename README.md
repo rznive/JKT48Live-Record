@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1310 | <img src="https://cdn.idntimes.com/content-images/post/20260516/a557ba58-12d8-4260-bd50-9e5252ac71ef-260516222532.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Sabtu, 16 Mei 2026 pukul 22.25.45 WIB |
+| 1309 | <img src="https://cdn.idntimes.com/content-images/post/20260516/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260516222109.jpg" width="170"> | Giaa JKT48 | haiii | Sabtu, 16 Mei 2026 pukul 22.21.16 WIB |
 | 1308 | <img src="https://cdn.idntimes.com/content-images/post/20260516/92d66abb-0171-4a2b-a30d-37ad58359248-260516205508.jpg" width="170"> | Trisha JKT48 | halooooo | Sabtu, 16 Mei 2026 pukul 20.55.17 WIB |
 | 1307 | <img src="https://cdn.idntimes.com/content-images/post/20260516/147e83c8-f3ac-4680-9141-2f518b4b7810-260516193248.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Sabtu, 16 Mei 2026 pukul 19.33.02 WIB |
 | 1306 | <img src="https://cdn.idntimes.com/content-images/post/20260516/7599c984-c466-4962-8c5b-73c1d33d59d9-260516193250.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Sabtu, 16 Mei 2026 pukul 19.32.59 WIB |
