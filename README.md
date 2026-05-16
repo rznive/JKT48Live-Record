@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1307 | <img src="https://cdn.idntimes.com/content-images/post/20260516/147e83c8-f3ac-4680-9141-2f518b4b7810-260516193248.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Sabtu, 16 Mei 2026 pukul 19.33.02 WIB |
+| 1306 | <img src="https://cdn.idntimes.com/content-images/post/20260516/7599c984-c466-4962-8c5b-73c1d33d59d9-260516193250.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Sabtu, 16 Mei 2026 pukul 19.32.59 WIB |
+| 1305 | <img src="https://cdn.idntimes.com/content-images/post/20260516/539f5185-1414-416c-b84d-2ad366b6d60a-260516190932.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Sabtu, 16 Mei 2026 pukul 19.09.41 WIB |
 | 1304 | <img src="https://cdn.idntimes.com/content-images/post/20260516/15dfee86-a928-4a15-8c90-6aa21097d0ff-260516183105.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Sabtu, 16 Mei 2026 pukul 18.31.17 WIB |
 | 1303 | <img src="https://cdn.idntimes.com/content-images/post/20260516/e9170998-f026-4186-bbc5-a17a3b5b2af1-260516181346.jpg" width="170"> | Rilly JKT48 | Ayo ngobrol bareng! | Sabtu, 16 Mei 2026 pukul 18.13.56 WIB |
 | 1302 | <img src="https://cdn.idntimes.com/content-images/post/20260516/a557ba58-12d8-4260-bd50-9e5252ac71ef-260516175844.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Sabtu, 16 Mei 2026 pukul 17.58.57 WIB |
