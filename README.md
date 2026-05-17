@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1320 | <img src="https://cdn.idntimes.com/content-images/post/20260517/b11b0692-d0b8-464c-849a-9e81439a048c-260517173248.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Minggu, 17 Mei 2026 pukul 17.32.56 WIB |
+| 1319 | <img src="https://cdn.idntimes.com/content-images/post/20260517/82ffac10-ee56-43d0-ad38-ce432384cfe5-260517172402.jpg" width="170"> | Gita JKT48 | Gits | Minggu, 17 Mei 2026 pukul 17.24.19 WIB |
+| 1318 | <img src="https://cdn.idntimes.com/content-images/post/20260517/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260517170918.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Minggu, 17 Mei 2026 pukul 17.09.25 WIB |
+| 1317 | <img src="https://cdn.idntimes.com/content-images/post/20260517/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260517170907.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Minggu, 17 Mei 2026 pukul 17.09.19 WIB |
+| 1316 | <img src="https://cdn.idntimes.com/content-images/post/20260517/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260517170902.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Minggu, 17 Mei 2026 pukul 17.09.09 WIB |
+| 1315 | <img src="https://cdn.idntimes.com/content-images/post/20260517/b0d1e6c3-d356-4b00-8d00-846e5297693b-260517170839.jpg" width="170"> | Ella JKT48 | aloo | Minggu, 17 Mei 2026 pukul 17.08.48 WIB |
 | 1314 | <img src="https://cdn.idntimes.com/content-images/post/20260517/e9170998-f026-4186-bbc5-a17a3b5b2af1-260517160503.jpg" width="170"> | Rilly JKT48 | Yurpppp | Minggu, 17 Mei 2026 pukul 16.05.13 WIB |
 | 1313 | <img src="https://cdn.idntimes.com/content-images/post/20260516/4f795073-38c9-4df7-9388-74b83de69801-260516233837.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 16 Mei 2026 pukul 23.38.49 WIB |
 | 1312 | <img src="https://cdn.idntimes.com/content-images/post/20260516/b11b0692-d0b8-464c-849a-9e81439a048c-260516232350.jpg" width="170"> | Daisy JKT48 | passion 7 | Sabtu, 16 Mei 2026 pukul 23.24.06 WIB |
