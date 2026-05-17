@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1329 | <img src="https://cdn.idntimes.com/content-images/post/20260517/33139b05-1c43-4b48-bba3-ec960b18b36e-260517224032.jpg" width="170"> | Danella JKT48 | Hi | Minggu, 17 Mei 2026 pukul 22.40.40 WIB |
+| 1328 | <img src="https://cdn.idntimes.com/content-images/post/20260517/a5c72141-65a3-47be-86ef-1dc1feaab10d-260517221255.jpg" width="170"> | Anindya JKT48 | halo 👯  | Minggu, 17 Mei 2026 pukul 22.13.06 WIB |
+| 1327 | <img src="https://cdn.idntimes.com/content-images/post/20260517/539f5185-1414-416c-b84d-2ad366b6d60a-260517221248.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Minggu, 17 Mei 2026 pukul 22.12.57 WIB |
+| 1326 | <img src="https://cdn.idntimes.com/content-images/post/20260517/74e76417-0353-487f-b9b7-7520c0398e87-260517221246.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Minggu, 17 Mei 2026 pukul 22.12.54 WIB |
 | 1325 | <img src="https://cdn.idntimes.com/content-images/post/20260517/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260517215001.jpg" width="170"> | Giaa JKT48 | haiii | Minggu, 17 Mei 2026 pukul 21.50.09 WIB |
 | 1324 | <img src="https://cdn.idntimes.com/content-images/post/20260517/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260517213023.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 17 Mei 2026 pukul 21.30.37 WIB |
 | 1323 | <img src="https://cdn.idntimes.com/content-images/post/20260517/a2b5d818-475d-44ce-af52-e99526482aaf-260517204549.jpg" width="170"> | Oline JKT48 | kk | Minggu, 17 Mei 2026 pukul 20.45.58 WIB |
