@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1321 | <img src="https://cdn.idntimes.com/content-images/post/20260517/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260517180338.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Minggu, 17 Mei 2026 pukul 18.03.48 WIB |
 | 1320 | <img src="https://cdn.idntimes.com/content-images/post/20260517/b11b0692-d0b8-464c-849a-9e81439a048c-260517173248.jpg" width="170"> | Daisy JKT48 | Ayo ngobrol bareng! | Minggu, 17 Mei 2026 pukul 17.32.56 WIB |
 | 1319 | <img src="https://cdn.idntimes.com/content-images/post/20260517/82ffac10-ee56-43d0-ad38-ce432384cfe5-260517172402.jpg" width="170"> | Gita JKT48 | Gits | Minggu, 17 Mei 2026 pukul 17.24.19 WIB |
 | 1318 | <img src="https://cdn.idntimes.com/content-images/post/20260517/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260517170918.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Minggu, 17 Mei 2026 pukul 17.09.25 WIB |
