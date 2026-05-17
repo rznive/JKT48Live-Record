@@ -2078,5 +2078,15 @@
     "live_at_unix": 1778949529,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260516/4f795073-38c9-4df7-9388-74b83de69801-260516233837.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 1314,
+    "username": "jkt48_rilly",
+    "creator_name": "Rilly JKT48",
+    "title": "Yurpppp",
+    "live_at": "Minggu, 17 Mei 2026 pukul 16.05.13 WIB",
+    "live_at_unix": 1779008713,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260517/e9170998-f026-4186-bbc5-a17a3b5b2af1-260517160503.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
   }
 ]

@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1314 | <img src="https://cdn.idntimes.com/content-images/post/20260517/e9170998-f026-4186-bbc5-a17a3b5b2af1-260517160503.jpg" width="170"> | Rilly JKT48 | Yurpppp | Minggu, 17 Mei 2026 pukul 16.05.13 WIB |
 | 1313 | <img src="https://cdn.idntimes.com/content-images/post/20260516/4f795073-38c9-4df7-9388-74b83de69801-260516233837.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 16 Mei 2026 pukul 23.38.49 WIB |
 | 1312 | <img src="https://cdn.idntimes.com/content-images/post/20260516/b11b0692-d0b8-464c-849a-9e81439a048c-260516232350.jpg" width="170"> | Daisy JKT48 | passion 7 | Sabtu, 16 Mei 2026 pukul 23.24.06 WIB |
 | 1311 | <img src="https://cdn.idntimes.com/content-images/post/20260516/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260516232339.jpg" width="170"> | Levi JKT48 | passion 14 | Sabtu, 16 Mei 2026 pukul 23.23.53 WIB |
