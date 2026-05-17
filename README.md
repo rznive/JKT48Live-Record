@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1325 | <img src="https://cdn.idntimes.com/content-images/post/20260517/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260517215001.jpg" width="170"> | Giaa JKT48 | haiii | Minggu, 17 Mei 2026 pukul 21.50.09 WIB |
+| 1324 | <img src="https://cdn.idntimes.com/content-images/post/20260517/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260517213023.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 17 Mei 2026 pukul 21.30.37 WIB |
 | 1323 | <img src="https://cdn.idntimes.com/content-images/post/20260517/a2b5d818-475d-44ce-af52-e99526482aaf-260517204549.jpg" width="170"> | Oline JKT48 | kk | Minggu, 17 Mei 2026 pukul 20.45.58 WIB |
 | 1322 | <img src="https://cdn.idntimes.com/content-images/post/20260517/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260517194814.jpg" width="170"> | Intan JKT48 | hi | Minggu, 17 Mei 2026 pukul 19.48.32 WIB |
 | 1321 | <img src="https://cdn.idntimes.com/content-images/post/20260517/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260517180338.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Minggu, 17 Mei 2026 pukul 18.03.48 WIB |
