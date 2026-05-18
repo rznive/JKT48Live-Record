@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1340 | <img src="https://cdn.idntimes.com/content-images/post/20260518/539f5185-1414-416c-b84d-2ad366b6d60a-260518211318.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Senin, 18 Mei 2026 pukul 21.13.28 WIB |
+| 1339 | <img src="https://cdn.idntimes.com/content-images/post/20260518/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260518204754.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Senin, 18 Mei 2026 pukul 20.48.04 WIB |
 | 1338 | <img src="https://cdn.idntimes.com/content-images/post/20260518/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260518180118.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Senin, 18 Mei 2026 pukul 18.01.26 WIB |
 | 1337 | <img src="https://cdn.idntimes.com/content-images/post/20260518/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260518175019.jpg" width="170"> | Giaa JKT48 | haiii | Senin, 18 Mei 2026 pukul 17.50.28 WIB |
 | 1336 | <img src="https://cdn.idntimes.com/content-images/post/20260518/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260518174809.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 18 Mei 2026 pukul 17.48.21 WIB |
