@@ -2,6 +2,14 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1338 | <img src="https://cdn.idntimes.com/content-images/post/20260518/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260518180118.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Senin, 18 Mei 2026 pukul 18.01.26 WIB |
+| 1337 | <img src="https://cdn.idntimes.com/content-images/post/20260518/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260518175019.jpg" width="170"> | Giaa JKT48 | haiii | Senin, 18 Mei 2026 pukul 17.50.28 WIB |
+| 1336 | <img src="https://cdn.idntimes.com/content-images/post/20260518/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260518174809.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 18 Mei 2026 pukul 17.48.21 WIB |
+| 1335 | <img src="https://cdn.idntimes.com/content-images/post/20260518/15dfee86-a928-4a15-8c90-6aa21097d0ff-260518174628.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Senin, 18 Mei 2026 pukul 17.46.43 WIB |
+| 1334 | <img src="https://cdn.idntimes.com/content-images/post/20260518/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260518174355.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Senin, 18 Mei 2026 pukul 17.44.04 WIB |
+| 1333 | <img src="https://cdn.idntimes.com/content-images/post/20260518/f9500eb4-9d6d-491d-a857-40ca6f862d61-260518173412.jpg" width="170"> | Auwia JKT48 | OI JOINN! | Senin, 18 Mei 2026 pukul 17.34.28 WIB |
+| 1332 | <img src="https://cdn.idntimes.com/content-images/post/20260518/7599c984-c466-4962-8c5b-73c1d33d59d9-260518171810.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Senin, 18 Mei 2026 pukul 17.18.18 WIB |
+| 1331 | <img src="https://cdn.idntimes.com/content-images/post/20260518/147e83c8-f3ac-4680-9141-2f518b4b7810-260518171728.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 18 Mei 2026 pukul 17.17.40 WIB |
 | 1330 | <img src="https://cdn.idntimes.com/content-images/post/20260517/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260517231457.jpg" width="170"> | Lily JKT48 | Haii | Minggu, 17 Mei 2026 pukul 23.15.05 WIB |
 | 1329 | <img src="https://cdn.idntimes.com/content-images/post/20260517/33139b05-1c43-4b48-bba3-ec960b18b36e-260517224032.jpg" width="170"> | Danella JKT48 | Hi | Minggu, 17 Mei 2026 pukul 22.40.40 WIB |
 | 1328 | <img src="https://cdn.idntimes.com/content-images/post/20260517/a5c72141-65a3-47be-86ef-1dc1feaab10d-260517221255.jpg" width="170"> | Anindya JKT48 | halo 👯  | Minggu, 17 Mei 2026 pukul 22.13.06 WIB |
