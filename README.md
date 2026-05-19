@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1343 | <img src="https://cdn.idntimes.com/content-images/post/20260519/147e83c8-f3ac-4680-9141-2f518b4b7810-260519170321.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 17.03.31 WIB |
+| 1342 | <img src="https://cdn.idntimes.com/content-images/post/20260519/7599c984-c466-4962-8c5b-73c1d33d59d9-260519161641.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 16.16.51 WIB |
 | 1341 | <img src="https://cdn.idntimes.com/content-images/post/20260519/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260519151753.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 15.18.03 WIB |
 | 1340 | <img src="https://cdn.idntimes.com/content-images/post/20260518/539f5185-1414-416c-b84d-2ad366b6d60a-260518211318.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Senin, 18 Mei 2026 pukul 21.13.28 WIB |
 | 1339 | <img src="https://cdn.idntimes.com/content-images/post/20260518/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260518204754.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Senin, 18 Mei 2026 pukul 20.48.04 WIB |
