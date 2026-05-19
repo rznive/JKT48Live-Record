@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1351 | <img src="https://cdn.idntimes.com/content-images/post/20260519/f740e9da-772f-4ae2-8ddd-49f717aacf63-260519235850.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 23.58.58 WIB |
+| 1350 | <img src="https://cdn.idntimes.com/content-images/post/20260519/266ef38a-da00-4d13-ba77-f94da68599ee-260519231417.jpg" width="170"> | Delynn JKT48 | Hi | Selasa, 19 Mei 2026 pukul 23.14.27 WIB |
 | 1349 | <img src="https://cdn.idntimes.com/content-images/post/20260519/85f369d7-6525-41c0-94b8-9a56686713eb-260519203824.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 20.38.32 WIB |
 | 1348 | <img src="https://cdn.idntimes.com/content-images/post/20260519/a2b5d818-475d-44ce-af52-e99526482aaf-260519203415.jpg" width="170"> | Oline JKT48 | kk | Selasa, 19 Mei 2026 pukul 20.34.25 WIB |
 | 1347 | <img src="https://cdn.idntimes.com/content-images/post/20260519/92d66abb-0171-4a2b-a30d-37ad58359248-260519203012.jpg" width="170"> | Trisha JKT48 | halooooo | Selasa, 19 Mei 2026 pukul 20.30.23 WIB |
