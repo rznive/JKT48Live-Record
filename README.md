@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1341 | <img src="https://cdn.idntimes.com/content-images/post/20260519/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260519151753.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 15.18.03 WIB |
 | 1340 | <img src="https://cdn.idntimes.com/content-images/post/20260518/539f5185-1414-416c-b84d-2ad366b6d60a-260518211318.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Senin, 18 Mei 2026 pukul 21.13.28 WIB |
 | 1339 | <img src="https://cdn.idntimes.com/content-images/post/20260518/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260518204754.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Senin, 18 Mei 2026 pukul 20.48.04 WIB |
 | 1338 | <img src="https://cdn.idntimes.com/content-images/post/20260518/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260518180118.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Senin, 18 Mei 2026 pukul 18.01.26 WIB |
