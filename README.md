@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1349 | <img src="https://cdn.idntimes.com/content-images/post/20260519/85f369d7-6525-41c0-94b8-9a56686713eb-260519203824.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 20.38.32 WIB |
+| 1348 | <img src="https://cdn.idntimes.com/content-images/post/20260519/a2b5d818-475d-44ce-af52-e99526482aaf-260519203415.jpg" width="170"> | Oline JKT48 | kk | Selasa, 19 Mei 2026 pukul 20.34.25 WIB |
+| 1347 | <img src="https://cdn.idntimes.com/content-images/post/20260519/92d66abb-0171-4a2b-a30d-37ad58359248-260519203012.jpg" width="170"> | Trisha JKT48 | halooooo | Selasa, 19 Mei 2026 pukul 20.30.23 WIB |
+| 1346 | <img src="https://cdn.idntimes.com/content-images/post/20260519/4f795073-38c9-4df7-9388-74b83de69801-260519202844.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 20.28.56 WIB |
+| 1345 | <img src="https://cdn.idntimes.com/content-images/post/20260519/539f5185-1414-416c-b84d-2ad366b6d60a-260519201136.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 20.11.46 WIB |
+| 1344 | <img src="https://cdn.idntimes.com/content-images/post/20260519/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260519200313.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 20.03.23 WIB |
 | 1343 | <img src="https://cdn.idntimes.com/content-images/post/20260519/147e83c8-f3ac-4680-9141-2f518b4b7810-260519170321.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 17.03.31 WIB |
 | 1342 | <img src="https://cdn.idntimes.com/content-images/post/20260519/7599c984-c466-4962-8c5b-73c1d33d59d9-260519161641.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 16.16.51 WIB |
 | 1341 | <img src="https://cdn.idntimes.com/content-images/post/20260519/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260519151753.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 15.18.03 WIB |
