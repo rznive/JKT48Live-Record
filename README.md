@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1354 | <img src="https://cdn.idntimes.com/content-images/post/20260520/82ffac10-ee56-43d0-ad38-ce432384cfe5-260520180122.jpg" width="170"> | Gita JKT48 | Gits | Rabu, 20 Mei 2026 pukul 18.01.36 WIB |
 | 1353 | <img src="https://cdn.idntimes.com/content-images/post/20260520/147e83c8-f3ac-4680-9141-2f518b4b7810-260520134650.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Rabu, 20 Mei 2026 pukul 13.47.03 WIB |
 | 1352 | <img src="https://cdn.idntimes.com/content-images/post/20260520/7599c984-c466-4962-8c5b-73c1d33d59d9-260520134652.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Rabu, 20 Mei 2026 pukul 13.47.01 WIB |
 | 1351 | <img src="https://cdn.idntimes.com/content-images/post/20260519/f740e9da-772f-4ae2-8ddd-49f717aacf63-260519235850.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 23.58.58 WIB |
