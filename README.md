@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1357 | <img src="https://cdn.idntimes.com/content-images/post/20260520/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260520204434.jpg" width="170"> | Ribka JKT48 | mahadsyat | Rabu, 20 Mei 2026 pukul 20.44.43 WIB |
+| 1356 | <img src="https://cdn.idntimes.com/content-images/post/20260520/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260520194910.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Rabu, 20 Mei 2026 pukul 19.49.20 WIB |
+| 1355 | <img src="https://cdn.idntimes.com/content-images/post/20260520/f001ba66-3c51-4849-9afa-13cf74eb1571-260520193308.jpg" width="170"> | Aralie JKT48 | hi | Rabu, 20 Mei 2026 pukul 19.33.18 WIB |
 | 1354 | <img src="https://cdn.idntimes.com/content-images/post/20260520/82ffac10-ee56-43d0-ad38-ce432384cfe5-260520180122.jpg" width="170"> | Gita JKT48 | Gits | Rabu, 20 Mei 2026 pukul 18.01.36 WIB |
 | 1353 | <img src="https://cdn.idntimes.com/content-images/post/20260520/147e83c8-f3ac-4680-9141-2f518b4b7810-260520134650.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Rabu, 20 Mei 2026 pukul 13.47.03 WIB |
 | 1352 | <img src="https://cdn.idntimes.com/content-images/post/20260520/7599c984-c466-4962-8c5b-73c1d33d59d9-260520134652.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Rabu, 20 Mei 2026 pukul 13.47.01 WIB |
