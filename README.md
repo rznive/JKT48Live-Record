@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1353 | <img src="https://cdn.idntimes.com/content-images/post/20260520/147e83c8-f3ac-4680-9141-2f518b4b7810-260520134650.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Rabu, 20 Mei 2026 pukul 13.47.03 WIB |
+| 1352 | <img src="https://cdn.idntimes.com/content-images/post/20260520/7599c984-c466-4962-8c5b-73c1d33d59d9-260520134652.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Rabu, 20 Mei 2026 pukul 13.47.01 WIB |
 | 1351 | <img src="https://cdn.idntimes.com/content-images/post/20260519/f740e9da-772f-4ae2-8ddd-49f717aacf63-260519235850.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 23.58.58 WIB |
 | 1350 | <img src="https://cdn.idntimes.com/content-images/post/20260519/266ef38a-da00-4d13-ba77-f94da68599ee-260519231417.jpg" width="170"> | Delynn JKT48 | Hi | Selasa, 19 Mei 2026 pukul 23.14.27 WIB |
 | 1349 | <img src="https://cdn.idntimes.com/content-images/post/20260519/85f369d7-6525-41c0-94b8-9a56686713eb-260519203824.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Selasa, 19 Mei 2026 pukul 20.38.32 WIB |
