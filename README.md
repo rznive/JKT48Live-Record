@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1362 | <img src="https://cdn.idntimes.com/content-images/post/20260521/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260521183508.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Kamis, 21 Mei 2026 pukul 18.35.17 WIB |
+| 1361 | <img src="https://cdn.idntimes.com/content-images/post/20260521/a9579a29-9203-40c0-9326-9837b8eae6e8-260521175951.jpg" width="170"> | Jessi JKT48 | helo | Kamis, 21 Mei 2026 pukul 18.00.15 WIB |
+| 1360 | <img src="https://cdn.idntimes.com/content-images/post/20260521/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260521175930.jpg" width="170"> | Kathrina JKT48 | Woohooo | Kamis, 21 Mei 2026 pukul 17.59.39 WIB |
 | 1359 | <img src="https://cdn.idntimes.com/content-images/post/20260521/e0ececb4-71d8-4f32-a221-ef21634a746a-260521123544.jpg" width="170"> | Elin JKT48 | Haii | Kamis, 21 Mei 2026 pukul 12.35.56 WIB |
 | 1358 | <img src="https://cdn.idntimes.com/content-images/post/20260520/266ef38a-da00-4d13-ba77-f94da68599ee-260520232004.jpg" width="170"> | Delynn JKT48 | Malam brok!  | Rabu, 20 Mei 2026 pukul 23.20.17 WIB |
 | 1357 | <img src="https://cdn.idntimes.com/content-images/post/20260520/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260520204434.jpg" width="170"> | Ribka JKT48 | mahadsyat | Rabu, 20 Mei 2026 pukul 20.44.43 WIB |
