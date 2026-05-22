@@ -2,6 +2,16 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1372 | <img src="https://cdn.idntimes.com/content-images/post/20260522/f001ba66-3c51-4849-9afa-13cf74eb1571-260522174336.jpg" width="170"> | Aralie JKT48 | hi | Jumat, 22 Mei 2026 pukul 17.43.45 WIB |
+| 1371 | <img src="https://cdn.idntimes.com/content-images/post/20260522/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260522171342.jpg" width="170"> | Ribka JKT48 | mahadsyat | Jumat, 22 Mei 2026 pukul 17.14.09 WIB |
+| 1370 | <img src="https://cdn.idntimes.com/content-images/post/20260522/728d224e-6ccb-43d2-a029-a0147dc7fdee-260522171152.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Jumat, 22 Mei 2026 pukul 17.12.15 WIB |
+| 1369 | <img src="https://cdn.idntimes.com/content-images/post/20260522/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260522171104.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Jumat, 22 Mei 2026 pukul 17.11.11 WIB |
+| 1368 | <img src="https://cdn.idntimes.com/content-images/post/20260522/15dfee86-a928-4a15-8c90-6aa21097d0ff-260522170557.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 22 Mei 2026 pukul 17.06.09 WIB |
+| 1367 | <img src="https://cdn.idntimes.com/content-images/post/20260522/b0d1e6c3-d356-4b00-8d00-846e5297693b-260522170538.jpg" width="170"> | Ella JKT48 | aloo | Jumat, 22 Mei 2026 pukul 17.05.47 WIB |
+| 1366 | <img src="https://cdn.idntimes.com/content-images/post/20260522/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260522170004.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Jumat, 22 Mei 2026 pukul 17.00.14 WIB |
+| 1365 | <img src="https://cdn.idntimes.com/content-images/post/20260522/4f795073-38c9-4df7-9388-74b83de69801-260522165859.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Jumat, 22 Mei 2026 pukul 16.59.06 WIB |
+| 1364 | <img src="https://cdn.idntimes.com/content-images/post/20260522/e0ececb4-71d8-4f32-a221-ef21634a746a-260522165813.jpg" width="170"> | Elin JKT48 | Hola | Jumat, 22 Mei 2026 pukul 16.58.25 WIB |
+| 1363 | <img src="https://cdn.idntimes.com/content-images/post/20260522/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260522165721.jpg" width="170"> | Kathrina JKT48 | lesgo | Jumat, 22 Mei 2026 pukul 16.57.30 WIB |
 | 1362 | <img src="https://cdn.idntimes.com/content-images/post/20260521/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260521183508.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Kamis, 21 Mei 2026 pukul 18.35.17 WIB |
 | 1361 | <img src="https://cdn.idntimes.com/content-images/post/20260521/a9579a29-9203-40c0-9326-9837b8eae6e8-260521175951.jpg" width="170"> | Jessi JKT48 | helo | Kamis, 21 Mei 2026 pukul 18.00.15 WIB |
 | 1360 | <img src="https://cdn.idntimes.com/content-images/post/20260521/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260521175930.jpg" width="170"> | Kathrina JKT48 | Woohooo | Kamis, 21 Mei 2026 pukul 17.59.39 WIB |
