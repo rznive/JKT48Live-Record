@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1391 | <img src="https://cdn.idntimes.com/content-images/post/20260526/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260526000051.jpg" width="170"> | Eli JKT48 | Lanjut belajar | Selasa, 26 Mei 2026 pukul 00.01.01 WIB |
 | 1390 | <img src="https://cdn.idntimes.com/content-images/post/20260525/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260525224918.jpg" width="170"> | Muthe JKT48 | Hi | Senin, 25 Mei 2026 pukul 22.49.26 WIB |
 | 1389 | <img src="https://cdn.idntimes.com/content-images/post/20260525/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260525223656.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Senin, 25 Mei 2026 pukul 22.37.05 WIB |
 | 1388 | <img src="https://cdn.idntimes.com/content-images/post/20260525/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260525221034.jpg" width="170"> | Kathrina JKT48 | hellow | Senin, 25 Mei 2026 pukul 22.10.42 WIB |
