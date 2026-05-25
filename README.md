@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1382 | <img src="https://cdn.idntimes.com/content-images/post/20260525/147e83c8-f3ac-4680-9141-2f518b4b7810-260525202721.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 25 Mei 2026 pukul 20.27.37 WIB |
+| 1381 | <img src="https://cdn.idntimes.com/content-images/post/20260525/f9500eb4-9d6d-491d-a857-40ca6f862d61-260525201651.jpg" width="170"> | Auwia JKT48 | Temein aja yuk radio | Senin, 25 Mei 2026 pukul 20.17.07 WIB |
+| 1380 | <img src="https://cdn.idntimes.com/content-images/post/20260525/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260525195439.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Senin, 25 Mei 2026 pukul 19.54.47 WIB |
+| 1379 | <img src="https://cdn.idntimes.com/content-images/post/20260525/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260525195340.jpg" width="170"> | Lily JKT48 | Hi | Senin, 25 Mei 2026 pukul 19.53.50 WIB |
 | 1378 | <img src="https://cdn.idntimes.com/content-images/post/20260525/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260525173714.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Senin, 25 Mei 2026 pukul 17.37.25 WIB |
 | 1377 | <img src="https://cdn.idntimes.com/content-images/post/20260524/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260524220650.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Minggu, 24 Mei 2026 pukul 22.07.00 WIB |
 | 1376 | <img src="https://cdn.idntimes.com/content-images/post/20260524/15dfee86-a928-4a15-8c90-6aa21097d0ff-260524214423.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 24 Mei 2026 pukul 21.44.40 WIB |
