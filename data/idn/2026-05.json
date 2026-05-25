@@ -2768,5 +2768,85 @@
     "live_at_unix": 1779715657,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260525/147e83c8-f3ac-4680-9141-2f518b4b7810-260525202721.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8"
+  },
+  {
+    "id": 1383,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "hi ",
+    "live_at": "Senin, 25 Mei 2026 pukul 20.50.57 WIB",
+    "live_at_unix": 1779717057,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260525/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260525205042.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 1384,
+    "username": "jkt48_ekin",
+    "creator_name": "Ekin JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 25 Mei 2026 pukul 21.04.01 WIB",
+    "live_at_unix": 1779717841,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260525/85f369d7-6525-41c0-94b8-9a56686713eb-260525210352.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
+  },
+  {
+    "id": 1385,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "LAPERRRR",
+    "live_at": "Senin, 25 Mei 2026 pukul 22.04.33 WIB",
+    "live_at_unix": 1779721473,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260525/a9579a29-9203-40c0-9326-9837b8eae6e8-260525220423.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 1386,
+    "username": "jkt48_marsha",
+    "creator_name": "Marsha JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 25 Mei 2026 pukul 22.05.29 WIB",
+    "live_at_unix": 1779721529,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260525/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260525220518.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sSKNwImoM3zD.m3u8"
+  },
+  {
+    "id": 1387,
+    "username": "jkt48_christy",
+    "creator_name": "Christy JKT48",
+    "title": "wowow",
+    "live_at": "Senin, 25 Mei 2026 pukul 22.09.27 WIB",
+    "live_at_unix": 1779721767,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260525/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260525220913.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.R4bPsdzRonL3.m3u8"
+  },
+  {
+    "id": 1388,
+    "username": "jkt48_kathrina",
+    "creator_name": "Kathrina JKT48",
+    "title": "hellow",
+    "live_at": "Senin, 25 Mei 2026 pukul 22.10.42 WIB",
+    "live_at_unix": 1779721842,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260525/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260525221034.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
+  },
+  {
+    "id": 1389,
+    "username": "jkt48_eli",
+    "creator_name": "Eli JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 25 Mei 2026 pukul 22.37.05 WIB",
+    "live_at_unix": 1779723425,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260525/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260525223656.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8"
+  },
+  {
+    "id": 1390,
+    "username": "jkt48_muthe",
+    "creator_name": "Muthe JKT48",
+    "title": "Hi",
+    "live_at": "Senin, 25 Mei 2026 pukul 22.49.26 WIB",
+    "live_at_unix": 1779724166,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260525/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260525224918.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sm9AmQPkGDGS.m3u8"
   }
 ]

@@ -2,6 +2,14 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1390 | <img src="https://cdn.idntimes.com/content-images/post/20260525/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260525224918.jpg" width="170"> | Muthe JKT48 | Hi | Senin, 25 Mei 2026 pukul 22.49.26 WIB |
+| 1389 | <img src="https://cdn.idntimes.com/content-images/post/20260525/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260525223656.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Senin, 25 Mei 2026 pukul 22.37.05 WIB |
+| 1388 | <img src="https://cdn.idntimes.com/content-images/post/20260525/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260525221034.jpg" width="170"> | Kathrina JKT48 | hellow | Senin, 25 Mei 2026 pukul 22.10.42 WIB |
+| 1387 | <img src="https://cdn.idntimes.com/content-images/post/20260525/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260525220913.jpg" width="170"> | Christy JKT48 | wowow | Senin, 25 Mei 2026 pukul 22.09.27 WIB |
+| 1386 | <img src="https://cdn.idntimes.com/content-images/post/20260525/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260525220518.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Senin, 25 Mei 2026 pukul 22.05.29 WIB |
+| 1385 | <img src="https://cdn.idntimes.com/content-images/post/20260525/a9579a29-9203-40c0-9326-9837b8eae6e8-260525220423.jpg" width="170"> | Jessi JKT48 | LAPERRRR | Senin, 25 Mei 2026 pukul 22.04.33 WIB |
+| 1384 | <img src="https://cdn.idntimes.com/content-images/post/20260525/85f369d7-6525-41c0-94b8-9a56686713eb-260525210352.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 25 Mei 2026 pukul 21.04.01 WIB |
+| 1383 | <img src="https://cdn.idntimes.com/content-images/post/20260525/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260525205042.jpg" width="170"> | Intan JKT48 | hi  | Senin, 25 Mei 2026 pukul 20.50.57 WIB |
 | 1382 | <img src="https://cdn.idntimes.com/content-images/post/20260525/147e83c8-f3ac-4680-9141-2f518b4b7810-260525202721.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 25 Mei 2026 pukul 20.27.37 WIB |
 | 1381 | <img src="https://cdn.idntimes.com/content-images/post/20260525/f9500eb4-9d6d-491d-a857-40ca6f862d61-260525201651.jpg" width="170"> | Auwia JKT48 | Temein aja yuk radio | Senin, 25 Mei 2026 pukul 20.17.07 WIB |
 | 1380 | <img src="https://cdn.idntimes.com/content-images/post/20260525/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260525195439.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Senin, 25 Mei 2026 pukul 19.54.47 WIB |
