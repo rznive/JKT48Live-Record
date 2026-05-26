@@ -2858,5 +2858,35 @@
     "live_at_unix": 1779728461,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260526/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260526000051.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8"
+  },
+  {
+    "id": 1392,
+    "username": "jkt48_rilly",
+    "creator_name": "Rilly JKT48",
+    "title": "Yurpppp",
+    "live_at": "Selasa, 26 Mei 2026 pukul 14.46.25 WIB",
+    "live_at_unix": 1779781585,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260526/e9170998-f026-4186-bbc5-a17a3b5b2af1-260526144617.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 1393,
+    "username": "jkt48_raisha",
+    "creator_name": "Raisha JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 26 Mei 2026 pukul 15.26.26 WIB",
+    "live_at_unix": 1779783986,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260526/728d224e-6ccb-43d2-a029-a0147dc7fdee-260526152614.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.rjVZYmbffgGE.m3u8"
+  },
+  {
+    "id": 1394,
+    "username": "jkt48-official",
+    "creator_name": "JKT48",
+    "title": "TEMEN MASAK VIRAL EP 4!",
+    "live_at": "Selasa, 26 Mei 2026 pukul 15.39.08 WIB",
+    "live_at_unix": 1779784748,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260526/50a27780-93e7-4e40-8474-60f6e0cca6da-260526153901.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4idUspKIZskG.m3u8"
   }
 ]

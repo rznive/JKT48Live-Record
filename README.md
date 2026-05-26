@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1394 | <img src="https://cdn.idntimes.com/content-images/post/20260526/50a27780-93e7-4e40-8474-60f6e0cca6da-260526153901.jpg" width="170"> | JKT48 | TEMEN MASAK VIRAL EP 4! | Selasa, 26 Mei 2026 pukul 15.39.08 WIB |
+| 1393 | <img src="https://cdn.idntimes.com/content-images/post/20260526/728d224e-6ccb-43d2-a029-a0147dc7fdee-260526152614.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Selasa, 26 Mei 2026 pukul 15.26.26 WIB |
+| 1392 | <img src="https://cdn.idntimes.com/content-images/post/20260526/e9170998-f026-4186-bbc5-a17a3b5b2af1-260526144617.jpg" width="170"> | Rilly JKT48 | Yurpppp | Selasa, 26 Mei 2026 pukul 14.46.25 WIB |
 | 1391 | <img src="https://cdn.idntimes.com/content-images/post/20260526/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260526000051.jpg" width="170"> | Eli JKT48 | Lanjut belajar | Selasa, 26 Mei 2026 pukul 00.01.01 WIB |
 | 1390 | <img src="https://cdn.idntimes.com/content-images/post/20260525/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260525224918.jpg" width="170"> | Muthe JKT48 | Hi | Senin, 25 Mei 2026 pukul 22.49.26 WIB |
 | 1389 | <img src="https://cdn.idntimes.com/content-images/post/20260525/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260525223656.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Senin, 25 Mei 2026 pukul 22.37.05 WIB |
