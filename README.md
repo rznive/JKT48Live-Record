@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1399 | <img src="https://cdn.idntimes.com/content-images/post/20260527/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260527203834.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Rabu, 27 Mei 2026 pukul 20.38.47 WIB |
+| 1398 | <img src="https://cdn.idntimes.com/content-images/post/20260527/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260527203623.jpg" width="170"> | Levi JKT48 | hai | Rabu, 27 Mei 2026 pukul 20.36.31 WIB |
+| 1397 | <img src="https://cdn.idntimes.com/content-images/post/20260527/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260527201601.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Rabu, 27 Mei 2026 pukul 20.16.13 WIB |
 | 1396 | <img src="https://cdn.idntimes.com/content-images/post/20260526/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260526225616.jpg" width="170"> | Levi JKT48 | hai | Selasa, 26 Mei 2026 pukul 22.56.24 WIB |
 | 1395 | <img src="https://cdn.idntimes.com/content-images/post/20260526/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260526193028.jpg" width="170"> | Giaa JKT48 | haiii | Selasa, 26 Mei 2026 pukul 19.30.37 WIB |
 | 1394 | <img src="https://cdn.idntimes.com/content-images/post/20260526/50a27780-93e7-4e40-8474-60f6e0cca6da-260526153901.jpg" width="170"> | JKT48 | TEMEN MASAK VIRAL EP 4! | Selasa, 26 Mei 2026 pukul 15.39.08 WIB |
