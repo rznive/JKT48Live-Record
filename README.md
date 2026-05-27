@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1403 | <img src="https://cdn.idntimes.com/content-images/post/20260527/f740e9da-772f-4ae2-8ddd-49f717aacf63-260527232641.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Rabu, 27 Mei 2026 pukul 23.26.49 WIB |
+| 1402 | <img src="https://cdn.idntimes.com/content-images/post/20260527/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260527232101.jpg" width="170"> | Eli JKT48 | Lanjut belajar | Rabu, 27 Mei 2026 pukul 23.21.14 WIB |
+| 1401 | <img src="https://cdn.idntimes.com/content-images/post/20260527/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260527212954.jpg" width="170"> | Giaa JKT48 | haiii | Rabu, 27 Mei 2026 pukul 21.30.02 WIB |
+| 1400 | <img src="https://cdn.idntimes.com/content-images/post/20260527/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260527210338.jpg" width="170"> | Intan JKT48 | hi  | Rabu, 27 Mei 2026 pukul 21.03.54 WIB |
 | 1399 | <img src="https://cdn.idntimes.com/content-images/post/20260527/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260527203834.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Rabu, 27 Mei 2026 pukul 20.38.47 WIB |
 | 1398 | <img src="https://cdn.idntimes.com/content-images/post/20260527/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260527203623.jpg" width="170"> | Levi JKT48 | hai | Rabu, 27 Mei 2026 pukul 20.36.31 WIB |
 | 1397 | <img src="https://cdn.idntimes.com/content-images/post/20260527/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260527201601.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Rabu, 27 Mei 2026 pukul 20.16.13 WIB |
