@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1410 | <img src="https://cdn.idntimes.com/content-images/post/20260528/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260528155711.jpg" width="170"> | Giaa JKT48 | haiii | Kamis, 28 Mei 2026 pukul 15.57.18 WIB |
+| 1409 | <img src="https://cdn.idntimes.com/content-images/post/20260528/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260528154216.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Kamis, 28 Mei 2026 pukul 15.42.29 WIB |
+| 1408 | <img src="https://cdn.idntimes.com/content-images/post/20260528/a557ba58-12d8-4260-bd50-9e5252ac71ef-260528153352.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 28 Mei 2026 pukul 15.34.04 WIB |
+| 1407 | <img src="https://cdn.idntimes.com/content-images/post/20260528/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260528153154.jpg" width="170"> | Intan JKT48 | hi  | Kamis, 28 Mei 2026 pukul 15.32.08 WIB |
+| 1406 | <img src="https://cdn.idntimes.com/content-images/post/20260528/21a420b0-dd01-4daa-b185-b9020f8bf69d-260528151553.jpg" width="170"> | Nachia JKT48 | temenin | Kamis, 28 Mei 2026 pukul 15.16.04 WIB |
 | 1405 | <img src="https://cdn.idntimes.com/content-images/post/20260528/f9500eb4-9d6d-491d-a857-40ca6f862d61-260528112237.jpg" width="170"> | Auwia JKT48 | Chit chat aja la yaa | Kamis, 28 Mei 2026 pukul 11.22.52 WIB |
 | 1404 | <img src="https://cdn.idntimes.com/content-images/post/20260528/7599c984-c466-4962-8c5b-73c1d33d59d9-260528111938.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Kamis, 28 Mei 2026 pukul 11.19.48 WIB |
 | 1403 | <img src="https://cdn.idntimes.com/content-images/post/20260527/f740e9da-772f-4ae2-8ddd-49f717aacf63-260527232641.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Rabu, 27 Mei 2026 pukul 23.26.49 WIB |
