@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1405 | <img src="https://cdn.idntimes.com/content-images/post/20260528/f9500eb4-9d6d-491d-a857-40ca6f862d61-260528112237.jpg" width="170"> | Auwia JKT48 | Chit chat aja la yaa | Kamis, 28 Mei 2026 pukul 11.22.52 WIB |
+| 1404 | <img src="https://cdn.idntimes.com/content-images/post/20260528/7599c984-c466-4962-8c5b-73c1d33d59d9-260528111938.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Kamis, 28 Mei 2026 pukul 11.19.48 WIB |
 | 1403 | <img src="https://cdn.idntimes.com/content-images/post/20260527/f740e9da-772f-4ae2-8ddd-49f717aacf63-260527232641.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Rabu, 27 Mei 2026 pukul 23.26.49 WIB |
 | 1402 | <img src="https://cdn.idntimes.com/content-images/post/20260527/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260527232101.jpg" width="170"> | Eli JKT48 | Lanjut belajar | Rabu, 27 Mei 2026 pukul 23.21.14 WIB |
 | 1401 | <img src="https://cdn.idntimes.com/content-images/post/20260527/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260527212954.jpg" width="170"> | Giaa JKT48 | haiii | Rabu, 27 Mei 2026 pukul 21.30.02 WIB |
