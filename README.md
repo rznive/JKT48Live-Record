@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1414 | <img src="https://cdn.idntimes.com/content-images/post/20260528/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260528230736.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Kamis, 28 Mei 2026 pukul 23.07.49 WIB |
+| 1413 | <img src="https://cdn.idntimes.com/content-images/post/20260528/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260528230715.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Kamis, 28 Mei 2026 pukul 23.07.26 WIB |
+| 1412 | <img src="https://cdn.idntimes.com/content-images/post/20260528/a557ba58-12d8-4260-bd50-9e5252ac71ef-260528221617.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 28 Mei 2026 pukul 22.16.33 WIB |
 | 1411 | <img src="https://cdn.idntimes.com/content-images/post/20260528/717109e0-a064-4f15-8187-5c4d46e56a58-260528191232.jpg" width="170"> | Fritzy JKT48 | p p apa | Kamis, 28 Mei 2026 pukul 19.12.46 WIB |
 | 1410 | <img src="https://cdn.idntimes.com/content-images/post/20260528/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260528155711.jpg" width="170"> | Giaa JKT48 | haiii | Kamis, 28 Mei 2026 pukul 15.57.18 WIB |
 | 1409 | <img src="https://cdn.idntimes.com/content-images/post/20260528/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260528154216.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Kamis, 28 Mei 2026 pukul 15.42.29 WIB |
