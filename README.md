@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1418 | <img src="https://cdn.idntimes.com/content-images/post/20260529/728d224e-6ccb-43d2-a029-a0147dc7fdee-260529222949.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Jumat, 29 Mei 2026 pukul 22.30.00 WIB |
 | 1417 | <img src="https://cdn.idntimes.com/content-images/post/20260529/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260529161927.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Jumat, 29 Mei 2026 pukul 16.19.37 WIB |
 | 1416 | <img src="https://cdn.idntimes.com/content-images/post/20260529/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260529155240.jpg" width="170"> | Lily JKT48 | Helo | Jumat, 29 Mei 2026 pukul 15.52.47 WIB |
 | 1415 | <img src="https://cdn.idntimes.com/content-images/post/20260529/82ffac10-ee56-43d0-ad38-ce432384cfe5-260529061353.jpg" width="170"> | Gita JKT48 | Gits | Jumat, 29 Mei 2026 pukul 06.14.07 WIB |
