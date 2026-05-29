@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1417 | <img src="https://cdn.idntimes.com/content-images/post/20260529/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260529161927.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Jumat, 29 Mei 2026 pukul 16.19.37 WIB |
+| 1416 | <img src="https://cdn.idntimes.com/content-images/post/20260529/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260529155240.jpg" width="170"> | Lily JKT48 | Helo | Jumat, 29 Mei 2026 pukul 15.52.47 WIB |
 | 1415 | <img src="https://cdn.idntimes.com/content-images/post/20260529/82ffac10-ee56-43d0-ad38-ce432384cfe5-260529061353.jpg" width="170"> | Gita JKT48 | Gits | Jumat, 29 Mei 2026 pukul 06.14.07 WIB |
 | 1414 | <img src="https://cdn.idntimes.com/content-images/post/20260528/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260528230736.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Kamis, 28 Mei 2026 pukul 23.07.49 WIB |
 | 1413 | <img src="https://cdn.idntimes.com/content-images/post/20260528/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260528230715.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Kamis, 28 Mei 2026 pukul 23.07.26 WIB |
