@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1427 | <img src="https://cdn.idntimes.com/content-images/post/20260530/266ef38a-da00-4d13-ba77-f94da68599ee-260530232406.jpg" width="170"> | Delynn JKT48 | Hi | Sabtu, 30 Mei 2026 pukul 23.24.18 WIB |
+| 1426 | <img src="https://cdn.idntimes.com/content-images/post/20260530/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260530230943.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Sabtu, 30 Mei 2026 pukul 23.09.53 WIB |
 | 1425 | <img src="https://cdn.idntimes.com/content-images/post/20260530/85f369d7-6525-41c0-94b8-9a56686713eb-260530214523.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Sabtu, 30 Mei 2026 pukul 21.45.34 WIB |
 | 1424 | <img src="https://cdn.idntimes.com/content-images/post/20260530/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260530213306.jpg" width="170"> | Intan JKT48 | hi  | Sabtu, 30 Mei 2026 pukul 21.33.24 WIB |
 | 1423 | <img src="https://cdn.idntimes.com/content-images/post/20260530/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260530212612.jpg" width="170"> | Eli JKT48 | Lanjut belajar | Sabtu, 30 Mei 2026 pukul 21.26.21 WIB |
