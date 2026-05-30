@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1425 | <img src="https://cdn.idntimes.com/content-images/post/20260530/85f369d7-6525-41c0-94b8-9a56686713eb-260530214523.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Sabtu, 30 Mei 2026 pukul 21.45.34 WIB |
+| 1424 | <img src="https://cdn.idntimes.com/content-images/post/20260530/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260530213306.jpg" width="170"> | Intan JKT48 | hi  | Sabtu, 30 Mei 2026 pukul 21.33.24 WIB |
+| 1423 | <img src="https://cdn.idntimes.com/content-images/post/20260530/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260530212612.jpg" width="170"> | Eli JKT48 | Lanjut belajar | Sabtu, 30 Mei 2026 pukul 21.26.21 WIB |
 | 1422 | <img src="https://cdn.idntimes.com/content-images/post/20260530/a9579a29-9203-40c0-9326-9837b8eae6e8-260530162034.jpg" width="170"> | Jessi JKT48 | hi | Sabtu, 30 Mei 2026 pukul 16.20.51 WIB |
 | 1421 | <img src="https://cdn.idntimes.com/content-images/post/20260530/15dfee86-a928-4a15-8c90-6aa21097d0ff-260530143528.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Sabtu, 30 Mei 2026 pukul 14.35.40 WIB |
 | 1420 | <img src="https://cdn.idntimes.com/content-images/post/20260530/f9500eb4-9d6d-491d-a857-40ca6f862d61-260530143304.jpg" width="170"> | Auwia JKT48 | TEMENIN GGGG😤 | Sabtu, 30 Mei 2026 pukul 14.33.17 WIB |
