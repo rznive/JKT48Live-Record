@@ -3128,5 +3128,35 @@
     "live_at_unix": 1780068600,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260529/728d224e-6ccb-43d2-a029-a0147dc7fdee-260529222949.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.rjVZYmbffgGE.m3u8"
+  },
+  {
+    "id": 1419,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 30 Mei 2026 pukul 13.52.20 WIB",
+    "live_at_unix": 1780123940,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260530/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260530135205.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 1420,
+    "username": "jkt48_auwia",
+    "creator_name": "Auwia JKT48",
+    "title": "TEMENIN GGGG😤",
+    "live_at": "Sabtu, 30 Mei 2026 pukul 14.33.17 WIB",
+    "live_at_unix": 1780126397,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260530/f9500eb4-9d6d-491d-a857-40ca6f862d61-260530143304.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
+  },
+  {
+    "id": 1421,
+    "username": "jkt48_lia",
+    "creator_name": "Lia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 30 Mei 2026 pukul 14.35.40 WIB",
+    "live_at_unix": 1780126540,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260530/15dfee86-a928-4a15-8c90-6aa21097d0ff-260530143528.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
   }
 ]
