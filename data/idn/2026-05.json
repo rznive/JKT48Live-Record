@@ -3278,5 +3278,25 @@
     "live_at_unix": 1780226197,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260531/a9579a29-9203-40c0-9326-9837b8eae6e8-260531181630.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 1434,
+    "username": "jkt48_nachia",
+    "creator_name": "Nachia JKT48",
+    "title": "hai",
+    "live_at": "Minggu, 31 Mei 2026 pukul 19.43.32 WIB",
+    "live_at_unix": 1780231412,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260531/21a420b0-dd01-4daa-b185-b9020f8bf69d-260531194322.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8"
+  },
+  {
+    "id": 1435,
+    "username": "jkt48_oline",
+    "creator_name": "Oline JKT48",
+    "title": "kk",
+    "live_at": "Minggu, 31 Mei 2026 pukul 20.23.22 WIB",
+    "live_at_unix": 1780233802,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260531/a2b5d818-475d-44ce-af52-e99526482aaf-260531202313.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gYN6fQPMCqs0.m3u8"
   }
 ]
