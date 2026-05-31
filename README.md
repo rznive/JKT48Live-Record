@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1433 | <img src="https://cdn.idntimes.com/content-images/post/20260531/a9579a29-9203-40c0-9326-9837b8eae6e8-260531181630.jpg" width="170"> | Jessi JKT48 | p | Minggu, 31 Mei 2026 pukul 18.16.37 WIB |
+| 1432 | <img src="https://cdn.idntimes.com/content-images/post/20260531/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260531181205.jpg" width="170"> | Kathrina JKT48 | Wupwup | Minggu, 31 Mei 2026 pukul 18.12.16 WIB |
+| 1431 | <img src="https://cdn.idntimes.com/content-images/post/20260531/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260531180309.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Minggu, 31 Mei 2026 pukul 18.03.32 WIB |
+| 1430 | <img src="https://cdn.idntimes.com/content-images/post/20260531/b11b0692-d0b8-464c-849a-9e81439a048c-260531175514.jpg" width="170"> | Daisy JKT48 | Haiii | Minggu, 31 Mei 2026 pukul 17.55.22 WIB |
 | 1429 | <img src="https://cdn.idntimes.com/content-images/post/20260531/e9170998-f026-4186-bbc5-a17a3b5b2af1-260531145551.jpg" width="170"> | Rilly JKT48 | Orang cool mau gerem | Minggu, 31 Mei 2026 pukul 14.56.00 WIB |
 | 1428 | <img src="https://cdn.idntimes.com/content-images/post/20260531/f9500eb4-9d6d-491d-a857-40ca6f862d61-260531134837.jpg" width="170"> | Auwia JKT48 | Jujur................. | Minggu, 31 Mei 2026 pukul 13.48.52 WIB |
 | 1427 | <img src="https://cdn.idntimes.com/content-images/post/20260530/266ef38a-da00-4d13-ba77-f94da68599ee-260530232406.jpg" width="170"> | Delynn JKT48 | Hi | Sabtu, 30 Mei 2026 pukul 23.24.18 WIB |
