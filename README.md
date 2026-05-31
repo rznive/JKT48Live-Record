@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1429 | <img src="https://cdn.idntimes.com/content-images/post/20260531/e9170998-f026-4186-bbc5-a17a3b5b2af1-260531145551.jpg" width="170"> | Rilly JKT48 | Orang cool mau gerem | Minggu, 31 Mei 2026 pukul 14.56.00 WIB |
+| 1428 | <img src="https://cdn.idntimes.com/content-images/post/20260531/f9500eb4-9d6d-491d-a857-40ca6f862d61-260531134837.jpg" width="170"> | Auwia JKT48 | Jujur................. | Minggu, 31 Mei 2026 pukul 13.48.52 WIB |
 | 1427 | <img src="https://cdn.idntimes.com/content-images/post/20260530/266ef38a-da00-4d13-ba77-f94da68599ee-260530232406.jpg" width="170"> | Delynn JKT48 | Hi | Sabtu, 30 Mei 2026 pukul 23.24.18 WIB |
 | 1426 | <img src="https://cdn.idntimes.com/content-images/post/20260530/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260530230943.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Sabtu, 30 Mei 2026 pukul 23.09.53 WIB |
 | 1425 | <img src="https://cdn.idntimes.com/content-images/post/20260530/85f369d7-6525-41c0-94b8-9a56686713eb-260530214523.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Sabtu, 30 Mei 2026 pukul 21.45.34 WIB |
