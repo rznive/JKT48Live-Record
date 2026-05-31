@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1441 | <img src="https://cdn.idntimes.com/content-images/post/20260601/4f795073-38c9-4df7-9388-74b83de69801-260601010004.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 01 Juni 2026 pukul 01.00.11 WIB |
 | 1440 | <img src="https://cdn.idntimes.com/content-images/post/20260531/266ef38a-da00-4d13-ba77-f94da68599ee-260531231123.jpg" width="170"> | Delynn JKT48 | Ohayo | Minggu, 31 Mei 2026 pukul 23.11.34 WIB |
 | 1439 | <img src="https://cdn.idntimes.com/content-images/post/20260531/e0ececb4-71d8-4f32-a221-ef21634a746a-260531230719.jpg" width="170"> | Elin JKT48 | Malam | Minggu, 31 Mei 2026 pukul 23.07.26 WIB |
 | 1438 | <img src="https://cdn.idntimes.com/content-images/post/20260531/f001ba66-3c51-4849-9afa-13cf74eb1571-260531221953.jpg" width="170"> | Aralie JKT48 | hi | Minggu, 31 Mei 2026 pukul 22.20.03 WIB |
