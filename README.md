@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1437 | <img src="https://cdn.idntimes.com/content-images/post/20260531/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260531215119.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Minggu, 31 Mei 2026 pukul 21.51.30 WIB |
+| 1436 | <img src="https://cdn.idntimes.com/content-images/post/20260531/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260531210904.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 31 Mei 2026 pukul 21.09.16 WIB |
 | 1435 | <img src="https://cdn.idntimes.com/content-images/post/20260531/a2b5d818-475d-44ce-af52-e99526482aaf-260531202313.jpg" width="170"> | Oline JKT48 | kk | Minggu, 31 Mei 2026 pukul 20.23.22 WIB |
 | 1434 | <img src="https://cdn.idntimes.com/content-images/post/20260531/21a420b0-dd01-4daa-b185-b9020f8bf69d-260531194322.jpg" width="170"> | Nachia JKT48 | hai | Minggu, 31 Mei 2026 pukul 19.43.32 WIB |
 | 1433 | <img src="https://cdn.idntimes.com/content-images/post/20260531/a9579a29-9203-40c0-9326-9837b8eae6e8-260531181630.jpg" width="170"> | Jessi JKT48 | p | Minggu, 31 Mei 2026 pukul 18.16.37 WIB |
