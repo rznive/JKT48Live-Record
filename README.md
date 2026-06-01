@@ -2,6 +2,14 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1449 | <img src="https://cdn.idntimes.com/content-images/post/20260601/a557ba58-12d8-4260-bd50-9e5252ac71ef-260601190644.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 01 Juni 2026 pukul 19.06.58 WIB |
+| 1448 | <img src="https://cdn.idntimes.com/content-images/post/20260601/a5c72141-65a3-47be-86ef-1dc1feaab10d-260601190011.jpg" width="170"> | Anindya JKT48 | ayoo cerita ceritaa | Senin, 01 Juni 2026 pukul 19.00.23 WIB |
+| 1447 | <img src="https://cdn.idntimes.com/content-images/post/20260601/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260601185520.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Senin, 01 Juni 2026 pukul 18.55.33 WIB |
+| 1446 | <img src="https://cdn.idntimes.com/content-images/post/20260601/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260601182025.jpg" width="170"> | Muthe JKT48 | Hi | Senin, 01 Juni 2026 pukul 18.20.33 WIB |
+| 1445 | <img src="https://cdn.idntimes.com/content-images/post/20260601/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260601180952.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 01 Juni 2026 pukul 18.10.05 WIB |
+| 1444 | <img src="https://cdn.idntimes.com/content-images/post/20260601/7599c984-c466-4962-8c5b-73c1d33d59d9-260601180941.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Senin, 01 Juni 2026 pukul 18.09.53 WIB |
+| 1443 | <img src="https://cdn.idntimes.com/content-images/post/20260601/85f369d7-6525-41c0-94b8-9a56686713eb-260601180940.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 01 Juni 2026 pukul 18.09.52 WIB |
+| 1442 | <img src="https://cdn.idntimes.com/content-images/post/20260601/82ffac10-ee56-43d0-ad38-ce432384cfe5-260601175746.jpg" width="170"> | Gita JKT48 | Gits | Senin, 01 Juni 2026 pukul 17.58.00 WIB |
 | 1441 | <img src="https://cdn.idntimes.com/content-images/post/20260601/4f795073-38c9-4df7-9388-74b83de69801-260601010004.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 01 Juni 2026 pukul 01.00.11 WIB |
 | 1440 | <img src="https://cdn.idntimes.com/content-images/post/20260531/266ef38a-da00-4d13-ba77-f94da68599ee-260531231123.jpg" width="170"> | Delynn JKT48 | Ohayo | Minggu, 31 Mei 2026 pukul 23.11.34 WIB |
 | 1439 | <img src="https://cdn.idntimes.com/content-images/post/20260531/e0ececb4-71d8-4f32-a221-ef21634a746a-260531230719.jpg" width="170"> | Elin JKT48 | Malam | Minggu, 31 Mei 2026 pukul 23.07.26 WIB |
