@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1456 | <img src="https://cdn.idntimes.com/content-images/post/20260602/f001ba66-3c51-4849-9afa-13cf74eb1571-260602213725.jpg" width="170"> | Aralie JKT48 | hi | Selasa, 02 Juni 2026 pukul 21.37.34 WIB |
+| 1455 | <img src="https://cdn.idntimes.com/content-images/post/20260602/85f369d7-6525-41c0-94b8-9a56686713eb-260602212928.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Selasa, 02 Juni 2026 pukul 21.29.37 WIB |
+| 1454 | <img src="https://cdn.idntimes.com/content-images/post/20260602/b11b0692-d0b8-464c-849a-9e81439a048c-260602210707.jpg" width="170"> | Daisy JKT48 | Haiii | Selasa, 02 Juni 2026 pukul 21.07.14 WIB |
+| 1453 | <img src="https://cdn.idntimes.com/content-images/post/20260602/539f5185-1414-416c-b84d-2ad366b6d60a-260602205742.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Selasa, 02 Juni 2026 pukul 20.57.51 WIB |
+| 1452 | <img src="https://cdn.idntimes.com/content-images/post/20260602/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260602203341.jpg" width="170"> | Kathrina JKT48 | Wupwup | Selasa, 02 Juni 2026 pukul 20.33.50 WIB |
 | 1451 | <img src="https://cdn.idntimes.com/content-images/post/20260602/a9579a29-9203-40c0-9326-9837b8eae6e8-260602172012.jpg" width="170"> | Jessi JKT48 | hiii | Selasa, 02 Juni 2026 pukul 17.20.22 WIB |
 | 1450 | <img src="https://cdn.idntimes.com/content-images/post/20260602/e0ececb4-71d8-4f32-a221-ef21634a746a-260602082301.jpg" width="170"> | Elin JKT48 | Hai hai | Selasa, 02 Juni 2026 pukul 08.23.13 WIB |
 | 1449 | <img src="https://cdn.idntimes.com/content-images/post/20260601/a557ba58-12d8-4260-bd50-9e5252ac71ef-260601190644.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 01 Juni 2026 pukul 19.06.58 WIB |

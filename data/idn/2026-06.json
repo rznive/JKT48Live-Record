@@ -98,5 +98,55 @@
     "live_at_unix": 1780395622,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260602/a9579a29-9203-40c0-9326-9837b8eae6e8-260602172012.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 1452,
+    "username": "jkt48_kathrina",
+    "creator_name": "Kathrina JKT48",
+    "title": "Wupwup",
+    "live_at": "Selasa, 02 Juni 2026 pukul 20.33.50 WIB",
+    "live_at_unix": 1780407230,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260602/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260602203341.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
+  },
+  {
+    "id": 1453,
+    "username": "jkt48_indah",
+    "creator_name": "Indah JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 02 Juni 2026 pukul 20.57.51 WIB",
+    "live_at_unix": 1780408671,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260602/539f5185-1414-416c-b84d-2ad366b6d60a-260602205742.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oKpAUHJSe6RM.m3u8"
+  },
+  {
+    "id": 1454,
+    "username": "jkt48_daisy",
+    "creator_name": "Daisy JKT48",
+    "title": "Haiii",
+    "live_at": "Selasa, 02 Juni 2026 pukul 21.07.14 WIB",
+    "live_at_unix": 1780409234,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260602/b11b0692-d0b8-464c-849a-9e81439a048c-260602210707.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
+  },
+  {
+    "id": 1455,
+    "username": "jkt48_ekin",
+    "creator_name": "Ekin JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 02 Juni 2026 pukul 21.29.37 WIB",
+    "live_at_unix": 1780410577,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260602/85f369d7-6525-41c0-94b8-9a56686713eb-260602212928.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
+  },
+  {
+    "id": 1456,
+    "username": "jkt48_aralie",
+    "creator_name": "Aralie JKT48",
+    "title": "hi",
+    "live_at": "Selasa, 02 Juni 2026 pukul 21.37.34 WIB",
+    "live_at_unix": 1780411054,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260602/f001ba66-3c51-4849-9afa-13cf74eb1571-260602213725.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oxXRFBYUK9HN.m3u8"
   }
 ]
