@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1451 | <img src="https://cdn.idntimes.com/content-images/post/20260602/a9579a29-9203-40c0-9326-9837b8eae6e8-260602172012.jpg" width="170"> | Jessi JKT48 | hiii | Selasa, 02 Juni 2026 pukul 17.20.22 WIB |
 | 1450 | <img src="https://cdn.idntimes.com/content-images/post/20260602/e0ececb4-71d8-4f32-a221-ef21634a746a-260602082301.jpg" width="170"> | Elin JKT48 | Hai hai | Selasa, 02 Juni 2026 pukul 08.23.13 WIB |
 | 1449 | <img src="https://cdn.idntimes.com/content-images/post/20260601/a557ba58-12d8-4260-bd50-9e5252ac71ef-260601190644.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 01 Juni 2026 pukul 19.06.58 WIB |
 | 1448 | <img src="https://cdn.idntimes.com/content-images/post/20260601/a5c72141-65a3-47be-86ef-1dc1feaab10d-260601190011.jpg" width="170"> | Anindya JKT48 | ayoo cerita ceritaa | Senin, 01 Juni 2026 pukul 19.00.23 WIB |
