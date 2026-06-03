@@ -2,6 +2,14 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1466 | <img src="https://cdn.idntimes.com/content-images/post/20260603/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260603225244.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Rabu, 03 Juni 2026 pukul 22.52.51 WIB |
+| 1465 | <img src="https://cdn.idntimes.com/content-images/post/20260603/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260603222247.jpg" width="170"> | Erine JKT48 | Erin | Rabu, 03 Juni 2026 pukul 22.22.59 WIB |
+| 1464 | <img src="https://cdn.idntimes.com/content-images/post/20260603/82ffac10-ee56-43d0-ad38-ce432384cfe5-260603221909.jpg" width="170"> | Gita JKT48 | Gits | Rabu, 03 Juni 2026 pukul 22.19.23 WIB |
+| 1463 | <img src="https://cdn.idntimes.com/content-images/post/20260603/f9500eb4-9d6d-491d-a857-40ca6f862d61-260603221622.jpg" width="170"> | Auwia JKT48 | Radioooooo | Rabu, 03 Juni 2026 pukul 22.16.37 WIB |
+| 1462 | <img src="https://cdn.idntimes.com/content-images/post/20260603/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260603221215.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Rabu, 03 Juni 2026 pukul 22.12.22 WIB |
+| 1461 | <img src="https://cdn.idntimes.com/content-images/post/20260603/21a420b0-dd01-4daa-b185-b9020f8bf69d-260603220616.jpg" width="170"> | Nachia JKT48 | hai | Rabu, 03 Juni 2026 pukul 22.06.28 WIB |
+| 1460 | <img src="https://cdn.idntimes.com/content-images/post/20260603/a9579a29-9203-40c0-9326-9837b8eae6e8-260603213747.jpg" width="170"> | Jessi JKT48 | mam | Rabu, 03 Juni 2026 pukul 21.38.03 WIB |
+| 1459 | <img src="https://cdn.idntimes.com/content-images/post/20260603/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260603213730.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Rabu, 03 Juni 2026 pukul 21.37.42 WIB |
 | 1458 | <img src="https://cdn.idntimes.com/content-images/post/20260603/e9170998-f026-4186-bbc5-a17a3b5b2af1-260603181219.jpg" width="170"> | Rilly JKT48 | Yaurrrrr | Rabu, 03 Juni 2026 pukul 18.12.28 WIB |
 | 1457 | <img src="https://cdn.idntimes.com/content-images/post/20260603/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260603173646.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Rabu, 03 Juni 2026 pukul 17.36.56 WIB |
 | 1456 | <img src="https://cdn.idntimes.com/content-images/post/20260602/f001ba66-3c51-4849-9afa-13cf74eb1571-260602213725.jpg" width="170"> | Aralie JKT48 | hi | Selasa, 02 Juni 2026 pukul 21.37.34 WIB |
