@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1458 | <img src="https://cdn.idntimes.com/content-images/post/20260603/e9170998-f026-4186-bbc5-a17a3b5b2af1-260603181219.jpg" width="170"> | Rilly JKT48 | Yaurrrrr | Rabu, 03 Juni 2026 pukul 18.12.28 WIB |
+| 1457 | <img src="https://cdn.idntimes.com/content-images/post/20260603/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260603173646.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Rabu, 03 Juni 2026 pukul 17.36.56 WIB |
 | 1456 | <img src="https://cdn.idntimes.com/content-images/post/20260602/f001ba66-3c51-4849-9afa-13cf74eb1571-260602213725.jpg" width="170"> | Aralie JKT48 | hi | Selasa, 02 Juni 2026 pukul 21.37.34 WIB |
 | 1455 | <img src="https://cdn.idntimes.com/content-images/post/20260602/85f369d7-6525-41c0-94b8-9a56686713eb-260602212928.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Selasa, 02 Juni 2026 pukul 21.29.37 WIB |
 | 1454 | <img src="https://cdn.idntimes.com/content-images/post/20260602/b11b0692-d0b8-464c-849a-9e81439a048c-260602210707.jpg" width="170"> | Daisy JKT48 | Haiii | Selasa, 02 Juni 2026 pukul 21.07.14 WIB |
