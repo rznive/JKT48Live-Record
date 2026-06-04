@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1473 | <img src="https://cdn.idntimes.com/content-images/post/20260604/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260604182405.jpg" width="170"> | Muthe JKT48 | Hi | Kamis, 04 Juni 2026 pukul 18.24.12 WIB |
+| 1472 | <img src="https://cdn.idntimes.com/content-images/post/20260604/15dfee86-a928-4a15-8c90-6aa21097d0ff-260604175700.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Kamis, 04 Juni 2026 pukul 17.57.08 WIB |
 | 1471 | <img src="https://cdn.idntimes.com/content-images/post/20260604/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260604150509.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Kamis, 04 Juni 2026 pukul 15.05.22 WIB |
 | 1470 | <img src="https://cdn.idntimes.com/content-images/post/20260604/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260604150459.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Kamis, 04 Juni 2026 pukul 15.05.16 WIB |
 | 1469 | <img src="https://cdn.idntimes.com/content-images/post/20260604/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260604150341.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 04 Juni 2026 pukul 15.03.49 WIB |
