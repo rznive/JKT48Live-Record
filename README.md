@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1478 | <img src="https://cdn.idntimes.com/content-images/post/20260604/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260604210829.jpg" width="170"> | Lily JKT48 | Maaf | Kamis, 04 Juni 2026 pukul 21.08.37 WIB |
+| 1477 | <img src="https://cdn.idntimes.com/content-images/post/20260604/21a420b0-dd01-4daa-b185-b9020f8bf69d-260604210221.jpg" width="170"> | Nachia JKT48 | hai | Kamis, 04 Juni 2026 pukul 21.02.29 WIB |
+| 1476 | <img src="https://cdn.idntimes.com/content-images/post/20260604/266ef38a-da00-4d13-ba77-f94da68599ee-260604202040.jpg" width="170"> | Delynn JKT48 | hi | Kamis, 04 Juni 2026 pukul 20.20.57 WIB |
+| 1475 | <img src="https://cdn.idntimes.com/content-images/post/20260604/82ffac10-ee56-43d0-ad38-ce432384cfe5-260604202028.jpg" width="170"> | Gita JKT48 | Gits | Kamis, 04 Juni 2026 pukul 20.20.42 WIB |
+| 1474 | <img src="https://cdn.idntimes.com/content-images/post/20260604/717109e0-a064-4f15-8187-5c4d46e56a58-260604200202.jpg" width="170"> | Fritzy JKT48 | ngapain nyak?? | Kamis, 04 Juni 2026 pukul 20.02.18 WIB |
 | 1473 | <img src="https://cdn.idntimes.com/content-images/post/20260604/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260604182405.jpg" width="170"> | Muthe JKT48 | Hi | Kamis, 04 Juni 2026 pukul 18.24.12 WIB |
 | 1472 | <img src="https://cdn.idntimes.com/content-images/post/20260604/15dfee86-a928-4a15-8c90-6aa21097d0ff-260604175700.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Kamis, 04 Juni 2026 pukul 17.57.08 WIB |
 | 1471 | <img src="https://cdn.idntimes.com/content-images/post/20260604/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260604150509.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Kamis, 04 Juni 2026 pukul 15.05.22 WIB |
