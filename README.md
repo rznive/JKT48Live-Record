@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1467 | <img src="https://cdn.idntimes.com/content-images/post/20260604/f9500eb4-9d6d-491d-a857-40ca6f862d61-260604111220.jpg" width="170"> | Auwia JKT48 | Podcast muka  | Kamis, 04 Juni 2026 pukul 11.12.35 WIB |
 | 1466 | <img src="https://cdn.idntimes.com/content-images/post/20260603/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260603225244.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Rabu, 03 Juni 2026 pukul 22.52.51 WIB |
 | 1465 | <img src="https://cdn.idntimes.com/content-images/post/20260603/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260603222247.jpg" width="170"> | Erine JKT48 | Erin | Rabu, 03 Juni 2026 pukul 22.22.59 WIB |
 | 1464 | <img src="https://cdn.idntimes.com/content-images/post/20260603/82ffac10-ee56-43d0-ad38-ce432384cfe5-260603221909.jpg" width="170"> | Gita JKT48 | Gits | Rabu, 03 Juni 2026 pukul 22.19.23 WIB |
