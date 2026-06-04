@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1471 | <img src="https://cdn.idntimes.com/content-images/post/20260604/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260604150509.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Kamis, 04 Juni 2026 pukul 15.05.22 WIB |
+| 1470 | <img src="https://cdn.idntimes.com/content-images/post/20260604/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260604150459.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Kamis, 04 Juni 2026 pukul 15.05.16 WIB |
+| 1469 | <img src="https://cdn.idntimes.com/content-images/post/20260604/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260604150341.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 04 Juni 2026 pukul 15.03.49 WIB |
+| 1468 | <img src="https://cdn.idntimes.com/content-images/post/20260604/e0ececb4-71d8-4f32-a221-ef21634a746a-260604144301.jpg" width="170"> | Elin JKT48 | Haiiiiiiihaiiiii | Kamis, 04 Juni 2026 pukul 14.43.12 WIB |
 | 1467 | <img src="https://cdn.idntimes.com/content-images/post/20260604/f9500eb4-9d6d-491d-a857-40ca6f862d61-260604111220.jpg" width="170"> | Auwia JKT48 | Podcast muka  | Kamis, 04 Juni 2026 pukul 11.12.35 WIB |
 | 1466 | <img src="https://cdn.idntimes.com/content-images/post/20260603/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260603225244.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Rabu, 03 Juni 2026 pukul 22.52.51 WIB |
 | 1465 | <img src="https://cdn.idntimes.com/content-images/post/20260603/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260603222247.jpg" width="170"> | Erine JKT48 | Erin | Rabu, 03 Juni 2026 pukul 22.22.59 WIB |
