@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1479 | <img src="https://cdn.idntimes.com/content-images/post/20260605/74e76417-0353-487f-b9b7-7520c0398e87-260605184947.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Jumat, 05 Juni 2026 pukul 18.49.57 WIB |
 | 1478 | <img src="https://cdn.idntimes.com/content-images/post/20260604/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260604210829.jpg" width="170"> | Lily JKT48 | Maaf | Kamis, 04 Juni 2026 pukul 21.08.37 WIB |
 | 1477 | <img src="https://cdn.idntimes.com/content-images/post/20260604/21a420b0-dd01-4daa-b185-b9020f8bf69d-260604210221.jpg" width="170"> | Nachia JKT48 | hai | Kamis, 04 Juni 2026 pukul 21.02.29 WIB |
 | 1476 | <img src="https://cdn.idntimes.com/content-images/post/20260604/266ef38a-da00-4d13-ba77-f94da68599ee-260604202040.jpg" width="170"> | Delynn JKT48 | hi | Kamis, 04 Juni 2026 pukul 20.20.57 WIB |
