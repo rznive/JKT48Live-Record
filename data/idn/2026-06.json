@@ -448,5 +448,25 @@
     "live_at_unix": 1780744088,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260606/728d224e-6ccb-43d2-a029-a0147dc7fdee-260606180749.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.rjVZYmbffgGE.m3u8"
+  },
+  {
+    "id": 1487,
+    "username": "jkt48_kathrina",
+    "creator_name": "Kathrina JKT48",
+    "title": "Wupwup",
+    "live_at": "Sabtu, 06 Juni 2026 pukul 18.28.27 WIB",
+    "live_at_unix": 1780745307,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260606/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260606182813.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
+  },
+  {
+    "id": 1488,
+    "username": "jkt48_muthe",
+    "creator_name": "Muthe JKT48",
+    "title": "Hi",
+    "live_at": "Sabtu, 06 Juni 2026 pukul 18.36.36 WIB",
+    "live_at_unix": 1780745796,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260606/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260606183628.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sm9AmQPkGDGS.m3u8"
   }
 ]
