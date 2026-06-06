@@ -378,5 +378,25 @@
     "live_at_unix": 1780660197,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260605/74e76417-0353-487f-b9b7-7520c0398e87-260605184947.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sLZkhRvMutd4.m3u8"
+  },
+  {
+    "id": 1480,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Radioly",
+    "live_at": "Sabtu, 06 Juni 2026 pukul 11.31.16 WIB",
+    "live_at_unix": 1780720276,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260606/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260606113109.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
+  },
+  {
+    "id": 1481,
+    "username": "jkt48_olla",
+    "creator_name": "Olla JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 06 Juni 2026 pukul 11.50.59 WIB",
+    "live_at_unix": 1780721459,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260606/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260606115045.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8"
   }
 ]
