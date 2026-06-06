@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1491 | <img src="https://cdn.idntimes.com/content-images/post/20260606/a9579a29-9203-40c0-9326-9837b8eae6e8-260606205513.jpg" width="170"> | Jessi JKT48 | p | Sabtu, 06 Juni 2026 pukul 20.55.19 WIB |
+| 1490 | <img src="https://cdn.idntimes.com/content-images/post/20260606/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260606204730.jpg" width="170"> | Levi JKT48 | hai | Sabtu, 06 Juni 2026 pukul 20.47.35 WIB |
+| 1489 | <img src="https://cdn.idntimes.com/content-images/post/20260606/82ffac10-ee56-43d0-ad38-ce432384cfe5-260606203846.jpg" width="170"> | Gita JKT48 | Gits | Sabtu, 06 Juni 2026 pukul 20.39.01 WIB |
 | 1488 | <img src="https://cdn.idntimes.com/content-images/post/20260606/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260606183628.jpg" width="170"> | Muthe JKT48 | Hi | Sabtu, 06 Juni 2026 pukul 18.36.36 WIB |
 | 1487 | <img src="https://cdn.idntimes.com/content-images/post/20260606/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260606182813.jpg" width="170"> | Kathrina JKT48 | Wupwup | Sabtu, 06 Juni 2026 pukul 18.28.27 WIB |
 | 1486 | <img src="https://cdn.idntimes.com/content-images/post/20260606/728d224e-6ccb-43d2-a029-a0147dc7fdee-260606180749.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Sabtu, 06 Juni 2026 pukul 18.08.08 WIB |
