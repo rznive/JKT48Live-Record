@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1494 | <img src="https://cdn.idntimes.com/content-images/post/20260606/539f5185-1414-416c-b84d-2ad366b6d60a-260606222017.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Sabtu, 06 Juni 2026 pukul 22.20.26 WIB |
+| 1493 | <img src="https://cdn.idntimes.com/content-images/post/20260606/147e83c8-f3ac-4680-9141-2f518b4b7810-260606221918.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Sabtu, 06 Juni 2026 pukul 22.19.35 WIB |
+| 1492 | <img src="https://cdn.idntimes.com/content-images/post/20260606/a5c72141-65a3-47be-86ef-1dc1feaab10d-260606221607.jpg" width="170"> | Anindya JKT48 | HOLA | Sabtu, 06 Juni 2026 pukul 22.16.17 WIB |
 | 1491 | <img src="https://cdn.idntimes.com/content-images/post/20260606/a9579a29-9203-40c0-9326-9837b8eae6e8-260606205513.jpg" width="170"> | Jessi JKT48 | p | Sabtu, 06 Juni 2026 pukul 20.55.19 WIB |
 | 1490 | <img src="https://cdn.idntimes.com/content-images/post/20260606/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260606204730.jpg" width="170"> | Levi JKT48 | hai | Sabtu, 06 Juni 2026 pukul 20.47.35 WIB |
 | 1489 | <img src="https://cdn.idntimes.com/content-images/post/20260606/82ffac10-ee56-43d0-ad38-ce432384cfe5-260606203846.jpg" width="170"> | Gita JKT48 | Gits | Sabtu, 06 Juni 2026 pukul 20.39.01 WIB |
