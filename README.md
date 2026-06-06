@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1496 | <img src="https://cdn.idntimes.com/content-images/post/20260606/4f795073-38c9-4df7-9388-74b83de69801-260606233127.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 06 Juni 2026 pukul 23.31.41 WIB |
+| 1495 | <img src="https://cdn.idntimes.com/content-images/post/20260606/85f369d7-6525-41c0-94b8-9a56686713eb-260606230626.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Sabtu, 06 Juni 2026 pukul 23.06.40 WIB |
 | 1494 | <img src="https://cdn.idntimes.com/content-images/post/20260606/539f5185-1414-416c-b84d-2ad366b6d60a-260606222017.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Sabtu, 06 Juni 2026 pukul 22.20.26 WIB |
 | 1493 | <img src="https://cdn.idntimes.com/content-images/post/20260606/147e83c8-f3ac-4680-9141-2f518b4b7810-260606221918.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Sabtu, 06 Juni 2026 pukul 22.19.35 WIB |
 | 1492 | <img src="https://cdn.idntimes.com/content-images/post/20260606/a5c72141-65a3-47be-86ef-1dc1feaab10d-260606221607.jpg" width="170"> | Anindya JKT48 | HOLA | Sabtu, 06 Juni 2026 pukul 22.16.17 WIB |
