@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1497 | <img src="https://cdn.idntimes.com/content-images/post/20260607/f740e9da-772f-4ae2-8ddd-49f717aacf63-260607004009.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 00.40.19 WIB |
 | 1496 | <img src="https://cdn.idntimes.com/content-images/post/20260606/4f795073-38c9-4df7-9388-74b83de69801-260606233127.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 06 Juni 2026 pukul 23.31.41 WIB |
 | 1495 | <img src="https://cdn.idntimes.com/content-images/post/20260606/85f369d7-6525-41c0-94b8-9a56686713eb-260606230626.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Sabtu, 06 Juni 2026 pukul 23.06.40 WIB |
 | 1494 | <img src="https://cdn.idntimes.com/content-images/post/20260606/539f5185-1414-416c-b84d-2ad366b6d60a-260606222017.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Sabtu, 06 Juni 2026 pukul 22.20.26 WIB |
