@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1486 | <img src="https://cdn.idntimes.com/content-images/post/20260606/728d224e-6ccb-43d2-a029-a0147dc7fdee-260606180749.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Sabtu, 06 Juni 2026 pukul 18.08.08 WIB |
+| 1485 | <img src="https://cdn.idntimes.com/content-images/post/20260606/f001ba66-3c51-4849-9afa-13cf74eb1571-260606180752.jpg" width="170"> | Aralie JKT48 | hi | Sabtu, 06 Juni 2026 pukul 18.08.05 WIB |
+| 1484 | <img src="https://cdn.idntimes.com/content-images/post/20260606/a9579a29-9203-40c0-9326-9837b8eae6e8-260606180236.jpg" width="170"> | Jessi JKT48 | mam | Sabtu, 06 Juni 2026 pukul 18.02.52 WIB |
+| 1483 | <img src="https://cdn.idntimes.com/content-images/post/20260606/a557ba58-12d8-4260-bd50-9e5252ac71ef-260606172516.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Sabtu, 06 Juni 2026 pukul 17.25.29 WIB |
 | 1482 | <img src="https://cdn.idntimes.com/content-images/post/20260606/21a420b0-dd01-4daa-b185-b9020f8bf69d-260606135349.jpg" width="170"> | Nachia JKT48 | brewek | Sabtu, 06 Juni 2026 pukul 13.53.57 WIB |
 | 1481 | <img src="https://cdn.idntimes.com/content-images/post/20260606/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260606115045.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Sabtu, 06 Juni 2026 pukul 11.50.59 WIB |
 | 1480 | <img src="https://cdn.idntimes.com/content-images/post/20260606/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260606113109.jpg" width="170"> | Lily JKT48 | Radioly | Sabtu, 06 Juni 2026 pukul 11.31.16 WIB |

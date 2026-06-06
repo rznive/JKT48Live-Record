@@ -408,5 +408,45 @@
     "live_at_unix": 1780728837,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260606/21a420b0-dd01-4daa-b185-b9020f8bf69d-260606135349.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8"
+  },
+  {
+    "id": 1483,
+    "username": "jkt48_mikaela",
+    "creator_name": "Mikaela JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 06 Juni 2026 pukul 17.25.29 WIB",
+    "live_at_unix": 1780741529,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260606/a557ba58-12d8-4260-bd50-9e5252ac71ef-260606172516.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
+  },
+  {
+    "id": 1484,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "mam",
+    "live_at": "Sabtu, 06 Juni 2026 pukul 18.02.52 WIB",
+    "live_at_unix": 1780743772,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260606/a9579a29-9203-40c0-9326-9837b8eae6e8-260606180236.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 1485,
+    "username": "jkt48_aralie",
+    "creator_name": "Aralie JKT48",
+    "title": "hi",
+    "live_at": "Sabtu, 06 Juni 2026 pukul 18.08.05 WIB",
+    "live_at_unix": 1780744085,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260606/f001ba66-3c51-4849-9afa-13cf74eb1571-260606180752.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oxXRFBYUK9HN.m3u8"
+  },
+  {
+    "id": 1486,
+    "username": "jkt48_raisha",
+    "creator_name": "Raisha JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 06 Juni 2026 pukul 18.08.08 WIB",
+    "live_at_unix": 1780744088,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260606/728d224e-6ccb-43d2-a029-a0147dc7fdee-260606180749.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.rjVZYmbffgGE.m3u8"
   }
 ]
