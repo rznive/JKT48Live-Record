@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1520 | <img src="https://cdn.idntimes.com/content-images/post/20260607/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260607223729.jpg" width="170"> | Intan JKT48 | bub | Minggu, 07 Juni 2026 pukul 22.37.46 WIB |
+| 1519 | <img src="https://cdn.idntimes.com/content-images/post/20260607/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260607223720.jpg" width="170"> | Lily JKT48 | Hellou | Minggu, 07 Juni 2026 pukul 22.37.27 WIB |
+| 1518 | <img src="https://cdn.idntimes.com/content-images/post/20260607/92d66abb-0171-4a2b-a30d-37ad58359248-260607222800.jpg" width="170"> | Trisha JKT48 | haii | Minggu, 07 Juni 2026 pukul 22.28.08 WIB |
+| 1517 | <img src="https://cdn.idntimes.com/content-images/post/20260607/cae4d972-5f14-4512-9706-37c1802a0541-260607215722.jpg" width="170"> | Gracie JKT48 | hiii | Minggu, 07 Juni 2026 pukul 21.57.39 WIB |
+| 1516 | <img src="https://cdn.idntimes.com/content-images/post/20260607/e2af7271-2598-4ee8-8760-68043e671e6d-260607215624.jpg" width="170"> | Lana JKT48 | Hai | Minggu, 07 Juni 2026 pukul 21.56.32 WIB |
+| 1515 | <img src="https://cdn.idntimes.com/content-images/post/20260607/15dfee86-a928-4a15-8c90-6aa21097d0ff-260607215505.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 21.55.13 WIB |
+| 1514 | <img src="https://cdn.idntimes.com/content-images/post/20260607/717109e0-a064-4f15-8187-5c4d46e56a58-260607215328.jpg" width="170"> | Fritzy JKT48 | unboxing & brewekkk | Minggu, 07 Juni 2026 pukul 21.53.41 WIB |
 | 1513 | <img src="https://cdn.idntimes.com/content-images/post/20260607/a5c72141-65a3-47be-86ef-1dc1feaab10d-260607205809.jpg" width="170"> | Anindya JKT48 | HOLA | Minggu, 07 Juni 2026 pukul 20.58.19 WIB |
 | 1512 | <img src="https://cdn.idntimes.com/content-images/post/20260607/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260607205538.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 20.55.51 WIB |
 | 1511 | <img src="https://cdn.idntimes.com/content-images/post/20260607/7599c984-c466-4962-8c5b-73c1d33d59d9-260607203943.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 20.39.54 WIB |
