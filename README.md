@@ -2,6 +2,16 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1507 | <img src="https://cdn.idntimes.com/content-images/post/20260607/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260607114631.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 11.46.38 WIB |
+| 1506 | <img src="https://cdn.idntimes.com/content-images/post/20260607/21a420b0-dd01-4daa-b185-b9020f8bf69d-260607112830.jpg" width="170"> | Nachia JKT48 | brewek | Minggu, 07 Juni 2026 pukul 11.28.47 WIB |
+| 1505 | <img src="https://cdn.idntimes.com/content-images/post/20260607/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260607112803.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 11.28.10 WIB |
+| 1504 | <img src="https://cdn.idntimes.com/content-images/post/20260607/266ef38a-da00-4d13-ba77-f94da68599ee-260607112548.jpg" width="170"> | Delynn JKT48 | oy pagi | Minggu, 07 Juni 2026 pukul 11.26.02 WIB |
+| 1503 | <img src="https://cdn.idntimes.com/content-images/post/20260607/a2b5d818-475d-44ce-af52-e99526482aaf-260607112531.jpg" width="170"> | Oline JKT48 | kk | Minggu, 07 Juni 2026 pukul 11.25.43 WIB |
+| 1502 | <img src="https://cdn.idntimes.com/content-images/post/20260607/82ffac10-ee56-43d0-ad38-ce432384cfe5-260607112513.jpg" width="170"> | Gita JKT48 | Gits | Minggu, 07 Juni 2026 pukul 11.25.28 WIB |
+| 1501 | <img src="https://cdn.idntimes.com/content-images/post/20260607/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260607112507.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 11.25.20 WIB |
+| 1500 | <img src="https://cdn.idntimes.com/content-images/post/20260607/b0d1e6c3-d356-4b00-8d00-846e5297693b-260607112422.jpg" width="170"> | Ella JKT48 | aloo | Minggu, 07 Juni 2026 pukul 11.24.33 WIB |
+| 1499 | <img src="https://cdn.idntimes.com/content-images/post/20260607/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260607112424.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 11.24.32 WIB |
+| 1498 | <img src="https://cdn.idntimes.com/content-images/post/20260607/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260607112422.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 11.24.31 WIB |
 | 1497 | <img src="https://cdn.idntimes.com/content-images/post/20260607/f740e9da-772f-4ae2-8ddd-49f717aacf63-260607004009.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 00.40.19 WIB |
 | 1496 | <img src="https://cdn.idntimes.com/content-images/post/20260606/4f795073-38c9-4df7-9388-74b83de69801-260606233127.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 06 Juni 2026 pukul 23.31.41 WIB |
 | 1495 | <img src="https://cdn.idntimes.com/content-images/post/20260606/85f369d7-6525-41c0-94b8-9a56686713eb-260606230626.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Sabtu, 06 Juni 2026 pukul 23.06.40 WIB |
