@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1508 | <img src="https://cdn.idntimes.com/content-images/post/20260607/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260607154223.jpg" width="170"> | Eli JKT48 | Lanjut belajar | Minggu, 07 Juni 2026 pukul 15.42.33 WIB |
 | 1507 | <img src="https://cdn.idntimes.com/content-images/post/20260607/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260607114631.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 11.46.38 WIB |
 | 1506 | <img src="https://cdn.idntimes.com/content-images/post/20260607/21a420b0-dd01-4daa-b185-b9020f8bf69d-260607112830.jpg" width="170"> | Nachia JKT48 | brewek | Minggu, 07 Juni 2026 pukul 11.28.47 WIB |
 | 1505 | <img src="https://cdn.idntimes.com/content-images/post/20260607/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260607112803.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 11.28.10 WIB |
