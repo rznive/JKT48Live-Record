@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1522 | <img src="https://cdn.idntimes.com/content-images/post/20260607/85f369d7-6525-41c0-94b8-9a56686713eb-260607230620.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 23.06.33 WIB |
+| 1521 | <img src="https://cdn.idntimes.com/content-images/post/20260607/a557ba58-12d8-4260-bd50-9e5252ac71ef-260607230102.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 23.01.15 WIB |
 | 1520 | <img src="https://cdn.idntimes.com/content-images/post/20260607/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260607223729.jpg" width="170"> | Intan JKT48 | bub | Minggu, 07 Juni 2026 pukul 22.37.46 WIB |
 | 1519 | <img src="https://cdn.idntimes.com/content-images/post/20260607/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260607223720.jpg" width="170"> | Lily JKT48 | Hellou | Minggu, 07 Juni 2026 pukul 22.37.27 WIB |
 | 1518 | <img src="https://cdn.idntimes.com/content-images/post/20260607/92d66abb-0171-4a2b-a30d-37ad58359248-260607222800.jpg" width="170"> | Trisha JKT48 | haii | Minggu, 07 Juni 2026 pukul 22.28.08 WIB |
