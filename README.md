@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1513 | <img src="https://cdn.idntimes.com/content-images/post/20260607/a5c72141-65a3-47be-86ef-1dc1feaab10d-260607205809.jpg" width="170"> | Anindya JKT48 | HOLA | Minggu, 07 Juni 2026 pukul 20.58.19 WIB |
+| 1512 | <img src="https://cdn.idntimes.com/content-images/post/20260607/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260607205538.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 20.55.51 WIB |
+| 1511 | <img src="https://cdn.idntimes.com/content-images/post/20260607/7599c984-c466-4962-8c5b-73c1d33d59d9-260607203943.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 20.39.54 WIB |
+| 1510 | <img src="https://cdn.idntimes.com/content-images/post/20260607/147e83c8-f3ac-4680-9141-2f518b4b7810-260607202027.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 20.20.41 WIB |
 | 1509 | <img src="https://cdn.idntimes.com/content-images/post/20260607/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260607182409.jpg" width="170"> | Giaa JKT48 | haiii | Minggu, 07 Juni 2026 pukul 18.24.16 WIB |
 | 1508 | <img src="https://cdn.idntimes.com/content-images/post/20260607/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260607154223.jpg" width="170"> | Eli JKT48 | Lanjut belajar | Minggu, 07 Juni 2026 pukul 15.42.33 WIB |
 | 1507 | <img src="https://cdn.idntimes.com/content-images/post/20260607/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260607114631.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 11.46.38 WIB |
