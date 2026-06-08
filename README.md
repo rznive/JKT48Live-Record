@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1529 | <img src="https://cdn.idntimes.com/content-images/post/20260608/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260608182938.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Senin, 08 Juni 2026 pukul 18.29.48 WIB |
+| 1528 | <img src="https://cdn.idntimes.com/content-images/post/20260608/15dfee86-a928-4a15-8c90-6aa21097d0ff-260608182451.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Senin, 08 Juni 2026 pukul 18.25.06 WIB |
+| 1527 | <img src="https://cdn.idntimes.com/content-images/post/20260608/f9500eb4-9d6d-491d-a857-40ca6f862d61-260608180355.jpg" width="170"> | Auwia JKT48 | QnA sambil ngobrol | Senin, 08 Juni 2026 pukul 18.04.11 WIB |
+| 1526 | <img src="https://cdn.idntimes.com/content-images/post/20260608/33139b05-1c43-4b48-bba3-ec960b18b36e-260608175006.jpg" width="170"> | Danella JKT48 | Hi | Senin, 08 Juni 2026 pukul 17.50.14 WIB |
+| 1525 | <img src="https://cdn.idntimes.com/content-images/post/20260608/b11b0692-d0b8-464c-849a-9e81439a048c-260608175004.jpg" width="170"> | Daisy JKT48 | Haiii | Senin, 08 Juni 2026 pukul 17.50.11 WIB |
+| 1524 | <img src="https://cdn.idntimes.com/content-images/post/20260608/e9170998-f026-4186-bbc5-a17a3b5b2af1-260608172143.jpg" width="170"> | Rilly JKT48 | Yaurrrrr | Senin, 08 Juni 2026 pukul 17.21.53 WIB |
 | 1523 | <img src="https://cdn.idntimes.com/content-images/post/20260608/f740e9da-772f-4ae2-8ddd-49f717aacf63-260608002547.jpg" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Senin, 08 Juni 2026 pukul 00.25.55 WIB |
 | 1522 | <img src="https://cdn.idntimes.com/content-images/post/20260607/85f369d7-6525-41c0-94b8-9a56686713eb-260607230620.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 23.06.33 WIB |
 | 1521 | <img src="https://cdn.idntimes.com/content-images/post/20260607/a557ba58-12d8-4260-bd50-9e5252ac71ef-260607230102.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 07 Juni 2026 pukul 23.01.15 WIB |
