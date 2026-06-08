@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1532 | <img src="https://cdn.idntimes.com/content-images/post/20260608/cae4d972-5f14-4512-9706-37c1802a0541-260608211621.jpg" width="170"> | Gracie JKT48 | hiii | Senin, 08 Juni 2026 pukul 21.16.42 WIB |
+| 1531 | <img src="https://cdn.idntimes.com/content-images/post/20260608/a5c72141-65a3-47be-86ef-1dc1feaab10d-260608210640.jpg" width="170"> | Anindya JKT48 | HOLA | Senin, 08 Juni 2026 pukul 21.06.55 WIB |
+| 1530 | <img src="https://cdn.idntimes.com/content-images/post/20260608/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260608203613.jpg" width="170"> | Giaa JKT48 | haiii | Senin, 08 Juni 2026 pukul 20.36.22 WIB |
 | 1529 | <img src="https://cdn.idntimes.com/content-images/post/20260608/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260608182938.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Senin, 08 Juni 2026 pukul 18.29.48 WIB |
 | 1528 | <img src="https://cdn.idntimes.com/content-images/post/20260608/15dfee86-a928-4a15-8c90-6aa21097d0ff-260608182451.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Senin, 08 Juni 2026 pukul 18.25.06 WIB |
 | 1527 | <img src="https://cdn.idntimes.com/content-images/post/20260608/f9500eb4-9d6d-491d-a857-40ca6f862d61-260608180355.jpg" width="170"> | Auwia JKT48 | QnA sambil ngobrol | Senin, 08 Juni 2026 pukul 18.04.11 WIB |

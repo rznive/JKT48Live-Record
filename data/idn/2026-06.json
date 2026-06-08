@@ -878,5 +878,35 @@
     "live_at_unix": 1780918188,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260608/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260608182938.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8"
+  },
+  {
+    "id": 1530,
+    "username": "jkt48_giaa",
+    "creator_name": "Giaa JKT48",
+    "title": "haiii",
+    "live_at": "Senin, 08 Juni 2026 pukul 20.36.22 WIB",
+    "live_at_unix": 1780925782,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260608/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260608203613.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
+  },
+  {
+    "id": 1531,
+    "username": "jkt48_anindya",
+    "creator_name": "Anindya JKT48",
+    "title": "HOLA",
+    "live_at": "Senin, 08 Juni 2026 pukul 21.06.55 WIB",
+    "live_at_unix": 1780927615,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260608/a5c72141-65a3-47be-86ef-1dc1feaab10d-260608210640.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8"
+  },
+  {
+    "id": 1532,
+    "username": "jkt48_gracie",
+    "creator_name": "Gracie JKT48",
+    "title": "hiii",
+    "live_at": "Senin, 08 Juni 2026 pukul 21.16.42 WIB",
+    "live_at_unix": 1780928202,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260608/cae4d972-5f14-4512-9706-37c1802a0541-260608211621.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ztIO0UisaA3P.m3u8"
   }
 ]
