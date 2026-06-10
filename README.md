@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1548 | <img src="https://cdn.idntimes.com/content-images/post/20260610/539f5185-1414-416c-b84d-2ad366b6d60a-260610184222.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Rabu, 10 Juni 2026 pukul 18.42.32 WIB |
 | 1547 | <img src="https://cdn.idntimes.com/content-images/post/20260610/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260610165714.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Rabu, 10 Juni 2026 pukul 16.57.20 WIB |
 | 1546 | <img src="https://cdn.idntimes.com/content-images/post/20260610/e9170998-f026-4186-bbc5-a17a3b5b2af1-260610165217.jpg" width="170"> | Rilly JKT48 | Yaurrrrr | Rabu, 10 Juni 2026 pukul 16.52.27 WIB |
 | 1545 | <img src="https://cdn.idntimes.com/content-images/post/20260610/f9500eb4-9d6d-491d-a857-40ca6f862d61-260610165133.jpg" width="170"> | Auwia JKT48 | Grwm | Rabu, 10 Juni 2026 pukul 16.51.47 WIB |
