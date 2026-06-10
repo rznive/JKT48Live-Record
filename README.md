@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1547 | <img src="https://cdn.idntimes.com/content-images/post/20260610/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260610165714.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Rabu, 10 Juni 2026 pukul 16.57.20 WIB |
+| 1546 | <img src="https://cdn.idntimes.com/content-images/post/20260610/e9170998-f026-4186-bbc5-a17a3b5b2af1-260610165217.jpg" width="170"> | Rilly JKT48 | Yaurrrrr | Rabu, 10 Juni 2026 pukul 16.52.27 WIB |
+| 1545 | <img src="https://cdn.idntimes.com/content-images/post/20260610/f9500eb4-9d6d-491d-a857-40ca6f862d61-260610165133.jpg" width="170"> | Auwia JKT48 | Grwm | Rabu, 10 Juni 2026 pukul 16.51.47 WIB |
+| 1544 | <img src="https://cdn.idntimes.com/content-images/post/20260610/21a420b0-dd01-4daa-b185-b9020f8bf69d-260610164919.jpg" width="170"> | Nachia JKT48 | mekapp | Rabu, 10 Juni 2026 pukul 16.49.26 WIB |
+| 1543 | <img src="https://cdn.idntimes.com/content-images/post/20260610/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260610164031.jpg" width="170"> | Muthe JKT48 | Hi | Rabu, 10 Juni 2026 pukul 16.40.38 WIB |
+| 1542 | <img src="https://cdn.idntimes.com/content-images/post/20260610/4f795073-38c9-4df7-9388-74b83de69801-260610162952.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 10 Juni 2026 pukul 16.30.09 WIB |
 | 1541 | <img src="https://cdn.idntimes.com/content-images/post/20260610/b11b0692-d0b8-464c-849a-9e81439a048c-260610125852.jpg" width="170"> | Daisy JKT48 | Haiii | Rabu, 10 Juni 2026 pukul 12.58.59 WIB |
 | 1540 | <img src="https://cdn.idntimes.com/content-images/post/20260610/33139b05-1c43-4b48-bba3-ec960b18b36e-260610124434.jpg" width="170"> | Danella JKT48 | Hi | Rabu, 10 Juni 2026 pukul 12.44.41 WIB |
 | 1539 | <img src="https://cdn.idntimes.com/content-images/post/20260609/a557ba58-12d8-4260-bd50-9e5252ac71ef-260609154752.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 09 Juni 2026 pukul 15.48.04 WIB |
