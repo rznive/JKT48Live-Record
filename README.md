@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1541 | <img src="https://cdn.idntimes.com/content-images/post/20260610/b11b0692-d0b8-464c-849a-9e81439a048c-260610125852.jpg" width="170"> | Daisy JKT48 | Haiii | Rabu, 10 Juni 2026 pukul 12.58.59 WIB |
+| 1540 | <img src="https://cdn.idntimes.com/content-images/post/20260610/33139b05-1c43-4b48-bba3-ec960b18b36e-260610124434.jpg" width="170"> | Danella JKT48 | Hi | Rabu, 10 Juni 2026 pukul 12.44.41 WIB |
 | 1539 | <img src="https://cdn.idntimes.com/content-images/post/20260609/a557ba58-12d8-4260-bd50-9e5252ac71ef-260609154752.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 09 Juni 2026 pukul 15.48.04 WIB |
 | 1538 | <img src="https://cdn.idntimes.com/content-images/post/20260609/f9500eb4-9d6d-491d-a857-40ca6f862d61-260609154731.jpg" width="170"> | Auwia JKT48 | Grwm | Selasa, 09 Juni 2026 pukul 15.47.46 WIB |
 | 1537 | <img src="https://cdn.idntimes.com/content-images/post/20260609/50a27780-93e7-4e40-8474-60f6e0cca6da-260609154554.jpg" width="170"> | JKT48 | TEMEN MAIN EP.2!!!! | Selasa, 09 Juni 2026 pukul 15.46.01 WIB |
