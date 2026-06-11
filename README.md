@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1554 | <img src="https://cdn.idntimes.com/content-images/post/20260611/4f795073-38c9-4df7-9388-74b83de69801-260611175737.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 11 Juni 2026 pukul 17.57.48 WIB |
+| 1553 | <img src="https://cdn.idntimes.com/content-images/post/20260611/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260611172155.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 11 Juni 2026 pukul 17.22.04 WIB |
+| 1552 | <img src="https://cdn.idntimes.com/content-images/post/20260611/f9500eb4-9d6d-491d-a857-40ca6f862d61-260611165852.jpg" width="170"> | Auwia JKT48 | Radio ngobrol ajaaahhh hehe | Kamis, 11 Juni 2026 pukul 16.59.07 WIB |
 | 1551 | <img src="https://cdn.idntimes.com/content-images/post/20260611/b11b0692-d0b8-464c-849a-9e81439a048c-260611125320.jpg" width="170"> | Daisy JKT48 | Haiii | Kamis, 11 Juni 2026 pukul 12.53.26 WIB |
 | 1550 | <img src="https://cdn.idntimes.com/content-images/post/20260611/33139b05-1c43-4b48-bba3-ec960b18b36e-260611125034.jpg" width="170"> | Danella JKT48 | Hi | Kamis, 11 Juni 2026 pukul 12.50.42 WIB |
 | 1549 | <img src="https://cdn.idntimes.com/content-images/post/20260611/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260611123004.jpg" width="170"> | Lily JKT48 | Hellou | Kamis, 11 Juni 2026 pukul 12.30.11 WIB |
