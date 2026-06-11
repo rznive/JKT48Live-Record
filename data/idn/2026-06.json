@@ -1128,5 +1128,55 @@
     "live_at_unix": 1781175468,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260611/4f795073-38c9-4df7-9388-74b83de69801-260611175737.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 1555,
+    "username": "jkt48_eli",
+    "creator_name": "Eli JKT48",
+    "title": "Lanjut belajar",
+    "live_at": "Kamis, 11 Juni 2026 pukul 19.09.28 WIB",
+    "live_at_unix": 1781179768,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260611/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260611190920.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8"
+  },
+  {
+    "id": 1556,
+    "username": "jkt48_jemima",
+    "creator_name": "Jemima JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 11 Juni 2026 pukul 20.14.13 WIB",
+    "live_at_unix": 1781183653,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260611/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260611201400.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 1557,
+    "username": "jkt48_indah",
+    "creator_name": "Indah JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 11 Juni 2026 pukul 20.35.04 WIB",
+    "live_at_unix": 1781184904,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260611/539f5185-1414-416c-b84d-2ad366b6d60a-260611203454.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oKpAUHJSe6RM.m3u8"
+  },
+  {
+    "id": 1558,
+    "username": "jkt48_erine",
+    "creator_name": "Erine JKT48",
+    "title": "Erin",
+    "live_at": "Kamis, 11 Juni 2026 pukul 20.37.55 WIB",
+    "live_at_unix": 1781185075,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260611/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260611203743.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.0nMPtjEVo1Ds.m3u8"
+  },
+  {
+    "id": 1559,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Haii",
+    "live_at": "Kamis, 11 Juni 2026 pukul 21.11.50 WIB",
+    "live_at_unix": 1781187110,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260611/e2af7271-2598-4ee8-8760-68043e671e6d-260611211142.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
   }
 ]

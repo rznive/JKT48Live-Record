@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1559 | <img src="https://cdn.idntimes.com/content-images/post/20260611/e2af7271-2598-4ee8-8760-68043e671e6d-260611211142.jpg" width="170"> | Lana JKT48 | Haii | Kamis, 11 Juni 2026 pukul 21.11.50 WIB |
+| 1558 | <img src="https://cdn.idntimes.com/content-images/post/20260611/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260611203743.jpg" width="170"> | Erine JKT48 | Erin | Kamis, 11 Juni 2026 pukul 20.37.55 WIB |
+| 1557 | <img src="https://cdn.idntimes.com/content-images/post/20260611/539f5185-1414-416c-b84d-2ad366b6d60a-260611203454.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Kamis, 11 Juni 2026 pukul 20.35.04 WIB |
+| 1556 | <img src="https://cdn.idntimes.com/content-images/post/20260611/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260611201400.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Kamis, 11 Juni 2026 pukul 20.14.13 WIB |
+| 1555 | <img src="https://cdn.idntimes.com/content-images/post/20260611/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260611190920.jpg" width="170"> | Eli JKT48 | Lanjut belajar | Kamis, 11 Juni 2026 pukul 19.09.28 WIB |
 | 1554 | <img src="https://cdn.idntimes.com/content-images/post/20260611/4f795073-38c9-4df7-9388-74b83de69801-260611175737.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 11 Juni 2026 pukul 17.57.48 WIB |
 | 1553 | <img src="https://cdn.idntimes.com/content-images/post/20260611/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260611172155.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 11 Juni 2026 pukul 17.22.04 WIB |
 | 1552 | <img src="https://cdn.idntimes.com/content-images/post/20260611/f9500eb4-9d6d-491d-a857-40ca6f862d61-260611165852.jpg" width="170"> | Auwia JKT48 | Radio ngobrol ajaaahhh hehe | Kamis, 11 Juni 2026 pukul 16.59.07 WIB |
