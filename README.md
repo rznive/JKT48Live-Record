@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1570 | <img src="https://cdn.idntimes.com/content-images/post/20260614/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260614221022.jpg" width="170"> | Levi JKT48 | hai | Minggu, 14 Juni 2026 pukul 22.10.29 WIB |
+| 1569 | <img src="https://cdn.idntimes.com/content-images/post/20260614/147e83c8-f3ac-4680-9141-2f518b4b7810-260614213830.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 14 Juni 2026 pukul 21.38.43 WIB |
+| 1568 | <img src="https://cdn.idntimes.com/content-images/post/20260614/266ef38a-da00-4d13-ba77-f94da68599ee-260614213051.jpg" width="170"> | Delynn JKT48 | Hi | Minggu, 14 Juni 2026 pukul 21.31.00 WIB |
 | 1567 | <img src="https://cdn.idntimes.com/content-images/post/20260614/a557ba58-12d8-4260-bd50-9e5252ac71ef-260614212238.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 14 Juni 2026 pukul 21.22.50 WIB |
 | 1566 | <img src="https://cdn.idntimes.com/content-images/post/20260614/a9579a29-9203-40c0-9326-9837b8eae6e8-260614205615.jpg" width="170"> | Jessi JKT48 | radioooooo | Minggu, 14 Juni 2026 pukul 20.56.40 WIB |
 | 1565 | <img src="https://cdn.idntimes.com/content-images/post/20260614/717109e0-a064-4f15-8187-5c4d46e56a58-260614205013.jpg" width="170"> | Fritzy JKT48 | haii | Minggu, 14 Juni 2026 pukul 20.50.27 WIB |
