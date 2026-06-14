@@ -1218,5 +1218,45 @@
     "live_at_unix": 1781437156,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260614/15dfee86-a928-4a15-8c90-6aa21097d0ff-260614183908.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 1564,
+    "username": "jkt48_indah",
+    "creator_name": "Indah JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 14 Juni 2026 pukul 20.16.32 WIB",
+    "live_at_unix": 1781442992,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260614/539f5185-1414-416c-b84d-2ad366b6d60a-260614201623.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oKpAUHJSe6RM.m3u8"
+  },
+  {
+    "id": 1565,
+    "username": "jkt48_fritzy",
+    "creator_name": "Fritzy JKT48",
+    "title": "haii",
+    "live_at": "Minggu, 14 Juni 2026 pukul 20.50.27 WIB",
+    "live_at_unix": 1781445027,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260614/717109e0-a064-4f15-8187-5c4d46e56a58-260614205013.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
+  },
+  {
+    "id": 1566,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "radioooooo",
+    "live_at": "Minggu, 14 Juni 2026 pukul 20.56.40 WIB",
+    "live_at_unix": 1781445400,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260614/a9579a29-9203-40c0-9326-9837b8eae6e8-260614205615.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 1567,
+    "username": "jkt48_mikaela",
+    "creator_name": "Mikaela JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 14 Juni 2026 pukul 21.22.50 WIB",
+    "live_at_unix": 1781446970,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260614/a557ba58-12d8-4260-bd50-9e5252ac71ef-260614212238.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
   }
 ]
