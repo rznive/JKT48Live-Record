@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1572 | <img src="https://cdn.idntimes.com/content-images/post/20260614/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260614230906.jpg" width="170"> | Kathrina JKT48 | Lol | Minggu, 14 Juni 2026 pukul 23.09.13 WIB |
+| 1571 | <img src="https://cdn.idntimes.com/content-images/post/20260614/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260614230835.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 14 Juni 2026 pukul 23.08.41 WIB |
 | 1570 | <img src="https://cdn.idntimes.com/content-images/post/20260614/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260614221022.jpg" width="170"> | Levi JKT48 | hai | Minggu, 14 Juni 2026 pukul 22.10.29 WIB |
 | 1569 | <img src="https://cdn.idntimes.com/content-images/post/20260614/147e83c8-f3ac-4680-9141-2f518b4b7810-260614213830.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 14 Juni 2026 pukul 21.38.43 WIB |
 | 1568 | <img src="https://cdn.idntimes.com/content-images/post/20260614/266ef38a-da00-4d13-ba77-f94da68599ee-260614213051.jpg" width="170"> | Delynn JKT48 | Hi | Minggu, 14 Juni 2026 pukul 21.31.00 WIB |
