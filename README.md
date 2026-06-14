@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1562 | <img src="https://cdn.idntimes.com/content-images/post/20260614/21a420b0-dd01-4daa-b185-b9020f8bf69d-260614164547.jpg" width="170"> | Nachia JKT48 | mekapp | Minggu, 14 Juni 2026 pukul 16.46.00 WIB |
+| 1561 | <img src="https://cdn.idntimes.com/content-images/post/20260614/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260614164251.jpg" width="170"> | Nala JKT48 | 🤓 | Minggu, 14 Juni 2026 pukul 16.42.58 WIB |
+| 1560 | <img src="https://cdn.idntimes.com/content-images/post/20260614/ab901d82-db49-488c-8d03-da0082ab70e2-260614163128.jpg" width="170"> | Gendis JKT48 | Hi | Minggu, 14 Juni 2026 pukul 16.31.43 WIB |
 | 1559 | <img src="https://cdn.idntimes.com/content-images/post/20260611/e2af7271-2598-4ee8-8760-68043e671e6d-260611211142.jpg" width="170"> | Lana JKT48 | Haii | Kamis, 11 Juni 2026 pukul 21.11.50 WIB |
 | 1558 | <img src="https://cdn.idntimes.com/content-images/post/20260611/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260611203743.jpg" width="170"> | Erine JKT48 | Erin | Kamis, 11 Juni 2026 pukul 20.37.55 WIB |
 | 1557 | <img src="https://cdn.idntimes.com/content-images/post/20260611/539f5185-1414-416c-b84d-2ad366b6d60a-260611203454.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Kamis, 11 Juni 2026 pukul 20.35.04 WIB |

@@ -1178,5 +1178,35 @@
     "live_at_unix": 1781187110,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260611/e2af7271-2598-4ee8-8760-68043e671e6d-260611211142.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 1560,
+    "username": "jkt48_gendis",
+    "creator_name": "Gendis JKT48",
+    "title": "Hi",
+    "live_at": "Minggu, 14 Juni 2026 pukul 16.31.43 WIB",
+    "live_at_unix": 1781429503,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260614/ab901d82-db49-488c-8d03-da0082ab70e2-260614163128.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pIypkyH1I3k7.m3u8"
+  },
+  {
+    "id": 1561,
+    "username": "jkt48_nala",
+    "creator_name": "Nala JKT48",
+    "title": "🤓",
+    "live_at": "Minggu, 14 Juni 2026 pukul 16.42.58 WIB",
+    "live_at_unix": 1781430178,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260614/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260614164251.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.nCPKiODqPEOs.m3u8"
+  },
+  {
+    "id": 1562,
+    "username": "jkt48_nachia",
+    "creator_name": "Nachia JKT48",
+    "title": "mekapp",
+    "live_at": "Minggu, 14 Juni 2026 pukul 16.46.00 WIB",
+    "live_at_unix": 1781430360,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260614/21a420b0-dd01-4daa-b185-b9020f8bf69d-260614164547.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8"
   }
 ]
