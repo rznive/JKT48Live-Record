@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1563 | <img src="https://cdn.idntimes.com/content-images/post/20260614/15dfee86-a928-4a15-8c90-6aa21097d0ff-260614183908.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 14 Juni 2026 pukul 18.39.16 WIB |
 | 1562 | <img src="https://cdn.idntimes.com/content-images/post/20260614/21a420b0-dd01-4daa-b185-b9020f8bf69d-260614164547.jpg" width="170"> | Nachia JKT48 | mekapp | Minggu, 14 Juni 2026 pukul 16.46.00 WIB |
 | 1561 | <img src="https://cdn.idntimes.com/content-images/post/20260614/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260614164251.jpg" width="170"> | Nala JKT48 | 🤓 | Minggu, 14 Juni 2026 pukul 16.42.58 WIB |
 | 1560 | <img src="https://cdn.idntimes.com/content-images/post/20260614/ab901d82-db49-488c-8d03-da0082ab70e2-260614163128.jpg" width="170"> | Gendis JKT48 | Hi | Minggu, 14 Juni 2026 pukul 16.31.43 WIB |
