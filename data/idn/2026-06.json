@@ -1318,5 +1318,55 @@
     "live_at_unix": 1781503643,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260615/7599c984-c466-4962-8c5b-73c1d33d59d9-260615130714.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
+  },
+  {
+    "id": 1574,
+    "username": "jkt48_kathrina",
+    "creator_name": "Kathrina JKT48",
+    "title": "Lol",
+    "live_at": "Senin, 15 Juni 2026 pukul 19.28.42 WIB",
+    "live_at_unix": 1781526522,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260615/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260615192835.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
+  },
+  {
+    "id": 1575,
+    "username": "jkt48_daisy",
+    "creator_name": "Daisy JKT48",
+    "title": "Haiii",
+    "live_at": "Senin, 15 Juni 2026 pukul 19.47.55 WIB",
+    "live_at_unix": 1781527675,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260615/b11b0692-d0b8-464c-849a-9e81439a048c-260615194748.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
+  },
+  {
+    "id": 1576,
+    "username": "jkt48_trisha",
+    "creator_name": "Trisha JKT48",
+    "title": "haai",
+    "live_at": "Senin, 15 Juni 2026 pukul 19.55.34 WIB",
+    "live_at_unix": 1781528134,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260615/92d66abb-0171-4a2b-a30d-37ad58359248-260615195524.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GwR4g1NQnJzJ.m3u8"
+  },
+  {
+    "id": 1577,
+    "username": "jkt48_jemima",
+    "creator_name": "Jemima JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 15 Juni 2026 pukul 20.14.16 WIB",
+    "live_at_unix": 1781529256,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260615/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260615201403.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 1578,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 15 Juni 2026 pukul 20.26.24 WIB",
+    "live_at_unix": 1781529984,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260615/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260615202613.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
   }
 ]

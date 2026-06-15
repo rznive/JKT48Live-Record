@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1578 | <img src="https://cdn.idntimes.com/content-images/post/20260615/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260615202613.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Senin, 15 Juni 2026 pukul 20.26.24 WIB |
+| 1577 | <img src="https://cdn.idntimes.com/content-images/post/20260615/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260615201403.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 15 Juni 2026 pukul 20.14.16 WIB |
+| 1576 | <img src="https://cdn.idntimes.com/content-images/post/20260615/92d66abb-0171-4a2b-a30d-37ad58359248-260615195524.jpg" width="170"> | Trisha JKT48 | haai | Senin, 15 Juni 2026 pukul 19.55.34 WIB |
+| 1575 | <img src="https://cdn.idntimes.com/content-images/post/20260615/b11b0692-d0b8-464c-849a-9e81439a048c-260615194748.jpg" width="170"> | Daisy JKT48 | Haiii | Senin, 15 Juni 2026 pukul 19.47.55 WIB |
+| 1574 | <img src="https://cdn.idntimes.com/content-images/post/20260615/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260615192835.jpg" width="170"> | Kathrina JKT48 | Lol | Senin, 15 Juni 2026 pukul 19.28.42 WIB |
 | 1573 | <img src="https://cdn.idntimes.com/content-images/post/20260615/7599c984-c466-4962-8c5b-73c1d33d59d9-260615130714.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Senin, 15 Juni 2026 pukul 13.07.23 WIB |
 | 1572 | <img src="https://cdn.idntimes.com/content-images/post/20260614/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260614230906.jpg" width="170"> | Kathrina JKT48 | Lol | Minggu, 14 Juni 2026 pukul 23.09.13 WIB |
 | 1571 | <img src="https://cdn.idntimes.com/content-images/post/20260614/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260614230835.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 14 Juni 2026 pukul 23.08.41 WIB |
