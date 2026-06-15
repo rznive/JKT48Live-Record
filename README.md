@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1573 | <img src="https://cdn.idntimes.com/content-images/post/20260615/7599c984-c466-4962-8c5b-73c1d33d59d9-260615130714.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Senin, 15 Juni 2026 pukul 13.07.23 WIB |
 | 1572 | <img src="https://cdn.idntimes.com/content-images/post/20260614/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260614230906.jpg" width="170"> | Kathrina JKT48 | Lol | Minggu, 14 Juni 2026 pukul 23.09.13 WIB |
 | 1571 | <img src="https://cdn.idntimes.com/content-images/post/20260614/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260614230835.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 14 Juni 2026 pukul 23.08.41 WIB |
 | 1570 | <img src="https://cdn.idntimes.com/content-images/post/20260614/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260614221022.jpg" width="170"> | Levi JKT48 | hai | Minggu, 14 Juni 2026 pukul 22.10.29 WIB |
