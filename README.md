@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1579 | <img src="https://cdn.idntimes.com/content-images/post/20260616/7599c984-c466-4962-8c5b-73c1d33d59d9-260616181556.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 16 Juni 2026 pukul 18.16.06 WIB |
 | 1578 | <img src="https://cdn.idntimes.com/content-images/post/20260615/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260615202613.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Senin, 15 Juni 2026 pukul 20.26.24 WIB |
 | 1577 | <img src="https://cdn.idntimes.com/content-images/post/20260615/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260615201403.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 15 Juni 2026 pukul 20.14.16 WIB |
 | 1576 | <img src="https://cdn.idntimes.com/content-images/post/20260615/92d66abb-0171-4a2b-a30d-37ad58359248-260615195524.jpg" width="170"> | Trisha JKT48 | haai | Senin, 15 Juni 2026 pukul 19.55.34 WIB |
