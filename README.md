@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1582 | <img src="https://cdn.idntimes.com/content-images/post/20260617/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260617182501.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Rabu, 17 Juni 2026 pukul 18.25.16 WIB |
+| 1581 | <img src="https://cdn.idntimes.com/content-images/post/20260617/e9170998-f026-4186-bbc5-a17a3b5b2af1-260617180907.jpg" width="170"> | Rilly JKT48 | Yaurrrrr | Rabu, 17 Juni 2026 pukul 18.09.16 WIB |
 | 1580 | <img src="https://cdn.idntimes.com/content-images/post/20260617/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260617071738.jpg" width="170"> | Erine JKT48 | Erin | Rabu, 17 Juni 2026 pukul 07.17.50 WIB |
 | 1579 | <img src="https://cdn.idntimes.com/content-images/post/20260616/7599c984-c466-4962-8c5b-73c1d33d59d9-260616181556.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 16 Juni 2026 pukul 18.16.06 WIB |
 | 1578 | <img src="https://cdn.idntimes.com/content-images/post/20260615/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260615202613.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Senin, 15 Juni 2026 pukul 20.26.24 WIB |
