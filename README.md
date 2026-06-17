@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1588 | <img src="https://cdn.idntimes.com/content-images/post/20260617/e0ececb4-71d8-4f32-a221-ef21634a746a-260617221714.jpg" width="170"> | Elin JKT48 | Haiiiiiiihaiiiii | Rabu, 17 Juni 2026 pukul 22.17.25 WIB |
+| 1587 | <img src="https://cdn.idntimes.com/content-images/post/20260617/f001ba66-3c51-4849-9afa-13cf74eb1571-260617220907.jpg" width="170"> | Aralie JKT48 | hi | Rabu, 17 Juni 2026 pukul 22.09.16 WIB |
+| 1586 | <img src="https://cdn.idntimes.com/content-images/post/20260617/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260617220719.jpg" width="170"> | Nala JKT48 | 
+ | Rabu, 17 Juni 2026 pukul 22.07.34 WIB |
+| 1585 | <img src="https://cdn.idntimes.com/content-images/post/20260617/21a420b0-dd01-4daa-b185-b9020f8bf69d-260617220657.jpg" width="170"> | Nachia JKT48 | Yuk | Rabu, 17 Juni 2026 pukul 22.07.14 WIB |
+| 1584 | <img src="https://cdn.idntimes.com/content-images/post/20260617/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260617210823.jpg" width="170"> | Levi JKT48 | hai | Rabu, 17 Juni 2026 pukul 21.08.30 WIB |
+| 1583 | <img src="https://cdn.idntimes.com/content-images/post/20260617/4f795073-38c9-4df7-9388-74b83de69801-260617210711.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 17 Juni 2026 pukul 21.07.22 WIB |
 | 1582 | <img src="https://cdn.idntimes.com/content-images/post/20260617/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260617182501.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Rabu, 17 Juni 2026 pukul 18.25.16 WIB |
 | 1581 | <img src="https://cdn.idntimes.com/content-images/post/20260617/e9170998-f026-4186-bbc5-a17a3b5b2af1-260617180907.jpg" width="170"> | Rilly JKT48 | Yaurrrrr | Rabu, 17 Juni 2026 pukul 18.09.16 WIB |
 | 1580 | <img src="https://cdn.idntimes.com/content-images/post/20260617/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260617071738.jpg" width="170"> | Erine JKT48 | Erin | Rabu, 17 Juni 2026 pukul 07.17.50 WIB |
