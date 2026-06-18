@@ -2,6 +2,15 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1598 | <img src="https://cdn.idntimes.com/content-images/post/20260618/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260618204324.jpg" width="170"> | Intan JKT48 | hi | Kamis, 18 Juni 2026 pukul 20.43.39 WIB |
+| 1597 | <img src="https://cdn.idntimes.com/content-images/post/20260618/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260618203638.jpg" width="170"> | Christy JKT48 | temenin bentar
+ | Kamis, 18 Juni 2026 pukul 20.36.50 WIB |
+| 1596 | <img src="https://cdn.idntimes.com/content-images/post/20260618/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260618203114.jpg" width="170"> | Kathrina JKT48 | Lol | Kamis, 18 Juni 2026 pukul 20.31.29 WIB |
+| 1595 | <img src="https://cdn.idntimes.com/content-images/post/20260618/b11b0692-d0b8-464c-849a-9e81439a048c-260618202722.jpg" width="170"> | Daisy JKT48 | Hoiii | Kamis, 18 Juni 2026 pukul 20.27.28 WIB |
+| 1594 | <img src="https://cdn.idntimes.com/content-images/post/20260618/33139b05-1c43-4b48-bba3-ec960b18b36e-260618202712.jpg" width="170"> | Danella JKT48 | Hi | Kamis, 18 Juni 2026 pukul 20.27.18 WIB |
+| 1593 | <img src="https://cdn.idntimes.com/content-images/post/20260618/a9579a29-9203-40c0-9326-9837b8eae6e8-260618202656.jpg" width="170"> | Jessi JKT48 | heyo | Kamis, 18 Juni 2026 pukul 20.27.13 WIB |
+| 1592 | <img src="https://cdn.idntimes.com/content-images/post/20260618/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260618202656.jpg" width="170"> | Muthe JKT48 | Hi | Kamis, 18 Juni 2026 pukul 20.27.06 WIB |
+| 1591 | <img src="https://cdn.idntimes.com/content-images/post/20260618/f9500eb4-9d6d-491d-a857-40ca6f862d61-260618195329.jpg" width="170"> | Auwia JKT48 | Sini ngobrol sm psikolog | Kamis, 18 Juni 2026 pukul 19.53.44 WIB |
 | 1590 | <img src="https://cdn.idntimes.com/content-images/post/20260618/82ffac10-ee56-43d0-ad38-ce432384cfe5-260618180013.jpg" width="170"> | Gita JKT48 | Gits | Kamis, 18 Juni 2026 pukul 18.00.26 WIB |
 | 1589 | <img src="https://cdn.idntimes.com/content-images/post/20260618/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260618175950.jpg" width="170"> | Eli JKT48 | Lanjut belajar | Kamis, 18 Juni 2026 pukul 18.00.01 WIB |
 | 1588 | <img src="https://cdn.idntimes.com/content-images/post/20260617/e0ececb4-71d8-4f32-a221-ef21634a746a-260617221714.jpg" width="170"> | Elin JKT48 | Haiiiiiiihaiiiii | Rabu, 17 Juni 2026 pukul 22.17.25 WIB |
