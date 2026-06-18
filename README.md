@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1590 | <img src="https://cdn.idntimes.com/content-images/post/20260618/82ffac10-ee56-43d0-ad38-ce432384cfe5-260618180013.jpg" width="170"> | Gita JKT48 | Gits | Kamis, 18 Juni 2026 pukul 18.00.26 WIB |
+| 1589 | <img src="https://cdn.idntimes.com/content-images/post/20260618/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260618175950.jpg" width="170"> | Eli JKT48 | Lanjut belajar | Kamis, 18 Juni 2026 pukul 18.00.01 WIB |
 | 1588 | <img src="https://cdn.idntimes.com/content-images/post/20260617/e0ececb4-71d8-4f32-a221-ef21634a746a-260617221714.jpg" width="170"> | Elin JKT48 | Haiiiiiiihaiiiii | Rabu, 17 Juni 2026 pukul 22.17.25 WIB |
 | 1587 | <img src="https://cdn.idntimes.com/content-images/post/20260617/f001ba66-3c51-4849-9afa-13cf74eb1571-260617220907.jpg" width="170"> | Aralie JKT48 | hi | Rabu, 17 Juni 2026 pukul 22.09.16 WIB |
 | 1586 | <img src="https://cdn.idntimes.com/content-images/post/20260617/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260617220719.jpg" width="170"> | Nala JKT48 | 
