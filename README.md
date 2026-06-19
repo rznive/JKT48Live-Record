@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1599 | <img src="https://cdn.idntimes.com/content-images/post/20260619/a5c72141-65a3-47be-86ef-1dc1feaab10d-260619141501.jpg" width="170"> | Anindya JKT48 | hiho | Jumat, 19 Juni 2026 pukul 14.15.07 WIB |
 | 1598 | <img src="https://cdn.idntimes.com/content-images/post/20260618/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260618204324.jpg" width="170"> | Intan JKT48 | hi | Kamis, 18 Juni 2026 pukul 20.43.39 WIB |
 | 1597 | <img src="https://cdn.idntimes.com/content-images/post/20260618/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260618203638.jpg" width="170"> | Christy JKT48 | temenin bentar
  | Kamis, 18 Juni 2026 pukul 20.36.50 WIB |
