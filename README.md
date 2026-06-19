@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1604 | <img src="https://cdn.idntimes.com/content-images/post/20260620/728d224e-6ccb-43d2-a029-a0147dc7fdee-260620005210.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Sabtu, 20 Juni 2026 pukul 00.52.25 WIB |
+| 1603 | <img src="https://cdn.idntimes.com/content-images/post/20260620/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260620002144.jpg" width="170"> | Kathrina JKT48 | Lol | Sabtu, 20 Juni 2026 pukul 00.21.59 WIB |
 | 1602 | <img src="https://cdn.idntimes.com/content-images/post/20260619/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260619210938.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 19 Juni 2026 pukul 21.09.50 WIB |
 | 1601 | <img src="https://cdn.idntimes.com/content-images/post/20260619/a557ba58-12d8-4260-bd50-9e5252ac71ef-260619210501.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Jumat, 19 Juni 2026 pukul 21.05.13 WIB |
 | 1600 | <img src="https://cdn.idntimes.com/content-images/post/20260619/cae4d972-5f14-4512-9706-37c1802a0541-260619210449.jpg" width="170"> | Gracie JKT48 | hiii | Jumat, 19 Juni 2026 pukul 21.04.56 WIB |
