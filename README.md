@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1614 | <img src="https://cdn.idntimes.com/content-images/post/20260620/82ffac10-ee56-43d0-ad38-ce432384cfe5-260620210728.jpg" width="170"> | Gita JKT48 | Gits | Sabtu, 20 Juni 2026 pukul 21.07.42 WIB |
+| 1613 | <img src="https://cdn.idntimes.com/content-images/post/20260620/717109e0-a064-4f15-8187-5c4d46e56a58-260620210428.jpg" width="170"> | Fritzy JKT48 | grad & guwm | Sabtu, 20 Juni 2026 pukul 21.04.44 WIB |
+| 1612 | <img src="https://cdn.idntimes.com/content-images/post/20260620/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260620205802.jpg" width="170"> | Intan JKT48 | hi | Sabtu, 20 Juni 2026 pukul 20.58.13 WIB |
+| 1611 | <img src="https://cdn.idntimes.com/content-images/post/20260620/a9579a29-9203-40c0-9326-9837b8eae6e8-260620205235.jpg" width="170"> | Jessi JKT48 | p | Sabtu, 20 Juni 2026 pukul 20.52.43 WIB |
+| 1610 | <img src="https://cdn.idntimes.com/content-images/post/20260620/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260620204123.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Sabtu, 20 Juni 2026 pukul 20.41.37 WIB |
+| 1609 | <img src="https://cdn.idntimes.com/content-images/post/20260620/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260620202235.jpg" width="170"> | Kathrina JKT48 | Lol | Sabtu, 20 Juni 2026 pukul 20.22.51 WIB |
 | 1608 | <img src="https://cdn.idntimes.com/content-images/post/20260620/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260620190448.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Sabtu, 20 Juni 2026 pukul 19.05.00 WIB |
 | 1607 | <img src="https://cdn.idntimes.com/content-images/post/20260620/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260620190202.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Sabtu, 20 Juni 2026 pukul 19.02.09 WIB |
 | 1606 | <img src="https://cdn.idntimes.com/content-images/post/20260620/e9170998-f026-4186-bbc5-a17a3b5b2af1-260620142843.jpg" width="170"> | Rilly JKT48 | Mukbang buahh (g mukbang bgt sihh) | Sabtu, 20 Juni 2026 pukul 14.28.52 WIB |
