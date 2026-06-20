@@ -2,6 +2,14 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1622 | <img src="https://cdn.idntimes.com/content-images/post/20260620/6970e68a-b488-497a-b793-3a735db5e997-260620223408.jpg" width="170"> | Michie JKT48 | hi | Sabtu, 20 Juni 2026 pukul 22.34.32 WIB |
+| 1620 | <img src="https://cdn.idntimes.com/content-images/post/20260620/92d66abb-0171-4a2b-a30d-37ad58359248-260620223255.jpg" width="170"> | Trisha JKT48 | haai | Sabtu, 20 Juni 2026 pukul 22.33.13 WIB |
+| 1621 | <img src="https://cdn.idntimes.com/content-images/post/20260620/cae4d972-5f14-4512-9706-37c1802a0541-260620223303.jpg" width="170"> | Gracie JKT48 | hiii | Sabtu, 20 Juni 2026 pukul 22.33.13 WIB |
+| 1619 | <img src="https://cdn.idntimes.com/content-images/post/20260620/4f795073-38c9-4df7-9388-74b83de69801-260620222829.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 20 Juni 2026 pukul 22.28.41 WIB |
+| 1618 | <img src="https://cdn.idntimes.com/content-images/post/20260620/a5c72141-65a3-47be-86ef-1dc1feaab10d-260620222719.jpg" width="170"> | Anindya JKT48 | AFTER RAMUNEEE | Sabtu, 20 Juni 2026 pukul 22.27.28 WIB |
+| 1617 | <img src="https://cdn.idntimes.com/content-images/post/20260620/74e76417-0353-487f-b9b7-7520c0398e87-260620222052.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Sabtu, 20 Juni 2026 pukul 22.21.04 WIB |
+| 1616 | <img src="https://cdn.idntimes.com/content-images/post/20260620/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260620221224.jpg" width="170"> | Giaa JKT48 | haiii | Sabtu, 20 Juni 2026 pukul 22.12.32 WIB |
+| 1615 | <img src="https://cdn.idntimes.com/content-images/post/20260620/728d224e-6ccb-43d2-a029-a0147dc7fdee-260620214648.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Sabtu, 20 Juni 2026 pukul 21.46.56 WIB |
 | 1614 | <img src="https://cdn.idntimes.com/content-images/post/20260620/82ffac10-ee56-43d0-ad38-ce432384cfe5-260620210728.jpg" width="170"> | Gita JKT48 | Gits | Sabtu, 20 Juni 2026 pukul 21.07.42 WIB |
 | 1613 | <img src="https://cdn.idntimes.com/content-images/post/20260620/717109e0-a064-4f15-8187-5c4d46e56a58-260620210428.jpg" width="170"> | Fritzy JKT48 | grad & guwm | Sabtu, 20 Juni 2026 pukul 21.04.44 WIB |
 | 1612 | <img src="https://cdn.idntimes.com/content-images/post/20260620/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260620205802.jpg" width="170"> | Intan JKT48 | hi | Sabtu, 20 Juni 2026 pukul 20.58.13 WIB |
