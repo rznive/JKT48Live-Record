@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1625 | <img src="https://cdn.idntimes.com/content-images/post/20260621/15dfee86-a928-4a15-8c90-6aa21097d0ff-260621165832.jpg" width="170"> | Lia JKT48 | hiii | Minggu, 21 Juni 2026 pukul 16.58.38 WIB |
 | 1624 | <img src="https://cdn.idntimes.com/content-images/post/20260621/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260621001446.jpg" width="170"> | Erine JKT48 | Erin | Minggu, 21 Juni 2026 pukul 00.14.58 WIB |
 | 1623 | <img src="https://cdn.idntimes.com/content-images/post/20260620/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260620235840.jpg" width="170"> | Lily JKT48 | Yay | Sabtu, 20 Juni 2026 pukul 23.58.47 WIB |
 | 1622 | <img src="https://cdn.idntimes.com/content-images/post/20260620/6970e68a-b488-497a-b793-3a735db5e997-260620223408.jpg" width="170"> | Michie JKT48 | hi | Sabtu, 20 Juni 2026 pukul 22.34.32 WIB |
