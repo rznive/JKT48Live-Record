@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1630 | <img src="https://cdn.idntimes.com/content-images/post/20260621/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260621212532.jpg" width="170"> | Ribka JKT48 | mahadsyat | Minggu, 21 Juni 2026 pukul 21.25.42 WIB |
+| 1629 | <img src="https://cdn.idntimes.com/content-images/post/20260621/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260621211326.jpg" width="170"> | Kathrina JKT48 | Wupwup | Minggu, 21 Juni 2026 pukul 21.13.37 WIB |
+| 1628 | <img src="https://cdn.idntimes.com/content-images/post/20260621/f001ba66-3c51-4849-9afa-13cf74eb1571-260621210800.jpg" width="170"> | Aralie JKT48 | hi | Minggu, 21 Juni 2026 pukul 21.08.10 WIB |
 | 1627 | <img src="https://cdn.idntimes.com/content-images/post/20260621/a9579a29-9203-40c0-9326-9837b8eae6e8-260621192552.jpg" width="170"> | Jessi JKT48 | p | Minggu, 21 Juni 2026 pukul 19.25.59 WIB |
 | 1626 | <img src="https://cdn.idntimes.com/content-images/post/20260621/f9500eb4-9d6d-491d-a857-40ca6f862d61-260621174958.jpg" width="170"> | Auwia JKT48 | Ngobrolin hidup klean | Minggu, 21 Juni 2026 pukul 17.50.13 WIB |
 | 1625 | <img src="https://cdn.idntimes.com/content-images/post/20260621/15dfee86-a928-4a15-8c90-6aa21097d0ff-260621165832.jpg" width="170"> | Lia JKT48 | hiii | Minggu, 21 Juni 2026 pukul 16.58.38 WIB |
