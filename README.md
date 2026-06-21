@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1635 | <img src="https://cdn.idntimes.com/content-images/post/20260621/92d66abb-0171-4a2b-a30d-37ad58359248-260621230644.jpg" width="170"> | Trisha JKT48 | haai | Minggu, 21 Juni 2026 pukul 23.06.59 WIB |
+| 1634 | <img src="https://cdn.idntimes.com/content-images/post/20260621/717109e0-a064-4f15-8187-5c4d46e56a58-260621224235.jpg" width="170"> | Fritzy JKT48 | hi | Minggu, 21 Juni 2026 pukul 22.42.50 WIB |
+| 1633 | <img src="https://cdn.idntimes.com/content-images/post/20260621/147e83c8-f3ac-4680-9141-2f518b4b7810-260621222842.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 21 Juni 2026 pukul 22.28.54 WIB |
+| 1632 | <img src="https://cdn.idntimes.com/content-images/post/20260621/266ef38a-da00-4d13-ba77-f94da68599ee-260621220835.jpg" width="170"> | Delynn JKT48 | Hi | Minggu, 21 Juni 2026 pukul 22.08.42 WIB |
+| 1631 | <img src="https://cdn.idntimes.com/content-images/post/20260621/a5c72141-65a3-47be-86ef-1dc1feaab10d-260621215408.jpg" width="170"> | Anindya JKT48 | HALO | Minggu, 21 Juni 2026 pukul 21.54.18 WIB |
 | 1630 | <img src="https://cdn.idntimes.com/content-images/post/20260621/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260621212532.jpg" width="170"> | Ribka JKT48 | mahadsyat | Minggu, 21 Juni 2026 pukul 21.25.42 WIB |
 | 1629 | <img src="https://cdn.idntimes.com/content-images/post/20260621/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260621211326.jpg" width="170"> | Kathrina JKT48 | Wupwup | Minggu, 21 Juni 2026 pukul 21.13.37 WIB |
 | 1628 | <img src="https://cdn.idntimes.com/content-images/post/20260621/f001ba66-3c51-4849-9afa-13cf74eb1571-260621210800.jpg" width="170"> | Aralie JKT48 | hi | Minggu, 21 Juni 2026 pukul 21.08.10 WIB |
