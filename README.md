@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1636 | <img src="https://cdn.idntimes.com/content-images/post/20260622/728d224e-6ccb-43d2-a029-a0147dc7fdee-260622002627.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Senin, 22 Juni 2026 pukul 00.26.43 WIB |
 | 1635 | <img src="https://cdn.idntimes.com/content-images/post/20260621/92d66abb-0171-4a2b-a30d-37ad58359248-260621230644.jpg" width="170"> | Trisha JKT48 | haai | Minggu, 21 Juni 2026 pukul 23.06.59 WIB |
 | 1634 | <img src="https://cdn.idntimes.com/content-images/post/20260621/717109e0-a064-4f15-8187-5c4d46e56a58-260621224235.jpg" width="170"> | Fritzy JKT48 | hi | Minggu, 21 Juni 2026 pukul 22.42.50 WIB |
 | 1633 | <img src="https://cdn.idntimes.com/content-images/post/20260621/147e83c8-f3ac-4680-9141-2f518b4b7810-260621222842.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 21 Juni 2026 pukul 22.28.54 WIB |
