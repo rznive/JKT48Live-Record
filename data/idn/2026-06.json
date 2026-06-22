@@ -1948,5 +1948,15 @@
     "live_at_unix": 1782062803,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260622/728d224e-6ccb-43d2-a029-a0147dc7fdee-260622002627.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.rjVZYmbffgGE.m3u8"
+  },
+  {
+    "id": 1637,
+    "username": "jkt48_aralie",
+    "creator_name": "Aralie JKT48",
+    "title": "hi",
+    "live_at": "Senin, 22 Juni 2026 pukul 13.28.24 WIB",
+    "live_at_unix": 1782109704,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260622/f001ba66-3c51-4849-9afa-13cf74eb1571-260622132815.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oxXRFBYUK9HN.m3u8"
   }
 ]
