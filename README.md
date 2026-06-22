@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1639 | <img src="https://cdn.idntimes.com/content-images/post/20260622/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260622193314.jpg" width="170"> | Muthe JKT48 | Radio klo kata jeci | Senin, 22 Juni 2026 pukul 19.33.23 WIB |
+| 1638 | <img src="https://cdn.idntimes.com/content-images/post/20260622/a9579a29-9203-40c0-9326-9837b8eae6e8-260622190821.jpg" width="170"> | Jessi JKT48 | hii | Senin, 22 Juni 2026 pukul 19.08.34 WIB |
 | 1637 | <img src="https://cdn.idntimes.com/content-images/post/20260622/f001ba66-3c51-4849-9afa-13cf74eb1571-260622132815.jpg" width="170"> | Aralie JKT48 | hi | Senin, 22 Juni 2026 pukul 13.28.24 WIB |
 | 1636 | <img src="https://cdn.idntimes.com/content-images/post/20260622/728d224e-6ccb-43d2-a029-a0147dc7fdee-260622002627.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Senin, 22 Juni 2026 pukul 00.26.43 WIB |
 | 1635 | <img src="https://cdn.idntimes.com/content-images/post/20260621/92d66abb-0171-4a2b-a30d-37ad58359248-260621230644.jpg" width="170"> | Trisha JKT48 | haai | Minggu, 21 Juni 2026 pukul 23.06.59 WIB |
