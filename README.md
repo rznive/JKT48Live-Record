@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1665 | <img src="https://cdn.idntimes.com/content-images/post/20260623/82ffac10-ee56-43d0-ad38-ce432384cfe5-260623222713.jpg" width="170"> | Gita JKT48 | Gits | Selasa, 23 Juni 2026 pukul 22.27.28 WIB |
+| 1664 | <img src="https://cdn.idntimes.com/content-images/post/20260623/74e76417-0353-487f-b9b7-7520c0398e87-260623221015.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Selasa, 23 Juni 2026 pukul 22.10.22 WIB |
+| 1663 | <img src="https://cdn.idntimes.com/content-images/post/20260623/266ef38a-da00-4d13-ba77-f94da68599ee-260623214510.jpg" width="170"> | Delynn JKT48 | malam | Selasa, 23 Juni 2026 pukul 21.45.24 WIB |
 | 1662 | <img src="https://cdn.idntimes.com/content-images/post/20260623/717109e0-a064-4f15-8187-5c4d46e56a58-260623204841.jpg" width="170"> | Fritzy JKT48 | ngapain yaa | Selasa, 23 Juni 2026 pukul 20.48.56 WIB |
 | 1661 | <img src="https://cdn.idntimes.com/content-images/post/20260623/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260623193114.jpg" width="170"> | Eli JKT48 | Get UnReady with meeeeee | Selasa, 23 Juni 2026 pukul 19.31.24 WIB |
 | 1660 | <img src="https://cdn.idntimes.com/content-images/post/20260623/6970e68a-b488-497a-b793-3a735db5e997-260623192046.jpg" width="170"> | Michie JKT48 | hi | Selasa, 23 Juni 2026 pukul 19.21.10 WIB |
