@@ -2,6 +2,16 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1657 | <img src="https://cdn.idntimes.com/content-images/post/20260623/50a27780-93e7-4e40-8474-60f6e0cca6da-260623153249.jpg" width="170"> | JKT48 | Temen Main x Japota | Selasa, 23 Juni 2026 pukul 15.33.00 WIB |
+| 1656 | <img src="https://cdn.idntimes.com/content-images/post/20260623/7599c984-c466-4962-8c5b-73c1d33d59d9-260623153107.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 23 Juni 2026 pukul 15.31.16 WIB |
+| 1655 | <img src="https://cdn.idntimes.com/content-images/post/20260623/147e83c8-f3ac-4680-9141-2f518b4b7810-260623153103.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 23 Juni 2026 pukul 15.31.15 WIB |
+| 1654 | <img src="https://cdn.idntimes.com/content-images/post/20260623/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260623152444.jpg" width="170"> | Kathrina JKT48 | Wow | Selasa, 23 Juni 2026 pukul 15.24.58 WIB |
+| 1653 | <img src="https://cdn.idntimes.com/content-images/post/20260623/33139b05-1c43-4b48-bba3-ec960b18b36e-260623152347.jpg" width="170"> | Danella JKT48 | Hi | Selasa, 23 Juni 2026 pukul 15.23.54 WIB |
+| 1652 | <img src="https://cdn.idntimes.com/content-images/post/20260623/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260623152318.jpg" width="170"> | Muthe JKT48 | Hi  | Selasa, 23 Juni 2026 pukul 15.23.26 WIB |
+| 1651 | <img src="https://cdn.idntimes.com/content-images/post/20260623/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260623152245.jpg" width="170"> | Levi JKT48 | hai | Selasa, 23 Juni 2026 pukul 15.22.52 WIB |
+| 1650 | <img src="https://cdn.idntimes.com/content-images/post/20260623/a9579a29-9203-40c0-9326-9837b8eae6e8-260623152130.jpg" width="170"> | Jessi JKT48 | JOGJAAAAAA | Selasa, 23 Juni 2026 pukul 15.21.44 WIB |
+| 1649 | <img src="https://cdn.idntimes.com/content-images/post/20260623/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260623151829.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Selasa, 23 Juni 2026 pukul 15.18.44 WIB |
+| 1648 | <img src="https://cdn.idntimes.com/content-images/post/20260623/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260623144645.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Selasa, 23 Juni 2026 pukul 14.46.57 WIB |
 | 1647 | <img src="https://cdn.idntimes.com/content-images/post/20260623/21a420b0-dd01-4daa-b185-b9020f8bf69d-260623121735.jpg" width="170"> | Nachia JKT48 | ye | Selasa, 23 Juni 2026 pukul 12.17.48 WIB |
 | 1646 | <img src="https://cdn.idntimes.com/content-images/post/20260623/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260623121627.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Selasa, 23 Juni 2026 pukul 12.16.34 WIB |
 | 1645 | <img src="https://cdn.idntimes.com/content-images/post/20260623/f9500eb4-9d6d-491d-a857-40ca6f862d61-260623121132.jpg" width="170"> | Auwia JKT48 | RADIO | Selasa, 23 Juni 2026 pukul 12.11.47 WIB |
