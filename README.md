@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1662 | <img src="https://cdn.idntimes.com/content-images/post/20260623/717109e0-a064-4f15-8187-5c4d46e56a58-260623204841.jpg" width="170"> | Fritzy JKT48 | ngapain yaa | Selasa, 23 Juni 2026 pukul 20.48.56 WIB |
+| 1661 | <img src="https://cdn.idntimes.com/content-images/post/20260623/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260623193114.jpg" width="170"> | Eli JKT48 | Get UnReady with meeeeee | Selasa, 23 Juni 2026 pukul 19.31.24 WIB |
+| 1660 | <img src="https://cdn.idntimes.com/content-images/post/20260623/6970e68a-b488-497a-b793-3a735db5e997-260623192046.jpg" width="170"> | Michie JKT48 | hi | Selasa, 23 Juni 2026 pukul 19.21.10 WIB |
 | 1659 | <img src="https://cdn.idntimes.com/content-images/post/20260623/21a420b0-dd01-4daa-b185-b9020f8bf69d-260623174812.jpg" width="170"> | Nachia JKT48 | ye | Selasa, 23 Juni 2026 pukul 17.48.25 WIB |
 | 1658 | <img src="https://cdn.idntimes.com/content-images/post/20260623/e9170998-f026-4186-bbc5-a17a3b5b2af1-260623170413.jpg" width="170"> | Rilly JKT48 | NGOBSSSSS | Selasa, 23 Juni 2026 pukul 17.04.23 WIB |
 | 1657 | <img src="https://cdn.idntimes.com/content-images/post/20260623/50a27780-93e7-4e40-8474-60f6e0cca6da-260623153249.jpg" width="170"> | JKT48 | Temen Main x Japota | Selasa, 23 Juni 2026 pukul 15.33.00 WIB |

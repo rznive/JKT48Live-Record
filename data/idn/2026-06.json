@@ -2178,5 +2178,35 @@
     "live_at_unix": 1782211705,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260623/21a420b0-dd01-4daa-b185-b9020f8bf69d-260623174812.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8"
+  },
+  {
+    "id": 1660,
+    "username": "jkt48_michie",
+    "creator_name": "Michie JKT48",
+    "title": "hi",
+    "live_at": "Selasa, 23 Juni 2026 pukul 19.21.10 WIB",
+    "live_at_unix": 1782217270,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260623/6970e68a-b488-497a-b793-3a735db5e997-260623192046.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.uE0Cu8MD1aMc.m3u8"
+  },
+  {
+    "id": 1661,
+    "username": "jkt48_eli",
+    "creator_name": "Eli JKT48",
+    "title": "Get UnReady with meeeeee",
+    "live_at": "Selasa, 23 Juni 2026 pukul 19.31.24 WIB",
+    "live_at_unix": 1782217884,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260623/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260623193114.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8"
+  },
+  {
+    "id": 1662,
+    "username": "jkt48_fritzy",
+    "creator_name": "Fritzy JKT48",
+    "title": "ngapain yaa",
+    "live_at": "Selasa, 23 Juni 2026 pukul 20.48.56 WIB",
+    "live_at_unix": 1782222536,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260623/717109e0-a064-4f15-8187-5c4d46e56a58-260623204841.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
   }
 ]
