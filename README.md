@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1647 | <img src="https://cdn.idntimes.com/content-images/post/20260623/21a420b0-dd01-4daa-b185-b9020f8bf69d-260623121735.jpg" width="170"> | Nachia JKT48 | ye | Selasa, 23 Juni 2026 pukul 12.17.48 WIB |
+| 1646 | <img src="https://cdn.idntimes.com/content-images/post/20260623/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260623121627.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Selasa, 23 Juni 2026 pukul 12.16.34 WIB |
+| 1645 | <img src="https://cdn.idntimes.com/content-images/post/20260623/f9500eb4-9d6d-491d-a857-40ca6f862d61-260623121132.jpg" width="170"> | Auwia JKT48 | RADIO | Selasa, 23 Juni 2026 pukul 12.11.47 WIB |
 | 1644 | <img src="https://cdn.idntimes.com/content-images/post/20260622/728d224e-6ccb-43d2-a029-a0147dc7fdee-260622234127.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Senin, 22 Juni 2026 pukul 23.41.42 WIB |
 | 1643 | <img src="https://cdn.idntimes.com/content-images/post/20260622/92d66abb-0171-4a2b-a30d-37ad58359248-260622234102.jpg" width="170"> | Trisha JKT48 | haai | Senin, 22 Juni 2026 pukul 23.41.17 WIB |
 | 1642 | <img src="https://cdn.idntimes.com/content-images/post/20260622/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260622232121.jpg" width="170"> | Nala JKT48 | 
