@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1659 | <img src="https://cdn.idntimes.com/content-images/post/20260623/21a420b0-dd01-4daa-b185-b9020f8bf69d-260623174812.jpg" width="170"> | Nachia JKT48 | ye | Selasa, 23 Juni 2026 pukul 17.48.25 WIB |
+| 1658 | <img src="https://cdn.idntimes.com/content-images/post/20260623/e9170998-f026-4186-bbc5-a17a3b5b2af1-260623170413.jpg" width="170"> | Rilly JKT48 | NGOBSSSSS | Selasa, 23 Juni 2026 pukul 17.04.23 WIB |
 | 1657 | <img src="https://cdn.idntimes.com/content-images/post/20260623/50a27780-93e7-4e40-8474-60f6e0cca6da-260623153249.jpg" width="170"> | JKT48 | Temen Main x Japota | Selasa, 23 Juni 2026 pukul 15.33.00 WIB |
 | 1656 | <img src="https://cdn.idntimes.com/content-images/post/20260623/7599c984-c466-4962-8c5b-73c1d33d59d9-260623153107.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 23 Juni 2026 pukul 15.31.16 WIB |
 | 1655 | <img src="https://cdn.idntimes.com/content-images/post/20260623/147e83c8-f3ac-4680-9141-2f518b4b7810-260623153103.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 23 Juni 2026 pukul 15.31.15 WIB |
