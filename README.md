@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1668 | <img src="https://cdn.idntimes.com/content-images/post/20260624/f001ba66-3c51-4849-9afa-13cf74eb1571-260624103032.jpg" width="170"> | Aralie JKT48 | hi | Rabu, 24 Juni 2026 pukul 10.30.42 WIB |
+| 1667 | <img src="https://cdn.idntimes.com/content-images/post/20260624/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260624103019.jpg" width="170"> | Erine JKT48 | Erin | Rabu, 24 Juni 2026 pukul 10.30.31 WIB |
 | 1666 | <img src="https://cdn.idntimes.com/content-images/post/20260624/82ffac10-ee56-43d0-ad38-ce432384cfe5-260624025346.jpg" width="170"> | Gita JKT48 | Gits | Rabu, 24 Juni 2026 pukul 02.53.59 WIB |
 | 1665 | <img src="https://cdn.idntimes.com/content-images/post/20260623/82ffac10-ee56-43d0-ad38-ce432384cfe5-260623222713.jpg" width="170"> | Gita JKT48 | Gits | Selasa, 23 Juni 2026 pukul 22.27.28 WIB |
 | 1664 | <img src="https://cdn.idntimes.com/content-images/post/20260623/74e76417-0353-487f-b9b7-7520c0398e87-260623221015.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Selasa, 23 Juni 2026 pukul 22.10.22 WIB |
