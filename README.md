@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1670 | <img src="https://cdn.idntimes.com/content-images/post/20260624/f9500eb4-9d6d-491d-a857-40ca6f862d61-260624140459.jpg" width="170"> | Auwia JKT48 | Orng imut live | Rabu, 24 Juni 2026 pukul 14.05.14 WIB |
+| 1669 | <img src="https://cdn.idntimes.com/content-images/post/20260624/6970e68a-b488-497a-b793-3a735db5e997-260624134551.jpg" width="170"> | Michie JKT48 | hi | Rabu, 24 Juni 2026 pukul 13.46.15 WIB |
 | 1668 | <img src="https://cdn.idntimes.com/content-images/post/20260624/f001ba66-3c51-4849-9afa-13cf74eb1571-260624103032.jpg" width="170"> | Aralie JKT48 | hi | Rabu, 24 Juni 2026 pukul 10.30.42 WIB |
 | 1667 | <img src="https://cdn.idntimes.com/content-images/post/20260624/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260624103019.jpg" width="170"> | Erine JKT48 | Erin | Rabu, 24 Juni 2026 pukul 10.30.31 WIB |
 | 1666 | <img src="https://cdn.idntimes.com/content-images/post/20260624/82ffac10-ee56-43d0-ad38-ce432384cfe5-260624025346.jpg" width="170"> | Gita JKT48 | Gits | Rabu, 24 Juni 2026 pukul 02.53.59 WIB |

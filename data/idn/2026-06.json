@@ -2268,5 +2268,25 @@
     "live_at_unix": 1782271842,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260624/f001ba66-3c51-4849-9afa-13cf74eb1571-260624103032.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oxXRFBYUK9HN.m3u8"
+  },
+  {
+    "id": 1669,
+    "username": "jkt48_michie",
+    "creator_name": "Michie JKT48",
+    "title": "hi",
+    "live_at": "Rabu, 24 Juni 2026 pukul 13.46.15 WIB",
+    "live_at_unix": 1782283575,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260624/6970e68a-b488-497a-b793-3a735db5e997-260624134551.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.uE0Cu8MD1aMc.m3u8"
+  },
+  {
+    "id": 1670,
+    "username": "jkt48_auwia",
+    "creator_name": "Auwia JKT48",
+    "title": "Orng imut live",
+    "live_at": "Rabu, 24 Juni 2026 pukul 14.05.14 WIB",
+    "live_at_unix": 1782284714,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260624/f9500eb4-9d6d-491d-a857-40ca6f862d61-260624140459.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
   }
 ]
