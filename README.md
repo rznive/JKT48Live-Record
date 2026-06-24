@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1677 | <img src="https://cdn.idntimes.com/content-images/post/20260624/e243be19-74b7-435b-8e19-13fc669e0224-260624234824.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Rabu, 24 Juni 2026 pukul 23.48.31 WIB |
+| 1676 | <img src="https://cdn.idntimes.com/content-images/post/20260624/a9579a29-9203-40c0-9326-9837b8eae6e8-260624233317.jpg" width="170"> | Jessi JKT48 | passion | Rabu, 24 Juni 2026 pukul 23.33.25 WIB |
+| 1675 | <img src="https://cdn.idntimes.com/content-images/post/20260624/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260624233224.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Rabu, 24 Juni 2026 pukul 23.32.35 WIB |
+| 1674 | <img src="https://cdn.idntimes.com/content-images/post/20260624/266ef38a-da00-4d13-ba77-f94da68599ee-260624233139.jpg" width="170"> | Delynn JKT48 | Hi | Rabu, 24 Juni 2026 pukul 23.31.45 WIB |
+| 1673 | <img src="https://cdn.idntimes.com/content-images/post/20260624/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260624233107.jpg" width="170"> | Kathrina JKT48 | Jogjaa | Rabu, 24 Juni 2026 pukul 23.31.29 WIB |
+| 1672 | <img src="https://cdn.idntimes.com/content-images/post/20260624/e2af7271-2598-4ee8-8760-68043e671e6d-260624233009.jpg" width="170"> | Lana JKT48 | Hai | Rabu, 24 Juni 2026 pukul 23.30.17 WIB |
 | 1671 | <img src="https://cdn.idntimes.com/content-images/post/20260624/85f369d7-6525-41c0-94b8-9a56686713eb-260624224020.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 24 Juni 2026 pukul 22.40.34 WIB |
 | 1670 | <img src="https://cdn.idntimes.com/content-images/post/20260624/f9500eb4-9d6d-491d-a857-40ca6f862d61-260624140459.jpg" width="170"> | Auwia JKT48 | Orng imut live | Rabu, 24 Juni 2026 pukul 14.05.14 WIB |
 | 1669 | <img src="https://cdn.idntimes.com/content-images/post/20260624/6970e68a-b488-497a-b793-3a735db5e997-260624134551.jpg" width="170"> | Michie JKT48 | hi | Rabu, 24 Juni 2026 pukul 13.46.15 WIB |
