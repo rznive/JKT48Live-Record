@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1685 | <img src="https://cdn.idntimes.com/content-images/post/20260625/a557ba58-12d8-4260-bd50-9e5252ac71ef-260625221542.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 25 Juni 2026 pukul 22.15.55 WIB |
+| 1684 | <img src="https://cdn.idntimes.com/content-images/post/20260625/147e83c8-f3ac-4680-9141-2f518b4b7810-260625220904.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Kamis, 25 Juni 2026 pukul 22.09.17 WIB |
 | 1683 | <img src="https://cdn.idntimes.com/content-images/post/20260625/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260625153050.jpg" width="170"> | Eli JKT48 | Get UnReady with meeeeee | Kamis, 25 Juni 2026 pukul 15.31.00 WIB |
 | 1682 | <img src="https://cdn.idntimes.com/content-images/post/20260625/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260625140930.jpg" width="170"> | Nala JKT48 | 
  | Kamis, 25 Juni 2026 pukul 14.09.50 WIB |
