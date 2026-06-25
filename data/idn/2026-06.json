@@ -2388,5 +2388,35 @@
     "live_at_unix": 1782364656,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260625/539f5185-1414-416c-b84d-2ad366b6d60a-260625121727.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oKpAUHJSe6RM.m3u8"
+  },
+  {
+    "id": 1681,
+    "username": "jkt48_olla",
+    "creator_name": "Olla JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 25 Juni 2026 pukul 13.55.25 WIB",
+    "live_at_unix": 1782370525,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260625/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260625135512.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8"
+  },
+  {
+    "id": 1682,
+    "username": "jkt48_nala",
+    "creator_name": "Nala JKT48",
+    "title": "\n",
+    "live_at": "Kamis, 25 Juni 2026 pukul 14.09.50 WIB",
+    "live_at_unix": 1782371390,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260625/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260625140930.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.nCPKiODqPEOs.m3u8"
+  },
+  {
+    "id": 1683,
+    "username": "jkt48_eli",
+    "creator_name": "Eli JKT48",
+    "title": "Get UnReady with meeeeee",
+    "live_at": "Kamis, 25 Juni 2026 pukul 15.31.00 WIB",
+    "live_at_unix": 1782376260,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260625/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260625153050.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8"
   }
 ]

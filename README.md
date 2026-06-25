@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1683 | <img src="https://cdn.idntimes.com/content-images/post/20260625/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260625153050.jpg" width="170"> | Eli JKT48 | Get UnReady with meeeeee | Kamis, 25 Juni 2026 pukul 15.31.00 WIB |
+| 1682 | <img src="https://cdn.idntimes.com/content-images/post/20260625/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260625140930.jpg" width="170"> | Nala JKT48 | 
+ | Kamis, 25 Juni 2026 pukul 14.09.50 WIB |
+| 1681 | <img src="https://cdn.idntimes.com/content-images/post/20260625/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260625135512.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Kamis, 25 Juni 2026 pukul 13.55.25 WIB |
 | 1680 | <img src="https://cdn.idntimes.com/content-images/post/20260625/539f5185-1414-416c-b84d-2ad366b6d60a-260625121727.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Kamis, 25 Juni 2026 pukul 12.17.36 WIB |
 | 1679 | <img src="https://cdn.idntimes.com/content-images/post/20260625/74e76417-0353-487f-b9b7-7520c0398e87-260625114637.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Kamis, 25 Juni 2026 pukul 11.46.49 WIB |
 | 1678 | <img src="https://cdn.idntimes.com/content-images/post/20260625/f740e9da-772f-4ae2-8ddd-49f717aacf63-260625111651.jpg" width="170"> | Cathy JKT48 | halo ini ketoy | Kamis, 25 Juni 2026 pukul 11.17.03 WIB |
