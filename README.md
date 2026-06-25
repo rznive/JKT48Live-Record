@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1680 | <img src="https://cdn.idntimes.com/content-images/post/20260625/539f5185-1414-416c-b84d-2ad366b6d60a-260625121727.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Kamis, 25 Juni 2026 pukul 12.17.36 WIB |
+| 1679 | <img src="https://cdn.idntimes.com/content-images/post/20260625/74e76417-0353-487f-b9b7-7520c0398e87-260625114637.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Kamis, 25 Juni 2026 pukul 11.46.49 WIB |
+| 1678 | <img src="https://cdn.idntimes.com/content-images/post/20260625/f740e9da-772f-4ae2-8ddd-49f717aacf63-260625111651.jpg" width="170"> | Cathy JKT48 | halo ini ketoy | Kamis, 25 Juni 2026 pukul 11.17.03 WIB |
 | 1677 | <img src="https://cdn.idntimes.com/content-images/post/20260624/e243be19-74b7-435b-8e19-13fc669e0224-260624234824.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Rabu, 24 Juni 2026 pukul 23.48.31 WIB |
 | 1676 | <img src="https://cdn.idntimes.com/content-images/post/20260624/a9579a29-9203-40c0-9326-9837b8eae6e8-260624233317.jpg" width="170"> | Jessi JKT48 | passion | Rabu, 24 Juni 2026 pukul 23.33.25 WIB |
 | 1675 | <img src="https://cdn.idntimes.com/content-images/post/20260624/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260624233224.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Rabu, 24 Juni 2026 pukul 23.32.35 WIB |
