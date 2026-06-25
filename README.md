@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1689 | <img src="https://cdn.idntimes.com/content-images/post/20260626/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260626000403.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Jumat, 26 Juni 2026 pukul 00.04.23 WIB |
+| 1688 | <img src="https://cdn.idntimes.com/content-images/post/20260625/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260625233122.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Kamis, 25 Juni 2026 pukul 23.31.37 WIB |
+| 1687 | <img src="https://cdn.idntimes.com/content-images/post/20260625/f001ba66-3c51-4849-9afa-13cf74eb1571-260625232827.jpg" width="170"> | Aralie JKT48 | hi | Kamis, 25 Juni 2026 pukul 23.28.37 WIB |
+| 1686 | <img src="https://cdn.idntimes.com/content-images/post/20260625/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260625231937.jpg" width="170"> | Kathrina JKT48 | Jogjaa | Kamis, 25 Juni 2026 pukul 23.19.52 WIB |
 | 1685 | <img src="https://cdn.idntimes.com/content-images/post/20260625/a557ba58-12d8-4260-bd50-9e5252ac71ef-260625221542.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 25 Juni 2026 pukul 22.15.55 WIB |
 | 1684 | <img src="https://cdn.idntimes.com/content-images/post/20260625/147e83c8-f3ac-4680-9141-2f518b4b7810-260625220904.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Kamis, 25 Juni 2026 pukul 22.09.17 WIB |
 | 1683 | <img src="https://cdn.idntimes.com/content-images/post/20260625/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260625153050.jpg" width="170"> | Eli JKT48 | Get UnReady with meeeeee | Kamis, 25 Juni 2026 pukul 15.31.00 WIB |
