@@ -2,6 +2,22 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1708 | <img src="https://cdn.idntimes.com/content-images/post/20260627/a5c72141-65a3-47be-86ef-1dc1feaab10d-260627001145.jpg" width="170"> | Anindya JKT48 | hihuhihu | Sabtu, 27 Juni 2026 pukul 00.11.53 WIB |
+| 1707 | <img src="https://cdn.idntimes.com/content-images/post/20260626/728d224e-6ccb-43d2-a029-a0147dc7fdee-260626234949.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Jumat, 26 Juni 2026 pukul 23.49.55 WIB |
+| 1706 | <img src="https://cdn.idntimes.com/content-images/post/20260626/74e76417-0353-487f-b9b7-7520c0398e87-260626234315.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Jumat, 26 Juni 2026 pukul 23.43.23 WIB |
+| 1705 | <img src="https://cdn.idntimes.com/content-images/post/20260626/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260626234249.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Jumat, 26 Juni 2026 pukul 23.42.55 WIB |
+| 1704 | <img src="https://cdn.idntimes.com/content-images/post/20260626/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260626234215.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Jumat, 26 Juni 2026 pukul 23.42.22 WIB |
+| 1703 | <img src="https://cdn.idntimes.com/content-images/post/20260626/f001ba66-3c51-4849-9afa-13cf74eb1571-260626234155.jpg" width="170"> | Aralie JKT48 | hi | Jumat, 26 Juni 2026 pukul 23.42.04 WIB |
+| 1702 | <img src="https://cdn.idntimes.com/content-images/post/20260626/e243be19-74b7-435b-8e19-13fc669e0224-260626234053.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Jumat, 26 Juni 2026 pukul 23.41.01 WIB |
+| 1701 | <img src="https://cdn.idntimes.com/content-images/post/20260626/15dfee86-a928-4a15-8c90-6aa21097d0ff-260626233931.jpg" width="170"> | Lia JKT48 | hiii | Jumat, 26 Juni 2026 pukul 23.39.46 WIB |
+| 1700 | <img src="https://cdn.idntimes.com/content-images/post/20260626/e2af7271-2598-4ee8-8760-68043e671e6d-260626233927.jpg" width="170"> | Lana JKT48 | Hai | Jumat, 26 Juni 2026 pukul 23.39.35 WIB |
+| 1699 | <img src="https://cdn.idntimes.com/content-images/post/20260626/4f795073-38c9-4df7-9388-74b83de69801-260626233115.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Jumat, 26 Juni 2026 pukul 23.31.32 WIB |
+| 1698 | <img src="https://cdn.idntimes.com/content-images/post/20260626/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260626233106.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Jumat, 26 Juni 2026 pukul 23.31.16 WIB |
+| 1697 | <img src="https://cdn.idntimes.com/content-images/post/20260626/e0ececb4-71d8-4f32-a221-ef21634a746a-260626232911.jpg" width="170"> | Elin JKT48 | Hai | Jumat, 26 Juni 2026 pukul 23.29.20 WIB |
+| 1696 | <img src="https://cdn.idntimes.com/content-images/post/20260626/717109e0-a064-4f15-8187-5c4d46e56a58-260626232823.jpg" width="170"> | Fritzy JKT48 | temenin gess | Jumat, 26 Juni 2026 pukul 23.28.36 WIB |
+| 1695 | <img src="https://cdn.idntimes.com/content-images/post/20260626/33139b05-1c43-4b48-bba3-ec960b18b36e-260626232424.jpg" width="170"> | Danella JKT48 | Hi | Jumat, 26 Juni 2026 pukul 23.24.31 WIB |
+| 1694 | <img src="https://cdn.idntimes.com/content-images/post/20260626/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260626232400.jpg" width="170"> | Kathrina JKT48 | Jogjaa | Jumat, 26 Juni 2026 pukul 23.24.14 WIB |
+| 1693 | <img src="https://cdn.idntimes.com/content-images/post/20260626/539f5185-1414-416c-b84d-2ad366b6d60a-260626231000.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Jumat, 26 Juni 2026 pukul 23.10.20 WIB |
 | 1692 | <img src="https://cdn.idntimes.com/content-images/post/20260626/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260626222906.jpg" width="170"> | Nala JKT48 | Ayo ngobrol bareng! | Jumat, 26 Juni 2026 pukul 22.29.22 WIB |
 | 1691 | <img src="https://cdn.idntimes.com/content-images/post/20260626/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260626103518.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Jumat, 26 Juni 2026 pukul 10.35.31 WIB |
 | 1690 | <img src="https://cdn.idntimes.com/content-images/post/20260626/82ffac10-ee56-43d0-ad38-ce432384cfe5-260626063003.jpg" width="170"> | Gita JKT48 | Gits | Jumat, 26 Juni 2026 pukul 06.30.17 WIB |
