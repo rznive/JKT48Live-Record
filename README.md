@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1691 | <img src="https://cdn.idntimes.com/content-images/post/20260626/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260626103518.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Jumat, 26 Juni 2026 pukul 10.35.31 WIB |
 | 1690 | <img src="https://cdn.idntimes.com/content-images/post/20260626/82ffac10-ee56-43d0-ad38-ce432384cfe5-260626063003.jpg" width="170"> | Gita JKT48 | Gits | Jumat, 26 Juni 2026 pukul 06.30.17 WIB |
 | 1689 | <img src="https://cdn.idntimes.com/content-images/post/20260626/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260626000403.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Jumat, 26 Juni 2026 pukul 00.04.23 WIB |
 | 1688 | <img src="https://cdn.idntimes.com/content-images/post/20260625/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260625233122.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Kamis, 25 Juni 2026 pukul 23.31.37 WIB |
