@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1711 | <img src="https://cdn.idntimes.com/content-images/post/20260627/e9170998-f026-4186-bbc5-a17a3b5b2af1-260627205009.jpg" width="170"> | Rilly JKT48 | NGOBS MALAM MALAM | Sabtu, 27 Juni 2026 pukul 20.50.20 WIB |
+| 1710 | <img src="https://cdn.idntimes.com/content-images/post/20260627/a2b5d818-475d-44ce-af52-e99526482aaf-260627204750.jpg" width="170"> | Oline JKT48 | kk | Sabtu, 27 Juni 2026 pukul 20.48.00 WIB |
+| 1709 | <img src="https://cdn.idntimes.com/content-images/post/20260627/21a420b0-dd01-4daa-b185-b9020f8bf69d-260627204747.jpg" width="170"> | Nachia JKT48 | hy | Sabtu, 27 Juni 2026 pukul 20.47.55 WIB |
 | 1708 | <img src="https://cdn.idntimes.com/content-images/post/20260627/a5c72141-65a3-47be-86ef-1dc1feaab10d-260627001145.jpg" width="170"> | Anindya JKT48 | hihuhihu | Sabtu, 27 Juni 2026 pukul 00.11.53 WIB |
 | 1707 | <img src="https://cdn.idntimes.com/content-images/post/20260626/728d224e-6ccb-43d2-a029-a0147dc7fdee-260626234949.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Jumat, 26 Juni 2026 pukul 23.49.55 WIB |
 | 1706 | <img src="https://cdn.idntimes.com/content-images/post/20260626/74e76417-0353-487f-b9b7-7520c0398e87-260626234315.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Jumat, 26 Juni 2026 pukul 23.43.23 WIB |

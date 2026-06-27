@@ -2668,5 +2668,35 @@
     "live_at_unix": 1782493913,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260627/a5c72141-65a3-47be-86ef-1dc1feaab10d-260627001145.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8"
+  },
+  {
+    "id": 1709,
+    "username": "jkt48_nachia",
+    "creator_name": "Nachia JKT48",
+    "title": "hy",
+    "live_at": "Sabtu, 27 Juni 2026 pukul 20.47.55 WIB",
+    "live_at_unix": 1782568075,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260627/21a420b0-dd01-4daa-b185-b9020f8bf69d-260627204747.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8"
+  },
+  {
+    "id": 1710,
+    "username": "jkt48_oline",
+    "creator_name": "Oline JKT48",
+    "title": "kk",
+    "live_at": "Sabtu, 27 Juni 2026 pukul 20.48.00 WIB",
+    "live_at_unix": 1782568080,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260627/a2b5d818-475d-44ce-af52-e99526482aaf-260627204750.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gYN6fQPMCqs0.m3u8"
+  },
+  {
+    "id": 1711,
+    "username": "jkt48_rilly",
+    "creator_name": "Rilly JKT48",
+    "title": "NGOBS MALAM MALAM",
+    "live_at": "Sabtu, 27 Juni 2026 pukul 20.50.20 WIB",
+    "live_at_unix": 1782568220,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260627/e9170998-f026-4186-bbc5-a17a3b5b2af1-260627205009.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
   }
 ]
