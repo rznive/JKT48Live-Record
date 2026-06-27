@@ -2,6 +2,14 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1729 | <img src="https://cdn.idntimes.com/content-images/post/20260627/33139b05-1c43-4b48-bba3-ec960b18b36e-260627234454.jpg" width="170"> | Danella JKT48 | Hi | Sabtu, 27 Juni 2026 pukul 23.45.00 WIB |
+| 1728 | <img src="https://cdn.idntimes.com/content-images/post/20260627/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260627234428.jpg" width="170"> | Kathrina JKT48 | Jogjaa | Sabtu, 27 Juni 2026 pukul 23.44.41 WIB |
+| 1727 | <img src="https://cdn.idntimes.com/content-images/post/20260627/a9579a29-9203-40c0-9326-9837b8eae6e8-260627234325.jpg" width="170"> | Jessi JKT48 | p | Sabtu, 27 Juni 2026 pukul 23.43.43 WIB |
+| 1726 | <img src="https://cdn.idntimes.com/content-images/post/20260627/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260627234305.jpg" width="170"> | Muthe JKT48 | Oi | Sabtu, 27 Juni 2026 pukul 23.43.14 WIB |
+| 1725 | <img src="https://cdn.idntimes.com/content-images/post/20260627/e0ececb4-71d8-4f32-a221-ef21634a746a-260627233100.jpg" width="170"> | Elin JKT48 | Hai | Sabtu, 27 Juni 2026 pukul 23.31.09 WIB |
+| 1724 | <img src="https://cdn.idntimes.com/content-images/post/20260627/539f5185-1414-416c-b84d-2ad366b6d60a-260627231730.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Sabtu, 27 Juni 2026 pukul 23.17.40 WIB |
+| 1723 | <img src="https://cdn.idntimes.com/content-images/post/20260627/74e76417-0353-487f-b9b7-7520c0398e87-260627231648.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Sabtu, 27 Juni 2026 pukul 23.16.56 WIB |
+| 1722 | <img src="https://cdn.idntimes.com/content-images/post/20260627/266ef38a-da00-4d13-ba77-f94da68599ee-260627225113.jpg" width="170"> | Delynn JKT48 | hi | Sabtu, 27 Juni 2026 pukul 22.51.28 WIB |
 | 1721 | <img src="https://cdn.idntimes.com/content-images/post/20260627/b0d1e6c3-d356-4b00-8d00-846e5297693b-260627224147.jpg" width="170"> | Ella JKT48 | aloo | Sabtu, 27 Juni 2026 pukul 22.41.57 WIB |
 | 1720 | <img src="https://cdn.idntimes.com/content-images/post/20260627/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260627224144.jpg" width="170"> | Eli JKT48 | Main | Sabtu, 27 Juni 2026 pukul 22.41.53 WIB |
 | 1719 | <img src="https://cdn.idntimes.com/content-images/post/20260627/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260627224119.jpg" width="170"> | Marsha JKT48 | Haiiiuuu | Sabtu, 27 Juni 2026 pukul 22.41.27 WIB |
