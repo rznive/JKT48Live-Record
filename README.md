@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1733 | <img src="https://cdn.idntimes.com/content-images/post/20260628/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260628145058.jpg" width="170"> | Muthe JKT48 | Radio | Minggu, 28 Juni 2026 pukul 14.51.08 WIB |
+| 1732 | <img src="https://cdn.idntimes.com/content-images/post/20260628/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260628143733.jpg" width="170"> | Levi JKT48 | hai | Minggu, 28 Juni 2026 pukul 14.37.40 WIB |
 | 1731 | <img src="https://cdn.idntimes.com/content-images/post/20260627/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260627235347.jpg" width="170"> | Levi JKT48 | hai | Sabtu, 27 Juni 2026 pukul 23.53.53 WIB |
 | 1730 | <img src="https://cdn.idntimes.com/content-images/post/20260627/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260627234516.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Sabtu, 27 Juni 2026 pukul 23.45.24 WIB |
 | 1729 | <img src="https://cdn.idntimes.com/content-images/post/20260627/33139b05-1c43-4b48-bba3-ec960b18b36e-260627234454.jpg" width="170"> | Danella JKT48 | Hi | Sabtu, 27 Juni 2026 pukul 23.45.00 WIB |

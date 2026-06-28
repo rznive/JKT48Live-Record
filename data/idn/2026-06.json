@@ -2898,5 +2898,25 @@
     "live_at_unix": 1782579233,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260627/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260627235347.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 1732,
+    "username": "jkt48_levi",
+    "creator_name": "Levi JKT48",
+    "title": "hai",
+    "live_at": "Minggu, 28 Juni 2026 pukul 14.37.40 WIB",
+    "live_at_unix": 1782632260,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260628/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260628143733.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 1733,
+    "username": "jkt48_muthe",
+    "creator_name": "Muthe JKT48",
+    "title": "Radio",
+    "live_at": "Minggu, 28 Juni 2026 pukul 14.51.08 WIB",
+    "live_at_unix": 1782633068,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260628/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260628145058.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sm9AmQPkGDGS.m3u8"
   }
 ]
