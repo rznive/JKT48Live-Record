@@ -3018,5 +3018,45 @@
     "live_at_unix": 1782660831,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260628/4f795073-38c9-4df7-9388-74b83de69801-260628223336.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 1744,
+    "username": "jkt48_levi",
+    "creator_name": "Levi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 28 Juni 2026 pukul 22.52.32 WIB",
+    "live_at_unix": 1782661952,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260628/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260628225223.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 1745,
+    "username": "jkt48_fritzy",
+    "creator_name": "Fritzy JKT48",
+    "title": "guwm",
+    "live_at": "Minggu, 28 Juni 2026 pukul 23.09.17 WIB",
+    "live_at_unix": 1782662957,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260628/717109e0-a064-4f15-8187-5c4d46e56a58-260628230901.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
+  },
+  {
+    "id": 1746,
+    "username": "jkt48_ekin",
+    "creator_name": "Ekin JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 28 Juni 2026 pukul 23.14.27 WIB",
+    "live_at_unix": 1782663267,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260628/85f369d7-6525-41c0-94b8-9a56686713eb-260628231417.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
+  },
+  {
+    "id": 1747,
+    "username": "jkt48_virgi",
+    "creator_name": "Virgi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 28 Juni 2026 pukul 23.27.35 WIB",
+    "live_at_unix": 1782664055,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260628/147e83c8-f3ac-4680-9141-2f518b4b7810-260628232723.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8"
   }
 ]
