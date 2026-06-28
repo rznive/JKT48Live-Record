@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1748 | <img src="https://cdn.idntimes.com/content-images/post/20260628/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260628234857.jpg" width="170"> | Ribka JKT48 | CC login | Minggu, 28 Juni 2026 pukul 23.49.13 WIB |
 | 1747 | <img src="https://cdn.idntimes.com/content-images/post/20260628/147e83c8-f3ac-4680-9141-2f518b4b7810-260628232723.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 28 Juni 2026 pukul 23.27.35 WIB |
 | 1746 | <img src="https://cdn.idntimes.com/content-images/post/20260628/85f369d7-6525-41c0-94b8-9a56686713eb-260628231417.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 28 Juni 2026 pukul 23.14.27 WIB |
 | 1745 | <img src="https://cdn.idntimes.com/content-images/post/20260628/717109e0-a064-4f15-8187-5c4d46e56a58-260628230901.jpg" width="170"> | Fritzy JKT48 | guwm | Minggu, 28 Juni 2026 pukul 23.09.17 WIB |
