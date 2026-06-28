@@ -2,6 +2,16 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1743 | <img src="https://cdn.idntimes.com/content-images/post/20260628/4f795073-38c9-4df7-9388-74b83de69801-260628223336.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 28 Juni 2026 pukul 22.33.51 WIB |
+| 1742 | <img src="https://cdn.idntimes.com/content-images/post/20260628/e0ececb4-71d8-4f32-a221-ef21634a746a-260628223053.jpg" width="170"> | Elin JKT48 | Hai | Minggu, 28 Juni 2026 pukul 22.31.03 WIB |
+| 1741 | <img src="https://cdn.idntimes.com/content-images/post/20260628/a5c72141-65a3-47be-86ef-1dc1feaab10d-260628222553.jpg" width="170"> | Anindya JKT48 | hlo | Minggu, 28 Juni 2026 pukul 22.26.01 WIB |
+| 1740 | <img src="https://cdn.idntimes.com/content-images/post/20260628/e2af7271-2598-4ee8-8760-68043e671e6d-260628222352.jpg" width="170"> | Lana JKT48 | Hai | Minggu, 28 Juni 2026 pukul 22.24.01 WIB |
+| 1739 | <img src="https://cdn.idntimes.com/content-images/post/20260628/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260628220913.jpg" width="170"> | Giaa JKT48 | oi | Minggu, 28 Juni 2026 pukul 22.09.29 WIB |
+| 1738 | <img src="https://cdn.idntimes.com/content-images/post/20260628/33139b05-1c43-4b48-bba3-ec960b18b36e-260628220416.jpg" width="170"> | Danella JKT48 | Hi | Minggu, 28 Juni 2026 pukul 22.04.23 WIB |
+| 1737 | <img src="https://cdn.idntimes.com/content-images/post/20260628/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260628215617.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 28 Juni 2026 pukul 21.56.30 WIB |
+| 1736 | <img src="https://cdn.idntimes.com/content-images/post/20260628/15dfee86-a928-4a15-8c90-6aa21097d0ff-260628215307.jpg" width="170"> | Lia JKT48 | hiii | Minggu, 28 Juni 2026 pukul 21.53.19 WIB |
+| 1735 | <img src="https://cdn.idntimes.com/content-images/post/20260628/539f5185-1414-416c-b84d-2ad366b6d60a-260628214726.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Minggu, 28 Juni 2026 pukul 21.47.44 WIB |
+| 1734 | <img src="https://cdn.idntimes.com/content-images/post/20260628/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260628211044.jpg" width="170"> | Intan JKT48 | hi | Minggu, 28 Juni 2026 pukul 21.10.57 WIB |
 | 1733 | <img src="https://cdn.idntimes.com/content-images/post/20260628/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260628145058.jpg" width="170"> | Muthe JKT48 | Radio | Minggu, 28 Juni 2026 pukul 14.51.08 WIB |
 | 1732 | <img src="https://cdn.idntimes.com/content-images/post/20260628/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260628143733.jpg" width="170"> | Levi JKT48 | hai | Minggu, 28 Juni 2026 pukul 14.37.40 WIB |
 | 1731 | <img src="https://cdn.idntimes.com/content-images/post/20260627/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260627235347.jpg" width="170"> | Levi JKT48 | hai | Sabtu, 27 Juni 2026 pukul 23.53.53 WIB |
