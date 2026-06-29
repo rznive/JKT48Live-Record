@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1762 | <img src="https://cdn.idntimes.com/content-images/post/20260630/b0d1e6c3-d356-4b00-8d00-846e5297693b-260630001546.jpg" width="170"> | Ella JKT48 | aloo | Selasa, 30 Juni 2026 pukul 00.15.55 WIB |
+| 1761 | <img src="https://cdn.idntimes.com/content-images/post/20260629/4f795073-38c9-4df7-9388-74b83de69801-260629233723.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 29 Juni 2026 pukul 23.37.38 WIB |
+| 1760 | <img src="https://cdn.idntimes.com/content-images/post/20260629/e0ececb4-71d8-4f32-a221-ef21634a746a-260629232004.jpg" width="170"> | Elin JKT48 | Hai hai | Senin, 29 Juni 2026 pukul 23.20.13 WIB |
 | 1759 | <img src="https://cdn.idntimes.com/content-images/post/20260629/f001ba66-3c51-4849-9afa-13cf74eb1571-260629212352.jpg" width="170"> | Aralie JKT48 | hi | Senin, 29 Juni 2026 pukul 21.24.01 WIB |
 | 1758 | <img src="https://cdn.idntimes.com/content-images/post/20260629/147e83c8-f3ac-4680-9141-2f518b4b7810-260629202858.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 29 Juni 2026 pukul 20.29.10 WIB |
 | 1757 | <img src="https://cdn.idntimes.com/content-images/post/20260629/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260629202302.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Senin, 29 Juni 2026 pukul 20.23.09 WIB |
