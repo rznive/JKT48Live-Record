@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1759 | <img src="https://cdn.idntimes.com/content-images/post/20260629/f001ba66-3c51-4849-9afa-13cf74eb1571-260629212352.jpg" width="170"> | Aralie JKT48 | hi | Senin, 29 Juni 2026 pukul 21.24.01 WIB |
+| 1758 | <img src="https://cdn.idntimes.com/content-images/post/20260629/147e83c8-f3ac-4680-9141-2f518b4b7810-260629202858.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 29 Juni 2026 pukul 20.29.10 WIB |
+| 1757 | <img src="https://cdn.idntimes.com/content-images/post/20260629/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260629202302.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Senin, 29 Juni 2026 pukul 20.23.09 WIB |
+| 1756 | <img src="https://cdn.idntimes.com/content-images/post/20260629/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260629200035.jpg" width="170"> | Muthe JKT48 | Radio | Senin, 29 Juni 2026 pukul 20.00.42 WIB |
 | 1755 | <img src="https://cdn.idntimes.com/content-images/post/20260629/92d66abb-0171-4a2b-a30d-37ad58359248-260629180256.jpg" width="170"> | Trisha JKT48 | haai | Senin, 29 Juni 2026 pukul 18.03.05 WIB |
 | 1754 | <img src="https://cdn.idntimes.com/content-images/post/20260629/a9579a29-9203-40c0-9326-9837b8eae6e8-260629173946.jpg" width="170"> | Jessi JKT48 | radioooo | Senin, 29 Juni 2026 pukul 17.39.58 WIB |
 | 1753 | <img src="https://cdn.idntimes.com/content-images/post/20260629/4f795073-38c9-4df7-9388-74b83de69801-260629170652.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 29 Juni 2026 pukul 17.07.08 WIB |
