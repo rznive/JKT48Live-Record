@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1755 | <img src="https://cdn.idntimes.com/content-images/post/20260629/92d66abb-0171-4a2b-a30d-37ad58359248-260629180256.jpg" width="170"> | Trisha JKT48 | haai | Senin, 29 Juni 2026 pukul 18.03.05 WIB |
+| 1754 | <img src="https://cdn.idntimes.com/content-images/post/20260629/a9579a29-9203-40c0-9326-9837b8eae6e8-260629173946.jpg" width="170"> | Jessi JKT48 | radioooo | Senin, 29 Juni 2026 pukul 17.39.58 WIB |
+| 1753 | <img src="https://cdn.idntimes.com/content-images/post/20260629/4f795073-38c9-4df7-9388-74b83de69801-260629170652.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 29 Juni 2026 pukul 17.07.08 WIB |
+| 1752 | <img src="https://cdn.idntimes.com/content-images/post/20260629/a5c72141-65a3-47be-86ef-1dc1feaab10d-260629170625.jpg" width="170"> | Anindya JKT48 | hlo | Senin, 29 Juni 2026 pukul 17.06.43 WIB |
+| 1751 | <img src="https://cdn.idntimes.com/content-images/post/20260629/e243be19-74b7-435b-8e19-13fc669e0224-260629170535.jpg" width="170"> | Nayla JKT48 | Jkt48 | Senin, 29 Juni 2026 pukul 17.06.00 WIB |
+| 1750 | <img src="https://cdn.idntimes.com/content-images/post/20260629/539f5185-1414-416c-b84d-2ad366b6d60a-260629170527.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Senin, 29 Juni 2026 pukul 17.05.42 WIB |
+| 1749 | <img src="https://cdn.idntimes.com/content-images/post/20260629/74e76417-0353-487f-b9b7-7520c0398e87-260629163947.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Senin, 29 Juni 2026 pukul 16.39.58 WIB |
 | 1748 | <img src="https://cdn.idntimes.com/content-images/post/20260628/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260628234857.jpg" width="170"> | Ribka JKT48 | CC login | Minggu, 28 Juni 2026 pukul 23.49.13 WIB |
 | 1747 | <img src="https://cdn.idntimes.com/content-images/post/20260628/147e83c8-f3ac-4680-9141-2f518b4b7810-260628232723.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 28 Juni 2026 pukul 23.27.35 WIB |
 | 1746 | <img src="https://cdn.idntimes.com/content-images/post/20260628/85f369d7-6525-41c0-94b8-9a56686713eb-260628231417.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 28 Juni 2026 pukul 23.14.27 WIB |
