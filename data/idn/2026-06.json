@@ -3258,5 +3258,35 @@
     "live_at_unix": 1782822694,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260630/e9170998-f026-4186-bbc5-a17a3b5b2af1-260630193124.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 1768,
+    "username": "jkt48_erine",
+    "creator_name": "Erine JKT48",
+    "title": "Erin",
+    "live_at": "Selasa, 30 Juni 2026 pukul 22.09.32 WIB",
+    "live_at_unix": 1782832172,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260630/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260630220916.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.0nMPtjEVo1Ds.m3u8"
+  },
+  {
+    "id": 1769,
+    "username": "jkt48_ella",
+    "creator_name": "Ella JKT48",
+    "title": "aloo",
+    "live_at": "Selasa, 30 Juni 2026 pukul 22.24.06 WIB",
+    "live_at_unix": 1782833046,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260630/b0d1e6c3-d356-4b00-8d00-846e5297693b-260630222356.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BDGTjOuDMTDH.m3u8"
+  },
+  {
+    "id": 1770,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "hi",
+    "live_at": "Selasa, 30 Juni 2026 pukul 22.39.10 WIB",
+    "live_at_unix": 1782833950,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260630/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260630223853.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
   }
 ]
