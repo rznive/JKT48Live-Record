@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1771 | <img src="https://cdn.idntimes.com/content-images/post/20260630/b0d1e6c3-d356-4b00-8d00-846e5297693b-260630235602.jpg" width="170"> | Ella JKT48 | aloo | Selasa, 30 Juni 2026 pukul 23.56.13 WIB |
 | 1770 | <img src="https://cdn.idntimes.com/content-images/post/20260630/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260630223853.jpg" width="170"> | Intan JKT48 | hi | Selasa, 30 Juni 2026 pukul 22.39.10 WIB |
 | 1769 | <img src="https://cdn.idntimes.com/content-images/post/20260630/b0d1e6c3-d356-4b00-8d00-846e5297693b-260630222356.jpg" width="170"> | Ella JKT48 | aloo | Selasa, 30 Juni 2026 pukul 22.24.06 WIB |
 | 1768 | <img src="https://cdn.idntimes.com/content-images/post/20260630/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260630220916.jpg" width="170"> | Erine JKT48 | Erin | Selasa, 30 Juni 2026 pukul 22.09.32 WIB |
