@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1767 | <img src="https://cdn.idntimes.com/content-images/post/20260630/e9170998-f026-4186-bbc5-a17a3b5b2af1-260630193124.jpg" width="170"> | Rilly JKT48 | NGOBS MALAM MALAM | Selasa, 30 Juni 2026 pukul 19.31.34 WIB |
 | 1766 | <img src="https://cdn.idntimes.com/content-images/post/20260630/7599c984-c466-4962-8c5b-73c1d33d59d9-260630145244.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 30 Juni 2026 pukul 14.52.51 WIB |
 | 1765 | <img src="https://cdn.idntimes.com/content-images/post/20260630/539f5185-1414-416c-b84d-2ad366b6d60a-260630133756.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Selasa, 30 Juni 2026 pukul 13.38.05 WIB |
 | 1764 | <img src="https://cdn.idntimes.com/content-images/post/20260630/a5c72141-65a3-47be-86ef-1dc1feaab10d-260630130521.jpg" width="170"> | Anindya JKT48 | SIANG | Selasa, 30 Juni 2026 pukul 13.05.36 WIB |
