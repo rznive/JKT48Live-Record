@@ -3218,5 +3218,35 @@
     "live_at_unix": 1782793750,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260630/717109e0-a064-4f15-8187-5c4d46e56a58-260630112857.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
+  },
+  {
+    "id": 1764,
+    "username": "jkt48_anindya",
+    "creator_name": "Anindya JKT48",
+    "title": "SIANG",
+    "live_at": "Selasa, 30 Juni 2026 pukul 13.05.36 WIB",
+    "live_at_unix": 1782799536,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260630/a5c72141-65a3-47be-86ef-1dc1feaab10d-260630130521.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8"
+  },
+  {
+    "id": 1765,
+    "username": "jkt48_indah",
+    "creator_name": "Indah JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 30 Juni 2026 pukul 13.38.05 WIB",
+    "live_at_unix": 1782801485,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260630/539f5185-1414-416c-b84d-2ad366b6d60a-260630133756.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oKpAUHJSe6RM.m3u8"
+  },
+  {
+    "id": 1766,
+    "username": "jkt48_maira",
+    "creator_name": "Maira JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 30 Juni 2026 pukul 14.52.51 WIB",
+    "live_at_unix": 1782805971,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260630/7599c984-c466-4962-8c5b-73c1d33d59d9-260630145244.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
   }
 ]

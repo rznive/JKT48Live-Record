@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1766 | <img src="https://cdn.idntimes.com/content-images/post/20260630/7599c984-c466-4962-8c5b-73c1d33d59d9-260630145244.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 30 Juni 2026 pukul 14.52.51 WIB |
+| 1765 | <img src="https://cdn.idntimes.com/content-images/post/20260630/539f5185-1414-416c-b84d-2ad366b6d60a-260630133756.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Selasa, 30 Juni 2026 pukul 13.38.05 WIB |
+| 1764 | <img src="https://cdn.idntimes.com/content-images/post/20260630/a5c72141-65a3-47be-86ef-1dc1feaab10d-260630130521.jpg" width="170"> | Anindya JKT48 | SIANG | Selasa, 30 Juni 2026 pukul 13.05.36 WIB |
 | 1763 | <img src="https://cdn.idntimes.com/content-images/post/20260630/717109e0-a064-4f15-8187-5c4d46e56a58-260630112857.jpg" width="170"> | Fritzy JKT48 | hello sekejap | Selasa, 30 Juni 2026 pukul 11.29.10 WIB |
 | 1762 | <img src="https://cdn.idntimes.com/content-images/post/20260630/b0d1e6c3-d356-4b00-8d00-846e5297693b-260630001546.jpg" width="170"> | Ella JKT48 | aloo | Selasa, 30 Juni 2026 pukul 00.15.55 WIB |
 | 1761 | <img src="https://cdn.idntimes.com/content-images/post/20260629/4f795073-38c9-4df7-9388-74b83de69801-260629233723.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 29 Juni 2026 pukul 23.37.38 WIB |
