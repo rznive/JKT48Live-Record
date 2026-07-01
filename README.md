@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1773 | <img src="https://cdn.idntimes.com/content-images/post/20260701/e9170998-f026-4186-bbc5-a17a3b5b2af1-260701214318.jpg" width="170"> | Rilly JKT48 | NGOBS MALAM MALAM | Rabu, 01 Juli 2026 pukul 21.43.28 WIB |
 | 1772 | <img src="https://cdn.idntimes.com/content-images/post/20260701/f9500eb4-9d6d-491d-a857-40ca6f862d61-260701125225.jpg" width="170"> | Auwia JKT48 | Live ngobrol  | Rabu, 01 Juli 2026 pukul 12.52.41 WIB |
 | 1771 | <img src="https://cdn.idntimes.com/content-images/post/20260630/b0d1e6c3-d356-4b00-8d00-846e5297693b-260630235602.jpg" width="170"> | Ella JKT48 | aloo | Selasa, 30 Juni 2026 pukul 23.56.13 WIB |
 | 1770 | <img src="https://cdn.idntimes.com/content-images/post/20260630/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260630223853.jpg" width="170"> | Intan JKT48 | hi | Selasa, 30 Juni 2026 pukul 22.39.10 WIB |
