@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1776 | <img src="https://cdn.idntimes.com/content-images/post/20260705/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260705220656.jpg" width="170"> | Kathrina JKT48 | Wow | Minggu, 05 Juli 2026 pukul 22.07.07 WIB |
+| 1775 | <img src="https://cdn.idntimes.com/content-images/post/20260705/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260705220650.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Minggu, 05 Juli 2026 pukul 22.07.03 WIB |
 | 1774 | <img src="https://cdn.idntimes.com/content-images/post/20260702/15dfee86-a928-4a15-8c90-6aa21097d0ff-260702001930.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Kamis, 02 Juli 2026 pukul 00.19.37 WIB |
 | 1773 | <img src="https://cdn.idntimes.com/content-images/post/20260701/e9170998-f026-4186-bbc5-a17a3b5b2af1-260701214318.jpg" width="170"> | Rilly JKT48 | NGOBS MALAM MALAM | Rabu, 01 Juli 2026 pukul 21.43.28 WIB |
 | 1772 | <img src="https://cdn.idntimes.com/content-images/post/20260701/f9500eb4-9d6d-491d-a857-40ca6f862d61-260701125225.jpg" width="170"> | Auwia JKT48 | Live ngobrol  | Rabu, 01 Juli 2026 pukul 12.52.41 WIB |
