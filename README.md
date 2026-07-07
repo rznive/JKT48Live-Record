@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1778 | <img src="https://cdn.idntimes.com/content-images/post/20260707/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260707222717.jpg" width="170"> | Giaa JKT48 | oi | Selasa, 07 Juli 2026 pukul 22.27.33 WIB |
 | 1777 | <img src="https://cdn.idntimes.com/content-images/post/20260705/85f369d7-6525-41c0-94b8-9a56686713eb-260705231312.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 05 Juli 2026 pukul 23.13.28 WIB |
 | 1776 | <img src="https://cdn.idntimes.com/content-images/post/20260705/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260705220656.jpg" width="170"> | Kathrina JKT48 | Wow | Minggu, 05 Juli 2026 pukul 22.07.07 WIB |
 | 1775 | <img src="https://cdn.idntimes.com/content-images/post/20260705/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260705220650.jpg" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Minggu, 05 Juli 2026 pukul 22.07.03 WIB |
