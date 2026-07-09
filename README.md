@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1781 | <img src="https://cdn.idntimes.com/content-images/post/20260709/85f369d7-6525-41c0-94b8-9a56686713eb-260709223520.jpg" width="170"> | Ekin JKT48 | ngobrol sm anak 17 tahun | Kamis, 09 Juli 2026 pukul 22.35.32 WIB |
+| 1780 | <img src="https://cdn.idntimes.com/content-images/post/20260709/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260709221413.jpg" width="170"> | Lily JKT48 | Haii | Kamis, 09 Juli 2026 pukul 22.14.20 WIB |
 | 1779 | <img src="https://cdn.idntimes.com/content-images/post/20260708/4f795073-38c9-4df7-9388-74b83de69801-260708221332.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 08 Juli 2026 pukul 22.13.49 WIB |
 | 1778 | <img src="https://cdn.idntimes.com/content-images/post/20260707/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260707222717.jpg" width="170"> | Giaa JKT48 | oi | Selasa, 07 Juli 2026 pukul 22.27.33 WIB |
 | 1777 | <img src="https://cdn.idntimes.com/content-images/post/20260705/85f369d7-6525-41c0-94b8-9a56686713eb-260705231312.jpg" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Minggu, 05 Juli 2026 pukul 23.13.28 WIB |
