@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1787 | <img src="https://cdn.idntimes.com/content-images/post/20260710/a557ba58-12d8-4260-bd50-9e5252ac71ef-260710222315.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Jumat, 10 Juli 2026 pukul 22.23.29 WIB |
+| 1786 | <img src="https://cdn.idntimes.com/content-images/post/20260710/21a420b0-dd01-4daa-b185-b9020f8bf69d-260710210437.jpg" width="170"> | Nachia JKT48 | ey | Jumat, 10 Juli 2026 pukul 21.04.49 WIB |
 | 1785 | <img src="https://cdn.idntimes.com/content-images/post/20260710/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260710194748.jpg" width="170"> | Intan JKT48 | hi | Jumat, 10 Juli 2026 pukul 19.48.01 WIB |
 | 1784 | <img src="https://cdn.idntimes.com/content-images/post/20260710/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260710192306.jpg" width="170"> | Eli JKT48 | Nyeblak | Jumat, 10 Juli 2026 pukul 19.23.15 WIB |
 | 1783 | <img src="https://cdn.idntimes.com/content-images/post/20260710/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260710180716.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Jumat, 10 Juli 2026 pukul 18.07.22 WIB |
