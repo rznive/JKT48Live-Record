@@ -118,5 +118,25 @@
     "live_at_unix": 1783681642,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260710/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260710180716.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.m6srSRt8fTY6.m3u8"
+  },
+  {
+    "id": 1784,
+    "username": "jkt48_eli",
+    "creator_name": "Eli JKT48",
+    "title": "Nyeblak",
+    "live_at": "Jumat, 10 Juli 2026 pukul 19.23.15 WIB",
+    "live_at_unix": 1783686195,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260710/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260710192306.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8"
+  },
+  {
+    "id": 1785,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "hi",
+    "live_at": "Jumat, 10 Juli 2026 pukul 19.48.01 WIB",
+    "live_at_unix": 1783687681,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260710/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260710194748.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
   }
 ]
