@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1788 | <img src="https://cdn.idntimes.com/content-images/post/20260711/266ef38a-da00-4d13-ba77-f94da68599ee-260711230704.jpg" width="170"> | Delynn JKT48 | hi | Sabtu, 11 Juli 2026 pukul 23.07.21 WIB |
 | 1787 | <img src="https://cdn.idntimes.com/content-images/post/20260710/a557ba58-12d8-4260-bd50-9e5252ac71ef-260710222315.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Jumat, 10 Juli 2026 pukul 22.23.29 WIB |
 | 1786 | <img src="https://cdn.idntimes.com/content-images/post/20260710/21a420b0-dd01-4daa-b185-b9020f8bf69d-260710210437.jpg" width="170"> | Nachia JKT48 | ey | Jumat, 10 Juli 2026 pukul 21.04.49 WIB |
 | 1785 | <img src="https://cdn.idntimes.com/content-images/post/20260710/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260710194748.jpg" width="170"> | Intan JKT48 | hi | Jumat, 10 Juli 2026 pukul 19.48.01 WIB |
