@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1793 | <img src="https://cdn.idntimes.com/content-images/post/20260713/85f369d7-6525-41c0-94b8-9a56686713eb-260713215746.jpg" width="170"> | Ekin JKT48 | live tanpa marah | Senin, 13 Juli 2026 pukul 21.58.00 WIB |
 | 1792 | <img src="https://cdn.idntimes.com/content-images/post/20260713/7599c984-c466-4962-8c5b-73c1d33d59d9-260713190448.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Senin, 13 Juli 2026 pukul 19.04.55 WIB |
 | 1791 | <img src="https://cdn.idntimes.com/content-images/post/20260713/147e83c8-f3ac-4680-9141-2f518b4b7810-260713190420.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 13 Juli 2026 pukul 19.04.32 WIB |
 | 1790 | <img src="https://cdn.idntimes.com/content-images/post/20260712/e243be19-74b7-435b-8e19-13fc669e0224-260712204645.jpg" width="170"> | Nayla JKT48 | 48 | Minggu, 12 Juli 2026 pukul 20.46.54 WIB |
