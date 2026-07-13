@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1792 | <img src="https://cdn.idntimes.com/content-images/post/20260713/7599c984-c466-4962-8c5b-73c1d33d59d9-260713190448.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Senin, 13 Juli 2026 pukul 19.04.55 WIB |
+| 1791 | <img src="https://cdn.idntimes.com/content-images/post/20260713/147e83c8-f3ac-4680-9141-2f518b4b7810-260713190420.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 13 Juli 2026 pukul 19.04.32 WIB |
 | 1790 | <img src="https://cdn.idntimes.com/content-images/post/20260712/e243be19-74b7-435b-8e19-13fc669e0224-260712204645.jpg" width="170"> | Nayla JKT48 | 48 | Minggu, 12 Juli 2026 pukul 20.46.54 WIB |
 | 1789 | <img src="https://cdn.idntimes.com/content-images/post/20260712/e243be19-74b7-435b-8e19-13fc669e0224-260712181947.jpg" width="170"> | Nayla JKT48 | 48 | Minggu, 12 Juli 2026 pukul 18.19.58 WIB |
 | 1788 | <img src="https://cdn.idntimes.com/content-images/post/20260711/266ef38a-da00-4d13-ba77-f94da68599ee-260711230704.jpg" width="170"> | Delynn JKT48 | hi | Sabtu, 11 Juli 2026 pukul 23.07.21 WIB |
