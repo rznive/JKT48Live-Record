@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1799 | <img src="https://cdn.idntimes.com/content-images/post/20260714/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260714190012.jpg" width="170"> | Intan JKT48 | hi | Selasa, 14 Juli 2026 pukul 19.00.27 WIB |
+| 1798 | <img src="https://cdn.idntimes.com/content-images/post/20260714/e9170998-f026-4186-bbc5-a17a3b5b2af1-260714184012.jpg" width="170"> | Rilly JKT48 | Ngobs ajaa | Selasa, 14 Juli 2026 pukul 18.40.22 WIB |
+| 1797 | <img src="https://cdn.idntimes.com/content-images/post/20260714/e0ececb4-71d8-4f32-a221-ef21634a746a-260714180658.jpg" width="170"> | Elin JKT48 | Haiii yuk mabarrr Honor of kings | Selasa, 14 Juli 2026 pukul 18.07.06 WIB |
 | 1796 | <img src="https://cdn.idntimes.com/content-images/post/20260714/f9500eb4-9d6d-491d-a857-40ca6f862d61-260714160132.jpg" width="170"> | Auwia JKT48 | Hai | Selasa, 14 Juli 2026 pukul 16.01.46 WIB |
 | 1795 | <img src="https://cdn.idntimes.com/content-images/post/20260714/50a27780-93e7-4e40-8474-60f6e0cca6da-260714154841.jpg" width="170"> | JKT48 | Temen Masak EP.2!!!! | Selasa, 14 Juli 2026 pukul 15.48.53 WIB |
 | 1794 | <img src="https://cdn.idntimes.com/content-images/post/20260714/e2af7271-2598-4ee8-8760-68043e671e6d-260714154828.jpg" width="170"> | Lana JKT48 | Tim love | Selasa, 14 Juli 2026 pukul 15.48.38 WIB |
