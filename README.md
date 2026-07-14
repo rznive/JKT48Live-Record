@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1803 | <img src="https://cdn.idntimes.com/content-images/post/20260715/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260715000348.jpg" width="170"> | Erine JKT48 | Erin | Rabu, 15 Juli 2026 pukul 00.04.04 WIB |
 | 1802 | <img src="https://cdn.idntimes.com/content-images/post/20260714/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260714233847.jpg" width="170"> | Erine JKT48 | Erin | Selasa, 14 Juli 2026 pukul 23.39.03 WIB |
 | 1801 | <img src="https://cdn.idntimes.com/content-images/post/20260714/147e83c8-f3ac-4680-9141-2f518b4b7810-260714205151.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 14 Juli 2026 pukul 20.52.05 WIB |
 | 1800 | <img src="https://cdn.idntimes.com/content-images/post/20260714/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260714204725.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Selasa, 14 Juli 2026 pukul 20.47.37 WIB |
