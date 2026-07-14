@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1801 | <img src="https://cdn.idntimes.com/content-images/post/20260714/147e83c8-f3ac-4680-9141-2f518b4b7810-260714205151.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 14 Juli 2026 pukul 20.52.05 WIB |
+| 1800 | <img src="https://cdn.idntimes.com/content-images/post/20260714/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260714204725.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Selasa, 14 Juli 2026 pukul 20.47.37 WIB |
 | 1799 | <img src="https://cdn.idntimes.com/content-images/post/20260714/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260714190012.jpg" width="170"> | Intan JKT48 | hi | Selasa, 14 Juli 2026 pukul 19.00.27 WIB |
 | 1798 | <img src="https://cdn.idntimes.com/content-images/post/20260714/e9170998-f026-4186-bbc5-a17a3b5b2af1-260714184012.jpg" width="170"> | Rilly JKT48 | Ngobs ajaa | Selasa, 14 Juli 2026 pukul 18.40.22 WIB |
 | 1797 | <img src="https://cdn.idntimes.com/content-images/post/20260714/e0ececb4-71d8-4f32-a221-ef21634a746a-260714180658.jpg" width="170"> | Elin JKT48 | Haiii yuk mabarrr Honor of kings | Selasa, 14 Juli 2026 pukul 18.07.06 WIB |
