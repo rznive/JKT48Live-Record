@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1807 | <img src="https://cdn.idntimes.com/content-images/post/20260715/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260715181622.jpg" width="170"> | Intan JKT48 | ayo liveee | Rabu, 15 Juli 2026 pukul 18.16.36 WIB |
+| 1806 | <img src="https://cdn.idntimes.com/content-images/post/20260715/e9170998-f026-4186-bbc5-a17a3b5b2af1-260715181622.jpg" width="170"> | Rilly JKT48 | Ngobs asoy | Rabu, 15 Juli 2026 pukul 18.16.33 WIB |
 | 1805 | <img src="https://cdn.idntimes.com/content-images/post/20260715/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260715165707.jpg" width="170"> | Giaa JKT48 | oi | Rabu, 15 Juli 2026 pukul 16.57.23 WIB |
 | 1804 | <img src="https://cdn.idntimes.com/content-images/post/20260715/7599c984-c466-4962-8c5b-73c1d33d59d9-260715164823.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Rabu, 15 Juli 2026 pukul 16.48.30 WIB |
 | 1803 | <img src="https://cdn.idntimes.com/content-images/post/20260715/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260715000348.jpg" width="170"> | Erine JKT48 | Erin | Rabu, 15 Juli 2026 pukul 00.04.04 WIB |
