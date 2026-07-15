@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1814 | <img src="https://cdn.idntimes.com/content-images/post/20260715/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260715223555.jpg" width="170"> | Eli JKT48 | Gabut | Rabu, 15 Juli 2026 pukul 22.36.05 WIB |
+| 1813 | <img src="https://cdn.idntimes.com/content-images/post/20260715/728d224e-6ccb-43d2-a029-a0147dc7fdee-260715221354.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Rabu, 15 Juli 2026 pukul 22.14.01 WIB |
+| 1812 | <img src="https://cdn.idntimes.com/content-images/post/20260715/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260715215254.jpg" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Rabu, 15 Juli 2026 pukul 21.53.03 WIB |
 | 1811 | <img src="https://cdn.idntimes.com/content-images/post/20260715/21a420b0-dd01-4daa-b185-b9020f8bf69d-260715212405.jpg" width="170"> | Nachia JKT48 | yy | Rabu, 15 Juli 2026 pukul 21.24.15 WIB |
 | 1810 | <img src="https://cdn.idntimes.com/content-images/post/20260715/717109e0-a064-4f15-8187-5c4d46e56a58-260715210407.jpg" width="170"> | Fritzy JKT48 | hellourrr  | Rabu, 15 Juli 2026 pukul 21.04.23 WIB |
 | 1809 | <img src="https://cdn.idntimes.com/content-images/post/20260715/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260715204922.jpg" width="170"> | Erine JKT48 | Erin | Rabu, 15 Juli 2026 pukul 20.49.40 WIB |
