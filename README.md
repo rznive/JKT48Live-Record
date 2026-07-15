@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1811 | <img src="https://cdn.idntimes.com/content-images/post/20260715/21a420b0-dd01-4daa-b185-b9020f8bf69d-260715212405.jpg" width="170"> | Nachia JKT48 | yy | Rabu, 15 Juli 2026 pukul 21.24.15 WIB |
+| 1810 | <img src="https://cdn.idntimes.com/content-images/post/20260715/717109e0-a064-4f15-8187-5c4d46e56a58-260715210407.jpg" width="170"> | Fritzy JKT48 | hellourrr  | Rabu, 15 Juli 2026 pukul 21.04.23 WIB |
+| 1809 | <img src="https://cdn.idntimes.com/content-images/post/20260715/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260715204922.jpg" width="170"> | Erine JKT48 | Erin | Rabu, 15 Juli 2026 pukul 20.49.40 WIB |
 | 1808 | <img src="https://cdn.idntimes.com/content-images/post/20260715/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260715194424.jpg" width="170"> | Muthe JKT48 | Hi | Rabu, 15 Juli 2026 pukul 19.44.31 WIB |
 | 1807 | <img src="https://cdn.idntimes.com/content-images/post/20260715/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260715181622.jpg" width="170"> | Intan JKT48 | ayo liveee | Rabu, 15 Juli 2026 pukul 18.16.36 WIB |
 | 1806 | <img src="https://cdn.idntimes.com/content-images/post/20260715/e9170998-f026-4186-bbc5-a17a3b5b2af1-260715181622.jpg" width="170"> | Rilly JKT48 | Ngobs asoy | Rabu, 15 Juli 2026 pukul 18.16.33 WIB |
