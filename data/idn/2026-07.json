@@ -478,5 +478,55 @@
     "live_at_unix": 1784203122,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260716/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260716185836.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 1820,
+    "username": "jkt48_maira",
+    "creator_name": "Maira JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 16 Juli 2026 pukul 20.30.48 WIB",
+    "live_at_unix": 1784208648,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260716/7599c984-c466-4962-8c5b-73c1d33d59d9-260716203041.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
+  },
+  {
+    "id": 1821,
+    "username": "jkt48_virgi",
+    "creator_name": "Virgi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 16 Juli 2026 pukul 20.31.39 WIB",
+    "live_at_unix": 1784208699,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260716/147e83c8-f3ac-4680-9141-2f518b4b7810-260716203128.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8"
+  },
+  {
+    "id": 1822,
+    "username": "jkt48_jemima",
+    "creator_name": "Jemima JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 16 Juli 2026 pukul 20.31.46 WIB",
+    "live_at_unix": 1784208706,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260716/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260716203134.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 1823,
+    "username": "jkt48_nala",
+    "creator_name": "Nala JKT48",
+    "title": "\n",
+    "live_at": "Kamis, 16 Juli 2026 pukul 20.31.51 WIB",
+    "live_at_unix": 1784208711,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260716/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260716203143.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.nCPKiODqPEOs.m3u8"
+  },
+  {
+    "id": 1824,
+    "username": "jkt48_nachia",
+    "creator_name": "Nachia JKT48",
+    "title": "yy",
+    "live_at": "Kamis, 16 Juli 2026 pukul 20.36.24 WIB",
+    "live_at_unix": 1784208984,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260716/21a420b0-dd01-4daa-b185-b9020f8bf69d-260716203610.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8"
   }
 ]

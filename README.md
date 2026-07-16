@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1824 | <img src="https://cdn.idntimes.com/content-images/post/20260716/21a420b0-dd01-4daa-b185-b9020f8bf69d-260716203610.jpg" width="170"> | Nachia JKT48 | yy | Kamis, 16 Juli 2026 pukul 20.36.24 WIB |
+| 1823 | <img src="https://cdn.idntimes.com/content-images/post/20260716/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260716203143.jpg" width="170"> | Nala JKT48 | 
+ | Kamis, 16 Juli 2026 pukul 20.31.51 WIB |
+| 1822 | <img src="https://cdn.idntimes.com/content-images/post/20260716/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260716203134.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Kamis, 16 Juli 2026 pukul 20.31.46 WIB |
+| 1821 | <img src="https://cdn.idntimes.com/content-images/post/20260716/147e83c8-f3ac-4680-9141-2f518b4b7810-260716203128.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Kamis, 16 Juli 2026 pukul 20.31.39 WIB |
+| 1820 | <img src="https://cdn.idntimes.com/content-images/post/20260716/7599c984-c466-4962-8c5b-73c1d33d59d9-260716203041.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Kamis, 16 Juli 2026 pukul 20.30.48 WIB |
 | 1819 | <img src="https://cdn.idntimes.com/content-images/post/20260716/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260716185836.jpg" width="170"> | Levi JKT48 | hai | Kamis, 16 Juli 2026 pukul 18.58.42 WIB |
 | 1818 | <img src="https://cdn.idntimes.com/content-images/post/20260716/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260716180156.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Kamis, 16 Juli 2026 pukul 18.02.07 WIB |
 | 1817 | <img src="https://cdn.idntimes.com/content-images/post/20260716/15dfee86-a928-4a15-8c90-6aa21097d0ff-260716171012.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Kamis, 16 Juli 2026 pukul 17.10.19 WIB |
