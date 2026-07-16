@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1832 | <img src="https://cdn.idntimes.com/content-images/post/20260716/e0ececb4-71d8-4f32-a221-ef21634a746a-260716232502.jpg" width="170"> | Elin JKT48 | Haiiii | Kamis, 16 Juli 2026 pukul 23.25.09 WIB |
+| 1831 | <img src="https://cdn.idntimes.com/content-images/post/20260716/717109e0-a064-4f15-8187-5c4d46e56a58-260716230635.jpg" width="170"> | Fritzy JKT48 | guwmm | Kamis, 16 Juli 2026 pukul 23.06.50 WIB |
+| 1830 | <img src="https://cdn.idntimes.com/content-images/post/20260716/82ffac10-ee56-43d0-ad38-ce432384cfe5-260716223136.jpg" width="170"> | Gita JKT48 | Gits | Kamis, 16 Juli 2026 pukul 22.31.50 WIB |
 | 1829 | <img src="https://cdn.idntimes.com/content-images/post/20260716/b11b0692-d0b8-464c-849a-9e81439a048c-260716222011.jpg" width="170"> | Daisy JKT48 | haiii | Kamis, 16 Juli 2026 pukul 22.20.18 WIB |
 | 1828 | <img src="https://cdn.idntimes.com/content-images/post/20260716/ab901d82-db49-488c-8d03-da0082ab70e2-260716221743.jpg" width="170"> | Gendis JKT48 | Hi | Kamis, 16 Juli 2026 pukul 22.17.55 WIB |
 | 1827 | <img src="https://cdn.idntimes.com/content-images/post/20260716/f001ba66-3c51-4849-9afa-13cf74eb1571-260716220556.jpg" width="170"> | Aralie JKT48 | hi | Kamis, 16 Juli 2026 pukul 22.06.05 WIB |
