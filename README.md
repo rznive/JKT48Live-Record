@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1816 | <img src="https://cdn.idntimes.com/content-images/post/20260716/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260716144603.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 16 Juli 2026 pukul 14.46.15 WIB |
 | 1815 | <img src="https://cdn.idntimes.com/content-images/post/20260715/266ef38a-da00-4d13-ba77-f94da68599ee-260715230806.jpg" width="170"> | Delynn JKT48 | Hi | Rabu, 15 Juli 2026 pukul 23.08.18 WIB |
 | 1814 | <img src="https://cdn.idntimes.com/content-images/post/20260715/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260715223555.jpg" width="170"> | Eli JKT48 | Gabut | Rabu, 15 Juli 2026 pukul 22.36.05 WIB |
 | 1813 | <img src="https://cdn.idntimes.com/content-images/post/20260715/728d224e-6ccb-43d2-a029-a0147dc7fdee-260715221354.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Rabu, 15 Juli 2026 pukul 22.14.01 WIB |
