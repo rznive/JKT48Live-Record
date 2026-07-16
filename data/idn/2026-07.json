@@ -458,5 +458,25 @@
     "live_at_unix": 1784196619,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260716/15dfee86-a928-4a15-8c90-6aa21097d0ff-260716171012.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 1818,
+    "username": "jkt48_olla",
+    "creator_name": "Olla JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 16 Juli 2026 pukul 18.02.07 WIB",
+    "live_at_unix": 1784199727,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260716/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260716180156.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8"
+  },
+  {
+    "id": 1819,
+    "username": "jkt48_levi",
+    "creator_name": "Levi JKT48",
+    "title": "hai",
+    "live_at": "Kamis, 16 Juli 2026 pukul 18.58.42 WIB",
+    "live_at_unix": 1784203122,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260716/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260716185836.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
   }
 ]
