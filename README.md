@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1829 | <img src="https://cdn.idntimes.com/content-images/post/20260716/b11b0692-d0b8-464c-849a-9e81439a048c-260716222011.jpg" width="170"> | Daisy JKT48 | haiii | Kamis, 16 Juli 2026 pukul 22.20.18 WIB |
+| 1828 | <img src="https://cdn.idntimes.com/content-images/post/20260716/ab901d82-db49-488c-8d03-da0082ab70e2-260716221743.jpg" width="170"> | Gendis JKT48 | Hi | Kamis, 16 Juli 2026 pukul 22.17.55 WIB |
+| 1827 | <img src="https://cdn.idntimes.com/content-images/post/20260716/f001ba66-3c51-4849-9afa-13cf74eb1571-260716220556.jpg" width="170"> | Aralie JKT48 | hi | Kamis, 16 Juli 2026 pukul 22.06.05 WIB |
+| 1826 | <img src="https://cdn.idntimes.com/content-images/post/20260716/a557ba58-12d8-4260-bd50-9e5252ac71ef-260716205451.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 16 Juli 2026 pukul 20.55.04 WIB |
+| 1825 | <img src="https://cdn.idntimes.com/content-images/post/20260716/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260716205405.jpg" width="170"> | Intan JKT48 | hi | Kamis, 16 Juli 2026 pukul 20.54.18 WIB |
 | 1824 | <img src="https://cdn.idntimes.com/content-images/post/20260716/21a420b0-dd01-4daa-b185-b9020f8bf69d-260716203610.jpg" width="170"> | Nachia JKT48 | yy | Kamis, 16 Juli 2026 pukul 20.36.24 WIB |
 | 1823 | <img src="https://cdn.idntimes.com/content-images/post/20260716/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260716203143.jpg" width="170"> | Nala JKT48 | 
  | Kamis, 16 Juli 2026 pukul 20.31.51 WIB |
