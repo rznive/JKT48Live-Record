@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1852 | <img src="https://cdn.idntimes.com/content-images/post/20260717/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260717233652.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Jumat, 17 Juli 2026 pukul 23.37.01 WIB |
+| 1851 | <img src="https://cdn.idntimes.com/content-images/post/20260717/266ef38a-da00-4d13-ba77-f94da68599ee-260717233337.jpg" width="170"> | Delynn JKT48 | Hi | Jumat, 17 Juli 2026 pukul 23.33.49 WIB |
 | 1850 | <img src="https://cdn.idntimes.com/content-images/post/20260717/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260717222901.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Jumat, 17 Juli 2026 pukul 22.29.09 WIB |
 | 1849 | <img src="https://cdn.idntimes.com/content-images/post/20260717/21a420b0-dd01-4daa-b185-b9020f8bf69d-260717220435.jpg" width="170"> | Nachia JKT48 | yey | Jumat, 17 Juli 2026 pukul 22.04.47 WIB |
 | 1848 | <img src="https://cdn.idntimes.com/content-images/post/20260717/e243be19-74b7-435b-8e19-13fc669e0224-260717220421.jpg" width="170"> | Nayla JKT48 | 48 | Jumat, 17 Juli 2026 pukul 22.04.32 WIB |
