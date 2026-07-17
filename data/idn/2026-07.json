@@ -618,5 +618,15 @@
     "live_at_unix": 1784276308,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260717/15dfee86-a928-4a15-8c90-6aa21097d0ff-260717151816.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 1834,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "saya kembali",
+    "live_at": "Jumat, 17 Juli 2026 pukul 16.44.43 WIB",
+    "live_at_unix": 1784281483,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260717/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260717164431.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
   }
 ]
