@@ -2,6 +2,18 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1850 | <img src="https://cdn.idntimes.com/content-images/post/20260717/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260717222901.jpg" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Jumat, 17 Juli 2026 pukul 22.29.09 WIB |
+| 1849 | <img src="https://cdn.idntimes.com/content-images/post/20260717/21a420b0-dd01-4daa-b185-b9020f8bf69d-260717220435.jpg" width="170"> | Nachia JKT48 | yey | Jumat, 17 Juli 2026 pukul 22.04.47 WIB |
+| 1848 | <img src="https://cdn.idntimes.com/content-images/post/20260717/e243be19-74b7-435b-8e19-13fc669e0224-260717220421.jpg" width="170"> | Nayla JKT48 | 48 | Jumat, 17 Juli 2026 pukul 22.04.32 WIB |
+| 1847 | <img src="https://cdn.idntimes.com/content-images/post/20260717/a2b5d818-475d-44ce-af52-e99526482aaf-260717220255.jpg" width="170"> | Oline JKT48 | mau baca podium | Jumat, 17 Juli 2026 pukul 22.03.04 WIB |
+| 1846 | <img src="https://cdn.idntimes.com/content-images/post/20260717/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260717220235.jpg" width="170"> | Nala JKT48 | 
+ | Jumat, 17 Juli 2026 pukul 22.02.44 WIB |
+| 1845 | <img src="https://cdn.idntimes.com/content-images/post/20260717/b0d1e6c3-d356-4b00-8d00-846e5297693b-260717220043.jpg" width="170"> | Ella JKT48 | aloo | Jumat, 17 Juli 2026 pukul 22.00.52 WIB |
+| 1844 | <img src="https://cdn.idntimes.com/content-images/post/20260717/266ef38a-da00-4d13-ba77-f94da68599ee-260717215644.jpg" width="170"> | Delynn JKT48 | hu | Jumat, 17 Juli 2026 pukul 21.56.59 WIB |
+| 1843 | <img src="https://cdn.idntimes.com/content-images/post/20260717/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260717215429.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Jumat, 17 Juli 2026 pukul 21.54.41 WIB |
+| 1842 | <img src="https://cdn.idntimes.com/content-images/post/20260717/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260717215352.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Jumat, 17 Juli 2026 pukul 21.53.58 WIB |
+| 1841 | <img src="https://cdn.idntimes.com/content-images/post/20260717/82ffac10-ee56-43d0-ad38-ce432384cfe5-260717215319.jpg" width="170"> | Gita JKT48 | Gits | Jumat, 17 Juli 2026 pukul 21.53.33 WIB |
+| 1840 | <img src="https://cdn.idntimes.com/content-images/post/20260717/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260717215045.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Jumat, 17 Juli 2026 pukul 21.50.52 WIB |
 | 1839 | <img src="https://cdn.idntimes.com/content-images/post/20260717/cae4d972-5f14-4512-9706-37c1802a0541-260717211506.jpg" width="170"> | Gracie JKT48 | hiii | Jumat, 17 Juli 2026 pukul 21.15.13 WIB |
 | 1838 | <img src="https://cdn.idntimes.com/content-images/post/20260717/717109e0-a064-4f15-8187-5c4d46e56a58-260717210412.jpg" width="170"> | Fritzy JKT48 | p | Jumat, 17 Juli 2026 pukul 21.04.21 WIB |
 | 1837 | <img src="https://cdn.idntimes.com/content-images/post/20260717/a9579a29-9203-40c0-9326-9837b8eae6e8-260717185636.jpg" width="170"> | Jessi JKT48 | hi baddie | Jumat, 17 Juli 2026 pukul 18.56.42 WIB |
