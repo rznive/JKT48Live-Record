@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1833 | <img src="https://cdn.idntimes.com/content-images/post/20260717/15dfee86-a928-4a15-8c90-6aa21097d0ff-260717151816.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 17 Juli 2026 pukul 15.18.28 WIB |
 | 1832 | <img src="https://cdn.idntimes.com/content-images/post/20260716/e0ececb4-71d8-4f32-a221-ef21634a746a-260716232502.jpg" width="170"> | Elin JKT48 | Haiiii | Kamis, 16 Juli 2026 pukul 23.25.09 WIB |
 | 1831 | <img src="https://cdn.idntimes.com/content-images/post/20260716/717109e0-a064-4f15-8187-5c4d46e56a58-260716230635.jpg" width="170"> | Fritzy JKT48 | guwmm | Kamis, 16 Juli 2026 pukul 23.06.50 WIB |
 | 1830 | <img src="https://cdn.idntimes.com/content-images/post/20260716/82ffac10-ee56-43d0-ad38-ce432384cfe5-260716223136.jpg" width="170"> | Gita JKT48 | Gits | Kamis, 16 Juli 2026 pukul 22.31.50 WIB |
