@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1836 | <img src="https://cdn.idntimes.com/content-images/post/20260717/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260717182745.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Jumat, 17 Juli 2026 pukul 18.27.51 WIB |
+| 1835 | <img src="https://cdn.idntimes.com/content-images/post/20260717/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260717182630.jpg" width="170"> | Kathrina JKT48 | Wow | Jumat, 17 Juli 2026 pukul 18.26.41 WIB |
 | 1834 | <img src="https://cdn.idntimes.com/content-images/post/20260717/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260717164431.jpg" width="170"> | Oniel JKT48 | saya kembali | Jumat, 17 Juli 2026 pukul 16.44.43 WIB |
 | 1833 | <img src="https://cdn.idntimes.com/content-images/post/20260717/15dfee86-a928-4a15-8c90-6aa21097d0ff-260717151816.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 17 Juli 2026 pukul 15.18.28 WIB |
 | 1832 | <img src="https://cdn.idntimes.com/content-images/post/20260716/e0ececb4-71d8-4f32-a221-ef21634a746a-260716232502.jpg" width="170"> | Elin JKT48 | Haiiii | Kamis, 16 Juli 2026 pukul 23.25.09 WIB |
