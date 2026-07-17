@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1839 | <img src="https://cdn.idntimes.com/content-images/post/20260717/cae4d972-5f14-4512-9706-37c1802a0541-260717211506.jpg" width="170"> | Gracie JKT48 | hiii | Jumat, 17 Juli 2026 pukul 21.15.13 WIB |
+| 1838 | <img src="https://cdn.idntimes.com/content-images/post/20260717/717109e0-a064-4f15-8187-5c4d46e56a58-260717210412.jpg" width="170"> | Fritzy JKT48 | p | Jumat, 17 Juli 2026 pukul 21.04.21 WIB |
 | 1837 | <img src="https://cdn.idntimes.com/content-images/post/20260717/a9579a29-9203-40c0-9326-9837b8eae6e8-260717185636.jpg" width="170"> | Jessi JKT48 | hi baddie | Jumat, 17 Juli 2026 pukul 18.56.42 WIB |
 | 1836 | <img src="https://cdn.idntimes.com/content-images/post/20260717/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260717182745.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Jumat, 17 Juli 2026 pukul 18.27.51 WIB |
 | 1835 | <img src="https://cdn.idntimes.com/content-images/post/20260717/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260717182630.jpg" width="170"> | Kathrina JKT48 | Wow | Jumat, 17 Juli 2026 pukul 18.26.41 WIB |
