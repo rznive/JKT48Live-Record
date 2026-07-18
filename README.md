@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1859 | <img src="https://cdn.idntimes.com/content-images/post/20260718/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260718190858.jpg" width="170"> | Levi JKT48 | hai | Sabtu, 18 Juli 2026 pukul 19.09.05 WIB |
+| 1858 | <img src="https://cdn.idntimes.com/content-images/post/20260718/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260718185806.jpg" width="170"> | Erine JKT48 | Erin | Sabtu, 18 Juli 2026 pukul 18.58.21 WIB |
+| 1857 | <img src="https://cdn.idntimes.com/content-images/post/20260718/e243be19-74b7-435b-8e19-13fc669e0224-260718185712.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Sabtu, 18 Juli 2026 pukul 18.57.21 WIB |
+| 1856 | <img src="https://cdn.idntimes.com/content-images/post/20260718/e2af7271-2598-4ee8-8760-68043e671e6d-260718184908.jpg" width="170"> | Lana JKT48 | Tim love | Sabtu, 18 Juli 2026 pukul 18.49.15 WIB |
 | 1855 | <img src="https://cdn.idntimes.com/content-images/post/20260718/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260718182849.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Sabtu, 18 Juli 2026 pukul 18.28.55 WIB |
 | 1854 | <img src="https://cdn.idntimes.com/content-images/post/20260718/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260718180548.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Sabtu, 18 Juli 2026 pukul 18.05.59 WIB |
 | 1853 | <img src="https://cdn.idntimes.com/content-images/post/20260718/717109e0-a064-4f15-8187-5c4d46e56a58-260718143933.jpg" width="170"> | Fritzy JKT48 | grwm | Sabtu, 18 Juli 2026 pukul 14.39.42 WIB |
