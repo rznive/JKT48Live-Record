@@ -878,5 +878,15 @@
     "live_at_unix": 1784376545,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260718/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260718190858.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 1860,
+    "username": "jkt48_gracie",
+    "creator_name": "Gracie JKT48",
+    "title": "hiii",
+    "live_at": "Sabtu, 18 Juli 2026 pukul 21.13.55 WIB",
+    "live_at_unix": 1784384035,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260718/cae4d972-5f14-4512-9706-37c1802a0541-260718211348.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ztIO0UisaA3P.m3u8"
   }
 ]

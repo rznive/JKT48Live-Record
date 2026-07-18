@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1860 | <img src="https://cdn.idntimes.com/content-images/post/20260718/cae4d972-5f14-4512-9706-37c1802a0541-260718211348.jpg" width="170"> | Gracie JKT48 | hiii | Sabtu, 18 Juli 2026 pukul 21.13.55 WIB |
 | 1859 | <img src="https://cdn.idntimes.com/content-images/post/20260718/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260718190858.jpg" width="170"> | Levi JKT48 | hai | Sabtu, 18 Juli 2026 pukul 19.09.05 WIB |
 | 1858 | <img src="https://cdn.idntimes.com/content-images/post/20260718/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260718185806.jpg" width="170"> | Erine JKT48 | Erin | Sabtu, 18 Juli 2026 pukul 18.58.21 WIB |
 | 1857 | <img src="https://cdn.idntimes.com/content-images/post/20260718/e243be19-74b7-435b-8e19-13fc669e0224-260718185712.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Sabtu, 18 Juli 2026 pukul 18.57.21 WIB |
