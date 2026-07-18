@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1855 | <img src="https://cdn.idntimes.com/content-images/post/20260718/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260718182849.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Sabtu, 18 Juli 2026 pukul 18.28.55 WIB |
+| 1854 | <img src="https://cdn.idntimes.com/content-images/post/20260718/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260718180548.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Sabtu, 18 Juli 2026 pukul 18.05.59 WIB |
 | 1853 | <img src="https://cdn.idntimes.com/content-images/post/20260718/717109e0-a064-4f15-8187-5c4d46e56a58-260718143933.jpg" width="170"> | Fritzy JKT48 | grwm | Sabtu, 18 Juli 2026 pukul 14.39.42 WIB |
 | 1852 | <img src="https://cdn.idntimes.com/content-images/post/20260717/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260717233652.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Jumat, 17 Juli 2026 pukul 23.37.01 WIB |
 | 1851 | <img src="https://cdn.idntimes.com/content-images/post/20260717/266ef38a-da00-4d13-ba77-f94da68599ee-260717233337.jpg" width="170"> | Delynn JKT48 | Hi | Jumat, 17 Juli 2026 pukul 23.33.49 WIB |
