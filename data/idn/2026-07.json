@@ -888,5 +888,45 @@
     "live_at_unix": 1784384035,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260718/cae4d972-5f14-4512-9706-37c1802a0541-260718211348.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ztIO0UisaA3P.m3u8"
+  },
+  {
+    "id": 1861,
+    "username": "jkt48_oline",
+    "creator_name": "Oline JKT48",
+    "title": "mau baca podium",
+    "live_at": "Sabtu, 18 Juli 2026 pukul 21.57.03 WIB",
+    "live_at_unix": 1784386623,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260718/a2b5d818-475d-44ce-af52-e99526482aaf-260718215654.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gYN6fQPMCqs0.m3u8"
+  },
+  {
+    "id": 1862,
+    "username": "jkt48_cynthia",
+    "creator_name": "Cynthia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 18 Juli 2026 pukul 22.23.08 WIB",
+    "live_at_unix": 1784388188,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260718/4f795073-38c9-4df7-9388-74b83de69801-260718222249.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 1863,
+    "username": "jkt48_danella",
+    "creator_name": "Danella JKT48",
+    "title": "Hi",
+    "live_at": "Sabtu, 18 Juli 2026 pukul 22.32.23 WIB",
+    "live_at_unix": 1784388743,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260718/33139b05-1c43-4b48-bba3-ec960b18b36e-260718223215.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
+  },
+  {
+    "id": 1864,
+    "username": "jkt48_daisy",
+    "creator_name": "Daisy JKT48",
+    "title": "Haiii",
+    "live_at": "Sabtu, 18 Juli 2026 pukul 22.32.43 WIB",
+    "live_at_unix": 1784388763,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260718/b11b0692-d0b8-464c-849a-9e81439a048c-260718223237.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
   }
 ]

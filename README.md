@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1864 | <img src="https://cdn.idntimes.com/content-images/post/20260718/b11b0692-d0b8-464c-849a-9e81439a048c-260718223237.jpg" width="170"> | Daisy JKT48 | Haiii | Sabtu, 18 Juli 2026 pukul 22.32.43 WIB |
+| 1863 | <img src="https://cdn.idntimes.com/content-images/post/20260718/33139b05-1c43-4b48-bba3-ec960b18b36e-260718223215.jpg" width="170"> | Danella JKT48 | Hi | Sabtu, 18 Juli 2026 pukul 22.32.23 WIB |
+| 1862 | <img src="https://cdn.idntimes.com/content-images/post/20260718/4f795073-38c9-4df7-9388-74b83de69801-260718222249.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 18 Juli 2026 pukul 22.23.08 WIB |
+| 1861 | <img src="https://cdn.idntimes.com/content-images/post/20260718/a2b5d818-475d-44ce-af52-e99526482aaf-260718215654.jpg" width="170"> | Oline JKT48 | mau baca podium | Sabtu, 18 Juli 2026 pukul 21.57.03 WIB |
 | 1860 | <img src="https://cdn.idntimes.com/content-images/post/20260718/cae4d972-5f14-4512-9706-37c1802a0541-260718211348.jpg" width="170"> | Gracie JKT48 | hiii | Sabtu, 18 Juli 2026 pukul 21.13.55 WIB |
 | 1859 | <img src="https://cdn.idntimes.com/content-images/post/20260718/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260718190858.jpg" width="170"> | Levi JKT48 | hai | Sabtu, 18 Juli 2026 pukul 19.09.05 WIB |
 | 1858 | <img src="https://cdn.idntimes.com/content-images/post/20260718/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260718185806.jpg" width="170"> | Erine JKT48 | Erin | Sabtu, 18 Juli 2026 pukul 18.58.21 WIB |
