@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1886 | <img src="https://cdn.idntimes.com/content-images/post/20260719/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260719220400.jpg" width="170"> | Muthe JKT48 | Hi | Minggu, 19 Juli 2026 pukul 22.04.07 WIB |
+| 1885 | <img src="https://cdn.idntimes.com/content-images/post/20260719/b0d1e6c3-d356-4b00-8d00-846e5297693b-260719215952.jpg" width="170"> | Ella JKT48 | aloo | Minggu, 19 Juli 2026 pukul 22.00.02 WIB |
+| 1884 | <img src="https://cdn.idntimes.com/content-images/post/20260719/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260719215501.jpg" width="170"> | Lily JKT48 | Unboxing | Minggu, 19 Juli 2026 pukul 21.55.09 WIB |
+| 1883 | <img src="https://cdn.idntimes.com/content-images/post/20260719/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260719214943.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 19 Juli 2026 pukul 21.49.56 WIB |
+| 1882 | <img src="https://cdn.idntimes.com/content-images/post/20260719/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260719214609.jpg" width="170"> | Erine JKT48 | Erin | Minggu, 19 Juli 2026 pukul 21.46.25 WIB |
+| 1881 | <img src="https://cdn.idntimes.com/content-images/post/20260719/266ef38a-da00-4d13-ba77-f94da68599ee-260719213928.jpg" width="170"> | Delynn JKT48 | hi | Minggu, 19 Juli 2026 pukul 21.39.42 WIB |
+| 1880 | <img src="https://cdn.idntimes.com/content-images/post/20260719/147e83c8-f3ac-4680-9141-2f518b4b7810-260719211514.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 19 Juli 2026 pukul 21.15.28 WIB |
 | 1879 | <img src="https://cdn.idntimes.com/content-images/post/20260719/b0d1e6c3-d356-4b00-8d00-846e5297693b-260719210102.jpg" width="170"> | Ella JKT48 | aloo | Minggu, 19 Juli 2026 pukul 21.01.12 WIB |
 | 1878 | <img src="https://cdn.idntimes.com/content-images/post/20260719/539f5185-1414-416c-b84d-2ad366b6d60a-260719204654.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Minggu, 19 Juli 2026 pukul 20.47.03 WIB |
 | 1877 | <img src="https://cdn.idntimes.com/content-images/post/20260719/a557ba58-12d8-4260-bd50-9e5252ac71ef-260719203031.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 19 Juli 2026 pukul 20.30.44 WIB |

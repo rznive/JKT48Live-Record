@@ -1078,5 +1078,75 @@
     "live_at_unix": 1784469672,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260719/b0d1e6c3-d356-4b00-8d00-846e5297693b-260719210102.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BDGTjOuDMTDH.m3u8"
+  },
+  {
+    "id": 1880,
+    "username": "jkt48_virgi",
+    "creator_name": "Virgi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 19 Juli 2026 pukul 21.15.28 WIB",
+    "live_at_unix": 1784470528,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260719/147e83c8-f3ac-4680-9141-2f518b4b7810-260719211514.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8"
+  },
+  {
+    "id": 1881,
+    "username": "jkt48_delynn",
+    "creator_name": "Delynn JKT48",
+    "title": "hi",
+    "live_at": "Minggu, 19 Juli 2026 pukul 21.39.42 WIB",
+    "live_at_unix": 1784471982,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260719/266ef38a-da00-4d13-ba77-f94da68599ee-260719213928.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
+  },
+  {
+    "id": 1882,
+    "username": "jkt48_erine",
+    "creator_name": "Erine JKT48",
+    "title": "Erin",
+    "live_at": "Minggu, 19 Juli 2026 pukul 21.46.25 WIB",
+    "live_at_unix": 1784472385,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260719/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260719214609.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.0nMPtjEVo1Ds.m3u8"
+  },
+  {
+    "id": 1883,
+    "username": "jkt48_jemima",
+    "creator_name": "Jemima JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 19 Juli 2026 pukul 21.49.56 WIB",
+    "live_at_unix": 1784472596,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260719/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260719214943.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 1884,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Unboxing",
+    "live_at": "Minggu, 19 Juli 2026 pukul 21.55.09 WIB",
+    "live_at_unix": 1784472909,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260719/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260719215501.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
+  },
+  {
+    "id": 1885,
+    "username": "jkt48_ella",
+    "creator_name": "Ella JKT48",
+    "title": "aloo",
+    "live_at": "Minggu, 19 Juli 2026 pukul 22.00.02 WIB",
+    "live_at_unix": 1784473202,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260719/b0d1e6c3-d356-4b00-8d00-846e5297693b-260719215952.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BDGTjOuDMTDH.m3u8"
+  },
+  {
+    "id": 1886,
+    "username": "jkt48_muthe",
+    "creator_name": "Muthe JKT48",
+    "title": "Hi",
+    "live_at": "Minggu, 19 Juli 2026 pukul 22.04.07 WIB",
+    "live_at_unix": 1784473447,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260719/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260719220400.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sm9AmQPkGDGS.m3u8"
   }
 ]
