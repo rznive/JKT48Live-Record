@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1873 | <img src="https://cdn.idntimes.com/content-images/post/20260719/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260719181415.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Minggu, 19 Juli 2026 pukul 18.14.23 WIB |
+| 1872 | <img src="https://cdn.idntimes.com/content-images/post/20260719/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260719181201.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Minggu, 19 Juli 2026 pukul 18.12.07 WIB |
 | 1871 | <img src="https://cdn.idntimes.com/content-images/post/20260719/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260719165559.jpg" width="170"> | Eli JKT48 | Gabut | Minggu, 19 Juli 2026 pukul 16.56.09 WIB |
 | 1870 | <img src="https://cdn.idntimes.com/content-images/post/20260719/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260719155801.jpg" width="170"> | Levi JKT48 | hai | Minggu, 19 Juli 2026 pukul 15.58.07 WIB |
 | 1869 | <img src="https://cdn.idntimes.com/content-images/post/20260719/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260719152702.jpg" width="170"> | Kathrina JKT48 | Wow | Minggu, 19 Juli 2026 pukul 15.27.10 WIB |
