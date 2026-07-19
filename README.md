@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1870 | <img src="https://cdn.idntimes.com/content-images/post/20260719/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260719155801.jpg" width="170"> | Levi JKT48 | hai | Minggu, 19 Juli 2026 pukul 15.58.07 WIB |
+| 1869 | <img src="https://cdn.idntimes.com/content-images/post/20260719/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260719152702.jpg" width="170"> | Kathrina JKT48 | Wow | Minggu, 19 Juli 2026 pukul 15.27.10 WIB |
 | 1868 | <img src="https://cdn.idntimes.com/content-images/post/20260719/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260719133349.jpg" width="170"> | Greesel JKT48 | Ayo ngobrol bareng! | Minggu, 19 Juli 2026 pukul 13.33.55 WIB |
 | 1867 | <img src="https://cdn.idntimes.com/content-images/post/20260719/ab901d82-db49-488c-8d03-da0082ab70e2-260719122933.jpg" width="170"> | Gendis JKT48 | Hi | Minggu, 19 Juli 2026 pukul 12.29.42 WIB |
 | 1866 | <img src="https://cdn.idntimes.com/content-images/post/20260718/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260718232544.jpg" width="170"> | Muthe JKT48 | Hi | Sabtu, 18 Juli 2026 pukul 23.25.52 WIB |
