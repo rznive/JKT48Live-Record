@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1879 | <img src="https://cdn.idntimes.com/content-images/post/20260719/b0d1e6c3-d356-4b00-8d00-846e5297693b-260719210102.jpg" width="170"> | Ella JKT48 | aloo | Minggu, 19 Juli 2026 pukul 21.01.12 WIB |
+| 1878 | <img src="https://cdn.idntimes.com/content-images/post/20260719/539f5185-1414-416c-b84d-2ad366b6d60a-260719204654.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Minggu, 19 Juli 2026 pukul 20.47.03 WIB |
+| 1877 | <img src="https://cdn.idntimes.com/content-images/post/20260719/a557ba58-12d8-4260-bd50-9e5252ac71ef-260719203031.jpg" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 19 Juli 2026 pukul 20.30.44 WIB |
 | 1876 | <img src="https://cdn.idntimes.com/content-images/post/20260719/e0ececb4-71d8-4f32-a221-ef21634a746a-260719191929.jpg" width="170"> | Elin JKT48 | Haiii | Minggu, 19 Juli 2026 pukul 19.19.38 WIB |
 | 1875 | <img src="https://cdn.idntimes.com/content-images/post/20260719/539f5185-1414-416c-b84d-2ad366b6d60a-260719191758.jpg" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Minggu, 19 Juli 2026 pukul 19.18.07 WIB |
 | 1874 | <img src="https://cdn.idntimes.com/content-images/post/20260719/f001ba66-3c51-4849-9afa-13cf74eb1571-260719191548.jpg" width="170"> | Aralie JKT48 | hi | Minggu, 19 Juli 2026 pukul 19.15.57 WIB |
