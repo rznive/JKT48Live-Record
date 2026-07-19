@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1894 | <img src="https://cdn.idntimes.com/content-images/post/20260720/82ffac10-ee56-43d0-ad38-ce432384cfe5-260720063218.jpg" width="170"> | Gita JKT48 | Hii | Senin, 20 Juli 2026 pukul 06.32.33 WIB |
 | 1893 | <img src="https://cdn.idntimes.com/content-images/post/20260720/82ffac10-ee56-43d0-ad38-ce432384cfe5-260720054610.jpg" width="170"> | Gita JKT48 | Hii | Senin, 20 Juli 2026 pukul 05.46.26 WIB |
 | 1892 | <img src="https://cdn.idntimes.com/content-images/post/20260720/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260720054552.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Senin, 20 Juli 2026 pukul 05.45.59 WIB |
 | 1891 | <img src="https://cdn.idntimes.com/content-images/post/20260719/e2af7271-2598-4ee8-8760-68043e671e6d-260719234153.jpg" width="170"> | Lana JKT48 | Hai | Minggu, 19 Juli 2026 pukul 23.42.00 WIB |
