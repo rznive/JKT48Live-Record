@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1893 | <img src="https://cdn.idntimes.com/content-images/post/20260720/82ffac10-ee56-43d0-ad38-ce432384cfe5-260720054610.jpg" width="170"> | Gita JKT48 | Hii | Senin, 20 Juli 2026 pukul 05.46.26 WIB |
+| 1892 | <img src="https://cdn.idntimes.com/content-images/post/20260720/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260720054552.jpg" width="170"> | Marsha JKT48 | Ayo ngobrol bareng! | Senin, 20 Juli 2026 pukul 05.45.59 WIB |
 | 1891 | <img src="https://cdn.idntimes.com/content-images/post/20260719/e2af7271-2598-4ee8-8760-68043e671e6d-260719234153.jpg" width="170"> | Lana JKT48 | Hai | Minggu, 19 Juli 2026 pukul 23.42.00 WIB |
 | 1890 | <img src="https://cdn.idntimes.com/content-images/post/20260719/717109e0-a064-4f15-8187-5c4d46e56a58-260719233625.jpg" width="170"> | Fritzy JKT48 | gabut menunggu | Minggu, 19 Juli 2026 pukul 23.36.38 WIB |
 | 1889 | <img src="https://cdn.idntimes.com/content-images/post/20260719/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260719223240.jpg" width="170"> | Oniel JKT48 | saya kembali | Minggu, 19 Juli 2026 pukul 22.32.52 WIB |
