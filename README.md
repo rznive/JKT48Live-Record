@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1889 | <img src="https://cdn.idntimes.com/content-images/post/20260719/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260719223240.jpg" width="170"> | Oniel JKT48 | saya kembali | Minggu, 19 Juli 2026 pukul 22.32.52 WIB |
+| 1888 | <img src="https://cdn.idntimes.com/content-images/post/20260719/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260719223048.jpg" width="170"> | Giaa JKT48 | oi | Minggu, 19 Juli 2026 pukul 22.31.03 WIB |
+| 1887 | <img src="https://cdn.idntimes.com/content-images/post/20260719/85f369d7-6525-41c0-94b8-9a56686713eb-260719221709.jpg" width="170"> | Ekin JKT48 | hai | Minggu, 19 Juli 2026 pukul 22.17.26 WIB |
 | 1886 | <img src="https://cdn.idntimes.com/content-images/post/20260719/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260719220400.jpg" width="170"> | Muthe JKT48 | Hi | Minggu, 19 Juli 2026 pukul 22.04.07 WIB |
 | 1885 | <img src="https://cdn.idntimes.com/content-images/post/20260719/b0d1e6c3-d356-4b00-8d00-846e5297693b-260719215952.jpg" width="170"> | Ella JKT48 | aloo | Minggu, 19 Juli 2026 pukul 22.00.02 WIB |
 | 1884 | <img src="https://cdn.idntimes.com/content-images/post/20260719/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260719215501.jpg" width="170"> | Lily JKT48 | Unboxing | Minggu, 19 Juli 2026 pukul 21.55.09 WIB |
