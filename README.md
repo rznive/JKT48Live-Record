@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1899 | <img src="https://cdn.idntimes.com/content-images/post/20260720/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260720192400.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Senin, 20 Juli 2026 pukul 19.24.06 WIB |
+| 1898 | <img src="https://cdn.idntimes.com/content-images/post/20260720/15dfee86-a928-4a15-8c90-6aa21097d0ff-260720191540.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Senin, 20 Juli 2026 pukul 19.15.48 WIB |
 | 1897 | <img src="https://cdn.idntimes.com/content-images/post/20260720/e0ececb4-71d8-4f32-a221-ef21634a746a-260720165248.jpg" width="170"> | Elin JKT48 | Soreee | Senin, 20 Juli 2026 pukul 16.52.55 WIB |
 | 1896 | <img src="https://cdn.idntimes.com/content-images/post/20260720/147e83c8-f3ac-4680-9141-2f518b4b7810-260720163125.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 20 Juli 2026 pukul 16.31.43 WIB |
 | 1895 | <img src="https://cdn.idntimes.com/content-images/post/20260720/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260720163126.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 20 Juli 2026 pukul 16.31.42 WIB |
