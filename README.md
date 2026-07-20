@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1911 | <img src="https://cdn.idntimes.com/content-images/post/20260720/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260720225233.jpg" width="170"> | Giaa JKT48 | oi | Senin, 20 Juli 2026 pukul 22.52.48 WIB |
+| 1910 | <img src="https://cdn.idntimes.com/content-images/post/20260720/266ef38a-da00-4d13-ba77-f94da68599ee-260720224400.jpg" width="170"> | Delynn JKT48 | Hi | Senin, 20 Juli 2026 pukul 22.44.12 WIB |
+| 1909 | <img src="https://cdn.idntimes.com/content-images/post/20260720/728d224e-6ccb-43d2-a029-a0147dc7fdee-260720222225.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Senin, 20 Juli 2026 pukul 22.22.33 WIB |
+| 1908 | <img src="https://cdn.idntimes.com/content-images/post/20260720/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260720221303.jpg" width="170"> | Lily JKT48 | Hii | Senin, 20 Juli 2026 pukul 22.13.11 WIB |
+| 1907 | <img src="https://cdn.idntimes.com/content-images/post/20260720/717109e0-a064-4f15-8187-5c4d46e56a58-260720220510.jpg" width="170"> | Fritzy JKT48 | hohohooo | Senin, 20 Juli 2026 pukul 22.05.23 WIB |
+| 1906 | <img src="https://cdn.idntimes.com/content-images/post/20260720/f001ba66-3c51-4849-9afa-13cf74eb1571-260720215757.jpg" width="170"> | Aralie JKT48 | hi | Senin, 20 Juli 2026 pukul 21.58.07 WIB |
+| 1905 | <img src="https://cdn.idntimes.com/content-images/post/20260720/92d66abb-0171-4a2b-a30d-37ad58359248-260720215156.jpg" width="170"> | Trisha JKT48 | halooo | Senin, 20 Juli 2026 pukul 21.52.04 WIB |
 | 1904 | <img src="https://cdn.idntimes.com/content-images/post/20260720/92d66abb-0171-4a2b-a30d-37ad58359248-260720212357.jpg" width="170"> | Trisha JKT48 | haloooooo | Senin, 20 Juli 2026 pukul 21.24.04 WIB |
 | 1903 | <img src="https://cdn.idntimes.com/content-images/post/20260720/4f795073-38c9-4df7-9388-74b83de69801-260720212239.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 20 Juli 2026 pukul 21.22.46 WIB |
 | 1902 | <img src="https://cdn.idntimes.com/content-images/post/20260720/6970e68a-b488-497a-b793-3a735db5e997-260720212221.jpg" width="170"> | Michie JKT48 | blm ntn odyssey 😔💔 | Senin, 20 Juli 2026 pukul 21.22.29 WIB |
