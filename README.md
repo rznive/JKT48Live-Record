@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1904 | <img src="https://cdn.idntimes.com/content-images/post/20260720/92d66abb-0171-4a2b-a30d-37ad58359248-260720212357.jpg" width="170"> | Trisha JKT48 | haloooooo | Senin, 20 Juli 2026 pukul 21.24.04 WIB |
+| 1903 | <img src="https://cdn.idntimes.com/content-images/post/20260720/4f795073-38c9-4df7-9388-74b83de69801-260720212239.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 20 Juli 2026 pukul 21.22.46 WIB |
+| 1902 | <img src="https://cdn.idntimes.com/content-images/post/20260720/6970e68a-b488-497a-b793-3a735db5e997-260720212221.jpg" width="170"> | Michie JKT48 | blm ntn odyssey 😔💔 | Senin, 20 Juli 2026 pukul 21.22.29 WIB |
+| 1901 | <img src="https://cdn.idntimes.com/content-images/post/20260720/74e76417-0353-487f-b9b7-7520c0398e87-260720211956.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Senin, 20 Juli 2026 pukul 21.20.11 WIB |
+| 1900 | <img src="https://cdn.idntimes.com/content-images/post/20260720/cae4d972-5f14-4512-9706-37c1802a0541-260720211605.jpg" width="170"> | Gracie JKT48 | hiii | Senin, 20 Juli 2026 pukul 21.16.12 WIB |
 | 1899 | <img src="https://cdn.idntimes.com/content-images/post/20260720/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260720192400.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Senin, 20 Juli 2026 pukul 19.24.06 WIB |
 | 1898 | <img src="https://cdn.idntimes.com/content-images/post/20260720/15dfee86-a928-4a15-8c90-6aa21097d0ff-260720191540.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Senin, 20 Juli 2026 pukul 19.15.48 WIB |
 | 1897 | <img src="https://cdn.idntimes.com/content-images/post/20260720/e0ececb4-71d8-4f32-a221-ef21634a746a-260720165248.jpg" width="170"> | Elin JKT48 | Soreee | Senin, 20 Juli 2026 pukul 16.52.55 WIB |
