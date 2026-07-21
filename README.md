@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1912 | <img src="https://cdn.idntimes.com/content-images/post/20260721/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260721125608.jpg" width="170"> | Greesel JKT48 | sianggg! | Selasa, 21 Juli 2026 pukul 12.56.14 WIB |
 | 1911 | <img src="https://cdn.idntimes.com/content-images/post/20260720/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260720225233.jpg" width="170"> | Giaa JKT48 | oi | Senin, 20 Juli 2026 pukul 22.52.48 WIB |
 | 1910 | <img src="https://cdn.idntimes.com/content-images/post/20260720/266ef38a-da00-4d13-ba77-f94da68599ee-260720224400.jpg" width="170"> | Delynn JKT48 | Hi | Senin, 20 Juli 2026 pukul 22.44.12 WIB |
 | 1909 | <img src="https://cdn.idntimes.com/content-images/post/20260720/728d224e-6ccb-43d2-a029-a0147dc7fdee-260720222225.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Senin, 20 Juli 2026 pukul 22.22.33 WIB |
