@@ -1458,5 +1458,25 @@
     "live_at_unix": 1784634955,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260721/82ffac10-ee56-43d0-ad38-ce432384cfe5-260721185540.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.k4fAFOYXENlG.m3u8"
+  },
+  {
+    "id": 1918,
+    "username": "jkt48_fritzy",
+    "creator_name": "Fritzy JKT48",
+    "title": "heyyy",
+    "live_at": "Selasa, 21 Juli 2026 pukul 20.04.57 WIB",
+    "live_at_unix": 1784639097,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260721/717109e0-a064-4f15-8187-5c4d46e56a58-260721200446.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
+  },
+  {
+    "id": 1919,
+    "username": "jkt48_kathrina",
+    "creator_name": "Kathrina JKT48",
+    "title": "Wow",
+    "live_at": "Selasa, 21 Juli 2026 pukul 20.54.33 WIB",
+    "live_at_unix": 1784642073,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260721/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260721205422.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
   }
 ]
