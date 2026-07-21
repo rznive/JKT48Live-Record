@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1917 | <img src="https://cdn.idntimes.com/content-images/post/20260721/82ffac10-ee56-43d0-ad38-ce432384cfe5-260721185540.jpg" width="170"> | Gita JKT48 | Gits | Selasa, 21 Juli 2026 pukul 18.55.55 WIB |
 | 1916 | <img src="https://cdn.idntimes.com/content-images/post/20260721/f9500eb4-9d6d-491d-a857-40ca6f862d61-260721170405.jpg" width="170"> | Auwia JKT48 | Gabut | Selasa, 21 Juli 2026 pukul 17.04.20 WIB |
 | 1915 | <img src="https://cdn.idntimes.com/content-images/post/20260721/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260721170140.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 21 Juli 2026 pukul 17.01.51 WIB |
 | 1914 | <img src="https://cdn.idntimes.com/content-images/post/20260721/50a27780-93e7-4e40-8474-60f6e0cca6da-260721153507.jpg" width="170"> | JKT48 | Temen Masak EP.3!!!! | Selasa, 21 Juli 2026 pukul 15.35.19 WIB |
