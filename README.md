@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1914 | <img src="https://cdn.idntimes.com/content-images/post/20260721/50a27780-93e7-4e40-8474-60f6e0cca6da-260721153507.jpg" width="170"> | JKT48 | Temen Masak EP.3!!!! | Selasa, 21 Juli 2026 pukul 15.35.19 WIB |
+| 1913 | <img src="https://cdn.idntimes.com/content-images/post/20260721/e243be19-74b7-435b-8e19-13fc669e0224-260721145424.jpg" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Selasa, 21 Juli 2026 pukul 14.54.33 WIB |
 | 1912 | <img src="https://cdn.idntimes.com/content-images/post/20260721/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260721125608.jpg" width="170"> | Greesel JKT48 | sianggg! | Selasa, 21 Juli 2026 pukul 12.56.14 WIB |
 | 1911 | <img src="https://cdn.idntimes.com/content-images/post/20260720/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260720225233.jpg" width="170"> | Giaa JKT48 | oi | Senin, 20 Juli 2026 pukul 22.52.48 WIB |
 | 1910 | <img src="https://cdn.idntimes.com/content-images/post/20260720/266ef38a-da00-4d13-ba77-f94da68599ee-260720224400.jpg" width="170"> | Delynn JKT48 | Hi | Senin, 20 Juli 2026 pukul 22.44.12 WIB |
