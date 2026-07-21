@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1923 | <img src="https://cdn.idntimes.com/content-images/post/20260721/15dfee86-a928-4a15-8c90-6aa21097d0ff-260721224219.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Selasa, 21 Juli 2026 pukul 22.42.27 WIB |
+| 1922 | <img src="https://cdn.idntimes.com/content-images/post/20260721/b11b0692-d0b8-464c-849a-9e81439a048c-260721223656.jpg" width="170"> | Daisy JKT48 | Haiii | Selasa, 21 Juli 2026 pukul 22.37.03 WIB |
+| 1921 | <img src="https://cdn.idntimes.com/content-images/post/20260721/e0ececb4-71d8-4f32-a221-ef21634a746a-260721223654.jpg" width="170"> | Elin JKT48 | Malam | Selasa, 21 Juli 2026 pukul 22.37.02 WIB |
+| 1920 | <img src="https://cdn.idntimes.com/content-images/post/20260721/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260721214204.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Selasa, 21 Juli 2026 pukul 21.42.09 WIB |
 | 1919 | <img src="https://cdn.idntimes.com/content-images/post/20260721/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260721205422.jpg" width="170"> | Kathrina JKT48 | Wow | Selasa, 21 Juli 2026 pukul 20.54.33 WIB |
 | 1918 | <img src="https://cdn.idntimes.com/content-images/post/20260721/717109e0-a064-4f15-8187-5c4d46e56a58-260721200446.jpg" width="170"> | Fritzy JKT48 | heyyy | Selasa, 21 Juli 2026 pukul 20.04.57 WIB |
 | 1917 | <img src="https://cdn.idntimes.com/content-images/post/20260721/82ffac10-ee56-43d0-ad38-ce432384cfe5-260721185540.jpg" width="170"> | Gita JKT48 | Gits | Selasa, 21 Juli 2026 pukul 18.55.55 WIB |
