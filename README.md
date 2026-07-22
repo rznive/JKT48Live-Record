@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1936 | <img src="https://cdn.idntimes.com/content-images/post/20260722/717109e0-a064-4f15-8187-5c4d46e56a58-260722205225.jpg" width="170"> | Fritzy JKT48 | p | Rabu, 22 Juli 2026 pukul 20.52.37 WIB |
+| 1935 | <img src="https://cdn.idntimes.com/content-images/post/20260722/e2af7271-2598-4ee8-8760-68043e671e6d-260722203151.jpg" width="170"> | Lana JKT48 | Hi | Rabu, 22 Juli 2026 pukul 20.31.58 WIB |
 | 1934 | <img src="https://cdn.idntimes.com/content-images/post/20260722/f001ba66-3c51-4849-9afa-13cf74eb1571-260722193705.jpg" width="170"> | Aralie JKT48 | hi | Rabu, 22 Juli 2026 pukul 19.37.14 WIB |
 | 1933 | <img src="https://cdn.idntimes.com/content-images/post/20260722/a2b5d818-475d-44ce-af52-e99526482aaf-260722191612.jpg" width="170"> | Oline JKT48 | mau baca podium | Rabu, 22 Juli 2026 pukul 19.16.22 WIB |
 | 1932 | <img src="https://cdn.idntimes.com/content-images/post/20260722/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260722191558.jpg" width="170"> | Muthe JKT48 | Hi | Rabu, 22 Juli 2026 pukul 19.16.06 WIB |

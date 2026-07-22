@@ -1628,5 +1628,25 @@
     "live_at_unix": 1784723834,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260722/f001ba66-3c51-4849-9afa-13cf74eb1571-260722193705.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oxXRFBYUK9HN.m3u8"
+  },
+  {
+    "id": 1935,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Hi",
+    "live_at": "Rabu, 22 Juli 2026 pukul 20.31.58 WIB",
+    "live_at_unix": 1784727118,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260722/e2af7271-2598-4ee8-8760-68043e671e6d-260722203151.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 1936,
+    "username": "jkt48_fritzy",
+    "creator_name": "Fritzy JKT48",
+    "title": "p",
+    "live_at": "Rabu, 22 Juli 2026 pukul 20.52.37 WIB",
+    "live_at_unix": 1784728357,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260722/717109e0-a064-4f15-8187-5c4d46e56a58-260722205225.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
   }
 ]
