@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1925 | <img src="https://cdn.idntimes.com/content-images/post/20260722/e0ececb4-71d8-4f32-a221-ef21634a746a-260722153433.jpg" width="170"> | Elin JKT48 | Haii | Rabu, 22 Juli 2026 pukul 15.34.40 WIB |
 | 1924 | <img src="https://cdn.idntimes.com/content-images/post/20260721/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260721230738.jpg" width="170"> | Oniel JKT48 | saya kembali | Selasa, 21 Juli 2026 pukul 23.07.50 WIB |
 | 1923 | <img src="https://cdn.idntimes.com/content-images/post/20260721/15dfee86-a928-4a15-8c90-6aa21097d0ff-260721224219.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Selasa, 21 Juli 2026 pukul 22.42.27 WIB |
 | 1922 | <img src="https://cdn.idntimes.com/content-images/post/20260721/b11b0692-d0b8-464c-849a-9e81439a048c-260721223656.jpg" width="170"> | Daisy JKT48 | Haiii | Selasa, 21 Juli 2026 pukul 22.37.03 WIB |
