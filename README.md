@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1939 | <img src="https://cdn.idntimes.com/content-images/post/20260722/74e76417-0353-487f-b9b7-7520c0398e87-260722223334.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Rabu, 22 Juli 2026 pukul 22.33.46 WIB |
+| 1938 | <img src="https://cdn.idntimes.com/content-images/post/20260722/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260722221025.jpg" width="170"> | Giaa JKT48 | oi | Rabu, 22 Juli 2026 pukul 22.10.41 WIB |
+| 1937 | <img src="https://cdn.idntimes.com/content-images/post/20260722/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260722215523.jpg" width="170"> | Eli JKT48 | Get unready  | Rabu, 22 Juli 2026 pukul 21.55.33 WIB |
 | 1936 | <img src="https://cdn.idntimes.com/content-images/post/20260722/717109e0-a064-4f15-8187-5c4d46e56a58-260722205225.jpg" width="170"> | Fritzy JKT48 | p | Rabu, 22 Juli 2026 pukul 20.52.37 WIB |
 | 1935 | <img src="https://cdn.idntimes.com/content-images/post/20260722/e2af7271-2598-4ee8-8760-68043e671e6d-260722203151.jpg" width="170"> | Lana JKT48 | Hi | Rabu, 22 Juli 2026 pukul 20.31.58 WIB |
 | 1934 | <img src="https://cdn.idntimes.com/content-images/post/20260722/f001ba66-3c51-4849-9afa-13cf74eb1571-260722193705.jpg" width="170"> | Aralie JKT48 | hi | Rabu, 22 Juli 2026 pukul 19.37.14 WIB |
