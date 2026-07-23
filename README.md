@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1944 | <img src="https://cdn.idntimes.com/content-images/post/20260723/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260723160142.jpg" width="170"> | Giaa JKT48 | oi | Kamis, 23 Juli 2026 pukul 16.01.58 WIB |
+| 1943 | <img src="https://cdn.idntimes.com/content-images/post/20260723/7599c984-c466-4962-8c5b-73c1d33d59d9-260723160019.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Kamis, 23 Juli 2026 pukul 16.00.26 WIB |
+| 1942 | <img src="https://cdn.idntimes.com/content-images/post/20260723/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260723160011.jpg" width="170"> | Intan JKT48 | yu | Kamis, 23 Juli 2026 pukul 16.00.19 WIB |
+| 1941 | <img src="https://cdn.idntimes.com/content-images/post/20260723/85f369d7-6525-41c0-94b8-9a56686713eb-260723160004.jpg" width="170"> | Ekin JKT48 | hai | Kamis, 23 Juli 2026 pukul 16.00.15 WIB |
+| 1940 | <img src="https://cdn.idntimes.com/content-images/post/20260723/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260723155940.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Kamis, 23 Juli 2026 pukul 15.59.53 WIB |
 | 1939 | <img src="https://cdn.idntimes.com/content-images/post/20260722/74e76417-0353-487f-b9b7-7520c0398e87-260722223334.jpg" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Rabu, 22 Juli 2026 pukul 22.33.46 WIB |
 | 1938 | <img src="https://cdn.idntimes.com/content-images/post/20260722/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260722221025.jpg" width="170"> | Giaa JKT48 | oi | Rabu, 22 Juli 2026 pukul 22.10.41 WIB |
 | 1937 | <img src="https://cdn.idntimes.com/content-images/post/20260722/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260722215523.jpg" width="170"> | Eli JKT48 | Get unready  | Rabu, 22 Juli 2026 pukul 21.55.33 WIB |
