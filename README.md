@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1957 | <img src="https://cdn.idntimes.com/content-images/post/20260723/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260723221822.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 23 Juli 2026 pukul 22.18.29 WIB |
+| 1956 | <img src="https://cdn.idntimes.com/content-images/post/20260723/f740e9da-772f-4ae2-8ddd-49f717aacf63-260723221727.jpg" width="170"> | Cathy JKT48 | Hi | Kamis, 23 Juli 2026 pukul 22.17.33 WIB |
+| 1955 | <img src="https://cdn.idntimes.com/content-images/post/20260723/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260723221707.jpg" width="170"> | Erine JKT48 | Erin | Kamis, 23 Juli 2026 pukul 22.17.23 WIB |
+| 1954 | <img src="https://cdn.idntimes.com/content-images/post/20260723/e2af7271-2598-4ee8-8760-68043e671e6d-260723220438.jpg" width="170"> | Lana JKT48 | Hai | Kamis, 23 Juli 2026 pukul 22.04.46 WIB |
 | 1953 | <img src="https://cdn.idntimes.com/content-images/post/20260723/e243be19-74b7-435b-8e19-13fc669e0224-260723210143.jpg" width="170"> | Nayla JKT48 | Sasageyo  | Kamis, 23 Juli 2026 pukul 21.01.52 WIB |
 | 1952 | <img src="https://cdn.idntimes.com/content-images/post/20260723/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260723204505.jpg" width="170"> | Levi JKT48 | hai | Kamis, 23 Juli 2026 pukul 20.45.14 WIB |
 | 1951 | <img src="https://cdn.idntimes.com/content-images/post/20260723/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260723193203.jpg" width="170"> | Muthe JKT48 | Hi | Kamis, 23 Juli 2026 pukul 19.32.11 WIB |
