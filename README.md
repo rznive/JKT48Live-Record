@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1953 | <img src="https://cdn.idntimes.com/content-images/post/20260723/e243be19-74b7-435b-8e19-13fc669e0224-260723210143.jpg" width="170"> | Nayla JKT48 | Sasageyo  | Kamis, 23 Juli 2026 pukul 21.01.52 WIB |
+| 1952 | <img src="https://cdn.idntimes.com/content-images/post/20260723/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260723204505.jpg" width="170"> | Levi JKT48 | hai | Kamis, 23 Juli 2026 pukul 20.45.14 WIB |
 | 1951 | <img src="https://cdn.idntimes.com/content-images/post/20260723/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260723193203.jpg" width="170"> | Muthe JKT48 | Hi | Kamis, 23 Juli 2026 pukul 19.32.11 WIB |
 | 1950 | <img src="https://cdn.idntimes.com/content-images/post/20260723/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260723191943.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Kamis, 23 Juli 2026 pukul 19.19.49 WIB |
 | 1949 | <img src="https://cdn.idntimes.com/content-images/post/20260723/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260723191711.jpg" width="170"> | Kathrina JKT48 | Wow | Kamis, 23 Juli 2026 pukul 19.17.20 WIB |
