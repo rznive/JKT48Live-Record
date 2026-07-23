@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1951 | <img src="https://cdn.idntimes.com/content-images/post/20260723/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260723193203.jpg" width="170"> | Muthe JKT48 | Hi | Kamis, 23 Juli 2026 pukul 19.32.11 WIB |
+| 1950 | <img src="https://cdn.idntimes.com/content-images/post/20260723/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260723191943.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Kamis, 23 Juli 2026 pukul 19.19.49 WIB |
+| 1949 | <img src="https://cdn.idntimes.com/content-images/post/20260723/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260723191711.jpg" width="170"> | Kathrina JKT48 | Wow | Kamis, 23 Juli 2026 pukul 19.17.20 WIB |
+| 1948 | <img src="https://cdn.idntimes.com/content-images/post/20260723/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260723190151.jpg" width="170"> | Oniel JKT48 | saya kembali | Kamis, 23 Juli 2026 pukul 19.02.03 WIB |
 | 1947 | <img src="https://cdn.idntimes.com/content-images/post/20260723/b0d1e6c3-d356-4b00-8d00-846e5297693b-260723175137.jpg" width="170"> | Ella JKT48 | aloo | Kamis, 23 Juli 2026 pukul 17.51.46 WIB |
 | 1946 | <img src="https://cdn.idntimes.com/content-images/post/20260723/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260723175130.jpg" width="170"> | Greesel JKT48 | sianggg! | Kamis, 23 Juli 2026 pukul 17.51.36 WIB |
 | 1945 | <img src="https://cdn.idntimes.com/content-images/post/20260723/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260723173611.jpg" width="170"> | Eli JKT48 | Get unready  | Kamis, 23 Juli 2026 pukul 17.36.21 WIB |
