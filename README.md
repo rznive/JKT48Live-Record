@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1967 | <img src="https://cdn.idntimes.com/content-images/post/20260724/717109e0-a064-4f15-8187-5c4d46e56a58-260724213731.jpg" width="170"> | Fritzy JKT48 | hii | Jumat, 24 Juli 2026 pukul 21.37.43 WIB |
+| 1966 | <img src="https://cdn.idntimes.com/content-images/post/20260724/e2af7271-2598-4ee8-8760-68043e671e6d-260724212603.jpg" width="170"> | Lana JKT48 | Haii | Jumat, 24 Juli 2026 pukul 21.26.11 WIB |
+| 1965 | <img src="https://cdn.idntimes.com/content-images/post/20260724/cae4d972-5f14-4512-9706-37c1802a0541-260724211704.jpg" width="170"> | Gracie JKT48 | hiii | Jumat, 24 Juli 2026 pukul 21.17.12 WIB |
 | 1964 | <img src="https://cdn.idntimes.com/content-images/post/20260724/a9579a29-9203-40c0-9326-9837b8eae6e8-260724201640.jpg" width="170"> | Jessi JKT48 | p | Jumat, 24 Juli 2026 pukul 20.16.49 WIB |
 | 1963 | <img src="https://cdn.idntimes.com/content-images/post/20260724/147e83c8-f3ac-4680-9141-2f518b4b7810-260724190928.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Jumat, 24 Juli 2026 pukul 19.09.39 WIB |
 | 1962 | <img src="https://cdn.idntimes.com/content-images/post/20260724/7599c984-c466-4962-8c5b-73c1d33d59d9-260724190920.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Jumat, 24 Juli 2026 pukul 19.09.28 WIB |
