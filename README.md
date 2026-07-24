@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1958 | <img src="https://cdn.idntimes.com/content-images/post/20260724/f001ba66-3c51-4849-9afa-13cf74eb1571-260724142615.jpg" width="170"> | Aralie JKT48 | hi | Jumat, 24 Juli 2026 pukul 14.26.24 WIB |
 | 1957 | <img src="https://cdn.idntimes.com/content-images/post/20260723/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260723221822.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 23 Juli 2026 pukul 22.18.29 WIB |
 | 1956 | <img src="https://cdn.idntimes.com/content-images/post/20260723/f740e9da-772f-4ae2-8ddd-49f717aacf63-260723221727.jpg" width="170"> | Cathy JKT48 | Hi | Kamis, 23 Juli 2026 pukul 22.17.33 WIB |
 | 1955 | <img src="https://cdn.idntimes.com/content-images/post/20260723/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260723221707.jpg" width="170"> | Erine JKT48 | Erin | Kamis, 23 Juli 2026 pukul 22.17.23 WIB |
