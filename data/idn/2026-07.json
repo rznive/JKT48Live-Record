@@ -1878,5 +1878,25 @@
     "live_at_unix": 1784887423,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260724/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260724170336.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
+  },
+  {
+    "id": 1960,
+    "username": "jkt48_muthe",
+    "creator_name": "Muthe JKT48",
+    "title": "Hi",
+    "live_at": "Jumat, 24 Juli 2026 pukul 18.51.34 WIB",
+    "live_at_unix": 1784893894,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260724/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260724185125.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sm9AmQPkGDGS.m3u8"
+  },
+  {
+    "id": 1961,
+    "username": "jkt48_auwia",
+    "creator_name": "Auwia JKT48",
+    "title": "#GalAuw 😮‍💨😮‍💨",
+    "live_at": "Jumat, 24 Juli 2026 pukul 19.02.47 WIB",
+    "live_at_unix": 1784894567,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260724/f9500eb4-9d6d-491d-a857-40ca6f862d61-260724190233.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
   }
 ]

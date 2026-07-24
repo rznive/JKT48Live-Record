@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1961 | <img src="https://cdn.idntimes.com/content-images/post/20260724/f9500eb4-9d6d-491d-a857-40ca6f862d61-260724190233.jpg" width="170"> | Auwia JKT48 | #GalAuw 😮‍💨😮‍💨 | Jumat, 24 Juli 2026 pukul 19.02.47 WIB |
+| 1960 | <img src="https://cdn.idntimes.com/content-images/post/20260724/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260724185125.jpg" width="170"> | Muthe JKT48 | Hi | Jumat, 24 Juli 2026 pukul 18.51.34 WIB |
 | 1959 | <img src="https://cdn.idntimes.com/content-images/post/20260724/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260724170336.jpg" width="170"> | Kathrina JKT48 | wow | Jumat, 24 Juli 2026 pukul 17.03.43 WIB |
 | 1958 | <img src="https://cdn.idntimes.com/content-images/post/20260724/f001ba66-3c51-4849-9afa-13cf74eb1571-260724142615.jpg" width="170"> | Aralie JKT48 | hi | Jumat, 24 Juli 2026 pukul 14.26.24 WIB |
 | 1957 | <img src="https://cdn.idntimes.com/content-images/post/20260723/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260723221822.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 23 Juli 2026 pukul 22.18.29 WIB |
