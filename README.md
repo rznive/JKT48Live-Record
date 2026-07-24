@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1964 | <img src="https://cdn.idntimes.com/content-images/post/20260724/a9579a29-9203-40c0-9326-9837b8eae6e8-260724201640.jpg" width="170"> | Jessi JKT48 | p | Jumat, 24 Juli 2026 pukul 20.16.49 WIB |
+| 1963 | <img src="https://cdn.idntimes.com/content-images/post/20260724/147e83c8-f3ac-4680-9141-2f518b4b7810-260724190928.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Jumat, 24 Juli 2026 pukul 19.09.39 WIB |
+| 1962 | <img src="https://cdn.idntimes.com/content-images/post/20260724/7599c984-c466-4962-8c5b-73c1d33d59d9-260724190920.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Jumat, 24 Juli 2026 pukul 19.09.28 WIB |
 | 1961 | <img src="https://cdn.idntimes.com/content-images/post/20260724/f9500eb4-9d6d-491d-a857-40ca6f862d61-260724190233.jpg" width="170"> | Auwia JKT48 | #GalAuw 😮‍💨😮‍💨 | Jumat, 24 Juli 2026 pukul 19.02.47 WIB |
 | 1960 | <img src="https://cdn.idntimes.com/content-images/post/20260724/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260724185125.jpg" width="170"> | Muthe JKT48 | Hi | Jumat, 24 Juli 2026 pukul 18.51.34 WIB |
 | 1959 | <img src="https://cdn.idntimes.com/content-images/post/20260724/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260724170336.jpg" width="170"> | Kathrina JKT48 | wow | Jumat, 24 Juli 2026 pukul 17.03.43 WIB |
