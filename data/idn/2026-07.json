@@ -2018,5 +2018,25 @@
     "live_at_unix": 1784987742,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260725/a9579a29-9203-40c0-9326-9837b8eae6e8-260725205524.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 1974,
+    "username": "jkt48_oline",
+    "creator_name": "Oline JKT48",
+    "title": "y",
+    "live_at": "Sabtu, 25 Juli 2026 pukul 21.07.26 WIB",
+    "live_at_unix": 1784988446,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260725/a2b5d818-475d-44ce-af52-e99526482aaf-260725210716.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gYN6fQPMCqs0.m3u8"
+  },
+  {
+    "id": 1975,
+    "username": "jkt48_christy",
+    "creator_name": "Christy JKT48",
+    "title": "💀",
+    "live_at": "Sabtu, 25 Juli 2026 pukul 21.26.35 WIB",
+    "live_at_unix": 1784989595,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260725/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260725212622.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.R4bPsdzRonL3.m3u8"
   }
 ]

@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1975 | <img src="https://cdn.idntimes.com/content-images/post/20260725/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260725212622.jpg" width="170"> | Christy JKT48 | 💀 | Sabtu, 25 Juli 2026 pukul 21.26.35 WIB |
+| 1974 | <img src="https://cdn.idntimes.com/content-images/post/20260725/a2b5d818-475d-44ce-af52-e99526482aaf-260725210716.jpg" width="170"> | Oline JKT48 | y | Sabtu, 25 Juli 2026 pukul 21.07.26 WIB |
 | 1973 | <img src="https://cdn.idntimes.com/content-images/post/20260725/a9579a29-9203-40c0-9326-9837b8eae6e8-260725205524.jpg" width="170"> | Jessi JKT48 | p | Sabtu, 25 Juli 2026 pukul 20.55.42 WIB |
 | 1972 | <img src="https://cdn.idntimes.com/content-images/post/20260725/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260725204802.jpg" width="170"> | Kathrina JKT48 | Hihi | Sabtu, 25 Juli 2026 pukul 20.48.10 WIB |
 | 1971 | <img src="https://cdn.idntimes.com/content-images/post/20260725/a2b5d818-475d-44ce-af52-e99526482aaf-260725204431.jpg" width="170"> | Oline JKT48 | y | Sabtu, 25 Juli 2026 pukul 20.44.41 WIB |
