@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1969 | <img src="https://cdn.idntimes.com/content-images/post/20260725/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260725164458.jpg" width="170"> | Levi JKT48 | hai | Sabtu, 25 Juli 2026 pukul 16.45.07 WIB |
 | 1968 | <img src="https://cdn.idntimes.com/content-images/post/20260725/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260725122803.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Sabtu, 25 Juli 2026 pukul 12.28.15 WIB |
 | 1967 | <img src="https://cdn.idntimes.com/content-images/post/20260724/717109e0-a064-4f15-8187-5c4d46e56a58-260724213731.jpg" width="170"> | Fritzy JKT48 | hii | Jumat, 24 Juli 2026 pukul 21.37.43 WIB |
 | 1966 | <img src="https://cdn.idntimes.com/content-images/post/20260724/e2af7271-2598-4ee8-8760-68043e671e6d-260724212603.jpg" width="170"> | Lana JKT48 | Haii | Jumat, 24 Juli 2026 pukul 21.26.11 WIB |
