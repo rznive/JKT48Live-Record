@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1983 | <img src="https://cdn.idntimes.com/content-images/post/20260725/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260725231147.jpg" width="170"> | Giaa JKT48 | oi | Sabtu, 25 Juli 2026 pukul 23.12.03 WIB |
+| 1982 | <img src="https://cdn.idntimes.com/content-images/post/20260725/85f369d7-6525-41c0-94b8-9a56686713eb-260725230134.jpg" width="170"> | Ekin JKT48 | hai | Sabtu, 25 Juli 2026 pukul 23.01.56 WIB |
 | 1981 | <img src="https://cdn.idntimes.com/content-images/post/20260725/266ef38a-da00-4d13-ba77-f94da68599ee-260725222601.jpg" width="170"> | Delynn JKT48 | hi | Sabtu, 25 Juli 2026 pukul 22.26.17 WIB |
 | 1980 | <img src="https://cdn.idntimes.com/content-images/post/20260725/e2af7271-2598-4ee8-8760-68043e671e6d-260725221934.jpg" width="170"> | Lana JKT48 | Haii | Sabtu, 25 Juli 2026 pukul 22.19.42 WIB |
 | 1979 | <img src="https://cdn.idntimes.com/content-images/post/20260725/15dfee86-a928-4a15-8c90-6aa21097d0ff-260725221917.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Sabtu, 25 Juli 2026 pukul 22.19.25 WIB |
