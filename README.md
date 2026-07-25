@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1973 | <img src="https://cdn.idntimes.com/content-images/post/20260725/a9579a29-9203-40c0-9326-9837b8eae6e8-260725205524.jpg" width="170"> | Jessi JKT48 | p | Sabtu, 25 Juli 2026 pukul 20.55.42 WIB |
+| 1972 | <img src="https://cdn.idntimes.com/content-images/post/20260725/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260725204802.jpg" width="170"> | Kathrina JKT48 | Hihi | Sabtu, 25 Juli 2026 pukul 20.48.10 WIB |
+| 1971 | <img src="https://cdn.idntimes.com/content-images/post/20260725/a2b5d818-475d-44ce-af52-e99526482aaf-260725204431.jpg" width="170"> | Oline JKT48 | y | Sabtu, 25 Juli 2026 pukul 20.44.41 WIB |
+| 1970 | <img src="https://cdn.idntimes.com/content-images/post/20260725/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260725203212.jpg" width="170"> | Muthe JKT48 | Hi | Sabtu, 25 Juli 2026 pukul 20.32.19 WIB |
 | 1969 | <img src="https://cdn.idntimes.com/content-images/post/20260725/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260725164458.jpg" width="170"> | Levi JKT48 | hai | Sabtu, 25 Juli 2026 pukul 16.45.07 WIB |
 | 1968 | <img src="https://cdn.idntimes.com/content-images/post/20260725/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260725122803.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Sabtu, 25 Juli 2026 pukul 12.28.15 WIB |
 | 1967 | <img src="https://cdn.idntimes.com/content-images/post/20260724/717109e0-a064-4f15-8187-5c4d46e56a58-260724213731.jpg" width="170"> | Fritzy JKT48 | hii | Jumat, 24 Juli 2026 pukul 21.37.43 WIB |
