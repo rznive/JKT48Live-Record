@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1984 | <img src="https://cdn.idntimes.com/content-images/post/20260726/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260726011201.jpg" width="170"> | Eli JKT48 | Nyubuh | Minggu, 26 Juli 2026 pukul 01.12.11 WIB |
 | 1983 | <img src="https://cdn.idntimes.com/content-images/post/20260725/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260725231147.jpg" width="170"> | Giaa JKT48 | oi | Sabtu, 25 Juli 2026 pukul 23.12.03 WIB |
 | 1982 | <img src="https://cdn.idntimes.com/content-images/post/20260725/85f369d7-6525-41c0-94b8-9a56686713eb-260725230134.jpg" width="170"> | Ekin JKT48 | hai | Sabtu, 25 Juli 2026 pukul 23.01.56 WIB |
 | 1981 | <img src="https://cdn.idntimes.com/content-images/post/20260725/266ef38a-da00-4d13-ba77-f94da68599ee-260725222601.jpg" width="170"> | Delynn JKT48 | hi | Sabtu, 25 Juli 2026 pukul 22.26.17 WIB |
