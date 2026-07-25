@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1981 | <img src="https://cdn.idntimes.com/content-images/post/20260725/266ef38a-da00-4d13-ba77-f94da68599ee-260725222601.jpg" width="170"> | Delynn JKT48 | hi | Sabtu, 25 Juli 2026 pukul 22.26.17 WIB |
+| 1980 | <img src="https://cdn.idntimes.com/content-images/post/20260725/e2af7271-2598-4ee8-8760-68043e671e6d-260725221934.jpg" width="170"> | Lana JKT48 | Haii | Sabtu, 25 Juli 2026 pukul 22.19.42 WIB |
+| 1979 | <img src="https://cdn.idntimes.com/content-images/post/20260725/15dfee86-a928-4a15-8c90-6aa21097d0ff-260725221917.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Sabtu, 25 Juli 2026 pukul 22.19.25 WIB |
+| 1978 | <img src="https://cdn.idntimes.com/content-images/post/20260725/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260725221825.jpg" width="170"> | Greesel JKT48 | sianggg! | Sabtu, 25 Juli 2026 pukul 22.18.32 WIB |
+| 1977 | <img src="https://cdn.idntimes.com/content-images/post/20260725/e0ececb4-71d8-4f32-a221-ef21634a746a-260725221713.jpg" width="170"> | Elin JKT48 | Malammmmm | Sabtu, 25 Juli 2026 pukul 22.17.21 WIB |
+| 1976 | <img src="https://cdn.idntimes.com/content-images/post/20260725/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260725220741.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Sabtu, 25 Juli 2026 pukul 22.07.49 WIB |
 | 1975 | <img src="https://cdn.idntimes.com/content-images/post/20260725/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260725212622.jpg" width="170"> | Christy JKT48 | 💀 | Sabtu, 25 Juli 2026 pukul 21.26.35 WIB |
 | 1974 | <img src="https://cdn.idntimes.com/content-images/post/20260725/a2b5d818-475d-44ce-af52-e99526482aaf-260725210716.jpg" width="170"> | Oline JKT48 | y | Sabtu, 25 Juli 2026 pukul 21.07.26 WIB |
 | 1973 | <img src="https://cdn.idntimes.com/content-images/post/20260725/a9579a29-9203-40c0-9326-9837b8eae6e8-260725205524.jpg" width="170"> | Jessi JKT48 | p | Sabtu, 25 Juli 2026 pukul 20.55.42 WIB |
