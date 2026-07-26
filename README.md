@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1994 | <img src="https://cdn.idntimes.com/content-images/post/20260726/82ffac10-ee56-43d0-ad38-ce432384cfe5-260726214112.jpg" width="170"> | Gita JKT48 | Gits | Minggu, 26 Juli 2026 pukul 21.41.26 WIB |
+| 1993 | <img src="https://cdn.idntimes.com/content-images/post/20260726/4f795073-38c9-4df7-9388-74b83de69801-260726213343.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 26 Juli 2026 pukul 21.33.54 WIB |
+| 1992 | <img src="https://cdn.idntimes.com/content-images/post/20260726/52c5c190-3611-4def-866f-76c32c0b837e-260726213152.jpg" width="170"> | Kimmy JKT48 | 260726 | Minggu, 26 Juli 2026 pukul 21.31.59 WIB |
 | 1991 | <img src="https://cdn.idntimes.com/content-images/post/20260726/a2b5d818-475d-44ce-af52-e99526482aaf-260726204721.jpg" width="170"> | Oline JKT48 | y | Minggu, 26 Juli 2026 pukul 20.47.31 WIB |
 | 1990 | <img src="https://cdn.idntimes.com/content-images/post/20260726/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260726202914.jpg" width="170"> | Lily JKT48 | Study with me | Minggu, 26 Juli 2026 pukul 20.29.20 WIB |
 | 1989 | <img src="https://cdn.idntimes.com/content-images/post/20260726/717109e0-a064-4f15-8187-5c4d46e56a58-260726193935.jpg" width="170"> | Fritzy JKT48 | hii | Minggu, 26 Juli 2026 pukul 19.39.48 WIB |
