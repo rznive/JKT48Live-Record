@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1989 | <img src="https://cdn.idntimes.com/content-images/post/20260726/717109e0-a064-4f15-8187-5c4d46e56a58-260726193935.jpg" width="170"> | Fritzy JKT48 | hii | Minggu, 26 Juli 2026 pukul 19.39.48 WIB |
+| 1988 | <img src="https://cdn.idntimes.com/content-images/post/20260726/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260726192948.jpg" width="170"> | Muthe JKT48 | Hi | Minggu, 26 Juli 2026 pukul 19.29.57 WIB |
+| 1987 | <img src="https://cdn.idntimes.com/content-images/post/20260726/e0ececb4-71d8-4f32-a221-ef21634a746a-260726192226.jpg" width="170"> | Elin JKT48 | Hehehe | Minggu, 26 Juli 2026 pukul 19.22.34 WIB |
+| 1986 | <img src="https://cdn.idntimes.com/content-images/post/20260726/266ef38a-da00-4d13-ba77-f94da68599ee-260726192138.jpg" width="170"> | Delynn JKT48 | Haii | Minggu, 26 Juli 2026 pukul 19.21.54 WIB |
 | 1985 | <img src="https://cdn.idntimes.com/content-images/post/20260726/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260726170838.jpg" width="170"> | Nala JKT48 | sebentarr | Minggu, 26 Juli 2026 pukul 17.08.54 WIB |
 | 1984 | <img src="https://cdn.idntimes.com/content-images/post/20260726/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260726011201.jpg" width="170"> | Eli JKT48 | Nyubuh | Minggu, 26 Juli 2026 pukul 01.12.11 WIB |
 | 1983 | <img src="https://cdn.idntimes.com/content-images/post/20260725/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260725231147.jpg" width="170"> | Giaa JKT48 | oi | Sabtu, 25 Juli 2026 pukul 23.12.03 WIB |
