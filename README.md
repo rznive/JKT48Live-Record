@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1998 | <img src="https://cdn.idntimes.com/content-images/post/20260727/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260727174419.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 27 Juli 2026 pukul 17.44.37 WIB |
+| 1997 | <img src="https://cdn.idntimes.com/content-images/post/20260727/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260727173609.jpg" width="170"> | Giaa JKT48 | oi | Senin, 27 Juli 2026 pukul 17.36.24 WIB |
+| 1996 | <img src="https://cdn.idntimes.com/content-images/post/20260727/e9170998-f026-4186-bbc5-a17a3b5b2af1-260727173053.jpg" width="170"> | Rilly JKT48 | Ngobs asoy | Senin, 27 Juli 2026 pukul 17.30.59 WIB |
+| 1995 | <img src="https://cdn.idntimes.com/content-images/post/20260727/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260727172901.jpg" width="170"> | Intan JKT48 | Rilly cantik | Senin, 27 Juli 2026 pukul 17.29.13 WIB |
 | 1994 | <img src="https://cdn.idntimes.com/content-images/post/20260726/82ffac10-ee56-43d0-ad38-ce432384cfe5-260726214112.jpg" width="170"> | Gita JKT48 | Gits | Minggu, 26 Juli 2026 pukul 21.41.26 WIB |
 | 1993 | <img src="https://cdn.idntimes.com/content-images/post/20260726/4f795073-38c9-4df7-9388-74b83de69801-260726213343.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 26 Juli 2026 pukul 21.33.54 WIB |
 | 1992 | <img src="https://cdn.idntimes.com/content-images/post/20260726/52c5c190-3611-4def-866f-76c32c0b837e-260726213152.jpg" width="170"> | Kimmy JKT48 | 260726 | Minggu, 26 Juli 2026 pukul 21.31.59 WIB |
