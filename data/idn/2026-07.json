@@ -2358,5 +2358,15 @@
     "live_at_unix": 1785253017,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260728/266ef38a-da00-4d13-ba77-f94da68599ee-260728223643.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
+  },
+  {
+    "id": 2008,
+    "username": "jkt48_fritzy",
+    "creator_name": "Fritzy JKT48",
+    "title": "18 uhuyy!!",
+    "live_at": "Selasa, 28 Juli 2026 pukul 23.57.07 WIB",
+    "live_at_unix": 1785257827,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260728/717109e0-a064-4f15-8187-5c4d46e56a58-260728235702.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
   }
 ]
