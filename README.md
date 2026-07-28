@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2001 | <img src="https://cdn.idntimes.com/content-images/post/20260728/50a27780-93e7-4e40-8474-60f6e0cca6da-260728154438.jpg" width="170"> | JKT48 | TEMEN MASAK EP.4!!! | Selasa, 28 Juli 2026 pukul 15.44.48 WIB |
+| 2000 | <img src="https://cdn.idntimes.com/content-images/post/20260728/82ffac10-ee56-43d0-ad38-ce432384cfe5-260728153554.jpg" width="170"> | Gita JKT48 | Gits | Selasa, 28 Juli 2026 pukul 15.36.00 WIB |
 | 1999 | <img src="https://cdn.idntimes.com/content-images/post/20260728/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260728110020.jpg" width="170"> | Greesel JKT48 | sianggg! | Selasa, 28 Juli 2026 pukul 11.00.26 WIB |
 | 1998 | <img src="https://cdn.idntimes.com/content-images/post/20260727/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260727174419.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 27 Juli 2026 pukul 17.44.37 WIB |
 | 1997 | <img src="https://cdn.idntimes.com/content-images/post/20260727/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260727173609.jpg" width="170"> | Giaa JKT48 | oi | Senin, 27 Juli 2026 pukul 17.36.24 WIB |
