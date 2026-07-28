@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2006 | <img src="https://cdn.idntimes.com/content-images/post/20260728/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260728220119.jpg" width="170"> | Giaa JKT48 | oi | Selasa, 28 Juli 2026 pukul 22.01.33 WIB |
+| 2005 | <img src="https://cdn.idntimes.com/content-images/post/20260728/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260728215541.jpg" width="170"> | Intan JKT48 | p | Selasa, 28 Juli 2026 pukul 21.55.48 WIB |
+| 2004 | <img src="https://cdn.idntimes.com/content-images/post/20260728/147e83c8-f3ac-4680-9141-2f518b4b7810-260728214423.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 28 Juli 2026 pukul 21.44.35 WIB |
+| 2003 | <img src="https://cdn.idntimes.com/content-images/post/20260728/4f795073-38c9-4df7-9388-74b83de69801-260728213222.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Selasa, 28 Juli 2026 pukul 21.32.35 WIB |
 | 2002 | <img src="https://cdn.idntimes.com/content-images/post/20260728/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260728195523.jpg" width="170"> | Eli JKT48 | BENAS TERSERAH ATUR SENDIRI | Selasa, 28 Juli 2026 pukul 19.55.31 WIB |
 | 2001 | <img src="https://cdn.idntimes.com/content-images/post/20260728/50a27780-93e7-4e40-8474-60f6e0cca6da-260728154438.jpg" width="170"> | JKT48 | TEMEN MASAK EP.4!!! | Selasa, 28 Juli 2026 pukul 15.44.48 WIB |
 | 2000 | <img src="https://cdn.idntimes.com/content-images/post/20260728/82ffac10-ee56-43d0-ad38-ce432384cfe5-260728153554.jpg" width="170"> | Gita JKT48 | Gits | Selasa, 28 Juli 2026 pukul 15.36.00 WIB |
