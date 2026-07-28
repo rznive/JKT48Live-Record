@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2002 | <img src="https://cdn.idntimes.com/content-images/post/20260728/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260728195523.jpg" width="170"> | Eli JKT48 | BENAS TERSERAH ATUR SENDIRI | Selasa, 28 Juli 2026 pukul 19.55.31 WIB |
 | 2001 | <img src="https://cdn.idntimes.com/content-images/post/20260728/50a27780-93e7-4e40-8474-60f6e0cca6da-260728154438.jpg" width="170"> | JKT48 | TEMEN MASAK EP.4!!! | Selasa, 28 Juli 2026 pukul 15.44.48 WIB |
 | 2000 | <img src="https://cdn.idntimes.com/content-images/post/20260728/82ffac10-ee56-43d0-ad38-ce432384cfe5-260728153554.jpg" width="170"> | Gita JKT48 | Gits | Selasa, 28 Juli 2026 pukul 15.36.00 WIB |
 | 1999 | <img src="https://cdn.idntimes.com/content-images/post/20260728/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260728110020.jpg" width="170"> | Greesel JKT48 | sianggg! | Selasa, 28 Juli 2026 pukul 11.00.26 WIB |
