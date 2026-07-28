@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 1999 | <img src="https://cdn.idntimes.com/content-images/post/20260728/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260728110020.jpg" width="170"> | Greesel JKT48 | sianggg! | Selasa, 28 Juli 2026 pukul 11.00.26 WIB |
 | 1998 | <img src="https://cdn.idntimes.com/content-images/post/20260727/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260727174419.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 27 Juli 2026 pukul 17.44.37 WIB |
 | 1997 | <img src="https://cdn.idntimes.com/content-images/post/20260727/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260727173609.jpg" width="170"> | Giaa JKT48 | oi | Senin, 27 Juli 2026 pukul 17.36.24 WIB |
 | 1996 | <img src="https://cdn.idntimes.com/content-images/post/20260727/e9170998-f026-4186-bbc5-a17a3b5b2af1-260727173053.jpg" width="170"> | Rilly JKT48 | Ngobs asoy | Senin, 27 Juli 2026 pukul 17.30.59 WIB |
