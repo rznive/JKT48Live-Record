@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2021 | <img src="https://cdn.idntimes.com/content-images/post/20260729/a2b5d818-475d-44ce-af52-e99526482aaf-260729221420.jpg" width="170"> | Oline JKT48 | y | Rabu, 29 Juli 2026 pukul 22.14.28 WIB |
+| 2020 | <img src="https://cdn.idntimes.com/content-images/post/20260729/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260729220811.jpg" width="170"> | Levi JKT48 | hai | Rabu, 29 Juli 2026 pukul 22.08.26 WIB |
+| 2019 | <img src="https://cdn.idntimes.com/content-images/post/20260729/717109e0-a064-4f15-8187-5c4d46e56a58-260729220241.jpg" width="170"> | Fritzy JKT48 | ada yg baru | Rabu, 29 Juli 2026 pukul 22.03.05 WIB |
+| 2018 | <img src="https://cdn.idntimes.com/content-images/post/20260729/e243be19-74b7-435b-8e19-13fc669e0224-260729220139.jpg" width="170"> | Nayla JKT48 | Eu | Rabu, 29 Juli 2026 pukul 22.01.48 WIB |
+| 2017 | <img src="https://cdn.idntimes.com/content-images/post/20260729/cae4d972-5f14-4512-9706-37c1802a0541-260729211218.jpg" width="170"> | Gracie JKT48 | hiii | Rabu, 29 Juli 2026 pukul 21.12.25 WIB |
 | 2016 | <img src="https://cdn.idntimes.com/content-images/post/20260729/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260729200156.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Rabu, 29 Juli 2026 pukul 20.02.00 WIB |
 | 2015 | <img src="https://cdn.idntimes.com/content-images/post/20260729/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260729183857.jpg" width="170"> | Eli JKT48 | BENAS TERSERAH ATUR SENDIRI | Rabu, 29 Juli 2026 pukul 18.39.05 WIB |
 | 2014 | <img src="https://cdn.idntimes.com/content-images/post/20260729/15dfee86-a928-4a15-8c90-6aa21097d0ff-260729183445.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Rabu, 29 Juli 2026 pukul 18.35.03 WIB |
