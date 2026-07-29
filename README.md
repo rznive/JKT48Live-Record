@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2013 | <img src="https://cdn.idntimes.com/content-images/post/20260729/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260729160543.jpg" width="170"> | Intan JKT48 | p | Rabu, 29 Juli 2026 pukul 16.06.04 WIB |
+| 2012 | <img src="https://cdn.idntimes.com/content-images/post/20260729/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260729160539.jpg" width="170"> | Giaa JKT48 | oi | Rabu, 29 Juli 2026 pukul 16.06.00 WIB |
+| 2011 | <img src="https://cdn.idntimes.com/content-images/post/20260729/f001ba66-3c51-4849-9afa-13cf74eb1571-260729160512.jpg" width="170"> | Aralie JKT48 | hi | Rabu, 29 Juli 2026 pukul 16.05.19 WIB |
+| 2010 | <img src="https://cdn.idntimes.com/content-images/post/20260729/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260729160445.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 29 Juli 2026 pukul 16.04.56 WIB |
 | 2009 | <img src="https://cdn.idntimes.com/content-images/post/20260729/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260729124839.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Rabu, 29 Juli 2026 pukul 12.48.51 WIB |
 | 2008 | <img src="https://cdn.idntimes.com/content-images/post/20260728/717109e0-a064-4f15-8187-5c4d46e56a58-260728235702.jpg" width="170"> | Fritzy JKT48 | 18 uhuyy!! | Selasa, 28 Juli 2026 pukul 23.57.07 WIB |
 | 2007 | <img src="https://cdn.idntimes.com/content-images/post/20260728/266ef38a-da00-4d13-ba77-f94da68599ee-260728223643.jpg" width="170"> | Delynn JKT48 | malams | Selasa, 28 Juli 2026 pukul 22.36.57 WIB |
