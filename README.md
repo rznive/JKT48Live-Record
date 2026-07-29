@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2022 | <img src="https://cdn.idntimes.com/content-images/post/20260729/266ef38a-da00-4d13-ba77-f94da68599ee-260729233221.jpg" width="170"> | Delynn JKT48 | hayo | Rabu, 29 Juli 2026 pukul 23.32.35 WIB |
 | 2021 | <img src="https://cdn.idntimes.com/content-images/post/20260729/a2b5d818-475d-44ce-af52-e99526482aaf-260729221420.jpg" width="170"> | Oline JKT48 | y | Rabu, 29 Juli 2026 pukul 22.14.28 WIB |
 | 2020 | <img src="https://cdn.idntimes.com/content-images/post/20260729/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260729220811.jpg" width="170"> | Levi JKT48 | hai | Rabu, 29 Juli 2026 pukul 22.08.26 WIB |
 | 2019 | <img src="https://cdn.idntimes.com/content-images/post/20260729/717109e0-a064-4f15-8187-5c4d46e56a58-260729220241.jpg" width="170"> | Fritzy JKT48 | ada yg baru | Rabu, 29 Juli 2026 pukul 22.03.05 WIB |
