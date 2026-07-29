@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2016 | <img src="https://cdn.idntimes.com/content-images/post/20260729/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260729200156.jpg" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Rabu, 29 Juli 2026 pukul 20.02.00 WIB |
+| 2015 | <img src="https://cdn.idntimes.com/content-images/post/20260729/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260729183857.jpg" width="170"> | Eli JKT48 | BENAS TERSERAH ATUR SENDIRI | Rabu, 29 Juli 2026 pukul 18.39.05 WIB |
 | 2014 | <img src="https://cdn.idntimes.com/content-images/post/20260729/15dfee86-a928-4a15-8c90-6aa21097d0ff-260729183445.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Rabu, 29 Juli 2026 pukul 18.35.03 WIB |
 | 2013 | <img src="https://cdn.idntimes.com/content-images/post/20260729/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260729160543.jpg" width="170"> | Intan JKT48 | p | Rabu, 29 Juli 2026 pukul 16.06.04 WIB |
 | 2012 | <img src="https://cdn.idntimes.com/content-images/post/20260729/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260729160539.jpg" width="170"> | Giaa JKT48 | oi | Rabu, 29 Juli 2026 pukul 16.06.00 WIB |
