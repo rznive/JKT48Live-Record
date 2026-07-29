@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2014 | <img src="https://cdn.idntimes.com/content-images/post/20260729/15dfee86-a928-4a15-8c90-6aa21097d0ff-260729183445.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Rabu, 29 Juli 2026 pukul 18.35.03 WIB |
 | 2013 | <img src="https://cdn.idntimes.com/content-images/post/20260729/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260729160543.jpg" width="170"> | Intan JKT48 | p | Rabu, 29 Juli 2026 pukul 16.06.04 WIB |
 | 2012 | <img src="https://cdn.idntimes.com/content-images/post/20260729/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260729160539.jpg" width="170"> | Giaa JKT48 | oi | Rabu, 29 Juli 2026 pukul 16.06.00 WIB |
 | 2011 | <img src="https://cdn.idntimes.com/content-images/post/20260729/f001ba66-3c51-4849-9afa-13cf74eb1571-260729160512.jpg" width="170"> | Aralie JKT48 | hi | Rabu, 29 Juli 2026 pukul 16.05.19 WIB |
