@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2024 | <img src="https://cdn.idntimes.com/content-images/post/20260730/15dfee86-a928-4a15-8c90-6aa21097d0ff-260730173956.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Kamis, 30 Juli 2026 pukul 17.40.12 WIB |
 | 2023 | <img src="https://cdn.idntimes.com/content-images/post/20260730/e0ececb4-71d8-4f32-a221-ef21634a746a-260730122341.jpg" width="170"> | Elin JKT48 | Hii | Kamis, 30 Juli 2026 pukul 12.23.48 WIB |
 | 2022 | <img src="https://cdn.idntimes.com/content-images/post/20260729/266ef38a-da00-4d13-ba77-f94da68599ee-260729233221.jpg" width="170"> | Delynn JKT48 | hayo | Rabu, 29 Juli 2026 pukul 23.32.35 WIB |
 | 2021 | <img src="https://cdn.idntimes.com/content-images/post/20260729/a2b5d818-475d-44ce-af52-e99526482aaf-260729221420.jpg" width="170"> | Oline JKT48 | y | Rabu, 29 Juli 2026 pukul 22.14.28 WIB |
