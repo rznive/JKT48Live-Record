@@ -2558,5 +2558,35 @@
     "live_at_unix": 1785411884,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260730/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260730184423.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8"
+  },
+  {
+    "id": 2028,
+    "username": "jkt48_levi",
+    "creator_name": "Levi JKT48",
+    "title": "hai",
+    "live_at": "Kamis, 30 Juli 2026 pukul 20.19.49 WIB",
+    "live_at_unix": 1785417589,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260730/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260730201943.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 2029,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Haii",
+    "live_at": "Kamis, 30 Juli 2026 pukul 21.13.39 WIB",
+    "live_at_unix": 1785420819,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260730/e2af7271-2598-4ee8-8760-68043e671e6d-260730211333.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 2030,
+    "username": "jkt48_gracie",
+    "creator_name": "Gracie JKT48",
+    "title": "hiii",
+    "live_at": "Kamis, 30 Juli 2026 pukul 21.15.29 WIB",
+    "live_at_unix": 1785420929,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260730/cae4d972-5f14-4512-9706-37c1802a0541-260730211521.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ztIO0UisaA3P.m3u8"
   }
 ]

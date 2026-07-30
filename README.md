@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2030 | <img src="https://cdn.idntimes.com/content-images/post/20260730/cae4d972-5f14-4512-9706-37c1802a0541-260730211521.jpg" width="170"> | Gracie JKT48 | hiii | Kamis, 30 Juli 2026 pukul 21.15.29 WIB |
+| 2029 | <img src="https://cdn.idntimes.com/content-images/post/20260730/e2af7271-2598-4ee8-8760-68043e671e6d-260730211333.jpg" width="170"> | Lana JKT48 | Haii | Kamis, 30 Juli 2026 pukul 21.13.39 WIB |
+| 2028 | <img src="https://cdn.idntimes.com/content-images/post/20260730/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260730201943.jpg" width="170"> | Levi JKT48 | hai | Kamis, 30 Juli 2026 pukul 20.19.49 WIB |
 | 2027 | <img src="https://cdn.idntimes.com/content-images/post/20260730/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260730184423.jpg" width="170"> | Eli JKT48 | BENAS TERSERAH ATUR SENDIRI | Kamis, 30 Juli 2026 pukul 18.44.44 WIB |
 | 2026 | <img src="https://cdn.idntimes.com/content-images/post/20260730/266ef38a-da00-4d13-ba77-f94da68599ee-260730183009.jpg" width="170"> | Delynn JKT48 | hi | Kamis, 30 Juli 2026 pukul 18.30.24 WIB |
 | 2025 | <img src="https://cdn.idntimes.com/content-images/post/20260730/b0d1e6c3-d356-4b00-8d00-846e5297693b-260730182721.jpg" width="170"> | Ella JKT48 | aloo | Kamis, 30 Juli 2026 pukul 18.27.30 WIB |
