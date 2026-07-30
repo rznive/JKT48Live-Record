@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2035 | <img src="https://cdn.idntimes.com/content-images/post/20260730/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260730234039.jpg" width="170"> | Erine JKT48 | Erin | Kamis, 30 Juli 2026 pukul 23.40.54 WIB |
+| 2034 | <img src="https://cdn.idntimes.com/content-images/post/20260730/f001ba66-3c51-4849-9afa-13cf74eb1571-260730233950.jpg" width="170"> | Aralie JKT48 | hi | Kamis, 30 Juli 2026 pukul 23.40.02 WIB |
 | 2033 | <img src="https://cdn.idntimes.com/content-images/post/20260730/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260730223927.jpg" width="170"> | Ribka JKT48 | Hi abis lari nih bos | Kamis, 30 Juli 2026 pukul 22.39.32 WIB |
 | 2032 | <img src="https://cdn.idntimes.com/content-images/post/20260730/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260730221058.jpg" width="170"> | Lily JKT48 | Studyy | Kamis, 30 Juli 2026 pukul 22.11.04 WIB |
 | 2031 | <img src="https://cdn.idntimes.com/content-images/post/20260730/717109e0-a064-4f15-8187-5c4d46e56a58-260730220402.jpg" width="170"> | Fritzy JKT48 | hii | Kamis, 30 Juli 2026 pukul 22.04.15 WIB |
