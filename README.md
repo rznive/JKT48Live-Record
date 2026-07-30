@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2033 | <img src="https://cdn.idntimes.com/content-images/post/20260730/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260730223927.jpg" width="170"> | Ribka JKT48 | Hi abis lari nih bos | Kamis, 30 Juli 2026 pukul 22.39.32 WIB |
+| 2032 | <img src="https://cdn.idntimes.com/content-images/post/20260730/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260730221058.jpg" width="170"> | Lily JKT48 | Studyy | Kamis, 30 Juli 2026 pukul 22.11.04 WIB |
+| 2031 | <img src="https://cdn.idntimes.com/content-images/post/20260730/717109e0-a064-4f15-8187-5c4d46e56a58-260730220402.jpg" width="170"> | Fritzy JKT48 | hii | Kamis, 30 Juli 2026 pukul 22.04.15 WIB |
 | 2030 | <img src="https://cdn.idntimes.com/content-images/post/20260730/cae4d972-5f14-4512-9706-37c1802a0541-260730211521.jpg" width="170"> | Gracie JKT48 | hiii | Kamis, 30 Juli 2026 pukul 21.15.29 WIB |
 | 2029 | <img src="https://cdn.idntimes.com/content-images/post/20260730/e2af7271-2598-4ee8-8760-68043e671e6d-260730211333.jpg" width="170"> | Lana JKT48 | Haii | Kamis, 30 Juli 2026 pukul 21.13.39 WIB |
 | 2028 | <img src="https://cdn.idntimes.com/content-images/post/20260730/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260730201943.jpg" width="170"> | Levi JKT48 | hai | Kamis, 30 Juli 2026 pukul 20.19.49 WIB |

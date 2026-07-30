@@ -2588,5 +2588,35 @@
     "live_at_unix": 1785420929,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260730/cae4d972-5f14-4512-9706-37c1802a0541-260730211521.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ztIO0UisaA3P.m3u8"
+  },
+  {
+    "id": 2031,
+    "username": "jkt48_fritzy",
+    "creator_name": "Fritzy JKT48",
+    "title": "hii",
+    "live_at": "Kamis, 30 Juli 2026 pukul 22.04.15 WIB",
+    "live_at_unix": 1785423855,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260730/717109e0-a064-4f15-8187-5c4d46e56a58-260730220402.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
+  },
+  {
+    "id": 2032,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Studyy",
+    "live_at": "Kamis, 30 Juli 2026 pukul 22.11.04 WIB",
+    "live_at_unix": 1785424264,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260730/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260730221058.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
+  },
+  {
+    "id": 2033,
+    "username": "jkt48_ribka",
+    "creator_name": "Ribka JKT48",
+    "title": "Hi abis lari nih bos",
+    "live_at": "Kamis, 30 Juli 2026 pukul 22.39.32 WIB",
+    "live_at_unix": 1785425972,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260730/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260730223927.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.m6srSRt8fTY6.m3u8"
   }
 ]
