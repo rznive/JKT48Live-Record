@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2041 | <img src="https://cdn.idntimes.com/content-images/post/20260731/4f795073-38c9-4df7-9388-74b83de69801-260731212247.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Jumat, 31 Juli 2026 pukul 21.23.01 WIB |
+| 2040 | <img src="https://cdn.idntimes.com/content-images/post/20260731/cae4d972-5f14-4512-9706-37c1802a0541-260731211434.jpg" width="170"> | Gracie JKT48 | hiii | Jumat, 31 Juli 2026 pukul 21.14.41 WIB |
+| 2039 | <img src="https://cdn.idntimes.com/content-images/post/20260731/717109e0-a064-4f15-8187-5c4d46e56a58-260731210728.jpg" width="170"> | Fritzy JKT48 | hii | Jumat, 31 Juli 2026 pukul 21.07.39 WIB |
 | 2038 | <img src="https://cdn.idntimes.com/content-images/post/20260731/e9170998-f026-4186-bbc5-a17a3b5b2af1-260731182253.jpg" width="170"> | Rilly JKT48 | SANTUYYY | Jumat, 31 Juli 2026 pukul 18.23.01 WIB |
 | 2037 | <img src="https://cdn.idntimes.com/content-images/post/20260731/33139b05-1c43-4b48-bba3-ec960b18b36e-260731180343.jpg" width="170"> | Danella JKT48 | ayo | Jumat, 31 Juli 2026 pukul 18.03.52 WIB |
 | 2036 | <img src="https://cdn.idntimes.com/content-images/post/20260731/b11b0692-d0b8-464c-849a-9e81439a048c-260731180020.jpg" width="170"> | Daisy JKT48 | haiii | Jumat, 31 Juli 2026 pukul 18.00.29 WIB |
