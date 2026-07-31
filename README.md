@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2048 | <img src="https://cdn.idntimes.com/content-images/post/20260731/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260731225914.jpg" width="170"> | Eli JKT48 | BENAS TERSERAH ATUR SENDIRI | Jumat, 31 Juli 2026 pukul 22.59.22 WIB |
+| 2047 | <img src="https://cdn.idntimes.com/content-images/post/20260731/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260731225730.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Jumat, 31 Juli 2026 pukul 22.57.40 WIB |
+| 2046 | <img src="https://cdn.idntimes.com/content-images/post/20260731/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260731224905.jpg" width="170"> | Muthe JKT48 | Hi | Jumat, 31 Juli 2026 pukul 22.49.11 WIB |
+| 2045 | <img src="https://cdn.idntimes.com/content-images/post/20260731/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260731222333.jpg" width="170"> | Ribka JKT48 | CC login | Jumat, 31 Juli 2026 pukul 22.23.49 WIB |
+| 2044 | <img src="https://cdn.idntimes.com/content-images/post/20260731/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260731222110.jpg" width="170"> | Nala JKT48 | ulangg | Jumat, 31 Juli 2026 pukul 22.21.21 WIB |
+| 2043 | <img src="https://cdn.idntimes.com/content-images/post/20260731/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260731220308.jpg" width="170"> | Greesel JKT48 | :v | Jumat, 31 Juli 2026 pukul 22.03.14 WIB |
+| 2042 | <img src="https://cdn.idntimes.com/content-images/post/20260731/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260731213833.jpg" width="170"> | Levi JKT48 | hai | Jumat, 31 Juli 2026 pukul 21.38.39 WIB |
 | 2041 | <img src="https://cdn.idntimes.com/content-images/post/20260731/4f795073-38c9-4df7-9388-74b83de69801-260731212247.jpg" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Jumat, 31 Juli 2026 pukul 21.23.01 WIB |
 | 2040 | <img src="https://cdn.idntimes.com/content-images/post/20260731/cae4d972-5f14-4512-9706-37c1802a0541-260731211434.jpg" width="170"> | Gracie JKT48 | hiii | Jumat, 31 Juli 2026 pukul 21.14.41 WIB |
 | 2039 | <img src="https://cdn.idntimes.com/content-images/post/20260731/717109e0-a064-4f15-8187-5c4d46e56a58-260731210728.jpg" width="170"> | Fritzy JKT48 | hii | Jumat, 31 Juli 2026 pukul 21.07.39 WIB |
