@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2064 | <img src="https://cdn.idntimes.com/content-images/post/20260801/85f369d7-6525-41c0-94b8-9a56686713eb-260801224848.jpg" width="170"> | Ekin JKT48 | hai | Sabtu, 01 Agustus 2026 pukul 22.49.00 WIB |
+| 2063 | <img src="https://cdn.idntimes.com/content-images/post/20260801/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260801224245.jpg" width="170"> | Nala JKT48 | ulangg | Sabtu, 01 Agustus 2026 pukul 22.42.53 WIB |
+| 2062 | <img src="https://cdn.idntimes.com/content-images/post/20260801/147e83c8-f3ac-4680-9141-2f518b4b7810-260801223022.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Sabtu, 01 Agustus 2026 pukul 22.30.33 WIB |
 | 2061 | <img src="https://cdn.idntimes.com/content-images/post/20260801/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260801215958.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Sabtu, 01 Agustus 2026 pukul 22.00.12 WIB |
 | 2060 | <img src="https://cdn.idntimes.com/content-images/post/20260801/6970e68a-b488-497a-b793-3a735db5e997-260801215821.jpg" width="170"> | Michie JKT48 | hello | Sabtu, 01 Agustus 2026 pukul 21.58.28 WIB |
 | 2059 | <img src="https://cdn.idntimes.com/content-images/post/20260801/b0d1e6c3-d356-4b00-8d00-846e5297693b-260801215747.jpg" width="170"> | Ella JKT48 | aloo | Sabtu, 01 Agustus 2026 pukul 21.57.55 WIB |
