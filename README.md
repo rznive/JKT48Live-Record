@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2055 | <img src="https://cdn.idntimes.com/content-images/post/20260801/a5c72141-65a3-47be-86ef-1dc1feaab10d-260801210029.jpg" width="170"> | Anindya JKT48 | halo | Sabtu, 01 Agustus 2026 pukul 21.00.35 WIB |
+| 2054 | <img src="https://cdn.idntimes.com/content-images/post/20260801/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260801204608.jpg" width="170"> | Intan JKT48 | p | Sabtu, 01 Agustus 2026 pukul 20.46.16 WIB |
+| 2053 | <img src="https://cdn.idntimes.com/content-images/post/20260801/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260801201217.jpg" width="170"> | Levi JKT48 | hai | Sabtu, 01 Agustus 2026 pukul 20.12.22 WIB |
 | 2052 | <img src="https://cdn.idntimes.com/content-images/post/20260801/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260801171905.jpg" width="170"> | Erine JKT48 | diroriiiii | Sabtu, 01 Agustus 2026 pukul 17.19.18 WIB |
 | 2051 | <img src="https://cdn.idntimes.com/content-images/post/20260801/f001ba66-3c51-4849-9afa-13cf74eb1571-260801164148.jpg" width="170"> | Aralie JKT48 | hi | Sabtu, 01 Agustus 2026 pukul 16.42.02 WIB |
 | 2050 | <img src="https://cdn.idntimes.com/content-images/post/20260801/7599c984-c466-4962-8c5b-73c1d33d59d9-260801153924.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Sabtu, 01 Agustus 2026 pukul 15.39.28 WIB |
