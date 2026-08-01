@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2061 | <img src="https://cdn.idntimes.com/content-images/post/20260801/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260801215958.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Sabtu, 01 Agustus 2026 pukul 22.00.12 WIB |
+| 2060 | <img src="https://cdn.idntimes.com/content-images/post/20260801/6970e68a-b488-497a-b793-3a735db5e997-260801215821.jpg" width="170"> | Michie JKT48 | hello | Sabtu, 01 Agustus 2026 pukul 21.58.28 WIB |
+| 2059 | <img src="https://cdn.idntimes.com/content-images/post/20260801/b0d1e6c3-d356-4b00-8d00-846e5297693b-260801215747.jpg" width="170"> | Ella JKT48 | aloo | Sabtu, 01 Agustus 2026 pukul 21.57.55 WIB |
+| 2058 | <img src="https://cdn.idntimes.com/content-images/post/20260801/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260801215702.jpg" width="170"> | Muthe JKT48 | Hi | Sabtu, 01 Agustus 2026 pukul 21.57.08 WIB |
+| 2057 | <img src="https://cdn.idntimes.com/content-images/post/20260801/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260801215632.jpg" width="170"> | Greesel JKT48 | :v | Sabtu, 01 Agustus 2026 pukul 21.56.38 WIB |
+| 2056 | <img src="https://cdn.idntimes.com/content-images/post/20260801/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260801211950.jpg" width="170"> | Ribka JKT48 | p | Sabtu, 01 Agustus 2026 pukul 21.20.05 WIB |
 | 2055 | <img src="https://cdn.idntimes.com/content-images/post/20260801/a5c72141-65a3-47be-86ef-1dc1feaab10d-260801210029.jpg" width="170"> | Anindya JKT48 | halo | Sabtu, 01 Agustus 2026 pukul 21.00.35 WIB |
 | 2054 | <img src="https://cdn.idntimes.com/content-images/post/20260801/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260801204608.jpg" width="170"> | Intan JKT48 | p | Sabtu, 01 Agustus 2026 pukul 20.46.16 WIB |
 | 2053 | <img src="https://cdn.idntimes.com/content-images/post/20260801/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260801201217.jpg" width="170"> | Levi JKT48 | hai | Sabtu, 01 Agustus 2026 pukul 20.12.22 WIB |
