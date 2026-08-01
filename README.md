@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2052 | <img src="https://cdn.idntimes.com/content-images/post/20260801/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260801171905.jpg" width="170"> | Erine JKT48 | diroriiiii | Sabtu, 01 Agustus 2026 pukul 17.19.18 WIB |
+| 2051 | <img src="https://cdn.idntimes.com/content-images/post/20260801/f001ba66-3c51-4849-9afa-13cf74eb1571-260801164148.jpg" width="170"> | Aralie JKT48 | hi | Sabtu, 01 Agustus 2026 pukul 16.42.02 WIB |
 | 2050 | <img src="https://cdn.idntimes.com/content-images/post/20260801/7599c984-c466-4962-8c5b-73c1d33d59d9-260801153924.jpg" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Sabtu, 01 Agustus 2026 pukul 15.39.28 WIB |
 | 2049 | <img src="https://cdn.idntimes.com/content-images/post/20260801/e0ececb4-71d8-4f32-a221-ef21634a746a-260801151507.jpg" width="170"> | Elin JKT48 | Hola | Sabtu, 01 Agustus 2026 pukul 15.15.13 WIB |
 | 2048 | <img src="https://cdn.idntimes.com/content-images/post/20260731/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260731225914.jpg" width="170"> | Eli JKT48 | BENAS TERSERAH ATUR SENDIRI | Jumat, 31 Juli 2026 pukul 22.59.22 WIB |
