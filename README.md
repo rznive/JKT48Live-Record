@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2065 | <img src="https://cdn.idntimes.com/content-images/post/20260802/266ef38a-da00-4d13-ba77-f94da68599ee-260802001300.jpg" width="170"> | Delynn JKT48 | Malms | Minggu, 02 Agustus 2026 pukul 00.13.14 WIB |
 | 2064 | <img src="https://cdn.idntimes.com/content-images/post/20260801/85f369d7-6525-41c0-94b8-9a56686713eb-260801224848.jpg" width="170"> | Ekin JKT48 | hai | Sabtu, 01 Agustus 2026 pukul 22.49.00 WIB |
 | 2063 | <img src="https://cdn.idntimes.com/content-images/post/20260801/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260801224245.jpg" width="170"> | Nala JKT48 | ulangg | Sabtu, 01 Agustus 2026 pukul 22.42.53 WIB |
 | 2062 | <img src="https://cdn.idntimes.com/content-images/post/20260801/147e83c8-f3ac-4680-9141-2f518b4b7810-260801223022.jpg" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Sabtu, 01 Agustus 2026 pukul 22.30.33 WIB |

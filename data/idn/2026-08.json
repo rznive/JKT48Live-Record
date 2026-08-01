@@ -158,5 +158,15 @@
     "live_at_unix": 1785599340,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260801/85f369d7-6525-41c0-94b8-9a56686713eb-260801224848.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
+  },
+  {
+    "id": 2065,
+    "username": "jkt48_delynn",
+    "creator_name": "Delynn JKT48",
+    "title": "Malms",
+    "live_at": "Minggu, 02 Agustus 2026 pukul 00.13.14 WIB",
+    "live_at_unix": 1785604394,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260802/266ef38a-da00-4d13-ba77-f94da68599ee-260802001300.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
   }
 ]
