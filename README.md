@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2069 | <img src="https://cdn.idntimes.com/content-images/post/20260802/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260802171138.jpg" width="170"> | Greesel JKT48 | :v | Minggu, 02 Agustus 2026 pukul 17.11.43 WIB |
+| 2068 | <img src="https://cdn.idntimes.com/content-images/post/20260802/b0d1e6c3-d356-4b00-8d00-846e5297693b-260802170752.jpg" width="170"> | Ella JKT48 | aloo | Minggu, 02 Agustus 2026 pukul 17.08.01 WIB |
+| 2067 | <img src="https://cdn.idntimes.com/content-images/post/20260802/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260802165631.jpg" width="170"> | Nala JKT48 | hanya sebentar | Minggu, 02 Agustus 2026 pukul 16.56.46 WIB |
+| 2066 | <img src="https://cdn.idntimes.com/content-images/post/20260802/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260802162338.jpg" width="170"> | Eli JKT48 | BEBAS | Minggu, 02 Agustus 2026 pukul 16.23.46 WIB |
 | 2065 | <img src="https://cdn.idntimes.com/content-images/post/20260802/266ef38a-da00-4d13-ba77-f94da68599ee-260802001300.jpg" width="170"> | Delynn JKT48 | Malms | Minggu, 02 Agustus 2026 pukul 00.13.14 WIB |
 | 2064 | <img src="https://cdn.idntimes.com/content-images/post/20260801/85f369d7-6525-41c0-94b8-9a56686713eb-260801224848.jpg" width="170"> | Ekin JKT48 | hai | Sabtu, 01 Agustus 2026 pukul 22.49.00 WIB |
 | 2063 | <img src="https://cdn.idntimes.com/content-images/post/20260801/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260801224245.jpg" width="170"> | Nala JKT48 | ulangg | Sabtu, 01 Agustus 2026 pukul 22.42.53 WIB |
