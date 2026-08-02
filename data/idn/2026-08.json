@@ -368,5 +368,35 @@
     "live_at_unix": 1785687087,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260802/a2b5d818-475d-44ce-af52-e99526482aaf-260802231119.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gYN6fQPMCqs0.m3u8"
+  },
+  {
+    "id": 2086,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Haii",
+    "live_at": "Minggu, 02 Agustus 2026 pukul 23.13.29 WIB",
+    "live_at_unix": 1785687209,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260802/e2af7271-2598-4ee8-8760-68043e671e6d-260802231323.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 2087,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "BREWEK",
+    "live_at": "Minggu, 02 Agustus 2026 pukul 23.22.33 WIB",
+    "live_at_unix": 1785687753,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260802/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260802232226.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
+  },
+  {
+    "id": 2088,
+    "username": "jkt48_lia",
+    "creator_name": "Lia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 02 Agustus 2026 pukul 23.33.32 WIB",
+    "live_at_unix": 1785688412,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260802/15dfee86-a928-4a15-8c90-6aa21097d0ff-260802233327.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
   }
 ]

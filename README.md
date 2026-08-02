@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2088 | <img src="https://cdn.idntimes.com/content-images/post/20260802/15dfee86-a928-4a15-8c90-6aa21097d0ff-260802233327.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 02 Agustus 2026 pukul 23.33.32 WIB |
+| 2087 | <img src="https://cdn.idntimes.com/content-images/post/20260802/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260802232226.jpg" width="170"> | Lily JKT48 | BREWEK | Minggu, 02 Agustus 2026 pukul 23.22.33 WIB |
+| 2086 | <img src="https://cdn.idntimes.com/content-images/post/20260802/e2af7271-2598-4ee8-8760-68043e671e6d-260802231323.jpg" width="170"> | Lana JKT48 | Haii | Minggu, 02 Agustus 2026 pukul 23.13.29 WIB |
 | 2085 | <img src="https://cdn.idntimes.com/content-images/post/20260802/a2b5d818-475d-44ce-af52-e99526482aaf-260802231119.jpg" width="170"> | Oline JKT48 | y | Minggu, 02 Agustus 2026 pukul 23.11.27 WIB |
 | 2084 | <img src="https://cdn.idntimes.com/content-images/post/20260802/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260802231114.jpg" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Minggu, 02 Agustus 2026 pukul 23.11.23 WIB |
 | 2083 | <img src="https://cdn.idntimes.com/content-images/post/20260802/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260802224828.jpg" width="170"> | Levi JKT48 | hai | Minggu, 02 Agustus 2026 pukul 22.48.37 WIB |
