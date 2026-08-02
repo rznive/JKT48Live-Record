@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2075 | <img src="https://cdn.idntimes.com/content-images/post/20260802/266ef38a-da00-4d13-ba77-f94da68599ee-260802205641.jpg" width="170"> | Delynn JKT48 | Hi | Minggu, 02 Agustus 2026 pukul 20.56.59 WIB |
+| 2074 | <img src="https://cdn.idntimes.com/content-images/post/20260802/e9170998-f026-4186-bbc5-a17a3b5b2af1-260802200217.jpg" width="170"> | Rilly JKT48 | Ngobss | Minggu, 02 Agustus 2026 pukul 20.02.25 WIB |
+| 2073 | <img src="https://cdn.idntimes.com/content-images/post/20260802/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260802200127.jpg" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 02 Agustus 2026 pukul 20.01.38 WIB |
 | 2072 | <img src="https://cdn.idntimes.com/content-images/post/20260802/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260802183940.jpg" width="170"> | Christy JKT48 | mam | Minggu, 02 Agustus 2026 pukul 18.39.49 WIB |
 | 2071 | <img src="https://cdn.idntimes.com/content-images/post/20260802/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260802183809.jpg" width="170"> | Kathrina JKT48 | wow | Minggu, 02 Agustus 2026 pukul 18.38.21 WIB |
 | 2070 | <img src="https://cdn.idntimes.com/content-images/post/20260802/a9579a29-9203-40c0-9326-9837b8eae6e8-260802183519.jpg" width="170"> | Jessi JKT48 | mam | Minggu, 02 Agustus 2026 pukul 18.35.25 WIB |
