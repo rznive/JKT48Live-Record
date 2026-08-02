@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2072 | <img src="https://cdn.idntimes.com/content-images/post/20260802/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260802183940.jpg" width="170"> | Christy JKT48 | mam | Minggu, 02 Agustus 2026 pukul 18.39.49 WIB |
+| 2071 | <img src="https://cdn.idntimes.com/content-images/post/20260802/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260802183809.jpg" width="170"> | Kathrina JKT48 | wow | Minggu, 02 Agustus 2026 pukul 18.38.21 WIB |
+| 2070 | <img src="https://cdn.idntimes.com/content-images/post/20260802/a9579a29-9203-40c0-9326-9837b8eae6e8-260802183519.jpg" width="170"> | Jessi JKT48 | mam | Minggu, 02 Agustus 2026 pukul 18.35.25 WIB |
 | 2069 | <img src="https://cdn.idntimes.com/content-images/post/20260802/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260802171138.jpg" width="170"> | Greesel JKT48 | :v | Minggu, 02 Agustus 2026 pukul 17.11.43 WIB |
 | 2068 | <img src="https://cdn.idntimes.com/content-images/post/20260802/b0d1e6c3-d356-4b00-8d00-846e5297693b-260802170752.jpg" width="170"> | Ella JKT48 | aloo | Minggu, 02 Agustus 2026 pukul 17.08.01 WIB |
 | 2067 | <img src="https://cdn.idntimes.com/content-images/post/20260802/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260802165631.jpg" width="170"> | Nala JKT48 | hanya sebentar | Minggu, 02 Agustus 2026 pukul 16.56.46 WIB |

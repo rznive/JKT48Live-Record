@@ -208,5 +208,35 @@
     "live_at_unix": 1785665503,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260802/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260802171138.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.z3nXSqOvE9Fs.m3u8"
+  },
+  {
+    "id": 2070,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "mam",
+    "live_at": "Minggu, 02 Agustus 2026 pukul 18.35.25 WIB",
+    "live_at_unix": 1785670525,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260802/a9579a29-9203-40c0-9326-9837b8eae6e8-260802183519.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 2071,
+    "username": "jkt48_kathrina",
+    "creator_name": "Kathrina JKT48",
+    "title": "wow",
+    "live_at": "Minggu, 02 Agustus 2026 pukul 18.38.21 WIB",
+    "live_at_unix": 1785670701,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260802/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260802183809.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
+  },
+  {
+    "id": 2072,
+    "username": "jkt48_christy",
+    "creator_name": "Christy JKT48",
+    "title": "mam",
+    "live_at": "Minggu, 02 Agustus 2026 pukul 18.39.49 WIB",
+    "live_at_unix": 1785670789,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260802/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260802183940.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.R4bPsdzRonL3.m3u8"
   }
 ]
