@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2090 | <img src="https://cdn.idntimes.com/content-images/post/20260803/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260803191411.jpg" width="170"> | Muthe JKT48 | Hi | Senin, 03 Agustus 2026 pukul 19.14.17 WIB |
 | 2089 | <img src="https://cdn.idntimes.com/content-images/post/20260803/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260803134016.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Senin, 03 Agustus 2026 pukul 13.40.28 WIB |
 | 2088 | <img src="https://cdn.idntimes.com/content-images/post/20260802/15dfee86-a928-4a15-8c90-6aa21097d0ff-260802233327.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 02 Agustus 2026 pukul 23.33.32 WIB |
 | 2087 | <img src="https://cdn.idntimes.com/content-images/post/20260802/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260802232226.jpg" width="170"> | Lily JKT48 | BREWEK | Minggu, 02 Agustus 2026 pukul 23.22.33 WIB |
