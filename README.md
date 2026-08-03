@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2093 | <img src="https://cdn.idntimes.com/content-images/post/20260803/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260803225327.jpg" width="170"> | Kathrina JKT48 | Hihi | Senin, 03 Agustus 2026 pukul 22.53.34 WIB |
+| 2092 | <img src="https://cdn.idntimes.com/content-images/post/20260803/e2af7271-2598-4ee8-8760-68043e671e6d-260803224224.jpg" width="170"> | Lana JKT48 | Review gifteuu | Senin, 03 Agustus 2026 pukul 22.42.30 WIB |
+| 2091 | <img src="https://cdn.idntimes.com/content-images/post/20260803/728d224e-6ccb-43d2-a029-a0147dc7fdee-260803222810.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Senin, 03 Agustus 2026 pukul 22.28.17 WIB |
 | 2090 | <img src="https://cdn.idntimes.com/content-images/post/20260803/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260803191411.jpg" width="170"> | Muthe JKT48 | Hi | Senin, 03 Agustus 2026 pukul 19.14.17 WIB |
 | 2089 | <img src="https://cdn.idntimes.com/content-images/post/20260803/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260803134016.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Senin, 03 Agustus 2026 pukul 13.40.28 WIB |
 | 2088 | <img src="https://cdn.idntimes.com/content-images/post/20260802/15dfee86-a928-4a15-8c90-6aa21097d0ff-260802233327.jpg" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 02 Agustus 2026 pukul 23.33.32 WIB |

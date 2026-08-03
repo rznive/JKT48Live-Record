@@ -418,5 +418,35 @@
     "live_at_unix": 1785759257,
     "image_url": "https://cdn.idntimes.com/content-images/post/20260803/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260803191411.jpg",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sm9AmQPkGDGS.m3u8"
+  },
+  {
+    "id": 2091,
+    "username": "jkt48_raisha",
+    "creator_name": "Raisha JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 03 Agustus 2026 pukul 22.28.17 WIB",
+    "live_at_unix": 1785770897,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260803/728d224e-6ccb-43d2-a029-a0147dc7fdee-260803222810.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.rjVZYmbffgGE.m3u8"
+  },
+  {
+    "id": 2092,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Review gifteuu",
+    "live_at": "Senin, 03 Agustus 2026 pukul 22.42.30 WIB",
+    "live_at_unix": 1785771750,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260803/e2af7271-2598-4ee8-8760-68043e671e6d-260803224224.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 2093,
+    "username": "jkt48_kathrina",
+    "creator_name": "Kathrina JKT48",
+    "title": "Hihi",
+    "live_at": "Senin, 03 Agustus 2026 pukul 22.53.34 WIB",
+    "live_at_unix": 1785772414,
+    "image_url": "https://cdn.idntimes.com/content-images/post/20260803/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260803225327.jpg",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
   }
 ]
