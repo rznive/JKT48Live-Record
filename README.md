@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2094 | <img src="https://cdn.idntimes.com/content-images/post/20260803/266ef38a-da00-4d13-ba77-f94da68599ee-260803232155.jpg" width="170"> | Delynn JKT48 | Hi | Senin, 03 Agustus 2026 pukul 23.22.14 WIB |
 | 2093 | <img src="https://cdn.idntimes.com/content-images/post/20260803/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260803225327.jpg" width="170"> | Kathrina JKT48 | Hihi | Senin, 03 Agustus 2026 pukul 22.53.34 WIB |
 | 2092 | <img src="https://cdn.idntimes.com/content-images/post/20260803/e2af7271-2598-4ee8-8760-68043e671e6d-260803224224.jpg" width="170"> | Lana JKT48 | Review gifteuu | Senin, 03 Agustus 2026 pukul 22.42.30 WIB |
 | 2091 | <img src="https://cdn.idntimes.com/content-images/post/20260803/728d224e-6ccb-43d2-a029-a0147dc7fdee-260803222810.jpg" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Senin, 03 Agustus 2026 pukul 22.28.17 WIB |
