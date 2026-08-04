@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2100 | <img src="https://cdn.idn.app/livestream/e6912a471f3988ad877807794977c2b2.webp" width="170"> | Ella JKT48 | aloo | Selasa, 04 Agustus 2026 pukul 18.26.28 WIB |
+| 2099 | <img src="https://cdn.idn.app/livestream/84eb59f00355ff995a2b3e47412ab998.webp" width="170"> | Daisy JKT48 | Haiii | Selasa, 04 Agustus 2026 pukul 17.48.56 WIB |
+| 2098 | <img src="https://cdn.idn.app/livestream/5d4abbc785332effbc7917c435cf442a.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Selasa, 04 Agustus 2026 pukul 17.46.50 WIB |
 | 2097 | <img src="https://cdn.idn.app/livestream/bdaca0481062e7294f14a4bf41f43b8a.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Selasa, 04 Agustus 2026 pukul 16.22.02 WIB |
 | 2096 | <img src="https://cdn.idntimes.com/content-images/post/20260804/50a27780-93e7-4e40-8474-60f6e0cca6da-260804152803.jpg" width="170"> | JKT48 | Temen Main EP.1!!!!! | Selasa, 04 Agustus 2026 pukul 15.28.14 WIB |
 | 2095 | <img src="https://cdn.idntimes.com/content-images/post/20260804/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260804124704.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Selasa, 04 Agustus 2026 pukul 12.47.14 WIB |
