@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2108 | <img src="https://cdn.idn.app/livestream/be711729c748916a4ed74b6a0f1c3ef3.webp" width="170"> | Lily JKT48 | Hii | Selasa, 04 Agustus 2026 pukul 21.33.08 WIB |
+| 2107 | <img src="https://cdn.idn.app/livestream/135f8d7f102aa43e4d06a34b643d1378.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Selasa, 04 Agustus 2026 pukul 21.17.56 WIB |
+| 2106 | <img src="https://cdn.idn.app/livestream/b8b4787c04caf7e97a4330caa9e78de6.webp" width="170"> | Eli JKT48 | BEBAS | Selasa, 04 Agustus 2026 pukul 20.21.35 WIB |
 | 2105 | <img src="https://cdn.idn.app/livestream/c0940e9cefeba61aee26e1ac66307a71.webp" width="170"> | Fritzy JKT48 | hii | Selasa, 04 Agustus 2026 pukul 20.15.30 WIB |
 | 2104 | <img src="https://cdn.idn.app/livestream/bf3afef03e329f6bafaa4cd0142567e3.webp" width="170"> | Michie JKT48 | hello | Selasa, 04 Agustus 2026 pukul 20.01.04 WIB |
 | 2103 | <img src="https://cdn.idn.app/livestream/8db30f0dea89cf02d324e2ad508c1a6e.webp" width="170"> | Greesel JKT48 | :D | Selasa, 04 Agustus 2026 pukul 19.51.13 WIB |
