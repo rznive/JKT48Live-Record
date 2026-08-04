@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2097 | <img src="https://cdn.idn.app/livestream/bdaca0481062e7294f14a4bf41f43b8a.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Selasa, 04 Agustus 2026 pukul 16.22.02 WIB |
+| 2096 | <img src="https://cdn.idntimes.com/content-images/post/20260804/50a27780-93e7-4e40-8474-60f6e0cca6da-260804152803.jpg" width="170"> | JKT48 | Temen Main EP.1!!!!! | Selasa, 04 Agustus 2026 pukul 15.28.14 WIB |
 | 2095 | <img src="https://cdn.idntimes.com/content-images/post/20260804/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260804124704.jpg" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Selasa, 04 Agustus 2026 pukul 12.47.14 WIB |
 | 2094 | <img src="https://cdn.idntimes.com/content-images/post/20260803/266ef38a-da00-4d13-ba77-f94da68599ee-260803232155.jpg" width="170"> | Delynn JKT48 | Hi | Senin, 03 Agustus 2026 pukul 23.22.14 WIB |
 | 2093 | <img src="https://cdn.idntimes.com/content-images/post/20260803/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260803225327.jpg" width="170"> | Kathrina JKT48 | Hihi | Senin, 03 Agustus 2026 pukul 22.53.34 WIB |
