@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2105 | <img src="https://cdn.idn.app/livestream/c0940e9cefeba61aee26e1ac66307a71.webp" width="170"> | Fritzy JKT48 | hii | Selasa, 04 Agustus 2026 pukul 20.15.30 WIB |
+| 2104 | <img src="https://cdn.idn.app/livestream/bf3afef03e329f6bafaa4cd0142567e3.webp" width="170"> | Michie JKT48 | hello | Selasa, 04 Agustus 2026 pukul 20.01.04 WIB |
+| 2103 | <img src="https://cdn.idn.app/livestream/8db30f0dea89cf02d324e2ad508c1a6e.webp" width="170"> | Greesel JKT48 | :D | Selasa, 04 Agustus 2026 pukul 19.51.13 WIB |
+| 2102 | <img src="https://cdn.idn.app/livestream/ecf0c11f55ec366777e167f1d0207570.webp" width="170"> | Gracie JKT48 | hiii | Selasa, 04 Agustus 2026 pukul 19.49.21 WIB |
+| 2101 | <img src="https://cdn.idn.app/livestream/1854e9449d93017fc1f5d2f3e9a1f31c.webp" width="170"> | Ribka JKT48 | Hi | Selasa, 04 Agustus 2026 pukul 19.11.47 WIB |
 | 2100 | <img src="https://cdn.idn.app/livestream/e6912a471f3988ad877807794977c2b2.webp" width="170"> | Ella JKT48 | aloo | Selasa, 04 Agustus 2026 pukul 18.26.28 WIB |
 | 2099 | <img src="https://cdn.idn.app/livestream/84eb59f00355ff995a2b3e47412ab998.webp" width="170"> | Daisy JKT48 | Haiii | Selasa, 04 Agustus 2026 pukul 17.48.56 WIB |
 | 2098 | <img src="https://cdn.idn.app/livestream/5d4abbc785332effbc7917c435cf442a.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Selasa, 04 Agustus 2026 pukul 17.46.50 WIB |
