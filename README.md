@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2112 | <img src="https://cdn.idn.app/livestream/009ab4c09a2afaa77f5bf1ee370174bc.webp" width="170"> | Ribka JKT48 | Hi | Rabu, 05 Agustus 2026 pukul 19.29.16 WIB |
+| 2111 | <img src="https://cdn.idn.app/livestream/77fef497c1032014961698a257651772.webp" width="170"> | Nayla JKT48 | Malam dane  | Rabu, 05 Agustus 2026 pukul 19.18.17 WIB |
 | 2110 | <img src="https://cdn.idn.app/livestream/9bc2e0c44338d664726f7bb17191a392.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 05 Agustus 2026 pukul 17.28.54 WIB |
 | 2109 | <img src="https://cdn.idn.app/livestream/cb00f503653b47f4ebef10b1c3c87068.webp" width="170"> | Intan JKT48 | berisik dikit krna ad renov ya😁✌🏻 | Rabu, 05 Agustus 2026 pukul 15.59.03 WIB |
 | 2108 | <img src="https://cdn.idn.app/livestream/be711729c748916a4ed74b6a0f1c3ef3.webp" width="170"> | Lily JKT48 | Hii | Selasa, 04 Agustus 2026 pukul 21.33.08 WIB |
