@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2121 | <img src="https://cdn.idn.app/livestream/d3b09d7f052084d047f66386b7c0df7e.webp" width="170"> | Delynn JKT48 | hi | Rabu, 05 Agustus 2026 pukul 23.30.03 WIB |
+| 2120 | <img src="https://cdn.idn.app/livestream/5690c28f33cab96872ef9b36a49a68f5.webp" width="170"> | Aralie JKT48 | hi | Rabu, 05 Agustus 2026 pukul 23.11.03 WIB |
+| 2119 | <img src="https://cdn.idn.app/livestream/62ab0450d0c414e59289b3e4665ec2d2.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Rabu, 05 Agustus 2026 pukul 22.52.52 WIB |
 | 2118 | <img src="https://cdn.idn.app/livestream/4e377e7228186de8b594ccb8906b84ee.webp" width="170"> | Oline JKT48 | y | Rabu, 05 Agustus 2026 pukul 22.08.04 WIB |
 | 2117 | <img src="https://cdn.idn.app/livestream/c585ff2a608afce81f95aaea10845f4c.webp" width="170"> | Gita JKT48 | Gits | Rabu, 05 Agustus 2026 pukul 22.06.52 WIB |
 | 2116 | <img src="https://cdn.idn.app/livestream/2a560ec62abeb64ee2fc088ec8d4eb02.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Rabu, 05 Agustus 2026 pukul 22.05.52 WIB |
