@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2109 | <img src="https://cdn.idn.app/livestream/cb00f503653b47f4ebef10b1c3c87068.webp" width="170"> | Intan JKT48 | berisik dikit krna ad renov ya😁✌🏻 | Rabu, 05 Agustus 2026 pukul 15.59.03 WIB |
 | 2108 | <img src="https://cdn.idn.app/livestream/be711729c748916a4ed74b6a0f1c3ef3.webp" width="170"> | Lily JKT48 | Hii | Selasa, 04 Agustus 2026 pukul 21.33.08 WIB |
 | 2107 | <img src="https://cdn.idn.app/livestream/135f8d7f102aa43e4d06a34b643d1378.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Selasa, 04 Agustus 2026 pukul 21.17.56 WIB |
 | 2106 | <img src="https://cdn.idn.app/livestream/b8b4787c04caf7e97a4330caa9e78de6.webp" width="170"> | Eli JKT48 | BEBAS | Selasa, 04 Agustus 2026 pukul 20.21.35 WIB |
