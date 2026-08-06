@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2128 | <img src="https://cdn.idn.app/livestream/3a6064b64e151ceff10e83c80effd780.webp" width="170"> | Jessi JKT48 | hewo | Kamis, 06 Agustus 2026 pukul 19.20.46 WIB |
 | 2127 | <img src="https://cdn.idn.app/livestream/c7fe495df21e97e4ff2d99e077d148c4.webp" width="170"> | Freya JKT48 | Ayo ngobrol bareng! | Kamis, 06 Agustus 2026 pukul 18.31.53 WIB |
 | 2126 | <img src="https://cdn.idn.app/livestream/9621934b49faca0be932df0c678e8a98.webp" width="170"> | Marsha JKT48 | Plisss | Kamis, 06 Agustus 2026 pukul 18.29.30 WIB |
 | 2125 | <img src="https://cdn.idn.app/livestream/6e36b226794dc5955720b543613cc3e0.webp" width="170"> | Nachia JKT48 | hiiii | Kamis, 06 Agustus 2026 pukul 18.29.25 WIB |

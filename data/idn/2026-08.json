@@ -788,5 +788,15 @@
     "live_at_unix": 1786015913,
     "image_url": "https://cdn.idn.app/livestream/c7fe495df21e97e4ff2d99e077d148c4.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.eCTljQvrMYaf.m3u8"
+  },
+  {
+    "id": 2128,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "hewo",
+    "live_at": "Kamis, 06 Agustus 2026 pukul 19.20.46 WIB",
+    "live_at_unix": 1786018846,
+    "image_url": "https://cdn.idn.app/livestream/3a6064b64e151ceff10e83c80effd780.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
   }
 ]
