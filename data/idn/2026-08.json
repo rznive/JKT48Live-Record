@@ -798,5 +798,55 @@
     "live_at_unix": 1786018846,
     "image_url": "https://cdn.idn.app/livestream/3a6064b64e151ceff10e83c80effd780.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 2129,
+    "username": "jkt48_delynn",
+    "creator_name": "Delynn JKT48",
+    "title": "halo",
+    "live_at": "Kamis, 06 Agustus 2026 pukul 21.49.30 WIB",
+    "live_at_unix": 1786027770,
+    "image_url": "https://cdn.idn.app/livestream/c08b17b447fa1cb1718d2daeba0b45db.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
+  },
+  {
+    "id": 2130,
+    "username": "jkt48_mikaela",
+    "creator_name": "Mikaela JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 06 Agustus 2026 pukul 22.03.45 WIB",
+    "live_at_unix": 1786028625,
+    "image_url": "https://cdn.idn.app/livestream/c6b1c9122b1c7cde9f9a47efa08fed0f.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
+  },
+  {
+    "id": 2131,
+    "username": "jkt48_giaa",
+    "creator_name": "Giaa JKT48",
+    "title": "oi",
+    "live_at": "Kamis, 06 Agustus 2026 pukul 22.09.05 WIB",
+    "live_at_unix": 1786028945,
+    "image_url": "https://cdn.idn.app/livestream/6d493fee115680f5fe0451e6bfbb2a58.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
+  },
+  {
+    "id": 2132,
+    "username": "jkt48_lia",
+    "creator_name": "Lia JKT48",
+    "title": "IDNNN",
+    "live_at": "Kamis, 06 Agustus 2026 pukul 22.18.57 WIB",
+    "live_at_unix": 1786029537,
+    "image_url": "https://cdn.idn.app/livestream/ef47ea354a975853769d5a172972d46c.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 2133,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Brewekk",
+    "live_at": "Kamis, 06 Agustus 2026 pukul 22.19.07 WIB",
+    "live_at_unix": 1786029547,
+    "image_url": "https://cdn.idn.app/livestream/d12d165c4d0044f1e097498033571e2b.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
   }
 ]

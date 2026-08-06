@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2133 | <img src="https://cdn.idn.app/livestream/d12d165c4d0044f1e097498033571e2b.webp" width="170"> | Lana JKT48 | Brewekk | Kamis, 06 Agustus 2026 pukul 22.19.07 WIB |
+| 2132 | <img src="https://cdn.idn.app/livestream/ef47ea354a975853769d5a172972d46c.webp" width="170"> | Lia JKT48 | IDNNN | Kamis, 06 Agustus 2026 pukul 22.18.57 WIB |
+| 2131 | <img src="https://cdn.idn.app/livestream/6d493fee115680f5fe0451e6bfbb2a58.webp" width="170"> | Giaa JKT48 | oi | Kamis, 06 Agustus 2026 pukul 22.09.05 WIB |
+| 2130 | <img src="https://cdn.idn.app/livestream/c6b1c9122b1c7cde9f9a47efa08fed0f.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 06 Agustus 2026 pukul 22.03.45 WIB |
+| 2129 | <img src="https://cdn.idn.app/livestream/c08b17b447fa1cb1718d2daeba0b45db.webp" width="170"> | Delynn JKT48 | halo | Kamis, 06 Agustus 2026 pukul 21.49.30 WIB |
 | 2128 | <img src="https://cdn.idn.app/livestream/3a6064b64e151ceff10e83c80effd780.webp" width="170"> | Jessi JKT48 | hewo | Kamis, 06 Agustus 2026 pukul 19.20.46 WIB |
 | 2127 | <img src="https://cdn.idn.app/livestream/c7fe495df21e97e4ff2d99e077d148c4.webp" width="170"> | Freya JKT48 | Ayo ngobrol bareng! | Kamis, 06 Agustus 2026 pukul 18.31.53 WIB |
 | 2126 | <img src="https://cdn.idn.app/livestream/9621934b49faca0be932df0c678e8a98.webp" width="170"> | Marsha JKT48 | Plisss | Kamis, 06 Agustus 2026 pukul 18.29.30 WIB |
