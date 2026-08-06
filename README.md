@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2127 | <img src="https://cdn.idn.app/livestream/c7fe495df21e97e4ff2d99e077d148c4.webp" width="170"> | Freya JKT48 | Ayo ngobrol bareng! | Kamis, 06 Agustus 2026 pukul 18.31.53 WIB |
+| 2126 | <img src="https://cdn.idn.app/livestream/9621934b49faca0be932df0c678e8a98.webp" width="170"> | Marsha JKT48 | Plisss | Kamis, 06 Agustus 2026 pukul 18.29.30 WIB |
+| 2125 | <img src="https://cdn.idn.app/livestream/6e36b226794dc5955720b543613cc3e0.webp" width="170"> | Nachia JKT48 | hiiii | Kamis, 06 Agustus 2026 pukul 18.29.25 WIB |
+| 2124 | <img src="https://cdn.idn.app/livestream/6e527391499d0928f76979c662ef8402.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Kamis, 06 Agustus 2026 pukul 18.28.40 WIB |
+| 2123 | <img src="https://cdn.idn.app/livestream/1888b8fb200979f1d2070ad734c3b90d.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 06 Agustus 2026 pukul 18.28.29 WIB |
+| 2122 | <img src="https://cdn.idn.app/livestream/ac3c22c229a4cc899b1bf43645b544e1.webp" width="170"> | Nala JKT48 | yooo | Kamis, 06 Agustus 2026 pukul 18.27.44 WIB |
 | 2121 | <img src="https://cdn.idn.app/livestream/d3b09d7f052084d047f66386b7c0df7e.webp" width="170"> | Delynn JKT48 | hi | Rabu, 05 Agustus 2026 pukul 23.30.03 WIB |
 | 2120 | <img src="https://cdn.idn.app/livestream/5690c28f33cab96872ef9b36a49a68f5.webp" width="170"> | Aralie JKT48 | hi | Rabu, 05 Agustus 2026 pukul 23.11.03 WIB |
 | 2119 | <img src="https://cdn.idn.app/livestream/62ab0450d0c414e59289b3e4665ec2d2.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Rabu, 05 Agustus 2026 pukul 22.52.52 WIB |
