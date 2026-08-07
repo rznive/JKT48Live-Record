@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2134 | <img src="https://cdn.idn.app/livestream/059a5fcfe324dc2c3432da8c5e591da2.webp" width="170"> | Oniel JKT48 | saya kembali | Jumat, 07 Agustus 2026 pukul 20.53.40 WIB |
 | 2133 | <img src="https://cdn.idn.app/livestream/d12d165c4d0044f1e097498033571e2b.webp" width="170"> | Lana JKT48 | Brewekk | Kamis, 06 Agustus 2026 pukul 22.19.07 WIB |
 | 2132 | <img src="https://cdn.idn.app/livestream/ef47ea354a975853769d5a172972d46c.webp" width="170"> | Lia JKT48 | IDNNN | Kamis, 06 Agustus 2026 pukul 22.18.57 WIB |
 | 2131 | <img src="https://cdn.idn.app/livestream/6d493fee115680f5fe0451e6bfbb2a58.webp" width="170"> | Giaa JKT48 | oi | Kamis, 06 Agustus 2026 pukul 22.09.05 WIB |
