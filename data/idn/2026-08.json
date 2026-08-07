@@ -908,5 +908,25 @@
     "live_at_unix": 1786113123,
     "image_url": "https://cdn.idn.app/livestream/db7efab4504bd05bb30e14925dee32da.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.nCPKiODqPEOs.m3u8"
+  },
+  {
+    "id": 2140,
+    "username": "jkt48_fritzy",
+    "creator_name": "Fritzy JKT48",
+    "title": "hellour",
+    "live_at": "Jumat, 07 Agustus 2026 pukul 21.53.12 WIB",
+    "live_at_unix": 1786114392,
+    "image_url": "https://cdn.idn.app/livestream/6120daa773bc8d42bda319860e30af70.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
+  },
+  {
+    "id": 2141,
+    "username": "jkt48_lia",
+    "creator_name": "Lia JKT48",
+    "title": "IDNNN",
+    "live_at": "Jumat, 07 Agustus 2026 pukul 21.59.10 WIB",
+    "live_at_unix": 1786114750,
+    "image_url": "https://cdn.idn.app/livestream/bc62158d71eb3446bfc0322ffdea6460.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
   }
 ]
