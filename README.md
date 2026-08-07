@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2139 | <img src="https://cdn.idn.app/livestream/db7efab4504bd05bb30e14925dee32da.webp" width="170"> | Nala JKT48 |     | Jumat, 07 Agustus 2026 pukul 21.32.03 WIB |
+| 2138 | <img src="https://cdn.idn.app/livestream/53a9f310acde0f148f62302bcd6fa6f5.webp" width="170"> | Gracie JKT48 | hiii | Jumat, 07 Agustus 2026 pukul 21.21.07 WIB |
+| 2137 | <img src="https://cdn.idn.app/livestream/fc6d7ca450131c747a7b93aae894709c.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Jumat, 07 Agustus 2026 pukul 21.13.42 WIB |
+| 2136 | <img src="https://cdn.idn.app/livestream/e44b028cd1399b9bc8389bcdf8b819d6.webp" width="170"> | Lily JKT48 | Hi | Jumat, 07 Agustus 2026 pukul 21.11.34 WIB |
+| 2135 | <img src="https://cdn.idn.app/livestream/98889ecfbefac30783596f81e996ece3.webp" width="170"> | Gita JKT48 | Gits | Jumat, 07 Agustus 2026 pukul 20.58.39 WIB |
 | 2134 | <img src="https://cdn.idn.app/livestream/059a5fcfe324dc2c3432da8c5e591da2.webp" width="170"> | Oniel JKT48 | saya kembali | Jumat, 07 Agustus 2026 pukul 20.53.40 WIB |
 | 2133 | <img src="https://cdn.idn.app/livestream/d12d165c4d0044f1e097498033571e2b.webp" width="170"> | Lana JKT48 | Brewekk | Kamis, 06 Agustus 2026 pukul 22.19.07 WIB |
 | 2132 | <img src="https://cdn.idn.app/livestream/ef47ea354a975853769d5a172972d46c.webp" width="170"> | Lia JKT48 | IDNNN | Kamis, 06 Agustus 2026 pukul 22.18.57 WIB |

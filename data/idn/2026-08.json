@@ -858,5 +858,55 @@
     "live_at_unix": 1786110820,
     "image_url": "https://cdn.idn.app/livestream/059a5fcfe324dc2c3432da8c5e591da2.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 2135,
+    "username": "jkt48_gita",
+    "creator_name": "Gita JKT48",
+    "title": "Gits",
+    "live_at": "Jumat, 07 Agustus 2026 pukul 20.58.39 WIB",
+    "live_at_unix": 1786111119,
+    "image_url": "https://cdn.idn.app/livestream/98889ecfbefac30783596f81e996ece3.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.k4fAFOYXENlG.m3u8"
+  },
+  {
+    "id": 2136,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Hi",
+    "live_at": "Jumat, 07 Agustus 2026 pukul 21.11.34 WIB",
+    "live_at_unix": 1786111894,
+    "image_url": "https://cdn.idn.app/livestream/e44b028cd1399b9bc8389bcdf8b819d6.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
+  },
+  {
+    "id": 2137,
+    "username": "jkt48_olla",
+    "creator_name": "Olla JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 07 Agustus 2026 pukul 21.13.42 WIB",
+    "live_at_unix": 1786112022,
+    "image_url": "https://cdn.idn.app/livestream/fc6d7ca450131c747a7b93aae894709c.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8"
+  },
+  {
+    "id": 2138,
+    "username": "jkt48_gracie",
+    "creator_name": "Gracie JKT48",
+    "title": "hiii",
+    "live_at": "Jumat, 07 Agustus 2026 pukul 21.21.07 WIB",
+    "live_at_unix": 1786112467,
+    "image_url": "https://cdn.idn.app/livestream/53a9f310acde0f148f62302bcd6fa6f5.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ztIO0UisaA3P.m3u8"
+  },
+  {
+    "id": 2139,
+    "username": "jkt48_nala",
+    "creator_name": "Nala JKT48",
+    "title": "   ",
+    "live_at": "Jumat, 07 Agustus 2026 pukul 21.32.03 WIB",
+    "live_at_unix": 1786113123,
+    "image_url": "https://cdn.idn.app/livestream/db7efab4504bd05bb30e14925dee32da.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.nCPKiODqPEOs.m3u8"
   }
 ]
