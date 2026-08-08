@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2151 | <img src="https://cdn.idn.app/livestream/2db87e7ab8856464df672ab43a388569.webp" width="170"> | Danella JKT48 | hii | Sabtu, 08 Agustus 2026 pukul 19.36.03 WIB |
+| 2150 | <img src="https://cdn.idn.app/livestream/3e6cdfd55d103a26a65fdc55c1d19f2d.webp" width="170"> | Daisy JKT48 | haiiiiii | Sabtu, 08 Agustus 2026 pukul 19.35.30 WIB |
+| 2149 | <img src="https://cdn.idn.app/livestream/df4074e72f91f7b7ef267295ad1e9ffc.webp" width="170"> | Oniel JKT48 | saya kembali | Sabtu, 08 Agustus 2026 pukul 19.35.23 WIB |
+| 2148 | <img src="https://cdn.idn.app/livestream/c496bf19c434d2b41375b86e83475ceb.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Sabtu, 08 Agustus 2026 pukul 19.35.17 WIB |
+| 2147 | <img src="https://cdn.idn.app/livestream/f4d5c679b8c240ba0fde14284c8fe49d.webp" width="170"> | Muthe JKT48 | Hi | Sabtu, 08 Agustus 2026 pukul 19.35.16 WIB |
 | 2146 | <img src="https://cdn.idn.app/livestream/fad3219c2b0b8d1ae94ef7e6c0950d51.webp" width="170"> | Gracie JKT48 | hiii | Sabtu, 08 Agustus 2026 pukul 17.53.39 WIB |
 | 2145 | <img src="https://cdn.idn.app/livestream/9772db1441608879962d97ce42c99cb4.webp" width="170"> | Gita JKT48 | Gits | Sabtu, 08 Agustus 2026 pukul 17.53.26 WIB |
 | 2144 | <img src="https://cdn.idn.app/livestream/cb76ec4f940be423918a93d3ca57c083.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 08 Agustus 2026 pukul 17.04.06 WIB |
