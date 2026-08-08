@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2154 | <img src="https://cdn.idn.app/livestream/b6f337f11259bd2db79dd79bdd5ec289.webp" width="170"> | Nayla JKT48 | Aku mau  | Sabtu, 08 Agustus 2026 pukul 20.24.24 WIB |
+| 2153 | <img src="https://cdn.idn.app/livestream/83786375263df984bb95e66500147cf3.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Sabtu, 08 Agustus 2026 pukul 19.45.34 WIB |
+| 2152 | <img src="https://cdn.idn.app/livestream/bca1151fb53d8f6693c44df41b961044.webp" width="170"> | Greesel JKT48 | #GreeFM | Sabtu, 08 Agustus 2026 pukul 19.42.32 WIB |
 | 2151 | <img src="https://cdn.idn.app/livestream/2db87e7ab8856464df672ab43a388569.webp" width="170"> | Danella JKT48 | hii | Sabtu, 08 Agustus 2026 pukul 19.36.03 WIB |
 | 2150 | <img src="https://cdn.idn.app/livestream/3e6cdfd55d103a26a65fdc55c1d19f2d.webp" width="170"> | Daisy JKT48 | haiiiiii | Sabtu, 08 Agustus 2026 pukul 19.35.30 WIB |
 | 2149 | <img src="https://cdn.idn.app/livestream/df4074e72f91f7b7ef267295ad1e9ffc.webp" width="170"> | Oniel JKT48 | saya kembali | Sabtu, 08 Agustus 2026 pukul 19.35.23 WIB |
