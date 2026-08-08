@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2162 | <img src="https://cdn.idn.app/livestream/e5db20525bbbb7e84ce107c80997c2c2.webp" width="170"> | Lana JKT48 | Review gifteu yaur | Sabtu, 08 Agustus 2026 pukul 21.29.53 WIB |
+| 2161 | <img src="https://cdn.idn.app/livestream/2ae396252900e6a2c1693c6094ea53b1.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Sabtu, 08 Agustus 2026 pukul 21.23.20 WIB |
+| 2160 | <img src="https://cdn.idn.app/livestream/81fb027422b98724889baf83223011b7.webp" width="170"> | Nala JKT48 | yooo | Sabtu, 08 Agustus 2026 pukul 21.19.41 WIB |
+| 2159 | <img src="https://cdn.idn.app/livestream/a3dc9c31b6f51e6f75fb9d21b8fed23f.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Sabtu, 08 Agustus 2026 pukul 21.08.54 WIB |
+| 2158 | <img src="https://cdn.idn.app/livestream/18d59711f9bbcd83f89211eb7712daa1.webp" width="170"> | Levi JKT48 | hai | Sabtu, 08 Agustus 2026 pukul 21.07.26 WIB |
 | 2157 | <img src="https://cdn.idn.app/livestream/36a3502b0d73d8aa7f267f0f8f9b5341.webp" width="170"> | Nachia JKT48 | hiiii | Sabtu, 08 Agustus 2026 pukul 21.04.58 WIB |
 | 2156 | <img src="https://cdn.idn.app/livestream/4821337c3a3fa304c80cc4369c3ca3d1.webp" width="170"> | Oline JKT48 | y | Sabtu, 08 Agustus 2026 pukul 21.03.59 WIB |
 | 2155 | <img src="https://cdn.idn.app/livestream/8b287fc53619e9221b15049b136c8ba0.webp" width="170"> | Eli JKT48 | BEBAS | Sabtu, 08 Agustus 2026 pukul 20.54.58 WIB |
