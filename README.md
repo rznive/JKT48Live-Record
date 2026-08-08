@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2164 | <img src="https://cdn.idn.app/livestream/9a83fb670cf6a2618c8b9aae15f9af80.webp" width="170"> | Lia JKT48 | IDNNN | Sabtu, 08 Agustus 2026 pukul 21.59.20 WIB |
+| 2163 | <img src="https://cdn.idn.app/livestream/ffc557cff99c1dac7c77c8427df6de6a.webp" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Sabtu, 08 Agustus 2026 pukul 21.51.24 WIB |
 | 2162 | <img src="https://cdn.idn.app/livestream/e5db20525bbbb7e84ce107c80997c2c2.webp" width="170"> | Lana JKT48 | Review gifteu yaur | Sabtu, 08 Agustus 2026 pukul 21.29.53 WIB |
 | 2161 | <img src="https://cdn.idn.app/livestream/2ae396252900e6a2c1693c6094ea53b1.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Sabtu, 08 Agustus 2026 pukul 21.23.20 WIB |
 | 2160 | <img src="https://cdn.idn.app/livestream/81fb027422b98724889baf83223011b7.webp" width="170"> | Nala JKT48 | yooo | Sabtu, 08 Agustus 2026 pukul 21.19.41 WIB |
