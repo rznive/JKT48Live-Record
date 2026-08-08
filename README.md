@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2142 | <img src="https://cdn.idn.app/livestream/b56f30f781ece998803523b700e5cb83.webp" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Sabtu, 08 Agustus 2026 pukul 14.01.54 WIB |
 | 2141 | <img src="https://cdn.idn.app/livestream/bc62158d71eb3446bfc0322ffdea6460.webp" width="170"> | Lia JKT48 | IDNNN | Jumat, 07 Agustus 2026 pukul 21.59.10 WIB |
 | 2140 | <img src="https://cdn.idn.app/livestream/6120daa773bc8d42bda319860e30af70.webp" width="170"> | Fritzy JKT48 | hellour | Jumat, 07 Agustus 2026 pukul 21.53.12 WIB |
 | 2139 | <img src="https://cdn.idn.app/livestream/db7efab4504bd05bb30e14925dee32da.webp" width="170"> | Nala JKT48 |     | Jumat, 07 Agustus 2026 pukul 21.32.03 WIB |
