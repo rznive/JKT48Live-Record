@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2146 | <img src="https://cdn.idn.app/livestream/fad3219c2b0b8d1ae94ef7e6c0950d51.webp" width="170"> | Gracie JKT48 | hiii | Sabtu, 08 Agustus 2026 pukul 17.53.39 WIB |
+| 2145 | <img src="https://cdn.idn.app/livestream/9772db1441608879962d97ce42c99cb4.webp" width="170"> | Gita JKT48 | Gits | Sabtu, 08 Agustus 2026 pukul 17.53.26 WIB |
 | 2144 | <img src="https://cdn.idn.app/livestream/cb76ec4f940be423918a93d3ca57c083.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 08 Agustus 2026 pukul 17.04.06 WIB |
 | 2143 | <img src="https://cdn.idn.app/livestream/70f774055bc9df60de0372d2635bc458.webp" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Sabtu, 08 Agustus 2026 pukul 15.42.35 WIB |
 | 2142 | <img src="https://cdn.idn.app/livestream/b56f30f781ece998803523b700e5cb83.webp" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Sabtu, 08 Agustus 2026 pukul 14.01.54 WIB |
