@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2170 | <img src="https://cdn.idn.app/livestream/2b42646a87bc4f79065b07cea9dc36c5.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Minggu, 09 Agustus 2026 pukul 15.35.29 WIB |
+| 2169 | <img src="https://cdn.idn.app/livestream/32d172efd75f72c870201c920c474e0f.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Minggu, 09 Agustus 2026 pukul 15.32.37 WIB |
+| 2168 | <img src="https://cdn.idn.app/livestream/e61151d71c07e75719fd1716d28e6b3d.webp" width="170"> | Daisy JKT48 | haiiiiii | Minggu, 09 Agustus 2026 pukul 15.30.46 WIB |
 | 2167 | <img src="https://cdn.idn.app/livestream/734f71706bebc3d39e628addfb430548.webp" width="170"> | Jessi JKT48 | pppppppp | Minggu, 09 Agustus 2026 pukul 14.22.44 WIB |
 | 2166 | <img src="https://cdn.idn.app/livestream/4f37f093c4f0c6fe92cd989a4a465425.webp" width="170"> | Elin JKT48 | Temenin aku makeup | Minggu, 09 Agustus 2026 pukul 11.14.59 WIB |
 | 2165 | <img src="https://cdn.idn.app/livestream/8adfdc7b7f449aa860f46091084b82ff.webp" width="170"> | Lily JKT48 | Hii | Sabtu, 08 Agustus 2026 pukul 23.27.53 WIB |
