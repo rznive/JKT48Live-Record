@@ -1218,5 +1218,15 @@
     "live_at_unix": 1786264529,
     "image_url": "https://cdn.idn.app/livestream/2b42646a87bc4f79065b07cea9dc36c5.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8"
+  },
+  {
+    "id": 2171,
+    "username": "jkt48_cynthia",
+    "creator_name": "Cynthia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 09 Agustus 2026 pukul 16.17.32 WIB",
+    "live_at_unix": 1786267052,
+    "image_url": "https://cdn.idn.app/livestream/69ad4dbf32c5885d4d3c94c8bc4454b4.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
   }
 ]
