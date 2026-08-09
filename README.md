@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2167 | <img src="https://cdn.idn.app/livestream/734f71706bebc3d39e628addfb430548.webp" width="170"> | Jessi JKT48 | pppppppp | Minggu, 09 Agustus 2026 pukul 14.22.44 WIB |
 | 2166 | <img src="https://cdn.idn.app/livestream/4f37f093c4f0c6fe92cd989a4a465425.webp" width="170"> | Elin JKT48 | Temenin aku makeup | Minggu, 09 Agustus 2026 pukul 11.14.59 WIB |
 | 2165 | <img src="https://cdn.idn.app/livestream/8adfdc7b7f449aa860f46091084b82ff.webp" width="170"> | Lily JKT48 | Hii | Sabtu, 08 Agustus 2026 pukul 23.27.53 WIB |
 | 2164 | <img src="https://cdn.idn.app/livestream/9a83fb670cf6a2618c8b9aae15f9af80.webp" width="170"> | Lia JKT48 | IDNNN | Sabtu, 08 Agustus 2026 pukul 21.59.20 WIB |
