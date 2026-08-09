@@ -1278,5 +1278,35 @@
     "live_at_unix": 1786283630,
     "image_url": "https://cdn.idn.app/livestream/aace50b861b6bc87b49cb985aa466391.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gYN6fQPMCqs0.m3u8"
+  },
+  {
+    "id": 2177,
+    "username": "jkt48_levi",
+    "creator_name": "Levi JKT48",
+    "title": "hai",
+    "live_at": "Minggu, 09 Agustus 2026 pukul 20.56.49 WIB",
+    "live_at_unix": 1786283809,
+    "image_url": "https://cdn.idn.app/livestream/a9f613f31517c593210862c14ac2c180.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 2178,
+    "username": "jkt48_erine",
+    "creator_name": "Erine JKT48",
+    "title": "diroriiiii",
+    "live_at": "Minggu, 09 Agustus 2026 pukul 20.57.11 WIB",
+    "live_at_unix": 1786283831,
+    "image_url": "https://cdn.idn.app/livestream/b26de8cdf8291a0ef3ea0a86fb6f3409.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.0nMPtjEVo1Ds.m3u8"
+  },
+  {
+    "id": 2179,
+    "username": "jkt48_nachia",
+    "creator_name": "Nachia JKT48",
+    "title": "hiiii",
+    "live_at": "Minggu, 09 Agustus 2026 pukul 21.09.52 WIB",
+    "live_at_unix": 1786284592,
+    "image_url": "https://cdn.idn.app/livestream/4ec793bad5ac264363fee414db4c90c0.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8"
   }
 ]

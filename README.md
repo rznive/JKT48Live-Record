@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2179 | <img src="https://cdn.idn.app/livestream/4ec793bad5ac264363fee414db4c90c0.webp" width="170"> | Nachia JKT48 | hiiii | Minggu, 09 Agustus 2026 pukul 21.09.52 WIB |
+| 2178 | <img src="https://cdn.idn.app/livestream/b26de8cdf8291a0ef3ea0a86fb6f3409.webp" width="170"> | Erine JKT48 | diroriiiii | Minggu, 09 Agustus 2026 pukul 20.57.11 WIB |
+| 2177 | <img src="https://cdn.idn.app/livestream/a9f613f31517c593210862c14ac2c180.webp" width="170"> | Levi JKT48 | hai | Minggu, 09 Agustus 2026 pukul 20.56.49 WIB |
 | 2176 | <img src="https://cdn.idn.app/livestream/aace50b861b6bc87b49cb985aa466391.webp" width="170"> | Oline JKT48 | y | Minggu, 09 Agustus 2026 pukul 20.53.50 WIB |
 | 2175 | <img src="https://cdn.idn.app/livestream/f7ff2e301ebde07048b785e4cf3e1048.webp" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Minggu, 09 Agustus 2026 pukul 19.49.40 WIB |
 | 2174 | <img src="https://cdn.idn.app/livestream/d5ccd486ac0ebd6dcbb150f5d72aae1c.webp" width="170"> | Greesel JKT48 | :D | Minggu, 09 Agustus 2026 pukul 19.36.03 WIB |
