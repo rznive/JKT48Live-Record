@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2183 | <img src="https://cdn.idn.app/livestream/5979f92806d03da0863a870b44fbe341.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 09 Agustus 2026 pukul 23.30.28 WIB |
 | 2182 | <img src="https://cdn.idn.app/livestream/55fb92f74d7d2d9a86355ff99e9080c1.webp" width="170"> | Delynn JKT48 | wassup | Minggu, 09 Agustus 2026 pukul 22.28.45 WIB |
 | 2181 | <img src="https://cdn.idn.app/livestream/cb9bea2b879f5700dd355c838f1baa77.webp" width="170"> | Christy JKT48 | mam | Minggu, 09 Agustus 2026 pukul 21.49.17 WIB |
 | 2180 | <img src="https://cdn.idn.app/livestream/8301f044e62ad049636fc52609a01ad7.webp" width="170"> | Kathrina JKT48 | Hihi | Minggu, 09 Agustus 2026 pukul 21.44.21 WIB |
