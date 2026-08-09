@@ -1308,5 +1308,25 @@
     "live_at_unix": 1786284592,
     "image_url": "https://cdn.idn.app/livestream/4ec793bad5ac264363fee414db4c90c0.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8"
+  },
+  {
+    "id": 2180,
+    "username": "jkt48_kathrina",
+    "creator_name": "Kathrina JKT48",
+    "title": "Hihi",
+    "live_at": "Minggu, 09 Agustus 2026 pukul 21.44.21 WIB",
+    "live_at_unix": 1786286661,
+    "image_url": "https://cdn.idn.app/livestream/8301f044e62ad049636fc52609a01ad7.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
+  },
+  {
+    "id": 2181,
+    "username": "jkt48_christy",
+    "creator_name": "Christy JKT48",
+    "title": "mam",
+    "live_at": "Minggu, 09 Agustus 2026 pukul 21.49.17 WIB",
+    "live_at_unix": 1786286957,
+    "image_url": "https://cdn.idn.app/livestream/cb9bea2b879f5700dd355c838f1baa77.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.R4bPsdzRonL3.m3u8"
   }
 ]

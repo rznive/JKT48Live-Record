@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2181 | <img src="https://cdn.idn.app/livestream/cb9bea2b879f5700dd355c838f1baa77.webp" width="170"> | Christy JKT48 | mam | Minggu, 09 Agustus 2026 pukul 21.49.17 WIB |
+| 2180 | <img src="https://cdn.idn.app/livestream/8301f044e62ad049636fc52609a01ad7.webp" width="170"> | Kathrina JKT48 | Hihi | Minggu, 09 Agustus 2026 pukul 21.44.21 WIB |
 | 2179 | <img src="https://cdn.idn.app/livestream/4ec793bad5ac264363fee414db4c90c0.webp" width="170"> | Nachia JKT48 | hiiii | Minggu, 09 Agustus 2026 pukul 21.09.52 WIB |
 | 2178 | <img src="https://cdn.idn.app/livestream/b26de8cdf8291a0ef3ea0a86fb6f3409.webp" width="170"> | Erine JKT48 | diroriiiii | Minggu, 09 Agustus 2026 pukul 20.57.11 WIB |
 | 2177 | <img src="https://cdn.idn.app/livestream/a9f613f31517c593210862c14ac2c180.webp" width="170"> | Levi JKT48 | hai | Minggu, 09 Agustus 2026 pukul 20.56.49 WIB |
