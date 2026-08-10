@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2192 | <img src="https://cdn.idn.app/livestream/3045f974f76cf2be0d6263b7cb587ff2.webp" width="170"> | Delynn JKT48 | its me delynn | Senin, 10 Agustus 2026 pukul 20.48.35 WIB |
+| 2191 | <img src="https://cdn.idn.app/livestream/f9d38b10236724d30a3a7d2a433e6051.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 10 Agustus 2026 pukul 20.37.33 WIB |
+| 2190 | <img src="https://cdn.idn.app/livestream/74db32d4000bbba04b708d1440e2c334.webp" width="170"> | Nala JKT48 | yooo | Senin, 10 Agustus 2026 pukul 20.34.25 WIB |
+| 2189 | <img src="https://cdn.idn.app/livestream/d71105b75a0f54acb752b97220faad45.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 10 Agustus 2026 pukul 20.28.02 WIB |
+| 2188 | <img src="https://cdn.idn.app/livestream/95f08ec513b6df688973f510070b6820.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Senin, 10 Agustus 2026 pukul 19.51.50 WIB |
+| 2187 | <img src="https://cdn.idn.app/livestream/866408491ecf8c64b836914f8b3932b0.webp" width="170"> | Rilly JKT48 | YAURRR | Senin, 10 Agustus 2026 pukul 19.30.24 WIB |
 | 2186 | <img src="https://cdn.idn.app/livestream/b8ae9393530d1a9c4bedc2dcb19ce21c.webp" width="170"> | Jessi JKT48 | 🤓 | Senin, 10 Agustus 2026 pukul 19.08.19 WIB |
 | 2185 | <img src="https://cdn.idn.app/livestream/66f7859bdb6ce111f3f064d05ef0ed89.webp" width="170"> | Lia JKT48 | IDNNN | Senin, 10 Agustus 2026 pukul 18.53.26 WIB |
 | 2184 | <img src="https://cdn.idn.app/livestream/8dd982be269efeb98ee5bce0441669ce.webp" width="170"> | Elin JKT48 | Temenin brewek | Senin, 10 Agustus 2026 pukul 14.35.08 WIB |
