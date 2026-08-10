@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2194 | <img src="https://cdn.idn.app/livestream/71b7a680c75edb45f66adfb03647cb0f.webp" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 10 Agustus 2026 pukul 21.16.39 WIB |
+| 2193 | <img src="https://cdn.idn.app/livestream/68a029a3823146ac7de3109583c4eb3f.webp" width="170"> | Gracie JKT48 | hiii | Senin, 10 Agustus 2026 pukul 21.16.22 WIB |
 | 2192 | <img src="https://cdn.idn.app/livestream/3045f974f76cf2be0d6263b7cb587ff2.webp" width="170"> | Delynn JKT48 | its me delynn | Senin, 10 Agustus 2026 pukul 20.48.35 WIB |
 | 2191 | <img src="https://cdn.idn.app/livestream/f9d38b10236724d30a3a7d2a433e6051.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 10 Agustus 2026 pukul 20.37.33 WIB |
 | 2190 | <img src="https://cdn.idn.app/livestream/74db32d4000bbba04b708d1440e2c334.webp" width="170"> | Nala JKT48 | yooo | Senin, 10 Agustus 2026 pukul 20.34.25 WIB |

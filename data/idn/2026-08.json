@@ -1438,5 +1438,25 @@
     "live_at_unix": 1786369715,
     "image_url": "https://cdn.idn.app/livestream/3045f974f76cf2be0d6263b7cb587ff2.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
+  },
+  {
+    "id": 2193,
+    "username": "jkt48_gracie",
+    "creator_name": "Gracie JKT48",
+    "title": "hiii",
+    "live_at": "Senin, 10 Agustus 2026 pukul 21.16.22 WIB",
+    "live_at_unix": 1786371382,
+    "image_url": "https://cdn.idn.app/livestream/68a029a3823146ac7de3109583c4eb3f.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ztIO0UisaA3P.m3u8"
+  },
+  {
+    "id": 2194,
+    "username": "jkt48_ekin",
+    "creator_name": "Ekin JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 10 Agustus 2026 pukul 21.16.39 WIB",
+    "live_at_unix": 1786371399,
+    "image_url": "https://cdn.idn.app/livestream/71b7a680c75edb45f66adfb03647cb0f.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
   }
 ]
