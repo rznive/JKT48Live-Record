@@ -1348,5 +1348,15 @@
     "live_at_unix": 1786293028,
     "image_url": "https://cdn.idn.app/livestream/5979f92806d03da0863a870b44fbe341.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 2184,
+    "username": "jkt48_elin",
+    "creator_name": "Elin JKT48",
+    "title": "Temenin brewek",
+    "live_at": "Senin, 10 Agustus 2026 pukul 14.35.08 WIB",
+    "live_at_unix": 1786347308,
+    "image_url": "https://cdn.idn.app/livestream/8dd982be269efeb98ee5bce0441669ce.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
   }
 ]
