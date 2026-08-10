@@ -1358,5 +1358,25 @@
     "live_at_unix": 1786347308,
     "image_url": "https://cdn.idn.app/livestream/8dd982be269efeb98ee5bce0441669ce.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
+  },
+  {
+    "id": 2185,
+    "username": "jkt48_lia",
+    "creator_name": "Lia JKT48",
+    "title": "IDNNN",
+    "live_at": "Senin, 10 Agustus 2026 pukul 18.53.26 WIB",
+    "live_at_unix": 1786362806,
+    "image_url": "https://cdn.idn.app/livestream/66f7859bdb6ce111f3f064d05ef0ed89.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 2186,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "🤓",
+    "live_at": "Senin, 10 Agustus 2026 pukul 19.08.19 WIB",
+    "live_at_unix": 1786363699,
+    "image_url": "https://cdn.idn.app/livestream/b8ae9393530d1a9c4bedc2dcb19ce21c.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
   }
 ]

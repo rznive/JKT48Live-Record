@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2186 | <img src="https://cdn.idn.app/livestream/b8ae9393530d1a9c4bedc2dcb19ce21c.webp" width="170"> | Jessi JKT48 | 🤓 | Senin, 10 Agustus 2026 pukul 19.08.19 WIB |
+| 2185 | <img src="https://cdn.idn.app/livestream/66f7859bdb6ce111f3f064d05ef0ed89.webp" width="170"> | Lia JKT48 | IDNNN | Senin, 10 Agustus 2026 pukul 18.53.26 WIB |
 | 2184 | <img src="https://cdn.idn.app/livestream/8dd982be269efeb98ee5bce0441669ce.webp" width="170"> | Elin JKT48 | Temenin brewek | Senin, 10 Agustus 2026 pukul 14.35.08 WIB |
 | 2183 | <img src="https://cdn.idn.app/livestream/5979f92806d03da0863a870b44fbe341.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 09 Agustus 2026 pukul 23.30.28 WIB |
 | 2182 | <img src="https://cdn.idn.app/livestream/55fb92f74d7d2d9a86355ff99e9080c1.webp" width="170"> | Delynn JKT48 | wassup | Minggu, 09 Agustus 2026 pukul 22.28.45 WIB |
