@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2203 | <img src="https://cdn.idn.app/livestream/815fc2876536ecd27a5d7decc3f3fef7.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 11 Agustus 2026 pukul 12.43.08 WIB |
 | 2201 | <img src="https://cdn.idn.app/livestream/3edab63492b54e114304f96af5f68533.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Selasa, 11 Agustus 2026 pukul 11.45.56 WIB |
 | 2200 | <img src="https://cdn.idn.app/livestream/89450e3782599aaebd03859e7adf8a6f.webp" width="170"> | Daisy JKT48 | Haiii | Selasa, 11 Agustus 2026 pukul 11.41.22 WIB |
 | 2202 | <img src="https://cdn.idn.app/livestream/967ba13609de12d1886e2a7e60ab261b.webp" width="170"> | JKT48 | TEMEN MAIN OPERASI 17-AN EP.2!!!! | Selasa, 11 Agustus 2026 pukul 11.16.10 WIB |
