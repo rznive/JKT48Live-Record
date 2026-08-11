@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2201 | <img src="https://cdn.idn.app/livestream/3edab63492b54e114304f96af5f68533.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Selasa, 11 Agustus 2026 pukul 11.45.56 WIB |
+| 2200 | <img src="https://cdn.idn.app/livestream/89450e3782599aaebd03859e7adf8a6f.webp" width="170"> | Daisy JKT48 | Haiii | Selasa, 11 Agustus 2026 pukul 11.41.22 WIB |
+| 2202 | <img src="https://cdn.idn.app/livestream/967ba13609de12d1886e2a7e60ab261b.webp" width="170"> | JKT48 | TEMEN MAIN OPERASI 17-AN EP.2!!!! | Selasa, 11 Agustus 2026 pukul 11.16.10 WIB |
 | 2199 | <img src="https://cdn.idn.app/livestream/4e54b0ba2bb32d31e635aca53c4a026f.webp" width="170"> | Christy JKT48 | mam | Senin, 10 Agustus 2026 pukul 22.05.29 WIB |
 | 2198 | <img src="https://cdn.idn.app/livestream/0a080dbc7477cf0924e6cfc08dfca63f.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 10 Agustus 2026 pukul 22.02.59 WIB |
 | 2197 | <img src="https://cdn.idn.app/livestream/d2f6a58d08ff458f30b8e13fe0ce01a5.webp" width="170"> | Kathrina JKT48 | Lol | Senin, 10 Agustus 2026 pukul 22.00.49 WIB |
