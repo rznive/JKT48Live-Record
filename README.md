@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2220 | <img src="https://cdn.idn.app/livestream/badcf4eb30c7544c8830b6eaf0c736a4.webp" width="170"> | Ekin JKT48 | hiiii | Selasa, 11 Agustus 2026 pukul 23.14.00 WIB |
 | 2219 | <img src="https://cdn.idn.app/livestream/16b07a636a8b30d1c406dadaf6b64bfb.webp" width="170"> | Nayla JKT48 | こん | Selasa, 11 Agustus 2026 pukul 22.12.19 WIB |
 | 2218 | <img src="https://cdn.idn.app/livestream/b8a4b812fd7de46477518621323f28c2.webp" width="170"> | Giaa JKT48 | oi | Selasa, 11 Agustus 2026 pukul 21.34.51 WIB |
 | 2217 | <img src="https://cdn.idn.app/livestream/259d63c80a30cc2fbc8f62a12f9b5200.webp" width="170"> | Lia JKT48 | IDNNN | Selasa, 11 Agustus 2026 pukul 21.33.18 WIB |
