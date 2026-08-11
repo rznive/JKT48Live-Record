@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2221 | <img src="https://cdn.idn.app/livestream/503a67ba1b146d6ad73a2b97cada0f85.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Selasa, 11 Agustus 2026 pukul 23.45.56 WIB |
 | 2220 | <img src="https://cdn.idn.app/livestream/badcf4eb30c7544c8830b6eaf0c736a4.webp" width="170"> | Ekin JKT48 | hiiii | Selasa, 11 Agustus 2026 pukul 23.14.00 WIB |
 | 2219 | <img src="https://cdn.idn.app/livestream/16b07a636a8b30d1c406dadaf6b64bfb.webp" width="170"> | Nayla JKT48 | こん | Selasa, 11 Agustus 2026 pukul 22.12.19 WIB |
 | 2218 | <img src="https://cdn.idn.app/livestream/b8a4b812fd7de46477518621323f28c2.webp" width="170"> | Giaa JKT48 | oi | Selasa, 11 Agustus 2026 pukul 21.34.51 WIB |
