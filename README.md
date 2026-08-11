@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2218 | <img src="https://cdn.idn.app/livestream/b8a4b812fd7de46477518621323f28c2.webp" width="170"> | Giaa JKT48 | oi | Selasa, 11 Agustus 2026 pukul 21.34.51 WIB |
+| 2217 | <img src="https://cdn.idn.app/livestream/259d63c80a30cc2fbc8f62a12f9b5200.webp" width="170"> | Lia JKT48 | IDNNN | Selasa, 11 Agustus 2026 pukul 21.33.18 WIB |
+| 2216 | <img src="https://cdn.idn.app/livestream/1f98a85893f86e86d267ab257b8cbaf7.webp" width="170"> | Gracie JKT48 | hiii | Selasa, 11 Agustus 2026 pukul 21.19.04 WIB |
+| 2215 | <img src="https://cdn.idn.app/livestream/24d6a7752bbd0d3e8a86e9ca8876c683.webp" width="170"> | Fritzy JKT48 | kngn ga | Selasa, 11 Agustus 2026 pukul 21.09.19 WIB |
 | 2214 | <img src="https://cdn.idn.app/livestream/b881f29c4d675f3ceb599dcdf3e8d07e.webp" width="170"> | Ribka JKT48 | p | Selasa, 11 Agustus 2026 pukul 20.25.51 WIB |
 | 2213 | <img src="https://cdn.idn.app/livestream/7a4619e566b03f5e654debd2fe4ccf6d.webp" width="170"> | Nala JKT48 | yooo | Selasa, 11 Agustus 2026 pukul 20.23.27 WIB |
 | 2212 | <img src="https://cdn.idn.app/livestream/ac2b261cb0284ef7fc6a93059a07953c.webp" width="170"> | Jessi JKT48 | p | Selasa, 11 Agustus 2026 pukul 20.23.19 WIB |
