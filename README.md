@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2210 | <img src="https://cdn.idn.app/livestream/68933c383b6bcc78603e34595e0b7e94.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Selasa, 11 Agustus 2026 pukul 16.46.30 WIB |
+| 2209 | <img src="https://cdn.idn.app/livestream/f9a81c0e73cccd59253579b3bbdfb503.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 11 Agustus 2026 pukul 16.45.46 WIB |
+| 2208 | <img src="https://cdn.idn.app/livestream/0ad20124d51c548724ae040227e78aa3.webp" width="170"> | Aralie JKT48 | hi | Selasa, 11 Agustus 2026 pukul 16.39.30 WIB |
+| 2207 | <img src="https://cdn.idn.app/livestream/9da0e1a9064f84a6adba6c445a308c87.webp" width="170"> | Delynn JKT48 | halo | Selasa, 11 Agustus 2026 pukul 16.39.27 WIB |
 | 2206 | <img src="https://cdn.idn.app/livestream/281e22424ca711982a90b84cc4c7fdc4.webp" width="170"> | Gita JKT48 | Gits | Selasa, 11 Agustus 2026 pukul 16.07.13 WIB |
 | 2205 | <img src="https://cdn.idn.app/livestream/90b98625ba02158396daad015c855f61.webp" width="170"> | JKT48 | TEMEN MAIN OPERASI 17-AN EP.2!!!! | Selasa, 11 Agustus 2026 pukul 15.34.07 WIB |
 | 2204 | <img src="https://cdn.idn.app/livestream/7235a7710b3a790c14d3aeaf22763fd8.webp" width="170"> | Oniel JKT48 | saya kembali | Selasa, 11 Agustus 2026 pukul 13.28.01 WIB |
