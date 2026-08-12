@@ -1798,5 +1798,15 @@
     "live_at_unix": 1786531264,
     "image_url": "https://cdn.idn.app/livestream/f5f6a53ffaf674875dee717602c4e594.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 2229,
+    "username": "jkt48_greesel",
+    "creator_name": "Greesel JKT48",
+    "title": ":D",
+    "live_at": "Rabu, 12 Agustus 2026 pukul 18.13.57 WIB",
+    "live_at_unix": 1786533237,
+    "image_url": "https://cdn.idn.app/livestream/96cb0e250c432b2522d3934bfc5586fc.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.z3nXSqOvE9Fs.m3u8"
   }
 ]

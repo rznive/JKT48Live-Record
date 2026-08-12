@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2229 | <img src="https://cdn.idn.app/livestream/96cb0e250c432b2522d3934bfc5586fc.webp" width="170"> | Greesel JKT48 | :D | Rabu, 12 Agustus 2026 pukul 18.13.57 WIB |
 | 2228 | <img src="https://cdn.idn.app/livestream/f5f6a53ffaf674875dee717602c4e594.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 12 Agustus 2026 pukul 17.41.04 WIB |
 | 2227 | <img src="https://cdn.idn.app/livestream/f30f426f6ffbc6e4c0f85228453967c2.webp" width="170"> | Greesel JKT48 | :D | Rabu, 12 Agustus 2026 pukul 17.38.03 WIB |
 | 2226 | <img src="https://cdn.idn.app/livestream/83512678c1cfe9902c46b41ba5b8f30f.webp" width="170"> | Elin JKT48 | Haii | Rabu, 12 Agustus 2026 pukul 17.37.20 WIB |
