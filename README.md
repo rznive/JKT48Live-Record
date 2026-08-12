@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2232 | <img src="https://cdn.idn.app/livestream/854f66bed68301009338226979928ba3.webp" width="170"> | Intan JKT48 | p | Rabu, 12 Agustus 2026 pukul 19.49.36 WIB |
+| 2231 | <img src="https://cdn.idn.app/livestream/dc27ff5c08cb59b1176a9b2fe0797076.webp" width="170"> | Muthe JKT48 | Hi | Rabu, 12 Agustus 2026 pukul 19.36.36 WIB |
 | 2230 | <img src="https://cdn.idn.app/livestream/2b03e0b619cd6961c2fa6d18b0b27320.webp" width="170"> | Nachia JKT48 | helo | Rabu, 12 Agustus 2026 pukul 18.52.01 WIB |
 | 2229 | <img src="https://cdn.idn.app/livestream/96cb0e250c432b2522d3934bfc5586fc.webp" width="170"> | Greesel JKT48 | :D | Rabu, 12 Agustus 2026 pukul 18.13.57 WIB |
 | 2228 | <img src="https://cdn.idn.app/livestream/f5f6a53ffaf674875dee717602c4e594.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 12 Agustus 2026 pukul 17.41.04 WIB |
