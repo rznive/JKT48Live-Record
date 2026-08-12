@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2228 | <img src="https://cdn.idn.app/livestream/f5f6a53ffaf674875dee717602c4e594.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 12 Agustus 2026 pukul 17.41.04 WIB |
+| 2227 | <img src="https://cdn.idn.app/livestream/f30f426f6ffbc6e4c0f85228453967c2.webp" width="170"> | Greesel JKT48 | :D | Rabu, 12 Agustus 2026 pukul 17.38.03 WIB |
+| 2226 | <img src="https://cdn.idn.app/livestream/83512678c1cfe9902c46b41ba5b8f30f.webp" width="170"> | Elin JKT48 | Haii | Rabu, 12 Agustus 2026 pukul 17.37.20 WIB |
+| 2225 | <img src="https://cdn.idn.app/livestream/437f7056163837475ea07aba44445a72.webp" width="170"> | Anindya JKT48 | hilow | Rabu, 12 Agustus 2026 pukul 17.36.52 WIB |
+| 2224 | <img src="https://cdn.idn.app/livestream/74a8171c10b23eac74fc8252ae33d8dc.webp" width="170"> | Daisy JKT48 | haiiiiii | Rabu, 12 Agustus 2026 pukul 17.35.54 WIB |
+| 2223 | <img src="https://cdn.idn.app/livestream/d5a21cd4ed9401175de86c9ea53be765.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Rabu, 12 Agustus 2026 pukul 17.35.34 WIB |
 | 2222 | <img src="https://cdn.idn.app/livestream/8b407560c9e6fe5c51230ad1d4930cba.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Rabu, 12 Agustus 2026 pukul 16.33.21 WIB |
 | 2221 | <img src="https://cdn.idn.app/livestream/503a67ba1b146d6ad73a2b97cada0f85.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Selasa, 11 Agustus 2026 pukul 23.45.56 WIB |
 | 2220 | <img src="https://cdn.idn.app/livestream/badcf4eb30c7544c8830b6eaf0c736a4.webp" width="170"> | Ekin JKT48 | hiiii | Selasa, 11 Agustus 2026 pukul 23.14.00 WIB |
