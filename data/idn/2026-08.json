@@ -1808,5 +1808,15 @@
     "live_at_unix": 1786533237,
     "image_url": "https://cdn.idn.app/livestream/96cb0e250c432b2522d3934bfc5586fc.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.z3nXSqOvE9Fs.m3u8"
+  },
+  {
+    "id": 2230,
+    "username": "jkt48_nachia",
+    "creator_name": "Nachia JKT48",
+    "title": "helo",
+    "live_at": "Rabu, 12 Agustus 2026 pukul 18.52.01 WIB",
+    "live_at_unix": 1786535521,
+    "image_url": "https://cdn.idn.app/livestream/2b03e0b619cd6961c2fa6d18b0b27320.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8"
   }
 ]
