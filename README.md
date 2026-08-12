@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2236 | <img src="https://cdn.idn.app/livestream/961811fe79a191027b8ffb7e1d78039b.webp" width="170"> | Gracie JKT48 | hiii | Rabu, 12 Agustus 2026 pukul 21.30.04 WIB |
+| 2235 | <img src="https://cdn.idn.app/livestream/37a07803fb50552fa3bd94407f25dc6a.webp" width="170"> | Eli JKT48 | BEBAS | Rabu, 12 Agustus 2026 pukul 21.27.23 WIB |
+| 2234 | <img src="https://cdn.idn.app/livestream/35dbff83e93f8089758c6562b0de2b52.webp" width="170"> | Levi JKT48 | hai | Rabu, 12 Agustus 2026 pukul 21.22.51 WIB |
+| 2233 | <img src="https://cdn.idn.app/livestream/2a3a86432bffca675c7e1b6a431d6b91.webp" width="170"> | Rilly JKT48 | YAURRR | Rabu, 12 Agustus 2026 pukul 20.40.17 WIB |
 | 2232 | <img src="https://cdn.idn.app/livestream/854f66bed68301009338226979928ba3.webp" width="170"> | Intan JKT48 | p | Rabu, 12 Agustus 2026 pukul 19.49.36 WIB |
 | 2231 | <img src="https://cdn.idn.app/livestream/dc27ff5c08cb59b1176a9b2fe0797076.webp" width="170"> | Muthe JKT48 | Hi | Rabu, 12 Agustus 2026 pukul 19.36.36 WIB |
 | 2230 | <img src="https://cdn.idn.app/livestream/2b03e0b619cd6961c2fa6d18b0b27320.webp" width="170"> | Nachia JKT48 | helo | Rabu, 12 Agustus 2026 pukul 18.52.01 WIB |
