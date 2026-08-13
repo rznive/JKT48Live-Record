@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2252 | <img src="https://cdn.idn.app/livestream/af5c9757e2e5c1ef426c733215dff4ce.webp" width="170"> | Trisha JKT48 | haai | Kamis, 13 Agustus 2026 pukul 21.29.20 WIB |
+| 2251 | <img src="https://cdn.idn.app/livestream/10d9cae79fa77cd4b258c6b14876ffd6.webp" width="170"> | Gita JKT48 | Gits | Kamis, 13 Agustus 2026 pukul 21.14.36 WIB |
+| 2250 | <img src="https://cdn.idn.app/livestream/99c93c4d7007389c3748258e378fcf99.webp" width="170"> | Daisy JKT48 | Hai | Kamis, 13 Agustus 2026 pukul 21.11.15 WIB |
 | 2249 | <img src="https://cdn.idn.app/livestream/7336f96326c0e19af63da6d9e3c6278f.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Kamis, 13 Agustus 2026 pukul 21.01.50 WIB |
 | 2248 | <img src="https://cdn.idn.app/livestream/7f83a6549a4d8949c1e3848b88732fc0.webp" width="170"> | Muthe JKT48 | Hi | Kamis, 13 Agustus 2026 pukul 20.35.56 WIB |
 | 2247 | <img src="https://cdn.idn.app/livestream/a1681b917f398b553937a459e291c1cc.webp" width="170"> | Lia JKT48 | IDNNN | Kamis, 13 Agustus 2026 pukul 20.29.56 WIB |

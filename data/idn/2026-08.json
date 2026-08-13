@@ -2008,5 +2008,35 @@
     "live_at_unix": 1786629710,
     "image_url": "https://cdn.idn.app/livestream/7336f96326c0e19af63da6d9e3c6278f.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
+  },
+  {
+    "id": 2250,
+    "username": "jkt48_daisy",
+    "creator_name": "Daisy JKT48",
+    "title": "Hai",
+    "live_at": "Kamis, 13 Agustus 2026 pukul 21.11.15 WIB",
+    "live_at_unix": 1786630275,
+    "image_url": "https://cdn.idn.app/livestream/99c93c4d7007389c3748258e378fcf99.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
+  },
+  {
+    "id": 2251,
+    "username": "jkt48_gita",
+    "creator_name": "Gita JKT48",
+    "title": "Gits",
+    "live_at": "Kamis, 13 Agustus 2026 pukul 21.14.36 WIB",
+    "live_at_unix": 1786630476,
+    "image_url": "https://cdn.idn.app/livestream/10d9cae79fa77cd4b258c6b14876ffd6.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.k4fAFOYXENlG.m3u8"
+  },
+  {
+    "id": 2252,
+    "username": "jkt48_trisha",
+    "creator_name": "Trisha JKT48",
+    "title": "haai",
+    "live_at": "Kamis, 13 Agustus 2026 pukul 21.29.20 WIB",
+    "live_at_unix": 1786631360,
+    "image_url": "https://cdn.idn.app/livestream/af5c9757e2e5c1ef426c733215dff4ce.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GwR4g1NQnJzJ.m3u8"
   }
 ]
