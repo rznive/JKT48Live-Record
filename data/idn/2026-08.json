@@ -1878,5 +1878,35 @@
     "live_at_unix": 1786545004,
     "image_url": "https://cdn.idn.app/livestream/961811fe79a191027b8ffb7e1d78039b.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ztIO0UisaA3P.m3u8"
+  },
+  {
+    "id": 2237,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "saya kembali",
+    "live_at": "Kamis, 13 Agustus 2026 pukul 14.29.58 WIB",
+    "live_at_unix": 1786606198,
+    "image_url": "https://cdn.idn.app/livestream/4dbca20967f6dedf5d68152d6f88775e.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 2238,
+    "username": "jkt48_cynthia",
+    "creator_name": "Cynthia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 13 Agustus 2026 pukul 14.38.55 WIB",
+    "live_at_unix": 1786606735,
+    "image_url": "https://cdn.idn.app/livestream/9dc1555030f77e71c403bd2388b761ed.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 2239,
+    "username": "jkt48_lyn",
+    "creator_name": "Lyn JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 13 Agustus 2026 pukul 14.52.14 WIB",
+    "live_at_unix": 1786607534,
+    "image_url": "https://cdn.idn.app/livestream/c6afbb8fcb87e39440f581affd541210.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8"
   }
 ]

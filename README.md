@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2239 | <img src="https://cdn.idn.app/livestream/c6afbb8fcb87e39440f581affd541210.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 13 Agustus 2026 pukul 14.52.14 WIB |
+| 2238 | <img src="https://cdn.idn.app/livestream/9dc1555030f77e71c403bd2388b761ed.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 13 Agustus 2026 pukul 14.38.55 WIB |
+| 2237 | <img src="https://cdn.idn.app/livestream/4dbca20967f6dedf5d68152d6f88775e.webp" width="170"> | Oniel JKT48 | saya kembali | Kamis, 13 Agustus 2026 pukul 14.29.58 WIB |
 | 2236 | <img src="https://cdn.idn.app/livestream/961811fe79a191027b8ffb7e1d78039b.webp" width="170"> | Gracie JKT48 | hiii | Rabu, 12 Agustus 2026 pukul 21.30.04 WIB |
 | 2235 | <img src="https://cdn.idn.app/livestream/37a07803fb50552fa3bd94407f25dc6a.webp" width="170"> | Eli JKT48 | BEBAS | Rabu, 12 Agustus 2026 pukul 21.27.23 WIB |
 | 2234 | <img src="https://cdn.idn.app/livestream/35dbff83e93f8089758c6562b0de2b52.webp" width="170"> | Levi JKT48 | hai | Rabu, 12 Agustus 2026 pukul 21.22.51 WIB |
