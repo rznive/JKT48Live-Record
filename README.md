@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2249 | <img src="https://cdn.idn.app/livestream/7336f96326c0e19af63da6d9e3c6278f.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Kamis, 13 Agustus 2026 pukul 21.01.50 WIB |
+| 2248 | <img src="https://cdn.idn.app/livestream/7f83a6549a4d8949c1e3848b88732fc0.webp" width="170"> | Muthe JKT48 | Hi | Kamis, 13 Agustus 2026 pukul 20.35.56 WIB |
+| 2247 | <img src="https://cdn.idn.app/livestream/a1681b917f398b553937a459e291c1cc.webp" width="170"> | Lia JKT48 | IDNNN | Kamis, 13 Agustus 2026 pukul 20.29.56 WIB |
+| 2246 | <img src="https://cdn.idn.app/livestream/4cf2b77b9cabd1d9a7e2be999527035c.webp" width="170"> | Levi JKT48 | hai | Kamis, 13 Agustus 2026 pukul 20.06.12 WIB |
+| 2245 | <img src="https://cdn.idn.app/livestream/2c1029f842410fb1470f101b8c068521.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Kamis, 13 Agustus 2026 pukul 19.52.39 WIB |
 | 2244 | <img src="https://cdn.idn.app/livestream/5982446f061b9f25e3689f41cf901dd3.webp" width="170"> | Oline JKT48 | y | Kamis, 13 Agustus 2026 pukul 19.34.25 WIB |
 | 2243 | <img src="https://cdn.idn.app/livestream/b4edeefaa00e7d6a2b824a7ef9780a99.webp" width="170"> | Ribka JKT48 | Hi | Kamis, 13 Agustus 2026 pukul 19.20.10 WIB |
 | 2242 | <img src="https://cdn.idn.app/livestream/1ff2988554eb4957c7967b2bd93e92db.webp" width="170"> | Eli JKT48 | BEBAS | Kamis, 13 Agustus 2026 pukul 19.09.59 WIB |
