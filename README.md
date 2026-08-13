@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2244 | <img src="https://cdn.idn.app/livestream/5982446f061b9f25e3689f41cf901dd3.webp" width="170"> | Oline JKT48 | y | Kamis, 13 Agustus 2026 pukul 19.34.25 WIB |
+| 2243 | <img src="https://cdn.idn.app/livestream/b4edeefaa00e7d6a2b824a7ef9780a99.webp" width="170"> | Ribka JKT48 | Hi | Kamis, 13 Agustus 2026 pukul 19.20.10 WIB |
+| 2242 | <img src="https://cdn.idn.app/livestream/1ff2988554eb4957c7967b2bd93e92db.webp" width="170"> | Eli JKT48 | BEBAS | Kamis, 13 Agustus 2026 pukul 19.09.59 WIB |
+| 2241 | <img src="https://cdn.idn.app/livestream/acdba24d4f5c86ad0f8a26aeb2d4e8e0.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Kamis, 13 Agustus 2026 pukul 18.58.56 WIB |
 | 2240 | <img src="https://cdn.idn.app/livestream/74549c438bc3b211c1fa8726cb97b0c3.webp" width="170"> | Christy JKT48 | woo | Kamis, 13 Agustus 2026 pukul 18.40.53 WIB |
 | 2239 | <img src="https://cdn.idn.app/livestream/c6afbb8fcb87e39440f581affd541210.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 13 Agustus 2026 pukul 14.52.14 WIB |
 | 2238 | <img src="https://cdn.idn.app/livestream/9dc1555030f77e71c403bd2388b761ed.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 13 Agustus 2026 pukul 14.38.55 WIB |
