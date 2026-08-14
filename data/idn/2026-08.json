@@ -2088,5 +2088,25 @@
     "live_at_unix": 1786715317,
     "image_url": "https://cdn.idn.app/livestream/66d5e97822a650be840bef72f7cda55a.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
+  },
+  {
+    "id": 2258,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "hewo",
+    "live_at": "Jumat, 14 Agustus 2026 pukul 21.09.38 WIB",
+    "live_at_unix": 1786716578,
+    "image_url": "https://cdn.idn.app/livestream/d6505d4a0f1e4a385991d5d77f044b1e.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 2259,
+    "username": "jkt48_gracie",
+    "creator_name": "Gracie JKT48",
+    "title": "hiii",
+    "live_at": "Jumat, 14 Agustus 2026 pukul 21.16.20 WIB",
+    "live_at_unix": 1786716980,
+    "image_url": "https://cdn.idn.app/livestream/f4f8b1206e8242e61324c6c9310175ab.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ztIO0UisaA3P.m3u8"
   }
 ]

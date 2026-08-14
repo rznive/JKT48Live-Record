@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2259 | <img src="https://cdn.idn.app/livestream/f4f8b1206e8242e61324c6c9310175ab.webp" width="170"> | Gracie JKT48 | hiii | Jumat, 14 Agustus 2026 pukul 21.16.20 WIB |
+| 2258 | <img src="https://cdn.idn.app/livestream/d6505d4a0f1e4a385991d5d77f044b1e.webp" width="170"> | Jessi JKT48 | hewo | Jumat, 14 Agustus 2026 pukul 21.09.38 WIB |
 | 2257 | <img src="https://cdn.idn.app/livestream/66d5e97822a650be840bef72f7cda55a.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Jumat, 14 Agustus 2026 pukul 20.48.37 WIB |
 | 2256 | <img src="https://cdn.idn.app/livestream/08fed2915fd8b7f4f4cd35d5add12a53.webp" width="170"> | Oniel JKT48 | saya kembali | Jumat, 14 Agustus 2026 pukul 20.22.50 WIB |
 | 2255 | <img src="https://cdn.idn.app/livestream/2753d6b3aa6700b7d56f792d46c1b7d3.webp" width="170"> | Rilly JKT48 | YAURRR | Jumat, 14 Agustus 2026 pukul 20.11.35 WIB |
