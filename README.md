@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2272 | <img src="https://cdn.idn.app/livestream/ad4ec109a61e1f8ed59c3064cff64b39.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Jumat, 14 Agustus 2026 pukul 23.07.13 WIB |
+| 2271 | <img src="https://cdn.idn.app/livestream/43f978a2d8d3e726fc8983a3188c3c18.webp" width="170"> | Ekin JKT48 | hiiii | Jumat, 14 Agustus 2026 pukul 23.06.40 WIB |
+| 2270 | <img src="https://cdn.idn.app/livestream/534bcf6d849340cebb97cfec74d1d822.webp" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Jumat, 14 Agustus 2026 pukul 22.57.48 WIB |
+| 2269 | <img src="https://cdn.idn.app/livestream/fdc9b1b6a7ff04bd0908a46e2cca8518.webp" width="170"> | Eli JKT48 | BEBAS | Jumat, 14 Agustus 2026 pukul 22.44.07 WIB |
+| 2268 | <img src="https://cdn.idn.app/livestream/0764c47d038c1ba14910c4b3ace3cc01.webp" width="170"> | Levi JKT48 | hai | Jumat, 14 Agustus 2026 pukul 22.39.08 WIB |
 | 2267 | <img src="https://cdn.idn.app/livestream/0286492dc2420fa3aaa2894c0804a37b.webp" width="170"> | Marsha JKT48 | Plisss | Jumat, 14 Agustus 2026 pukul 22.06.47 WIB |
 | 2266 | <img src="https://cdn.idn.app/livestream/ea25e07ade714f6540dabe48e8144f49.webp" width="170"> | Delynn JKT48 | hi | Jumat, 14 Agustus 2026 pukul 22.06.35 WIB |
 | 2265 | <img src="https://cdn.idn.app/livestream/9f14e87264281f2483cb070061c1f288.webp" width="170"> | Nachia JKT48 | helo | Jumat, 14 Agustus 2026 pukul 22.03.44 WIB |
