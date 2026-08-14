@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2274 | <img src="https://cdn.idn.app/livestream/878801af801442ee7e57877b4d8d5190.webp" width="170"> | Lana JKT48 | Review gifteu yaur | Jumat, 14 Agustus 2026 pukul 23.50.07 WIB |
+| 2273 | <img src="https://cdn.idn.app/livestream/fffb3a5543018b35a17477bd238540b8.webp" width="170"> | Nala JKT48 | yooo | Jumat, 14 Agustus 2026 pukul 23.50.01 WIB |
 | 2272 | <img src="https://cdn.idn.app/livestream/ad4ec109a61e1f8ed59c3064cff64b39.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Jumat, 14 Agustus 2026 pukul 23.07.13 WIB |
 | 2271 | <img src="https://cdn.idn.app/livestream/43f978a2d8d3e726fc8983a3188c3c18.webp" width="170"> | Ekin JKT48 | hiiii | Jumat, 14 Agustus 2026 pukul 23.06.40 WIB |
 | 2270 | <img src="https://cdn.idn.app/livestream/534bcf6d849340cebb97cfec74d1d822.webp" width="170"> | Cathy JKT48 | Ayo ngobrol bareng! | Jumat, 14 Agustus 2026 pukul 22.57.48 WIB |
