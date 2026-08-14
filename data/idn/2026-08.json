@@ -2048,5 +2048,45 @@
     "live_at_unix": 1786686631,
     "image_url": "https://cdn.idn.app/livestream/28bc24df3c02d6db6876b25e8e046cf8.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
+  },
+  {
+    "id": 2254,
+    "username": "jkt48_auwia",
+    "creator_name": "Auwia JKT48",
+    "title": "Temenin jamming",
+    "live_at": "Jumat, 14 Agustus 2026 pukul 20.03.47 WIB",
+    "live_at_unix": 1786712627,
+    "image_url": "https://cdn.idn.app/livestream/4788eaf98525ccd5177978bd80d2ab59.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8"
+  },
+  {
+    "id": 2255,
+    "username": "jkt48_rilly",
+    "creator_name": "Rilly JKT48",
+    "title": "YAURRR",
+    "live_at": "Jumat, 14 Agustus 2026 pukul 20.11.35 WIB",
+    "live_at_unix": 1786713095,
+    "image_url": "https://cdn.idn.app/livestream/2753d6b3aa6700b7d56f792d46c1b7d3.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 2256,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "saya kembali",
+    "live_at": "Jumat, 14 Agustus 2026 pukul 20.22.50 WIB",
+    "live_at_unix": 1786713770,
+    "image_url": "https://cdn.idn.app/livestream/08fed2915fd8b7f4f4cd35d5add12a53.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 2257,
+    "username": "jkt48_danella",
+    "creator_name": "Danella JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 14 Agustus 2026 pukul 20.48.37 WIB",
+    "live_at_unix": 1786715317,
+    "image_url": "https://cdn.idn.app/livestream/66d5e97822a650be840bef72f7cda55a.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
   }
 ]

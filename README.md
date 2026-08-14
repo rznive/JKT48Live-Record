@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2257 | <img src="https://cdn.idn.app/livestream/66d5e97822a650be840bef72f7cda55a.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Jumat, 14 Agustus 2026 pukul 20.48.37 WIB |
+| 2256 | <img src="https://cdn.idn.app/livestream/08fed2915fd8b7f4f4cd35d5add12a53.webp" width="170"> | Oniel JKT48 | saya kembali | Jumat, 14 Agustus 2026 pukul 20.22.50 WIB |
+| 2255 | <img src="https://cdn.idn.app/livestream/2753d6b3aa6700b7d56f792d46c1b7d3.webp" width="170"> | Rilly JKT48 | YAURRR | Jumat, 14 Agustus 2026 pukul 20.11.35 WIB |
+| 2254 | <img src="https://cdn.idn.app/livestream/4788eaf98525ccd5177978bd80d2ab59.webp" width="170"> | Auwia JKT48 | Temenin jamming | Jumat, 14 Agustus 2026 pukul 20.03.47 WIB |
 | 2253 | <img src="https://cdn.idn.app/livestream/28bc24df3c02d6db6876b25e8e046cf8.webp" width="170"> | Elin JKT48 | Temenin makeup | Jumat, 14 Agustus 2026 pukul 12.50.31 WIB |
 | 2252 | <img src="https://cdn.idn.app/livestream/af5c9757e2e5c1ef426c733215dff4ce.webp" width="170"> | Trisha JKT48 | haai | Kamis, 13 Agustus 2026 pukul 21.29.20 WIB |
 | 2251 | <img src="https://cdn.idn.app/livestream/10d9cae79fa77cd4b258c6b14876ffd6.webp" width="170"> | Gita JKT48 | Gits | Kamis, 13 Agustus 2026 pukul 21.14.36 WIB |
