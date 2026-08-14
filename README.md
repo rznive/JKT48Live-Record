@@ -2,6 +2,14 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2267 | <img src="https://cdn.idn.app/livestream/0286492dc2420fa3aaa2894c0804a37b.webp" width="170"> | Marsha JKT48 | Plisss | Jumat, 14 Agustus 2026 pukul 22.06.47 WIB |
+| 2266 | <img src="https://cdn.idn.app/livestream/ea25e07ade714f6540dabe48e8144f49.webp" width="170"> | Delynn JKT48 | hi | Jumat, 14 Agustus 2026 pukul 22.06.35 WIB |
+| 2265 | <img src="https://cdn.idn.app/livestream/9f14e87264281f2483cb070061c1f288.webp" width="170"> | Nachia JKT48 | helo | Jumat, 14 Agustus 2026 pukul 22.03.44 WIB |
+| 2264 | <img src="https://cdn.idn.app/livestream/1e0c833c974166899e524aa762fabe24.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Jumat, 14 Agustus 2026 pukul 22.03.43 WIB |
+| 2263 | <img src="https://cdn.idn.app/livestream/e25b1f4cc26f9b3116bdd88d4464bb74.webp" width="170"> | Oline JKT48 | y | Jumat, 14 Agustus 2026 pukul 22.03.01 WIB |
+| 2262 | <img src="https://cdn.idn.app/livestream/c2a902c36ef007eb6de08badee8a363e.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Jumat, 14 Agustus 2026 pukul 22.02.47 WIB |
+| 2261 | <img src="https://cdn.idn.app/livestream/28c9ce628825f7cf39104e336490aa4d.webp" width="170"> | Greesel JKT48 | :D | Jumat, 14 Agustus 2026 pukul 21.59.01 WIB |
+| 2260 | <img src="https://cdn.idn.app/livestream/5d3bcb994ea9f0c1dad90fc71900bd21.webp" width="170"> | Gita JKT48 | Gits | Jumat, 14 Agustus 2026 pukul 21.57.50 WIB |
 | 2259 | <img src="https://cdn.idn.app/livestream/f4f8b1206e8242e61324c6c9310175ab.webp" width="170"> | Gracie JKT48 | hiii | Jumat, 14 Agustus 2026 pukul 21.16.20 WIB |
 | 2258 | <img src="https://cdn.idn.app/livestream/d6505d4a0f1e4a385991d5d77f044b1e.webp" width="170"> | Jessi JKT48 | hewo | Jumat, 14 Agustus 2026 pukul 21.09.38 WIB |
 | 2257 | <img src="https://cdn.idn.app/livestream/66d5e97822a650be840bef72f7cda55a.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Jumat, 14 Agustus 2026 pukul 20.48.37 WIB |
