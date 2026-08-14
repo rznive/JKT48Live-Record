@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2253 | <img src="https://cdn.idn.app/livestream/28bc24df3c02d6db6876b25e8e046cf8.webp" width="170"> | Elin JKT48 | Temenin makeup | Jumat, 14 Agustus 2026 pukul 12.50.31 WIB |
 | 2252 | <img src="https://cdn.idn.app/livestream/af5c9757e2e5c1ef426c733215dff4ce.webp" width="170"> | Trisha JKT48 | haai | Kamis, 13 Agustus 2026 pukul 21.29.20 WIB |
 | 2251 | <img src="https://cdn.idn.app/livestream/10d9cae79fa77cd4b258c6b14876ffd6.webp" width="170"> | Gita JKT48 | Gits | Kamis, 13 Agustus 2026 pukul 21.14.36 WIB |
 | 2250 | <img src="https://cdn.idn.app/livestream/99c93c4d7007389c3748258e378fcf99.webp" width="170"> | Daisy JKT48 | Hai | Kamis, 13 Agustus 2026 pukul 21.11.15 WIB |

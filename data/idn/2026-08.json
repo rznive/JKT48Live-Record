@@ -2038,5 +2038,15 @@
     "live_at_unix": 1786631360,
     "image_url": "https://cdn.idn.app/livestream/af5c9757e2e5c1ef426c733215dff4ce.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GwR4g1NQnJzJ.m3u8"
+  },
+  {
+    "id": 2253,
+    "username": "jkt48_elin",
+    "creator_name": "Elin JKT48",
+    "title": "Temenin makeup",
+    "live_at": "Jumat, 14 Agustus 2026 pukul 12.50.31 WIB",
+    "live_at_unix": 1786686631,
+    "image_url": "https://cdn.idn.app/livestream/28bc24df3c02d6db6876b25e8e046cf8.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
   }
 ]
