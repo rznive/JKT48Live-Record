@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2290 | <img src="https://cdn.idn.app/livestream/5ddebbe369b6b90ff443af79fd75ed1c.webp" width="170"> | Nachia JKT48 | yaaa | Sabtu, 15 Agustus 2026 pukul 17.13.37 WIB |
 | 2289 | <img src="https://cdn.idn.app/livestream/44a85ad73b20c75b4ccfe06399cb657f.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Sabtu, 15 Agustus 2026 pukul 16.27.15 WIB |
 | 2288 | <img src="https://cdn.idn.app/livestream/afc797de970b85105d88c69c86e94450.webp" width="170"> | Jessi JKT48 | hi | Sabtu, 15 Agustus 2026 pukul 16.14.00 WIB |
 | 2287 | <img src="https://cdn.idn.app/livestream/fdbb8f7b910419b6badd9a32ce7cd755.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Sabtu, 15 Agustus 2026 pukul 15.54.31 WIB |
