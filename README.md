@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2301 | <img src="https://cdn.idn.app/livestream/ab2ccb90555de12bc81af00cc2f7c4c1.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Sabtu, 15 Agustus 2026 pukul 22.03.17 WIB |
 | 2300 | <img src="https://cdn.idn.app/livestream/791b43efc3c84e294a2396bc41b8e893.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Sabtu, 15 Agustus 2026 pukul 21.29.21 WIB |
 | 2299 | <img src="https://cdn.idn.app/livestream/207b471b9d125719acc370133763046c.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Sabtu, 15 Agustus 2026 pukul 21.19.35 WIB |
 | 2298 | <img src="https://cdn.idn.app/livestream/31b0ea0721c1ee1e12160c8f353320f2.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 15 Agustus 2026 pukul 21.19.31 WIB |
