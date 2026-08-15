@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2306 | <img src="https://cdn.idn.app/livestream/628ecafc5d56fc313e2458777ef07b8e.webp" width="170"> | Lia JKT48 | IDNNN | Sabtu, 15 Agustus 2026 pukul 22.49.54 WIB |
 | 2305 | <img src="https://cdn.idn.app/livestream/4f9497794d55b68ad637c3819469a8c4.webp" width="170"> | Eli JKT48 | BEBAS | Sabtu, 15 Agustus 2026 pukul 22.45.30 WIB |
 | 2304 | <img src="https://cdn.idn.app/livestream/8d735f891b9fcf136ab1565cf443a483.webp" width="170"> | Erine JKT48 | diroriiiii | Sabtu, 15 Agustus 2026 pukul 22.25.54 WIB |
 | 2303 | <img src="https://cdn.idn.app/livestream/e31a0b28a2611f2601b1b6d1c3ecfad0.webp" width="170"> | Oline JKT48 | y | Sabtu, 15 Agustus 2026 pukul 22.22.16 WIB |
