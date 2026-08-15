@@ -2328,5 +2328,15 @@
     "live_at_unix": 1786779563,
     "image_url": "https://cdn.idn.app/livestream/1cb77dc71265c74314e90c06eab7694d.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 2282,
+    "username": "jkt48_christy",
+    "creator_name": "Christy JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 15 Agustus 2026 pukul 14.42.12 WIB",
+    "live_at_unix": 1786779732,
+    "image_url": "https://cdn.idn.app/livestream/037404fcaefbd5224c628d001d24f9c4.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.R4bPsdzRonL3.m3u8"
   }
 ]

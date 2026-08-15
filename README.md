@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2282 | <img src="https://cdn.idn.app/livestream/037404fcaefbd5224c628d001d24f9c4.webp" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Sabtu, 15 Agustus 2026 pukul 14.42.12 WIB |
 | 2281 | <img src="https://cdn.idn.app/livestream/1cb77dc71265c74314e90c06eab7694d.webp" width="170"> | Oniel JKT48 | saya kembali | Sabtu, 15 Agustus 2026 pukul 14.39.23 WIB |
 | 2280 | <img src="https://cdn.idn.app/livestream/448d92658cdf8a07fe89b3a99885ea5f.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Sabtu, 15 Agustus 2026 pukul 14.39.09 WIB |
 | 2279 | <img src="https://cdn.idn.app/livestream/820ed4fdb3ecaaacbc982cc171d3f6fa.webp" width="170"> | Muthe JKT48 | Hi | Sabtu, 15 Agustus 2026 pukul 14.38.36 WIB |
