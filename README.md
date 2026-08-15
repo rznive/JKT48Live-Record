@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2292 | <img src="https://cdn.idn.app/livestream/bdacb96ea7481bf59727fd9c47909055.webp" width="170"> | Giaa JKT48 | mau brewek | Sabtu, 15 Agustus 2026 pukul 19.58.09 WIB |
 | 2291 | <img src="https://cdn.idn.app/livestream/08c975564da414ae2b1f64c7d8de2207.webp" width="170"> | Nachia JKT48 | yaaa | Sabtu, 15 Agustus 2026 pukul 18.23.25 WIB |
 | 2290 | <img src="https://cdn.idn.app/livestream/5ddebbe369b6b90ff443af79fd75ed1c.webp" width="170"> | Nachia JKT48 | yaaa | Sabtu, 15 Agustus 2026 pukul 17.13.37 WIB |
 | 2289 | <img src="https://cdn.idn.app/livestream/44a85ad73b20c75b4ccfe06399cb657f.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Sabtu, 15 Agustus 2026 pukul 16.27.15 WIB |
