@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2300 | <img src="https://cdn.idn.app/livestream/791b43efc3c84e294a2396bc41b8e893.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Sabtu, 15 Agustus 2026 pukul 21.29.21 WIB |
+| 2299 | <img src="https://cdn.idn.app/livestream/207b471b9d125719acc370133763046c.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Sabtu, 15 Agustus 2026 pukul 21.19.35 WIB |
+| 2298 | <img src="https://cdn.idn.app/livestream/31b0ea0721c1ee1e12160c8f353320f2.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 15 Agustus 2026 pukul 21.19.31 WIB |
+| 2297 | <img src="https://cdn.idn.app/livestream/a4cc0bf76d10ac7dc971d0a461f9dede.webp" width="170"> | Elin JKT48 | Hehehehehe hai | Sabtu, 15 Agustus 2026 pukul 21.17.41 WIB |
+| 2296 | <img src="https://cdn.idn.app/livestream/033c8eab92892fcc24bd3d5e0dacc166.webp" width="170"> | Daisy JKT48 | Hai | Sabtu, 15 Agustus 2026 pukul 21.16.53 WIB |
 | 2295 | <img src="https://cdn.idn.app/livestream/4f08d06377f21713a8335412670f7cb1.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Sabtu, 15 Agustus 2026 pukul 21.04.48 WIB |
 | 2294 | <img src="https://cdn.idn.app/livestream/308d8c23ee59e45c65d8a22e5150ea78.webp" width="170"> | Ella JKT48 | aloo | Sabtu, 15 Agustus 2026 pukul 21.04.41 WIB |
 | 2293 | <img src="https://cdn.idn.app/livestream/4924653b581c466517379222d79a520a.webp" width="170"> | Jessi JKT48 | hi | Sabtu, 15 Agustus 2026 pukul 21.03.24 WIB |
