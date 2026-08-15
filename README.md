@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2276 | <img src="https://cdn.idn.app/livestream/579a5d0ccc88a42ef8d61fa5d1f67b72.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Sabtu, 15 Agustus 2026 pukul 13.36.47 WIB |
 | 2275 | <img src="https://cdn.idn.app/livestream/9a4523ab4f3868e768e8416fa455acd3.webp" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Sabtu, 15 Agustus 2026 pukul 08.59.03 WIB |
 | 2274 | <img src="https://cdn.idn.app/livestream/878801af801442ee7e57877b4d8d5190.webp" width="170"> | Lana JKT48 | Review gifteu yaur | Jumat, 14 Agustus 2026 pukul 23.50.07 WIB |
 | 2273 | <img src="https://cdn.idn.app/livestream/fffb3a5543018b35a17477bd238540b8.webp" width="170"> | Nala JKT48 | yooo | Jumat, 14 Agustus 2026 pukul 23.50.01 WIB |

@@ -2268,5 +2268,15 @@
     "live_at_unix": 1786759143,
     "image_url": "https://cdn.idn.app/livestream/9a4523ab4f3868e768e8416fa455acd3.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
+  },
+  {
+    "id": 2276,
+    "username": "jkt48_lyn",
+    "creator_name": "Lyn JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 15 Agustus 2026 pukul 13.36.47 WIB",
+    "live_at_unix": 1786775807,
+    "image_url": "https://cdn.idn.app/livestream/579a5d0ccc88a42ef8d61fa5d1f67b72.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8"
   }
 ]
