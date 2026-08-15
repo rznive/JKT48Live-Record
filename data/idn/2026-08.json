@@ -2278,5 +2278,55 @@
     "live_at_unix": 1786775807,
     "image_url": "https://cdn.idn.app/livestream/579a5d0ccc88a42ef8d61fa5d1f67b72.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8"
+  },
+  {
+    "id": 2277,
+    "username": "jkt48_marsha",
+    "creator_name": "Marsha JKT48",
+    "title": "Plisss",
+    "live_at": "Sabtu, 15 Agustus 2026 pukul 14.27.00 WIB",
+    "live_at_unix": 1786778820,
+    "image_url": "https://cdn.idn.app/livestream/4957eb1eeca5b7ccf7fabdd3aa63b63f.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sSKNwImoM3zD.m3u8"
+  },
+  {
+    "id": 2278,
+    "username": "jkt48_greesel",
+    "creator_name": "Greesel JKT48",
+    "title": ":D",
+    "live_at": "Sabtu, 15 Agustus 2026 pukul 14.27.08 WIB",
+    "live_at_unix": 1786778828,
+    "image_url": "https://cdn.idn.app/livestream/33fdd1d15ee5d47181b05caa4795b190.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.z3nXSqOvE9Fs.m3u8"
+  },
+  {
+    "id": 2279,
+    "username": "jkt48_muthe",
+    "creator_name": "Muthe JKT48",
+    "title": "Hi",
+    "live_at": "Sabtu, 15 Agustus 2026 pukul 14.38.36 WIB",
+    "live_at_unix": 1786779516,
+    "image_url": "https://cdn.idn.app/livestream/820ed4fdb3ecaaacbc982cc171d3f6fa.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sm9AmQPkGDGS.m3u8"
+  },
+  {
+    "id": 2280,
+    "username": "jkt48_indah",
+    "creator_name": "Indah JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 15 Agustus 2026 pukul 14.39.09 WIB",
+    "live_at_unix": 1786779549,
+    "image_url": "https://cdn.idn.app/livestream/448d92658cdf8a07fe89b3a99885ea5f.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oKpAUHJSe6RM.m3u8"
+  },
+  {
+    "id": 2281,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "saya kembali",
+    "live_at": "Sabtu, 15 Agustus 2026 pukul 14.39.23 WIB",
+    "live_at_unix": 1786779563,
+    "image_url": "https://cdn.idn.app/livestream/1cb77dc71265c74314e90c06eab7694d.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
   }
 ]
