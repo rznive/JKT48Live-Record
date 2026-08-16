@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2317 | <img src="https://cdn.idn.app/livestream/5c940c3b37965820b7c8ec703e8bfa88.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 20.39.58 WIB |
+| 2316 | <img src="https://cdn.idn.app/livestream/1a06d065df3efa716dbcd33637af70cd.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 20.30.16 WIB |
 | 2315 | <img src="https://cdn.idn.app/livestream/b070d2a56173548d4f6a013c31a304f2.webp" width="170"> | Eli JKT48 | BEBAS | Minggu, 16 Agustus 2026 pukul 20.07.52 WIB |
 | 2314 | <img src="https://cdn.idn.app/livestream/49e43d387112bb475cf6e6810293b430.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 18.52.42 WIB |
 | 2313 | <img src="https://cdn.idn.app/livestream/52f34965f41ebcaf7b6c1138f8401339.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 18.32.40 WIB |
