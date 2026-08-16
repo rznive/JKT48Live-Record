@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2313 | <img src="https://cdn.idn.app/livestream/52f34965f41ebcaf7b6c1138f8401339.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 18.32.40 WIB |
+| 2312 | <img src="https://cdn.idn.app/livestream/ea3d052baa8e8bb6b19ef5e159ab6435.webp" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 18.32.36 WIB |
 | 2311 | <img src="https://cdn.idn.app/livestream/74edd99d474aa0c42388e97a616a3379.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 16.54.27 WIB |
 | 2310 | <img src="https://cdn.idn.app/livestream/935eb1ea15c5ccf180b76fbe4b01f400.webp" width="170"> | Elin JKT48 | Part 2 | Minggu, 16 Agustus 2026 pukul 12.03.01 WIB |
 | 2309 | <img src="https://cdn.idn.app/livestream/b24a3eef2b155bfb833980c45d33128a.webp" width="170"> | Levi JKT48 | hai | Minggu, 16 Agustus 2026 pukul 11.45.12 WIB |
