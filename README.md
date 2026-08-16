@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2325 | <img src="https://cdn.idn.app/livestream/59887a373aaebc1d529da62ffae530b3.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 22.23.25 WIB |
+| 2324 | <img src="https://cdn.idn.app/livestream/ff995e6dc35e81f96e44de64cc267737.webp" width="170"> | Daisy JKT48 | thankyou for today!!🫰🏻 | Minggu, 16 Agustus 2026 pukul 22.23.13 WIB |
+| 2323 | <img src="https://cdn.idn.app/livestream/4808672ff6d1186140e025e69b5ee442.webp" width="170"> | Jessi JKT48 | halo | Minggu, 16 Agustus 2026 pukul 22.17.51 WIB |
+| 2322 | <img src="https://cdn.idn.app/livestream/ee78365d6b2630540e4a36aa14933d50.webp" width="170"> | Muthe JKT48 | Hi | Minggu, 16 Agustus 2026 pukul 22.16.46 WIB |
+| 2321 | <img src="https://cdn.idn.app/livestream/2205bf55c6cc47260b52d51443cfdd0d.webp" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 22.16.32 WIB |
+| 2320 | <img src="https://cdn.idn.app/livestream/4d35d1ac8dd6fe4416f5b3cc50f8c622.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 22.15.51 WIB |
+| 2319 | <img src="https://cdn.idn.app/livestream/bdea8848913b9b0f809e27fe2163de87.webp" width="170"> | Lana JKT48 | Review gifteu yaur | Minggu, 16 Agustus 2026 pukul 22.15.46 WIB |
 | 2318 | <img src="https://cdn.idn.app/livestream/95e0590eeb7872ca1254516bdefed256.webp" width="170"> | Lia JKT48 | IDNNN | Minggu, 16 Agustus 2026 pukul 21.50.49 WIB |
 | 2317 | <img src="https://cdn.idn.app/livestream/5c940c3b37965820b7c8ec703e8bfa88.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 20.39.58 WIB |
 | 2316 | <img src="https://cdn.idn.app/livestream/1a06d065df3efa716dbcd33637af70cd.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 20.30.16 WIB |
