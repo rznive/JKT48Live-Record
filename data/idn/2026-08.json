@@ -2578,5 +2578,15 @@
     "live_at_unix": 1786808994,
     "image_url": "https://cdn.idn.app/livestream/628ecafc5d56fc313e2458777ef07b8e.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 2307,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "ready go go go",
+    "live_at": "Minggu, 16 Agustus 2026 pukul 10.23.12 WIB",
+    "live_at_unix": 1786850592,
+    "image_url": "https://cdn.idn.app/livestream/60ffd1f5e6bf358e181533017de1a254.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
   }
 ]
