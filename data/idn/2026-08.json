@@ -2778,5 +2778,15 @@
     "live_at_unix": 1786896890,
     "image_url": "https://cdn.idn.app/livestream/7ef13381ea145a040038efe6ca492e61.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sLZkhRvMutd4.m3u8"
+  },
+  {
+    "id": 2327,
+    "username": "jkt48_mikaela",
+    "creator_name": "Mikaela JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 16 Agustus 2026 pukul 23.16.44 WIB",
+    "live_at_unix": 1786897004,
+    "image_url": "https://cdn.idn.app/livestream/6e7ca94c1f3b19cb4bc1f119df1a2f57.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
   }
 ]
