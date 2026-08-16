@@ -2608,5 +2608,15 @@
     "live_at_unix": 1786855512,
     "image_url": "https://cdn.idn.app/livestream/b24a3eef2b155bfb833980c45d33128a.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 2310,
+    "username": "jkt48_elin",
+    "creator_name": "Elin JKT48",
+    "title": "Part 2",
+    "live_at": "Minggu, 16 Agustus 2026 pukul 12.03.01 WIB",
+    "live_at_unix": 1786856581,
+    "image_url": "https://cdn.idn.app/livestream/935eb1ea15c5ccf180b76fbe4b01f400.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
   }
 ]
