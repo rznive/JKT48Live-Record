@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2314 | <img src="https://cdn.idn.app/livestream/49e43d387112bb475cf6e6810293b430.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 18.52.42 WIB |
 | 2313 | <img src="https://cdn.idn.app/livestream/52f34965f41ebcaf7b6c1138f8401339.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 18.32.40 WIB |
 | 2312 | <img src="https://cdn.idn.app/livestream/ea3d052baa8e8bb6b19ef5e159ab6435.webp" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 18.32.36 WIB |
 | 2311 | <img src="https://cdn.idn.app/livestream/74edd99d474aa0c42388e97a616a3379.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 16.54.27 WIB |
