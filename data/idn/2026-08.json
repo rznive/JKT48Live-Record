@@ -2988,5 +2988,15 @@
     "live_at_unix": 1786961124,
     "image_url": "https://cdn.idn.app/livestream/8a1304714618e0b40714e431a035579f.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sLZkhRvMutd4.m3u8"
+  },
+  {
+    "id": 2348,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "🙈",
+    "live_at": "Senin, 17 Agustus 2026 pukul 18.12.14 WIB",
+    "live_at_unix": 1786965134,
+    "image_url": "https://cdn.idn.app/livestream/f3a7a340c287e8e1d1cc28f9a442d5cf.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
   }
 ]
