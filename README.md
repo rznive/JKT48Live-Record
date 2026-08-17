@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2347 | <img src="https://cdn.idn.app/livestream/8a1304714618e0b40714e431a035579f.webp" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Senin, 17 Agustus 2026 pukul 17.05.24 WIB |
+| 2346 | <img src="https://cdn.idn.app/livestream/867e798e86d9c72dedff90ce2966a91c.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Senin, 17 Agustus 2026 pukul 17.05.21 WIB |
 | 2345 | <img src="https://cdn.idn.app/livestream/dc2f96f44bd63a345b56fc6538e3c9c3.webp" width="170"> | Gracie JKT48 | hiii | Senin, 17 Agustus 2026 pukul 17.01.23 WIB |
 | 2344 | <img src="https://cdn.idn.app/livestream/0f4f2b9a1097e902fe9c246e36b3e4e3.webp" width="170"> | Gita JKT48 | Gits | Senin, 17 Agustus 2026 pukul 16.28.32 WIB |
 | 2343 | <img src="https://cdn.idn.app/livestream/8129b18dbdfe532c79e13ec4223be11b.webp" width="170"> | Rilly JKT48 | Ngobs asoy | Senin, 17 Agustus 2026 pukul 16.27.13 WIB |
