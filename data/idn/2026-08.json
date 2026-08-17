@@ -2808,5 +2808,25 @@
     "live_at_unix": 1786947792,
     "image_url": "https://cdn.idn.app/livestream/822f3c9184d55a6bd60ac4760d8abb0e.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BDGTjOuDMTDH.m3u8"
+  },
+  {
+    "id": 2330,
+    "username": "jkt48_levi",
+    "creator_name": "Levi JKT48",
+    "title": "hai",
+    "live_at": "Senin, 17 Agustus 2026 pukul 14.21.47 WIB",
+    "live_at_unix": 1786951307,
+    "image_url": "https://cdn.idn.app/livestream/29e1cc2774b48656e7e634cd79a527f4.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 2331,
+    "username": "jkt48_nala",
+    "creator_name": "Nala JKT48",
+    "title": "yooo",
+    "live_at": "Senin, 17 Agustus 2026 pukul 14.26.37 WIB",
+    "live_at_unix": 1786951597,
+    "image_url": "https://cdn.idn.app/livestream/bc8a086c3dc066b94bcfebac4ec355ac.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.nCPKiODqPEOs.m3u8"
   }
 ]

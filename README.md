@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2331 | <img src="https://cdn.idn.app/livestream/bc8a086c3dc066b94bcfebac4ec355ac.webp" width="170"> | Nala JKT48 | yooo | Senin, 17 Agustus 2026 pukul 14.26.37 WIB |
+| 2330 | <img src="https://cdn.idn.app/livestream/29e1cc2774b48656e7e634cd79a527f4.webp" width="170"> | Levi JKT48 | hai | Senin, 17 Agustus 2026 pukul 14.21.47 WIB |
 | 2329 | <img src="https://cdn.idn.app/livestream/822f3c9184d55a6bd60ac4760d8abb0e.webp" width="170"> | Ella JKT48 | aloo | Senin, 17 Agustus 2026 pukul 13.23.12 WIB |
 | 2328 | <img src="https://cdn.idn.app/livestream/c9091f4108ad838a556d948a958cd416.webp" width="170"> | Greesel JKT48 | :D | Senin, 17 Agustus 2026 pukul 13.20.07 WIB |
 | 2327 | <img src="https://cdn.idn.app/livestream/6e7ca94c1f3b19cb4bc1f119df1a2f57.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 16 Agustus 2026 pukul 23.16.44 WIB |
