@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2350 | <img src="https://cdn.idn.app/livestream/a46b7366d044a752c314bfcc6e046cec.webp" width="170"> | Anindya JKT48 | met #seNIN | Senin, 17 Agustus 2026 pukul 19.14.27 WIB |
 | 2349 | <img src="https://cdn.idn.app/livestream/dde2a52a8a029c8a94b7056d8e844789.webp" width="170"> | Michie JKT48 | hi | Senin, 17 Agustus 2026 pukul 18.34.02 WIB |
 | 2348 | <img src="https://cdn.idn.app/livestream/f3a7a340c287e8e1d1cc28f9a442d5cf.webp" width="170"> | Jessi JKT48 | 🙈 | Senin, 17 Agustus 2026 pukul 18.12.14 WIB |
 | 2347 | <img src="https://cdn.idn.app/livestream/8a1304714618e0b40714e431a035579f.webp" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Senin, 17 Agustus 2026 pukul 17.05.24 WIB |

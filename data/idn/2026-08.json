@@ -3008,5 +3008,15 @@
     "live_at_unix": 1786966442,
     "image_url": "https://cdn.idn.app/livestream/dde2a52a8a029c8a94b7056d8e844789.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.uE0Cu8MD1aMc.m3u8"
+  },
+  {
+    "id": 2350,
+    "username": "jkt48_anindya",
+    "creator_name": "Anindya JKT48",
+    "title": "met #seNIN",
+    "live_at": "Senin, 17 Agustus 2026 pukul 19.14.27 WIB",
+    "live_at_unix": 1786968867,
+    "image_url": "https://cdn.idn.app/livestream/a46b7366d044a752c314bfcc6e046cec.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8"
   }
 ]
