@@ -2788,5 +2788,25 @@
     "live_at_unix": 1786897004,
     "image_url": "https://cdn.idn.app/livestream/6e7ca94c1f3b19cb4bc1f119df1a2f57.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
+  },
+  {
+    "id": 2328,
+    "username": "jkt48_greesel",
+    "creator_name": "Greesel JKT48",
+    "title": ":D",
+    "live_at": "Senin, 17 Agustus 2026 pukul 13.20.07 WIB",
+    "live_at_unix": 1786947607,
+    "image_url": "https://cdn.idn.app/livestream/c9091f4108ad838a556d948a958cd416.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.z3nXSqOvE9Fs.m3u8"
+  },
+  {
+    "id": 2329,
+    "username": "jkt48_ella",
+    "creator_name": "Ella JKT48",
+    "title": "aloo",
+    "live_at": "Senin, 17 Agustus 2026 pukul 13.23.12 WIB",
+    "live_at_unix": 1786947792,
+    "image_url": "https://cdn.idn.app/livestream/822f3c9184d55a6bd60ac4760d8abb0e.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BDGTjOuDMTDH.m3u8"
   }
 ]
