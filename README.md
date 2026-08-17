@@ -2,6 +2,17 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2345 | <img src="https://cdn.idn.app/livestream/dc2f96f44bd63a345b56fc6538e3c9c3.webp" width="170"> | Gracie JKT48 | hiii | Senin, 17 Agustus 2026 pukul 17.01.23 WIB |
+| 2344 | <img src="https://cdn.idn.app/livestream/0f4f2b9a1097e902fe9c246e36b3e4e3.webp" width="170"> | Gita JKT48 | Gits | Senin, 17 Agustus 2026 pukul 16.28.32 WIB |
+| 2343 | <img src="https://cdn.idn.app/livestream/8129b18dbdfe532c79e13ec4223be11b.webp" width="170"> | Rilly JKT48 | Ngobs asoy | Senin, 17 Agustus 2026 pukul 16.27.13 WIB |
+| 2342 | <img src="https://cdn.idn.app/livestream/18eabd305aee700b2344681d7eb4653f.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 17 Agustus 2026 pukul 16.26.50 WIB |
+| 2341 | <img src="https://cdn.idn.app/livestream/010a5ac06104bbe1ad763fccab834db1.webp" width="170"> | Auwia JKT48 | Liat iniiii | Senin, 17 Agustus 2026 pukul 16.26.25 WIB |
+| 2340 | <img src="https://cdn.idn.app/livestream/567b821e77ce9ed5c386b14540b4c70a.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 17 Agustus 2026 pukul 16.26.16 WIB |
+| 2338 | <img src="https://cdn.idn.app/livestream/88271cb82a0bfff3eb4a0628f4cef6a7.webp" width="170"> | Maira JKT48 | Let’s go!!! | Senin, 17 Agustus 2026 pukul 16.26.13 WIB |
+| 2339 | <img src="https://cdn.idn.app/livestream/482f00ab923b07331d245202fa1c5ec8.webp" width="170"> | Giaa JKT48 | lomba | Senin, 17 Agustus 2026 pukul 16.26.13 WIB |
+| 2337 | <img src="https://cdn.idn.app/livestream/4061a289aafe4e78f9fab36673645c30.webp" width="170"> | Intan JKT48 | yookkk | Senin, 17 Agustus 2026 pukul 16.26.05 WIB |
+| 2336 | <img src="https://cdn.idn.app/livestream/d7c2ed8a535013152c5d8f25f31b11e0.webp" width="170"> | Ekin JKT48 | LOMBA 17 ANNNN | Senin, 17 Agustus 2026 pukul 16.25.48 WIB |
+| 2335 | <img src="https://cdn.idn.app/livestream/510bf4484b94652cfb4e2d0c9c1a4396.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 17 Agustus 2026 pukul 16.25.47 WIB |
 | 2334 | <img src="https://cdn.idn.app/livestream/ddaf8965fcd24a8cc1ac389155343af7.webp" width="170"> | Gita JKT48 | Gits | Senin, 17 Agustus 2026 pukul 15.49.54 WIB |
 | 2333 | <img src="https://cdn.idn.app/livestream/3ef7980fcbd6349629b02fcd832e60f4.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 17 Agustus 2026 pukul 15.18.55 WIB |
 | 2332 | <img src="https://cdn.idn.app/livestream/efe9abf87a78b39bc4c6c0d5a0e5d213.webp" width="170"> | Lily JKT48 | Makan | Senin, 17 Agustus 2026 pukul 15.03.28 WIB |
