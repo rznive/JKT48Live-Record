@@ -2828,5 +2828,15 @@
     "live_at_unix": 1786951597,
     "image_url": "https://cdn.idn.app/livestream/bc8a086c3dc066b94bcfebac4ec355ac.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.nCPKiODqPEOs.m3u8"
+  },
+  {
+    "id": 2332,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Makan",
+    "live_at": "Senin, 17 Agustus 2026 pukul 15.03.28 WIB",
+    "live_at_unix": 1786953808,
+    "image_url": "https://cdn.idn.app/livestream/efe9abf87a78b39bc4c6c0d5a0e5d213.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
   }
 ]

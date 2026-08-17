@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2332 | <img src="https://cdn.idn.app/livestream/efe9abf87a78b39bc4c6c0d5a0e5d213.webp" width="170"> | Lily JKT48 | Makan | Senin, 17 Agustus 2026 pukul 15.03.28 WIB |
 | 2331 | <img src="https://cdn.idn.app/livestream/bc8a086c3dc066b94bcfebac4ec355ac.webp" width="170"> | Nala JKT48 | yooo | Senin, 17 Agustus 2026 pukul 14.26.37 WIB |
 | 2330 | <img src="https://cdn.idn.app/livestream/29e1cc2774b48656e7e634cd79a527f4.webp" width="170"> | Levi JKT48 | hai | Senin, 17 Agustus 2026 pukul 14.21.47 WIB |
 | 2329 | <img src="https://cdn.idn.app/livestream/822f3c9184d55a6bd60ac4760d8abb0e.webp" width="170"> | Ella JKT48 | aloo | Senin, 17 Agustus 2026 pukul 13.23.12 WIB |
