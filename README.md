@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2356 | <img src="https://cdn.idn.app/livestream/5db4cd1170242b2e77cf2d6aea83beda.webp" width="170"> | Erine JKT48 | diroriiiii | Senin, 17 Agustus 2026 pukul 23.01.55 WIB |
+| 2355 | <img src="https://cdn.idn.app/livestream/843f9e025b17df5f0bb71f9ae3b8665a.webp" width="170"> | Delynn JKT48 | HOLA WASSUP | Senin, 17 Agustus 2026 pukul 22.44.20 WIB |
+| 2354 | <img src="https://cdn.idn.app/livestream/f313ca1a409c42ee8a8bce35b66abc1c.webp" width="170"> | Nayla JKT48 | Mau cerita  | Senin, 17 Agustus 2026 pukul 22.24.35 WIB |
+| 2353 | <img src="https://cdn.idn.app/livestream/cbb56d993472fb4d3ff6950d20dded31.webp" width="170"> | Ekin JKT48 | live org yang abis MENANG 🤭 | Senin, 17 Agustus 2026 pukul 22.15.05 WIB |
+| 2352 | <img src="https://cdn.idn.app/livestream/23e640144c5b90935c76ca1ce083afe3.webp" width="170"> | Nachia JKT48 | yaaa | Senin, 17 Agustus 2026 pukul 22.03.34 WIB |
 | 2351 | <img src="https://cdn.idn.app/livestream/516745fa3bfec988a9fa6d6a40204efd.webp" width="170"> | Oniel JKT48 | saya kembali | Senin, 17 Agustus 2026 pukul 20.57.20 WIB |
 | 2350 | <img src="https://cdn.idn.app/livestream/a46b7366d044a752c314bfcc6e046cec.webp" width="170"> | Anindya JKT48 | met #seNIN | Senin, 17 Agustus 2026 pukul 19.14.27 WIB |
 | 2349 | <img src="https://cdn.idn.app/livestream/dde2a52a8a029c8a94b7056d8e844789.webp" width="170"> | Michie JKT48 | hi | Senin, 17 Agustus 2026 pukul 18.34.02 WIB |

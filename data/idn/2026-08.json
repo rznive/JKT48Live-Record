@@ -3028,5 +3028,55 @@
     "live_at_unix": 1786975040,
     "image_url": "https://cdn.idn.app/livestream/516745fa3bfec988a9fa6d6a40204efd.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 2352,
+    "username": "jkt48_nachia",
+    "creator_name": "Nachia JKT48",
+    "title": "yaaa",
+    "live_at": "Senin, 17 Agustus 2026 pukul 22.03.34 WIB",
+    "live_at_unix": 1786979014,
+    "image_url": "https://cdn.idn.app/livestream/23e640144c5b90935c76ca1ce083afe3.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8"
+  },
+  {
+    "id": 2353,
+    "username": "jkt48_ekin",
+    "creator_name": "Ekin JKT48",
+    "title": "live org yang abis MENANG 🤭",
+    "live_at": "Senin, 17 Agustus 2026 pukul 22.15.05 WIB",
+    "live_at_unix": 1786979705,
+    "image_url": "https://cdn.idn.app/livestream/cbb56d993472fb4d3ff6950d20dded31.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
+  },
+  {
+    "id": 2354,
+    "username": "jkt48_nayla",
+    "creator_name": "Nayla JKT48",
+    "title": "Mau cerita ",
+    "live_at": "Senin, 17 Agustus 2026 pukul 22.24.35 WIB",
+    "live_at_unix": 1786980275,
+    "image_url": "https://cdn.idn.app/livestream/f313ca1a409c42ee8a8bce35b66abc1c.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.s29ur0XkIpE2.m3u8"
+  },
+  {
+    "id": 2355,
+    "username": "jkt48_delynn",
+    "creator_name": "Delynn JKT48",
+    "title": "HOLA WASSUP",
+    "live_at": "Senin, 17 Agustus 2026 pukul 22.44.20 WIB",
+    "live_at_unix": 1786981460,
+    "image_url": "https://cdn.idn.app/livestream/843f9e025b17df5f0bb71f9ae3b8665a.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
+  },
+  {
+    "id": 2356,
+    "username": "jkt48_erine",
+    "creator_name": "Erine JKT48",
+    "title": "diroriiiii",
+    "live_at": "Senin, 17 Agustus 2026 pukul 23.01.55 WIB",
+    "live_at_unix": 1786982515,
+    "image_url": "https://cdn.idn.app/livestream/5db4cd1170242b2e77cf2d6aea83beda.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.0nMPtjEVo1Ds.m3u8"
   }
 ]
