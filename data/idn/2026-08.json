@@ -3098,5 +3098,25 @@
     "live_at_unix": 1787037377,
     "image_url": "https://cdn.idn.app/livestream/e3cb60b3cc1f56032e7e100f6737776c.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4idUspKIZskG.m3u8"
+  },
+  {
+    "id": 2359,
+    "username": "jkt48_gita",
+    "creator_name": "Gita JKT48",
+    "title": "Gits",
+    "live_at": "Selasa, 18 Agustus 2026 pukul 15.29.36 WIB",
+    "live_at_unix": 1787041776,
+    "image_url": "https://cdn.idn.app/livestream/4e8d06a9377a8a02e6a13736f1c848d2.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.k4fAFOYXENlG.m3u8"
+  },
+  {
+    "id": 2360,
+    "username": "jkt48-official",
+    "creator_name": "JKT48",
+    "title": "TEMEN MAIN EP.3!!!! OPERASI 17an",
+    "live_at": "Selasa, 18 Agustus 2026 pukul 15.42.35 WIB",
+    "live_at_unix": 1787042555,
+    "image_url": "https://cdn.idn.app/livestream/e3cb60b3cc1f56032e7e100f6737776c.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4idUspKIZskG.m3u8"
   }
 ]
