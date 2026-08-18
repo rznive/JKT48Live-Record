@@ -3168,5 +3168,55 @@
     "live_at_unix": 1787054287,
     "image_url": "https://cdn.idn.app/livestream/a9909fe58a2b7a922d4e2fa2b0ec6ba3.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8"
+  },
+  {
+    "id": 2366,
+    "username": "jkt48_virgi",
+    "creator_name": "Virgi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 18 Agustus 2026 pukul 19.36.05 WIB",
+    "live_at_unix": 1787056565,
+    "image_url": "https://cdn.idn.app/livestream/8e4a7003ce954ee285dfcac496673c60.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8"
+  },
+  {
+    "id": 2367,
+    "username": "jkt48_rilly",
+    "creator_name": "Rilly JKT48",
+    "title": "Temenin mam",
+    "live_at": "Selasa, 18 Agustus 2026 pukul 19.40.53 WIB",
+    "live_at_unix": 1787056853,
+    "image_url": "https://cdn.idn.app/livestream/f53a8c8fecddaa4fb76f295a04d9546d.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 2368,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "live sejam",
+    "live_at": "Selasa, 18 Agustus 2026 pukul 19.46.04 WIB",
+    "live_at_unix": 1787057164,
+    "image_url": "https://cdn.idn.app/livestream/b5c5ea0418be2199fc7fddbcedadac76.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 2369,
+    "username": "jkt48_levi",
+    "creator_name": "Levi JKT48",
+    "title": "hai",
+    "live_at": "Selasa, 18 Agustus 2026 pukul 20.07.01 WIB",
+    "live_at_unix": 1787058421,
+    "image_url": "https://cdn.idn.app/livestream/fd5e133f408a84f968e89eb742846f93.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 2370,
+    "username": "jkt48_eli",
+    "creator_name": "Eli JKT48",
+    "title": "BEBAS",
+    "live_at": "Selasa, 18 Agustus 2026 pukul 20.07.32 WIB",
+    "live_at_unix": 1787058452,
+    "image_url": "https://cdn.idn.app/livestream/bd5b383c16b53bec7c7fcc3842868580.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8"
   }
 ]

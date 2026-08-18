@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2370 | <img src="https://cdn.idn.app/livestream/bd5b383c16b53bec7c7fcc3842868580.webp" width="170"> | Eli JKT48 | BEBAS | Selasa, 18 Agustus 2026 pukul 20.07.32 WIB |
+| 2369 | <img src="https://cdn.idn.app/livestream/fd5e133f408a84f968e89eb742846f93.webp" width="170"> | Levi JKT48 | hai | Selasa, 18 Agustus 2026 pukul 20.07.01 WIB |
+| 2368 | <img src="https://cdn.idn.app/livestream/b5c5ea0418be2199fc7fddbcedadac76.webp" width="170"> | Jessi JKT48 | live sejam | Selasa, 18 Agustus 2026 pukul 19.46.04 WIB |
+| 2367 | <img src="https://cdn.idn.app/livestream/f53a8c8fecddaa4fb76f295a04d9546d.webp" width="170"> | Rilly JKT48 | Temenin mam | Selasa, 18 Agustus 2026 pukul 19.40.53 WIB |
+| 2366 | <img src="https://cdn.idn.app/livestream/8e4a7003ce954ee285dfcac496673c60.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 18 Agustus 2026 pukul 19.36.05 WIB |
 | 2365 | <img src="https://cdn.idn.app/livestream/a9909fe58a2b7a922d4e2fa2b0ec6ba3.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Selasa, 18 Agustus 2026 pukul 18.58.07 WIB |
 | 2364 | <img src="https://cdn.idn.app/livestream/90fcf84f41e11cfd2c46fee0fc307b6a.webp" width="170"> | Nala JKT48 | yooo | Selasa, 18 Agustus 2026 pukul 18.58.04 WIB |
 | 2363 | <img src="https://cdn.idn.app/livestream/5d02b594d3cdb534a4a5f67802c9b4e3.webp" width="170"> | Intan JKT48 | p | Selasa, 18 Agustus 2026 pukul 18.35.48 WIB |
