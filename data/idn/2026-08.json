@@ -3138,5 +3138,15 @@
     "live_at_unix": 1787050883,
     "image_url": "https://cdn.idn.app/livestream/25d2a968bf60e47c227f010eda9b49c3.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8"
+  },
+  {
+    "id": 2363,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "p",
+    "live_at": "Selasa, 18 Agustus 2026 pukul 18.35.48 WIB",
+    "live_at_unix": 1787052948,
+    "image_url": "https://cdn.idn.app/livestream/5d02b594d3cdb534a4a5f67802c9b4e3.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
   }
 ]

@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2363 | <img src="https://cdn.idn.app/livestream/5d02b594d3cdb534a4a5f67802c9b4e3.webp" width="170"> | Intan JKT48 | p | Selasa, 18 Agustus 2026 pukul 18.35.48 WIB |
 | 2362 | <img src="https://cdn.idn.app/livestream/25d2a968bf60e47c227f010eda9b49c3.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 18 Agustus 2026 pukul 18.01.23 WIB |
 | 2361 | <img src="https://cdn.idn.app/livestream/de1ba5396669cddf8b4cd8684c894294.webp" width="170"> | Elin JKT48 | Hi | Selasa, 18 Agustus 2026 pukul 17.41.47 WIB |
 | 2360 | <img src="https://cdn.idn.app/livestream/e3cb60b3cc1f56032e7e100f6737776c.webp" width="170"> | JKT48 | TEMEN MAIN EP.3!!!! OPERASI 17an | Selasa, 18 Agustus 2026 pukul 15.42.35 WIB |
