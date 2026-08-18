@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2380 | <img src="https://cdn.idn.app/livestream/88bb1811be6018a491b140f37caacb48.webp" width="170"> | Oline JKT48 | y | Selasa, 18 Agustus 2026 pukul 23.02.28 WIB |
 | 2379 | <img src="https://cdn.idn.app/livestream/612198ed51cca72585d387ebd455e174.webp" width="170"> | Trisha JKT48 | haaai | Selasa, 18 Agustus 2026 pukul 22.44.22 WIB |
 | 2378 | <img src="https://cdn.idn.app/livestream/d074f4b2a5da2c6f2fdddd31e7619ba0.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 18 Agustus 2026 pukul 22.32.00 WIB |
 | 2377 | <img src="https://cdn.idn.app/livestream/3ccb3bcb8e4d42b194dcf18bcdde23d6.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Selasa, 18 Agustus 2026 pukul 22.27.05 WIB |
