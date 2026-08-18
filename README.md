@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2358 | <img src="https://cdn.idn.app/livestream/e3cb60b3cc1f56032e7e100f6737776c.webp" width="170"> | JKT48 | TEMEN MAIN EP.3!!!! OPERASI 17an | Selasa, 18 Agustus 2026 pukul 14.16.17 WIB |
 | 2357 | <img src="https://cdn.idn.app/livestream/6c808fd17b55cff2a15cd25151cc6938.webp" width="170"> | Lia JKT48 | IDNNN | Selasa, 18 Agustus 2026 pukul 12.24.27 WIB |
 | 2356 | <img src="https://cdn.idn.app/livestream/5db4cd1170242b2e77cf2d6aea83beda.webp" width="170"> | Erine JKT48 | diroriiiii | Senin, 17 Agustus 2026 pukul 23.01.55 WIB |
 | 2355 | <img src="https://cdn.idn.app/livestream/843f9e025b17df5f0bb71f9ae3b8665a.webp" width="170"> | Delynn JKT48 | HOLA WASSUP | Senin, 17 Agustus 2026 pukul 22.44.20 WIB |
