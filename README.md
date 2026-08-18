@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2371 | <img src="https://cdn.idn.app/livestream/a8a81c47ec9025368160c1e36d84375a.webp" width="170"> | Nachia JKT48 | yaaa | Selasa, 18 Agustus 2026 pukul 20.45.18 WIB |
 | 2370 | <img src="https://cdn.idn.app/livestream/bd5b383c16b53bec7c7fcc3842868580.webp" width="170"> | Eli JKT48 | BEBAS | Selasa, 18 Agustus 2026 pukul 20.07.32 WIB |
 | 2369 | <img src="https://cdn.idn.app/livestream/fd5e133f408a84f968e89eb742846f93.webp" width="170"> | Levi JKT48 | hai | Selasa, 18 Agustus 2026 pukul 20.07.01 WIB |
 | 2368 | <img src="https://cdn.idn.app/livestream/b5c5ea0418be2199fc7fddbcedadac76.webp" width="170"> | Jessi JKT48 | live sejam | Selasa, 18 Agustus 2026 pukul 19.46.04 WIB |
