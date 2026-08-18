@@ -3228,5 +3228,25 @@
     "live_at_unix": 1787060718,
     "image_url": "https://cdn.idn.app/livestream/a8a81c47ec9025368160c1e36d84375a.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8"
+  },
+  {
+    "id": 2372,
+    "username": "jkt48_jemima",
+    "creator_name": "Jemima JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 18 Agustus 2026 pukul 21.30.46 WIB",
+    "live_at_unix": 1787063446,
+    "image_url": "https://cdn.idn.app/livestream/72022ee455dc09eb43959ee7295b606f.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 2373,
+    "username": "jkt48_giaa",
+    "creator_name": "Giaa JKT48",
+    "title": "lomba",
+    "live_at": "Selasa, 18 Agustus 2026 pukul 21.42.32 WIB",
+    "live_at_unix": 1787064152,
+    "image_url": "https://cdn.idn.app/livestream/9ee0d2433f5e5e8d21e5fc0ea2c9bce7.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
   }
 ]
