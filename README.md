@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2361 | <img src="https://cdn.idn.app/livestream/de1ba5396669cddf8b4cd8684c894294.webp" width="170"> | Elin JKT48 | Hi | Selasa, 18 Agustus 2026 pukul 17.41.47 WIB |
 | 2360 | <img src="https://cdn.idn.app/livestream/e3cb60b3cc1f56032e7e100f6737776c.webp" width="170"> | JKT48 | TEMEN MAIN EP.3!!!! OPERASI 17an | Selasa, 18 Agustus 2026 pukul 15.42.35 WIB |
 | 2359 | <img src="https://cdn.idn.app/livestream/4e8d06a9377a8a02e6a13736f1c848d2.webp" width="170"> | Gita JKT48 | Gits | Selasa, 18 Agustus 2026 pukul 15.29.36 WIB |
 | 2358 | <img src="https://cdn.idn.app/livestream/e3cb60b3cc1f56032e7e100f6737776c.webp" width="170"> | JKT48 | TEMEN MAIN EP.3!!!! OPERASI 17an | Selasa, 18 Agustus 2026 pukul 14.16.17 WIB |

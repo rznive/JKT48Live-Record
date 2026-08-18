@@ -3118,5 +3118,15 @@
     "live_at_unix": 1787042555,
     "image_url": "https://cdn.idn.app/livestream/e3cb60b3cc1f56032e7e100f6737776c.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4idUspKIZskG.m3u8"
+  },
+  {
+    "id": 2361,
+    "username": "jkt48_elin",
+    "creator_name": "Elin JKT48",
+    "title": "Hi",
+    "live_at": "Selasa, 18 Agustus 2026 pukul 17.41.47 WIB",
+    "live_at_unix": 1787049707,
+    "image_url": "https://cdn.idn.app/livestream/de1ba5396669cddf8b4cd8684c894294.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
   }
 ]
