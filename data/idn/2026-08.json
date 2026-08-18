@@ -3078,5 +3078,15 @@
     "live_at_unix": 1786982515,
     "image_url": "https://cdn.idn.app/livestream/5db4cd1170242b2e77cf2d6aea83beda.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.0nMPtjEVo1Ds.m3u8"
+  },
+  {
+    "id": 2357,
+    "username": "jkt48_lia",
+    "creator_name": "Lia JKT48",
+    "title": "IDNNN",
+    "live_at": "Selasa, 18 Agustus 2026 pukul 12.24.27 WIB",
+    "live_at_unix": 1787030667,
+    "image_url": "https://cdn.idn.app/livestream/6c808fd17b55cff2a15cd25151cc6938.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
   }
 ]

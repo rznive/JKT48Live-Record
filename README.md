@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2357 | <img src="https://cdn.idn.app/livestream/6c808fd17b55cff2a15cd25151cc6938.webp" width="170"> | Lia JKT48 | IDNNN | Selasa, 18 Agustus 2026 pukul 12.24.27 WIB |
 | 2356 | <img src="https://cdn.idn.app/livestream/5db4cd1170242b2e77cf2d6aea83beda.webp" width="170"> | Erine JKT48 | diroriiiii | Senin, 17 Agustus 2026 pukul 23.01.55 WIB |
 | 2355 | <img src="https://cdn.idn.app/livestream/843f9e025b17df5f0bb71f9ae3b8665a.webp" width="170"> | Delynn JKT48 | HOLA WASSUP | Senin, 17 Agustus 2026 pukul 22.44.20 WIB |
 | 2354 | <img src="https://cdn.idn.app/livestream/f313ca1a409c42ee8a8bce35b66abc1c.webp" width="170"> | Nayla JKT48 | Mau cerita  | Senin, 17 Agustus 2026 pukul 22.24.35 WIB |
