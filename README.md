@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2376 | <img src="https://cdn.idn.app/livestream/c9e366b1ea7feb520b2c5b3996328b94.webp" width="170"> | Lily JKT48 | Haiii | Selasa, 18 Agustus 2026 pukul 22.05.10 WIB |
+| 2375 | <img src="https://cdn.idn.app/livestream/4f4c1bf26bcab7e9b80068fc1ccb7004.webp" width="170"> | Oline JKT48 | y | Selasa, 18 Agustus 2026 pukul 22.00.05 WIB |
+| 2374 | <img src="https://cdn.idn.app/livestream/a771961bc83057be9370f73ab8fd2ec0.webp" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Selasa, 18 Agustus 2026 pukul 21.58.37 WIB |
 | 2373 | <img src="https://cdn.idn.app/livestream/9ee0d2433f5e5e8d21e5fc0ea2c9bce7.webp" width="170"> | Giaa JKT48 | lomba | Selasa, 18 Agustus 2026 pukul 21.42.32 WIB |
 | 2372 | <img src="https://cdn.idn.app/livestream/72022ee455dc09eb43959ee7295b606f.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Selasa, 18 Agustus 2026 pukul 21.30.46 WIB |
 | 2371 | <img src="https://cdn.idn.app/livestream/a8a81c47ec9025368160c1e36d84375a.webp" width="170"> | Nachia JKT48 | yaaa | Selasa, 18 Agustus 2026 pukul 20.45.18 WIB |
