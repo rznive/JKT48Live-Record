@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2392 | <img src="https://cdn.idn.app/livestream/28bd8128f23a6e935f452a0ac33ba08f.webp" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Rabu, 19 Agustus 2026 pukul 21.00.58 WIB |
+| 2391 | <img src="https://cdn.idn.app/livestream/233f9a79b63c812ecefdab54f617b74e.webp" width="170"> | Auwia JKT48 | Tmnin | Rabu, 19 Agustus 2026 pukul 20.56.48 WIB |
+| 2390 | <img src="https://cdn.idn.app/livestream/dabe72ce6bda89adfb86d979f39530e5.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Rabu, 19 Agustus 2026 pukul 20.56.40 WIB |
+| 2389 | <img src="https://cdn.idn.app/livestream/0bae70bad21a0743c9c241d3b224f10e.webp" width="170"> | Ribka JKT48 | Hi | Rabu, 19 Agustus 2026 pukul 20.42.17 WIB |
+| 2388 | <img src="https://cdn.idn.app/livestream/90ceceb09660147486d8365c50322031.webp" width="170"> | Muthe JKT48 | Hi | Rabu, 19 Agustus 2026 pukul 20.40.30 WIB |
 | 2387 | <img src="https://cdn.idn.app/livestream/93655ba7f39d565f1f0fd36b5a285646.webp" width="170"> | Kathrina JKT48 | Lol | Rabu, 19 Agustus 2026 pukul 20.34.05 WIB |
 | 2386 | <img src="https://cdn.idn.app/livestream/9f4ac147fbff8bb32f53e03b757920e2.webp" width="170"> | Intan JKT48 | hi | Rabu, 19 Agustus 2026 pukul 20.01.19 WIB |
 | 2385 | <img src="https://cdn.idn.app/livestream/8e83ef9fce8b09460d1aa6033ede6366.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Rabu, 19 Agustus 2026 pukul 19.25.12 WIB |
