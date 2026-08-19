@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2382 | <img src="https://cdn.idn.app/livestream/425897a4389d2c3403fc6393b1512c94.webp" width="170"> | Gita JKT48 | Gits | Rabu, 19 Agustus 2026 pukul 12.43.51 WIB |
 | 2381 | <img src="https://cdn.idn.app/livestream/e813b022df13019cda200288e069ace1.webp" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Rabu, 19 Agustus 2026 pukul 12.06.17 WIB |
 | 2380 | <img src="https://cdn.idn.app/livestream/88bb1811be6018a491b140f37caacb48.webp" width="170"> | Oline JKT48 | y | Selasa, 18 Agustus 2026 pukul 23.02.28 WIB |
 | 2379 | <img src="https://cdn.idn.app/livestream/612198ed51cca72585d387ebd455e174.webp" width="170"> | Trisha JKT48 | haaai | Selasa, 18 Agustus 2026 pukul 22.44.22 WIB |
