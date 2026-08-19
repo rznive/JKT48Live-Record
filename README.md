@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2398 | <img src="https://cdn.idn.app/livestream/427d328382de72fb9f26e5665f8d3e07.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 19 Agustus 2026 pukul 21.47.59 WIB |
+| 2397 | <img src="https://cdn.idn.app/livestream/8e73b769786f69b6a61e4c0c9cd3959c.webp" width="170"> | Anindya JKT48 | makan | Rabu, 19 Agustus 2026 pukul 21.40.44 WIB |
+| 2396 | <img src="https://cdn.idn.app/livestream/8b1d4d0b85f4a06813b14723dd2dde34.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Rabu, 19 Agustus 2026 pukul 21.39.29 WIB |
+| 2395 | <img src="https://cdn.idn.app/livestream/4e53219d88f45671f8c6cf20d2e91329.webp" width="170"> | Levi JKT48 | hai | Rabu, 19 Agustus 2026 pukul 21.25.53 WIB |
+| 2394 | <img src="https://cdn.idn.app/livestream/69cd1dc6b0534d005aefd0321d6885a3.webp" width="170"> | Delynn JKT48 | Hai | Rabu, 19 Agustus 2026 pukul 21.22.31 WIB |
+| 2393 | <img src="https://cdn.idn.app/livestream/35c64d8fad8f47b0882bbd80a834ffa6.webp" width="170"> | Gracie JKT48 | hiii | Rabu, 19 Agustus 2026 pukul 21.16.44 WIB |
 | 2392 | <img src="https://cdn.idn.app/livestream/28bd8128f23a6e935f452a0ac33ba08f.webp" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Rabu, 19 Agustus 2026 pukul 21.00.58 WIB |
 | 2391 | <img src="https://cdn.idn.app/livestream/233f9a79b63c812ecefdab54f617b74e.webp" width="170"> | Auwia JKT48 | Tmnin | Rabu, 19 Agustus 2026 pukul 20.56.48 WIB |
 | 2390 | <img src="https://cdn.idn.app/livestream/dabe72ce6bda89adfb86d979f39530e5.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Rabu, 19 Agustus 2026 pukul 20.56.40 WIB |
