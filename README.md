@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2385 | <img src="https://cdn.idn.app/livestream/8e83ef9fce8b09460d1aa6033ede6366.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Rabu, 19 Agustus 2026 pukul 19.25.12 WIB |
 | 2384 | <img src="https://cdn.idn.app/livestream/7fec62d98355715e7aebafe216161388.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Rabu, 19 Agustus 2026 pukul 15.48.38 WIB |
 | 2383 | <img src="https://cdn.idn.app/livestream/93ac6cba13402a8f51ed55fd3da9f7ba.webp" width="170"> | Fritzy JKT48 | helloo | Rabu, 19 Agustus 2026 pukul 15.13.06 WIB |
 | 2382 | <img src="https://cdn.idn.app/livestream/425897a4389d2c3403fc6393b1512c94.webp" width="170"> | Gita JKT48 | Gits | Rabu, 19 Agustus 2026 pukul 12.43.51 WIB |
