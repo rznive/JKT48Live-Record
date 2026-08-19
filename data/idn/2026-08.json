@@ -3368,5 +3368,25 @@
     "live_at_unix": 1787142312,
     "image_url": "https://cdn.idn.app/livestream/8e83ef9fce8b09460d1aa6033ede6366.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8"
+  },
+  {
+    "id": 2386,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "hi",
+    "live_at": "Rabu, 19 Agustus 2026 pukul 20.01.19 WIB",
+    "live_at_unix": 1787144479,
+    "image_url": "https://cdn.idn.app/livestream/9f4ac147fbff8bb32f53e03b757920e2.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 2387,
+    "username": "jkt48_kathrina",
+    "creator_name": "Kathrina JKT48",
+    "title": "Lol",
+    "live_at": "Rabu, 19 Agustus 2026 pukul 20.34.05 WIB",
+    "live_at_unix": 1787146445,
+    "image_url": "https://cdn.idn.app/livestream/93655ba7f39d565f1f0fd36b5a285646.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
   }
 ]
