@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2401 | <img src="https://cdn.idn.app/livestream/9f9457f003eba1492c7fb087297613d0.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Rabu, 19 Agustus 2026 pukul 22.48.01 WIB |
+| 2400 | <img src="https://cdn.idn.app/livestream/e2d55624374551a10679d155056a937d.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Rabu, 19 Agustus 2026 pukul 22.39.04 WIB |
 | 2399 | <img src="https://cdn.idn.app/livestream/03882ff8aac47b9054d47e41a5d0de5b.webp" width="170"> | Oline JKT48 | y | Rabu, 19 Agustus 2026 pukul 22.00.42 WIB |
 | 2398 | <img src="https://cdn.idn.app/livestream/427d328382de72fb9f26e5665f8d3e07.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 19 Agustus 2026 pukul 21.47.59 WIB |
 | 2397 | <img src="https://cdn.idn.app/livestream/8e73b769786f69b6a61e4c0c9cd3959c.webp" width="170"> | Anindya JKT48 | makan | Rabu, 19 Agustus 2026 pukul 21.40.44 WIB |

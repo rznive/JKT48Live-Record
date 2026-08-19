@@ -3508,5 +3508,25 @@
     "live_at_unix": 1787151642,
     "image_url": "https://cdn.idn.app/livestream/03882ff8aac47b9054d47e41a5d0de5b.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gYN6fQPMCqs0.m3u8"
+  },
+  {
+    "id": 2400,
+    "username": "jkt48_olla",
+    "creator_name": "Olla JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 19 Agustus 2026 pukul 22.39.04 WIB",
+    "live_at_unix": 1787153944,
+    "image_url": "https://cdn.idn.app/livestream/e2d55624374551a10679d155056a937d.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8"
+  },
+  {
+    "id": 2401,
+    "username": "jkt48_lyn",
+    "creator_name": "Lyn JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 19 Agustus 2026 pukul 22.48.01 WIB",
+    "live_at_unix": 1787154481,
+    "image_url": "https://cdn.idn.app/livestream/9f9457f003eba1492c7fb087297613d0.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8"
   }
 ]
