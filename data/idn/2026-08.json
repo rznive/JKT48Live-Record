@@ -3548,5 +3548,15 @@
     "live_at_unix": 1787210423,
     "image_url": "https://cdn.idn.app/livestream/1ea2bb705cbcdabfa3ebf2d2aca6134e.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 2404,
+    "username": "jkt48_oline",
+    "creator_name": "Oline JKT48",
+    "title": "y",
+    "live_at": "Kamis, 20 Agustus 2026 pukul 18.59.30 WIB",
+    "live_at_unix": 1787227170,
+    "image_url": "https://cdn.idn.app/livestream/3ddd6ecbee06be34648f2520d8664f05.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gYN6fQPMCqs0.m3u8"
   }
 ]
