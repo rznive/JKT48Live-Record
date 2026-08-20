@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2419 | <img src="https://cdn.idn.app/livestream/d6607a43b16d538abdc3f3da3472036e.webp" width="170"> | Michie JKT48 | hi | Kamis, 20 Agustus 2026 pukul 23.20.06 WIB |
 | 2418 | <img src="https://cdn.idn.app/livestream/ef6fb7f1a819d1dd06e3e3ab25f9558b.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 20 Agustus 2026 pukul 22.48.31 WIB |
 | 2417 | <img src="https://cdn.idn.app/livestream/6e3ab1e8faeaee11737d69ed644ecb0e.webp" width="170"> | Jessi JKT48 | wwle | Kamis, 20 Agustus 2026 pukul 22.29.00 WIB |
 | 2416 | <img src="https://cdn.idn.app/livestream/e0f8e5de8297f24aebe96b262ce9726f.webp" width="170"> | Gita JKT48 | Gits | Kamis, 20 Agustus 2026 pukul 22.25.26 WIB |
