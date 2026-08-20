@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2406 | <img src="https://cdn.idn.app/livestream/c72b6b73b78c977d73560b1c0389f2a6.webp" width="170"> | Levi JKT48 | hai | Kamis, 20 Agustus 2026 pukul 19.33.31 WIB |
+| 2405 | <img src="https://cdn.idn.app/livestream/cc967bc060b99b2a0a3d32a54dcba8fa.webp" width="170"> | Nachia JKT48 | yaaa | Kamis, 20 Agustus 2026 pukul 19.12.35 WIB |
 | 2404 | <img src="https://cdn.idn.app/livestream/3ddd6ecbee06be34648f2520d8664f05.webp" width="170"> | Oline JKT48 | y | Kamis, 20 Agustus 2026 pukul 18.59.30 WIB |
 | 2403 | <img src="https://cdn.idn.app/livestream/1ea2bb705cbcdabfa3ebf2d2aca6134e.webp" width="170"> | Oniel JKT48 | saya kembali | Kamis, 20 Agustus 2026 pukul 14.20.23 WIB |
 | 2402 | <img src="https://cdn.idn.app/livestream/c27c9a785184069b0e861269d17c7036.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 19 Agustus 2026 pukul 23.00.50 WIB |
