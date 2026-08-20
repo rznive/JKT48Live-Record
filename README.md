@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2407 | <img src="https://cdn.idn.app/livestream/6da8faaab12ce3fe3e394783808ac7ce.webp" width="170"> | Greesel JKT48 | :D | Kamis, 20 Agustus 2026 pukul 20.25.47 WIB |
 | 2406 | <img src="https://cdn.idn.app/livestream/c72b6b73b78c977d73560b1c0389f2a6.webp" width="170"> | Levi JKT48 | hai | Kamis, 20 Agustus 2026 pukul 19.33.31 WIB |
 | 2405 | <img src="https://cdn.idn.app/livestream/cc967bc060b99b2a0a3d32a54dcba8fa.webp" width="170"> | Nachia JKT48 | yaaa | Kamis, 20 Agustus 2026 pukul 19.12.35 WIB |
 | 2404 | <img src="https://cdn.idn.app/livestream/3ddd6ecbee06be34648f2520d8664f05.webp" width="170"> | Oline JKT48 | y | Kamis, 20 Agustus 2026 pukul 18.59.30 WIB |
