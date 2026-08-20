@@ -3668,5 +3668,35 @@
     "live_at_unix": 1787238990,
     "image_url": "https://cdn.idn.app/livestream/7863771abe3335302fc62f18c3ac3ec8.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8"
+  },
+  {
+    "id": 2416,
+    "username": "jkt48_gita",
+    "creator_name": "Gita JKT48",
+    "title": "Gits",
+    "live_at": "Kamis, 20 Agustus 2026 pukul 22.25.26 WIB",
+    "live_at_unix": 1787239526,
+    "image_url": "https://cdn.idn.app/livestream/e0f8e5de8297f24aebe96b262ce9726f.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.k4fAFOYXENlG.m3u8"
+  },
+  {
+    "id": 2417,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "wwle",
+    "live_at": "Kamis, 20 Agustus 2026 pukul 22.29.00 WIB",
+    "live_at_unix": 1787239740,
+    "image_url": "https://cdn.idn.app/livestream/6e3ab1e8faeaee11737d69ed644ecb0e.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 2418,
+    "username": "jkt48_cynthia",
+    "creator_name": "Cynthia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 20 Agustus 2026 pukul 22.48.31 WIB",
+    "live_at_unix": 1787240911,
+    "image_url": "https://cdn.idn.app/livestream/ef6fb7f1a819d1dd06e3e3ab25f9558b.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
   }
 ]

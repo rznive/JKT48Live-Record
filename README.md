@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2418 | <img src="https://cdn.idn.app/livestream/ef6fb7f1a819d1dd06e3e3ab25f9558b.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 20 Agustus 2026 pukul 22.48.31 WIB |
+| 2417 | <img src="https://cdn.idn.app/livestream/6e3ab1e8faeaee11737d69ed644ecb0e.webp" width="170"> | Jessi JKT48 | wwle | Kamis, 20 Agustus 2026 pukul 22.29.00 WIB |
+| 2416 | <img src="https://cdn.idn.app/livestream/e0f8e5de8297f24aebe96b262ce9726f.webp" width="170"> | Gita JKT48 | Gits | Kamis, 20 Agustus 2026 pukul 22.25.26 WIB |
 | 2415 | <img src="https://cdn.idn.app/livestream/7863771abe3335302fc62f18c3ac3ec8.webp" width="170"> | Anindya JKT48 | makan | Kamis, 20 Agustus 2026 pukul 22.16.30 WIB |
 | 2414 | <img src="https://cdn.idn.app/livestream/c27f6726ff3417ec7fbb7d3627136e1f.webp" width="170"> | Eli JKT48 | BEBAS | Kamis, 20 Agustus 2026 pukul 22.13.55 WIB |
 | 2413 | <img src="https://cdn.idn.app/livestream/40426ce3e8e1ff94a75d76fdc1d745cc.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Kamis, 20 Agustus 2026 pukul 22.08.36 WIB |
