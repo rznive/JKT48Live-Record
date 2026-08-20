@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2410 | <img src="https://cdn.idn.app/livestream/8b394743eef8f450fe699f5c1e567270.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 20 Agustus 2026 pukul 21.44.44 WIB |
 | 2409 | <img src="https://cdn.idn.app/livestream/113dc61d8291948470e8189966db3b0f.webp" width="170"> | Gracie JKT48 | hiii | Kamis, 20 Agustus 2026 pukul 21.15.00 WIB |
 | 2408 | <img src="https://cdn.idn.app/livestream/27b5ccde4267b3fa223066676aa1a85b.webp" width="170"> | Lana JKT48 | Hi | Kamis, 20 Agustus 2026 pukul 21.14.36 WIB |
 | 2407 | <img src="https://cdn.idn.app/livestream/6da8faaab12ce3fe3e394783808ac7ce.webp" width="170"> | Greesel JKT48 | :D | Kamis, 20 Agustus 2026 pukul 20.25.47 WIB |
