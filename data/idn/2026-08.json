@@ -3618,5 +3618,55 @@
     "live_at_unix": 1787237084,
     "image_url": "https://cdn.idn.app/livestream/8b394743eef8f450fe699f5c1e567270.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8"
+  },
+  {
+    "id": 2411,
+    "username": "jkt48_lia",
+    "creator_name": "Lia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 20 Agustus 2026 pukul 22.00.21 WIB",
+    "live_at_unix": 1787238021,
+    "image_url": "https://cdn.idn.app/livestream/e14ec164e2fd94754f58d6000f377419.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 2412,
+    "username": "jkt48_alya",
+    "creator_name": "Alya JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 20 Agustus 2026 pukul 22.08.33 WIB",
+    "live_at_unix": 1787238513,
+    "image_url": "https://cdn.idn.app/livestream/1a285218b7acd2916d5d43c3bc73743f.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sLZkhRvMutd4.m3u8"
+  },
+  {
+    "id": 2413,
+    "username": "jkt48_indah",
+    "creator_name": "Indah JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 20 Agustus 2026 pukul 22.08.36 WIB",
+    "live_at_unix": 1787238516,
+    "image_url": "https://cdn.idn.app/livestream/40426ce3e8e1ff94a75d76fdc1d745cc.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oKpAUHJSe6RM.m3u8"
+  },
+  {
+    "id": 2414,
+    "username": "jkt48_eli",
+    "creator_name": "Eli JKT48",
+    "title": "BEBAS",
+    "live_at": "Kamis, 20 Agustus 2026 pukul 22.13.55 WIB",
+    "live_at_unix": 1787238835,
+    "image_url": "https://cdn.idn.app/livestream/c27f6726ff3417ec7fbb7d3627136e1f.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8"
+  },
+  {
+    "id": 2415,
+    "username": "jkt48_anindya",
+    "creator_name": "Anindya JKT48",
+    "title": "makan",
+    "live_at": "Kamis, 20 Agustus 2026 pukul 22.16.30 WIB",
+    "live_at_unix": 1787238990,
+    "image_url": "https://cdn.idn.app/livestream/7863771abe3335302fc62f18c3ac3ec8.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8"
   }
 ]

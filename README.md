@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2415 | <img src="https://cdn.idn.app/livestream/7863771abe3335302fc62f18c3ac3ec8.webp" width="170"> | Anindya JKT48 | makan | Kamis, 20 Agustus 2026 pukul 22.16.30 WIB |
+| 2414 | <img src="https://cdn.idn.app/livestream/c27f6726ff3417ec7fbb7d3627136e1f.webp" width="170"> | Eli JKT48 | BEBAS | Kamis, 20 Agustus 2026 pukul 22.13.55 WIB |
+| 2413 | <img src="https://cdn.idn.app/livestream/40426ce3e8e1ff94a75d76fdc1d745cc.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Kamis, 20 Agustus 2026 pukul 22.08.36 WIB |
+| 2412 | <img src="https://cdn.idn.app/livestream/1a285218b7acd2916d5d43c3bc73743f.webp" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Kamis, 20 Agustus 2026 pukul 22.08.33 WIB |
+| 2411 | <img src="https://cdn.idn.app/livestream/e14ec164e2fd94754f58d6000f377419.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Kamis, 20 Agustus 2026 pukul 22.00.21 WIB |
 | 2410 | <img src="https://cdn.idn.app/livestream/8b394743eef8f450fe699f5c1e567270.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 20 Agustus 2026 pukul 21.44.44 WIB |
 | 2409 | <img src="https://cdn.idn.app/livestream/113dc61d8291948470e8189966db3b0f.webp" width="170"> | Gracie JKT48 | hiii | Kamis, 20 Agustus 2026 pukul 21.15.00 WIB |
 | 2408 | <img src="https://cdn.idn.app/livestream/27b5ccde4267b3fa223066676aa1a85b.webp" width="170"> | Lana JKT48 | Hi | Kamis, 20 Agustus 2026 pukul 21.14.36 WIB |
