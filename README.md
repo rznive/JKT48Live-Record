@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2433 | <img src="https://cdn.idn.app/livestream/b41a7496e834c5ea2b0dff53f14ff814.webp" width="170"> | Nala JKT48 | yooo | Jumat, 21 Agustus 2026 pukul 23.46.29 WIB |
+| 2432 | <img src="https://cdn.idn.app/livestream/9d64193e93c3d9d9b9963f8fe3a4b526.webp" width="170"> | Nayla JKT48 | Pyon pyon  | Jumat, 21 Agustus 2026 pukul 23.45.49 WIB |
+| 2431 | <img src="https://cdn.idn.app/livestream/9c8c27e8b3a87a783fa42f139cb9b206.webp" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Jumat, 21 Agustus 2026 pukul 23.45.18 WIB |
+| 2430 | <img src="https://cdn.idn.app/livestream/c897634b56ced012822be78a3740d9ae.webp" width="170"> | Oline JKT48 | y | Jumat, 21 Agustus 2026 pukul 23.43.55 WIB |
 | 2429 | <img src="https://cdn.idn.app/livestream/2699e5ec92242796d41fa6af0079c5e2.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Jumat, 21 Agustus 2026 pukul 21.33.03 WIB |
 | 2428 | <img src="https://cdn.idn.app/livestream/bfaf30c581e1eaafa2e3162085b18b79.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Jumat, 21 Agustus 2026 pukul 21.32.27 WIB |
 | 2427 | <img src="https://cdn.idn.app/livestream/6b8a59a0006ef4c3bfc4f75107e53bb3.webp" width="170"> | Daisy JKT48 | berenangg | Jumat, 21 Agustus 2026 pukul 21.32.23 WIB |

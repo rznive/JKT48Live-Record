@@ -3808,5 +3808,45 @@
     "live_at_unix": 1787322783,
     "image_url": "https://cdn.idn.app/livestream/2699e5ec92242796d41fa6af0079c5e2.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
+  },
+  {
+    "id": 2430,
+    "username": "jkt48_oline",
+    "creator_name": "Oline JKT48",
+    "title": "y",
+    "live_at": "Jumat, 21 Agustus 2026 pukul 23.43.55 WIB",
+    "live_at_unix": 1787330635,
+    "image_url": "https://cdn.idn.app/livestream/c897634b56ced012822be78a3740d9ae.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gYN6fQPMCqs0.m3u8"
+  },
+  {
+    "id": 2431,
+    "username": "jkt48_levi",
+    "creator_name": "Levi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 21 Agustus 2026 pukul 23.45.18 WIB",
+    "live_at_unix": 1787330718,
+    "image_url": "https://cdn.idn.app/livestream/9c8c27e8b3a87a783fa42f139cb9b206.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 2432,
+    "username": "jkt48_nayla",
+    "creator_name": "Nayla JKT48",
+    "title": "Pyon pyon ",
+    "live_at": "Jumat, 21 Agustus 2026 pukul 23.45.49 WIB",
+    "live_at_unix": 1787330749,
+    "image_url": "https://cdn.idn.app/livestream/9d64193e93c3d9d9b9963f8fe3a4b526.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.s29ur0XkIpE2.m3u8"
+  },
+  {
+    "id": 2433,
+    "username": "jkt48_nala",
+    "creator_name": "Nala JKT48",
+    "title": "yooo",
+    "live_at": "Jumat, 21 Agustus 2026 pukul 23.46.29 WIB",
+    "live_at_unix": 1787330789,
+    "image_url": "https://cdn.idn.app/livestream/b41a7496e834c5ea2b0dff53f14ff814.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.nCPKiODqPEOs.m3u8"
   }
 ]
