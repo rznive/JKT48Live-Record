@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2425 | <img src="https://cdn.idn.app/livestream/13ec03284a559e547db37d1cb88922bc.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 21 Agustus 2026 pukul 21.18.13 WIB |
+| 2424 | <img src="https://cdn.idn.app/livestream/4749bcb683a9512da2be391defd4fbaf.webp" width="170"> | Fritzy JKT48 | hii | Jumat, 21 Agustus 2026 pukul 21.06.21 WIB |
 | 2423 | <img src="https://cdn.idn.app/livestream/46c526909e44499629a8e13b4bafa7d0.webp" width="170"> | Ribka JKT48 | Hi | Jumat, 21 Agustus 2026 pukul 18.20.08 WIB |
 | 2422 | <img src="https://cdn.idn.app/livestream/d9196c22582f73963f8f775ee5e3cc71.webp" width="170"> | Kathrina JKT48 | Yyy | Jumat, 21 Agustus 2026 pukul 17.52.30 WIB |
 | 2421 | <img src="https://cdn.idn.app/livestream/dc126468d436c33ffa2249b38656925d.webp" width="170"> | Elin JKT48 | Hii mau brewek | Jumat, 21 Agustus 2026 pukul 14.54.10 WIB |
