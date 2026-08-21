@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2422 | <img src="https://cdn.idn.app/livestream/d9196c22582f73963f8f775ee5e3cc71.webp" width="170"> | Kathrina JKT48 | Yyy | Jumat, 21 Agustus 2026 pukul 17.52.30 WIB |
 | 2421 | <img src="https://cdn.idn.app/livestream/dc126468d436c33ffa2249b38656925d.webp" width="170"> | Elin JKT48 | Hii mau brewek | Jumat, 21 Agustus 2026 pukul 14.54.10 WIB |
 | 2420 | <img src="https://cdn.idn.app/livestream/a35a6326b3f6c38d88ddc20696962637.webp" width="170"> | Lily JKT48 | Hello grwm | Jumat, 21 Agustus 2026 pukul 13.04.48 WIB |
 | 2419 | <img src="https://cdn.idn.app/livestream/d6607a43b16d538abdc3f3da3472036e.webp" width="170"> | Michie JKT48 | hi | Kamis, 20 Agustus 2026 pukul 23.20.06 WIB |
