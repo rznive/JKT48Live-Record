@@ -3768,5 +3768,45 @@
     "live_at_unix": 1787321893,
     "image_url": "https://cdn.idn.app/livestream/13ec03284a559e547db37d1cb88922bc.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 2426,
+    "username": "jkt48_alya",
+    "creator_name": "Alya JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 21 Agustus 2026 pukul 21.30.10 WIB",
+    "live_at_unix": 1787322610,
+    "image_url": "https://cdn.idn.app/livestream/dceb43afb6148714660c8e63885d8b38.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sLZkhRvMutd4.m3u8"
+  },
+  {
+    "id": 2427,
+    "username": "jkt48_daisy",
+    "creator_name": "Daisy JKT48",
+    "title": "berenangg",
+    "live_at": "Jumat, 21 Agustus 2026 pukul 21.32.23 WIB",
+    "live_at_unix": 1787322743,
+    "image_url": "https://cdn.idn.app/livestream/6b8a59a0006ef4c3bfc4f75107e53bb3.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
+  },
+  {
+    "id": 2428,
+    "username": "jkt48_mikaela",
+    "creator_name": "Mikaela JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 21 Agustus 2026 pukul 21.32.27 WIB",
+    "live_at_unix": 1787322747,
+    "image_url": "https://cdn.idn.app/livestream/bfaf30c581e1eaafa2e3162085b18b79.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
+  },
+  {
+    "id": 2429,
+    "username": "jkt48_danella",
+    "creator_name": "Danella JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 21 Agustus 2026 pukul 21.33.03 WIB",
+    "live_at_unix": 1787322783,
+    "image_url": "https://cdn.idn.app/livestream/2699e5ec92242796d41fa6af0079c5e2.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
   }
 ]
