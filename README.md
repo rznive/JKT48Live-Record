@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2447 | <img src="https://cdn.idn.app/livestream/af7a29d4307f1464af0b45704f32d05e.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Sabtu, 22 Agustus 2026 pukul 19.18.08 WIB |
+| 2446 | <img src="https://cdn.idn.app/livestream/504f67e132a42b5508184d897529ca3a.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Sabtu, 22 Agustus 2026 pukul 19.15.41 WIB |
+| 2445 | <img src="https://cdn.idn.app/livestream/be50b6b52cc38a40f2d9ee7fdd550af4.webp" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Sabtu, 22 Agustus 2026 pukul 19.15.26 WIB |
 | 2444 | <img src="https://cdn.idn.app/livestream/26ac9dff69c6d2f362a957ee19d3373c.webp" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Sabtu, 22 Agustus 2026 pukul 16.43.58 WIB |
 | 2443 | <img src="https://cdn.idn.app/livestream/952ddea8847b471e7021b6c60cd6a193.webp" width="170"> | Nayla JKT48 | Sama Kaka kakaa | Sabtu, 22 Agustus 2026 pukul 16.41.34 WIB |
 | 2442 | <img src="https://cdn.idn.app/livestream/20ba94eb40a1500f903373c1bc04feeb.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Sabtu, 22 Agustus 2026 pukul 16.40.27 WIB |
