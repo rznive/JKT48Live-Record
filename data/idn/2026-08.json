@@ -3988,5 +3988,15 @@
     "live_at_unix": 1787401088,
     "image_url": "https://cdn.idn.app/livestream/af7a29d4307f1464af0b45704f32d05e.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 2448,
+    "username": "jkt48_trisha",
+    "creator_name": "Trisha JKT48",
+    "title": "haai",
+    "live_at": "Sabtu, 22 Agustus 2026 pukul 19.45.50 WIB",
+    "live_at_unix": 1787402750,
+    "image_url": "https://cdn.idn.app/livestream/5ab0da7be05b8c201597c42d1596f9c3.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GwR4g1NQnJzJ.m3u8"
   }
 ]
