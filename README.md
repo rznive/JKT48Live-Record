@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2436 | <img src="https://cdn.idn.app/livestream/604c898a96bc1bd62d50960918f38b53.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Sabtu, 22 Agustus 2026 pukul 15.28.55 WIB |
 | 2435 | <img src="https://cdn.idn.app/livestream/98d458251ad61068967391e1d29c2117.webp" width="170"> | Daisy JKT48 | Hai | Jumat, 21 Agustus 2026 pukul 23.54.05 WIB |
 | 2434 | <img src="https://cdn.idn.app/livestream/fe99909cd17dd5e07d3ac581e9bf1ddc.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Jumat, 21 Agustus 2026 pukul 23.54.01 WIB |
 | 2433 | <img src="https://cdn.idn.app/livestream/b41a7496e834c5ea2b0dff53f14ff814.webp" width="170"> | Nala JKT48 | yooo | Jumat, 21 Agustus 2026 pukul 23.46.29 WIB |
