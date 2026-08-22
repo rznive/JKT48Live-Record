@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2454 | <img src="https://cdn.idn.app/livestream/d451bd6f80c44d1c60986d4f4561a166.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Sabtu, 22 Agustus 2026 pukul 23.12.59 WIB |
 | 2453 | <img src="https://cdn.idn.app/livestream/5074d2c360f713f60824d8d3d0f1b52b.webp" width="170"> | Lana JKT48 | Hi | Sabtu, 22 Agustus 2026 pukul 22.14.58 WIB |
 | 2452 | <img src="https://cdn.idn.app/livestream/35385250c8234f46e58fada771e7d3b2.webp" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Sabtu, 22 Agustus 2026 pukul 22.07.15 WIB |
 | 2451 | <img src="https://cdn.idn.app/livestream/0c20bcc2f931156e2387d161203ca819.webp" width="170"> | Gracie JKT48 | hiii | Sabtu, 22 Agustus 2026 pukul 21.48.14 WIB |
