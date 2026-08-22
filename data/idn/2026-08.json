@@ -3918,5 +3918,45 @@
     "live_at_unix": 1787390914,
     "image_url": "https://cdn.idn.app/livestream/4316ff8a408e8cf1fbcee5737e4c4cc1.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 2441,
+    "username": "jkt48_lia",
+    "creator_name": "Lia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 22 Agustus 2026 pukul 16.40.15 WIB",
+    "live_at_unix": 1787391615,
+    "image_url": "https://cdn.idn.app/livestream/12a7f72c14049ebaeb51b50778fbabc5.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 2442,
+    "username": "jkt48_indah",
+    "creator_name": "Indah JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 22 Agustus 2026 pukul 16.40.27 WIB",
+    "live_at_unix": 1787391627,
+    "image_url": "https://cdn.idn.app/livestream/20ba94eb40a1500f903373c1bc04feeb.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oKpAUHJSe6RM.m3u8"
+  },
+  {
+    "id": 2443,
+    "username": "jkt48_nayla",
+    "creator_name": "Nayla JKT48",
+    "title": "Sama Kaka kakaa",
+    "live_at": "Sabtu, 22 Agustus 2026 pukul 16.41.34 WIB",
+    "live_at_unix": 1787391694,
+    "image_url": "https://cdn.idn.app/livestream/952ddea8847b471e7021b6c60cd6a193.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.s29ur0XkIpE2.m3u8"
+  },
+  {
+    "id": 2444,
+    "username": "jkt48_alya",
+    "creator_name": "Alya JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 22 Agustus 2026 pukul 16.43.58 WIB",
+    "live_at_unix": 1787391838,
+    "image_url": "https://cdn.idn.app/livestream/26ac9dff69c6d2f362a957ee19d3373c.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sLZkhRvMutd4.m3u8"
   }
 ]

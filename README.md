@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2444 | <img src="https://cdn.idn.app/livestream/26ac9dff69c6d2f362a957ee19d3373c.webp" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Sabtu, 22 Agustus 2026 pukul 16.43.58 WIB |
+| 2443 | <img src="https://cdn.idn.app/livestream/952ddea8847b471e7021b6c60cd6a193.webp" width="170"> | Nayla JKT48 | Sama Kaka kakaa | Sabtu, 22 Agustus 2026 pukul 16.41.34 WIB |
+| 2442 | <img src="https://cdn.idn.app/livestream/20ba94eb40a1500f903373c1bc04feeb.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Sabtu, 22 Agustus 2026 pukul 16.40.27 WIB |
+| 2441 | <img src="https://cdn.idn.app/livestream/12a7f72c14049ebaeb51b50778fbabc5.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Sabtu, 22 Agustus 2026 pukul 16.40.15 WIB |
 | 2440 | <img src="https://cdn.idn.app/livestream/4316ff8a408e8cf1fbcee5737e4c4cc1.webp" width="170"> | Intan JKT48 | live sm bong | Sabtu, 22 Agustus 2026 pukul 16.28.34 WIB |
 | 2439 | <img src="https://cdn.idn.app/livestream/71f9e966354a87fef718710d38b17163.webp" width="170"> | Rilly JKT48 | Laipu | Sabtu, 22 Agustus 2026 pukul 16.28.24 WIB |
 | 2438 | <img src="https://cdn.idn.app/livestream/36c5aeee5a50b659a39f0e2c8b0e310c.webp" width="170"> | Michie JKT48 | hi | Sabtu, 22 Agustus 2026 pukul 16.12.56 WIB |
