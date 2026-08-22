@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2449 | <img src="https://cdn.idn.app/livestream/cfd2d4a6ddc6aa9dd9dbffa6a2ac77f8.webp" width="170"> | Elin JKT48 | Haiiii | Sabtu, 22 Agustus 2026 pukul 20.24.13 WIB |
 | 2448 | <img src="https://cdn.idn.app/livestream/5ab0da7be05b8c201597c42d1596f9c3.webp" width="170"> | Trisha JKT48 | haai | Sabtu, 22 Agustus 2026 pukul 19.45.50 WIB |
 | 2447 | <img src="https://cdn.idn.app/livestream/af7a29d4307f1464af0b45704f32d05e.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Sabtu, 22 Agustus 2026 pukul 19.18.08 WIB |
 | 2446 | <img src="https://cdn.idn.app/livestream/504f67e132a42b5508184d897529ca3a.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Sabtu, 22 Agustus 2026 pukul 19.15.41 WIB |
