@@ -2,6 +2,15 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2476 | <img src="https://cdn.idn.app/livestream/7d4f23b36041db38b069f0d5a8a6bd58.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 23 Agustus 2026 pukul 22.36.29 WIB |
+| 2475 | <img src="https://cdn.idn.app/livestream/73da0151dbaecb27c5aaf9e554a43d8f.webp" width="170"> | Oniel JKT48 | saya kembali | Minggu, 23 Agustus 2026 pukul 22.35.12 WIB |
+| 2474 | <img src="https://cdn.idn.app/livestream/fda024e41bfa55f6f0a7d310bae16d23.webp" width="170"> | Kathrina JKT48 | wow | Minggu, 23 Agustus 2026 pukul 22.34.52 WIB |
+| 2473 | <img src="https://cdn.idn.app/livestream/2c1ec2a43bf8e0ebe9e035c54ea56564.webp" width="170"> | Greesel JKT48 | heyooo | Minggu, 23 Agustus 2026 pukul 22.34.34 WIB |
+| 2472 | <img src="https://cdn.idn.app/livestream/0f0e0f59bd61b63db9062510959a81f3.webp" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Minggu, 23 Agustus 2026 pukul 22.34.22 WIB |
+| 2471 | <img src="https://cdn.idn.app/livestream/69acb8c76f898aa2879e588a32ffe05a.webp" width="170"> | Muthe JKT48 | Hi | Minggu, 23 Agustus 2026 pukul 22.34.08 WIB |
+| 2470 | <img src="https://cdn.idn.app/livestream/acca8ab0e5e6bd53d39f0746edb33eb0.webp" width="170"> | Ella JKT48 | aloo | Minggu, 23 Agustus 2026 pukul 22.34.01 WIB |
+| 2469 | <img src="https://cdn.idn.app/livestream/168364650f0e4ca92dc6a2f6957dbf92.webp" width="170"> | Gita JKT48 | Gits | Minggu, 23 Agustus 2026 pukul 22.33.52 WIB |
+| 2468 | <img src="https://cdn.idn.app/livestream/6267f48f5c694f1dda6ead40e045ae77.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Minggu, 23 Agustus 2026 pukul 22.33.45 WIB |
 | 2467 | <img src="https://cdn.idn.app/livestream/26e7557279eb7189f7ec354c558247d9.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 23 Agustus 2026 pukul 22.07.33 WIB |
 | 2466 | <img src="https://cdn.idn.app/livestream/601cd0613c5028a225d3e070c23c735c.webp" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Minggu, 23 Agustus 2026 pukul 21.48.50 WIB |
 | 2465 | <img src="https://cdn.idn.app/livestream/2bb39ef402b8bd05991da69fedc195b5.webp" width="170"> | Oline JKT48 | y | Minggu, 23 Agustus 2026 pukul 21.38.37 WIB |

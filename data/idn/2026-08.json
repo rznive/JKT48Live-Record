@@ -4188,5 +4188,95 @@
     "live_at_unix": 1787497653,
     "image_url": "https://cdn.idn.app/livestream/26e7557279eb7189f7ec354c558247d9.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 2468,
+    "username": "jkt48_olla",
+    "creator_name": "Olla JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 22.33.45 WIB",
+    "live_at_unix": 1787499225,
+    "image_url": "https://cdn.idn.app/livestream/6267f48f5c694f1dda6ead40e045ae77.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8"
+  },
+  {
+    "id": 2469,
+    "username": "jkt48_gita",
+    "creator_name": "Gita JKT48",
+    "title": "Gits",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 22.33.52 WIB",
+    "live_at_unix": 1787499232,
+    "image_url": "https://cdn.idn.app/livestream/168364650f0e4ca92dc6a2f6957dbf92.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.k4fAFOYXENlG.m3u8"
+  },
+  {
+    "id": 2470,
+    "username": "jkt48_ella",
+    "creator_name": "Ella JKT48",
+    "title": "aloo",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 22.34.01 WIB",
+    "live_at_unix": 1787499241,
+    "image_url": "https://cdn.idn.app/livestream/acca8ab0e5e6bd53d39f0746edb33eb0.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BDGTjOuDMTDH.m3u8"
+  },
+  {
+    "id": 2471,
+    "username": "jkt48_muthe",
+    "creator_name": "Muthe JKT48",
+    "title": "Hi",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 22.34.08 WIB",
+    "live_at_unix": 1787499248,
+    "image_url": "https://cdn.idn.app/livestream/69acb8c76f898aa2879e588a32ffe05a.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sm9AmQPkGDGS.m3u8"
+  },
+  {
+    "id": 2472,
+    "username": "jkt48_christy",
+    "creator_name": "Christy JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 22.34.22 WIB",
+    "live_at_unix": 1787499262,
+    "image_url": "https://cdn.idn.app/livestream/0f0e0f59bd61b63db9062510959a81f3.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.R4bPsdzRonL3.m3u8"
+  },
+  {
+    "id": 2473,
+    "username": "jkt48_greesel",
+    "creator_name": "Greesel JKT48",
+    "title": "heyooo",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 22.34.34 WIB",
+    "live_at_unix": 1787499274,
+    "image_url": "https://cdn.idn.app/livestream/2c1ec2a43bf8e0ebe9e035c54ea56564.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.z3nXSqOvE9Fs.m3u8"
+  },
+  {
+    "id": 2474,
+    "username": "jkt48_kathrina",
+    "creator_name": "Kathrina JKT48",
+    "title": "wow",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 22.34.52 WIB",
+    "live_at_unix": 1787499292,
+    "image_url": "https://cdn.idn.app/livestream/fda024e41bfa55f6f0a7d310bae16d23.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
+  },
+  {
+    "id": 2475,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "saya kembali",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 22.35.12 WIB",
+    "live_at_unix": 1787499312,
+    "image_url": "https://cdn.idn.app/livestream/73da0151dbaecb27c5aaf9e554a43d8f.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 2476,
+    "username": "jkt48_lia",
+    "creator_name": "Lia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 22.36.29 WIB",
+    "live_at_unix": 1787499389,
+    "image_url": "https://cdn.idn.app/livestream/7d4f23b36041db38b069f0d5a8a6bd58.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
   }
 ]
