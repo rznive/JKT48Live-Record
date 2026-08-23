@@ -4278,5 +4278,25 @@
     "live_at_unix": 1787499389,
     "image_url": "https://cdn.idn.app/livestream/7d4f23b36041db38b069f0d5a8a6bd58.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 2477,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Brewek",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 22.41.28 WIB",
+    "live_at_unix": 1787499688,
+    "image_url": "https://cdn.idn.app/livestream/e2414d697788de47dc688083022b83a5.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 2478,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Hii",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 22.43.10 WIB",
+    "live_at_unix": 1787499790,
+    "image_url": "https://cdn.idn.app/livestream/aed706e0676fb8f20cacad13154cdd54.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
   }
 ]
