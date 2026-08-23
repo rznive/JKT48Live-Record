@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2461 | <img src="https://cdn.idn.app/livestream/07ed2dc6a59a10e27197b0b63f2e733b.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Minggu, 23 Agustus 2026 pukul 21.13.39 WIB |
 | 2460 | <img src="https://cdn.idn.app/livestream/812430a0c35b3b327ed3d216b8f2dfb7.webp" width="170"> | Daisy JKT48 | Hai | Minggu, 23 Agustus 2026 pukul 19.56.33 WIB |
 | 2459 | <img src="https://cdn.idn.app/livestream/a593119f3025b58e2eb4ccdeaa932793.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Minggu, 23 Agustus 2026 pukul 19.50.23 WIB |
 | 2458 | <img src="https://cdn.idn.app/livestream/ccc119fb8097691aea7d2f362b88965b.webp" width="170"> | Nachia JKT48 | yaaa | Minggu, 23 Agustus 2026 pukul 19.21.27 WIB |
