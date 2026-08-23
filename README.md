@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2458 | <img src="https://cdn.idn.app/livestream/ccc119fb8097691aea7d2f362b88965b.webp" width="170"> | Nachia JKT48 | yaaa | Minggu, 23 Agustus 2026 pukul 19.21.27 WIB |
 | 2457 | <img src="https://cdn.idn.app/livestream/86b0d7d5357d96bc20da6bfac0405f21.webp" width="170"> | Giaa JKT48 | lomba | Minggu, 23 Agustus 2026 pukul 18.46.47 WIB |
 | 2456 | <img src="https://cdn.idn.app/livestream/75d18291e041e8a9a8f7a7987f22717f.webp" width="170"> | Aralie JKT48 | hi | Minggu, 23 Agustus 2026 pukul 13.26.59 WIB |
 | 2455 | <img src="https://cdn.idn.app/livestream/e62bae1b8644590c420171a72a291e02.webp" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Minggu, 23 Agustus 2026 pukul 00.28.29 WIB |
