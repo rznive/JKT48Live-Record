@@ -4168,5 +4168,15 @@
     "live_at_unix": 1787495917,
     "image_url": "https://cdn.idn.app/livestream/2bb39ef402b8bd05991da69fedc195b5.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gYN6fQPMCqs0.m3u8"
+  },
+  {
+    "id": 2466,
+    "username": "jkt48_levi",
+    "creator_name": "Levi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 21.48.50 WIB",
+    "live_at_unix": 1787496530,
+    "image_url": "https://cdn.idn.app/livestream/601cd0613c5028a225d3e070c23c735c.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
   }
 ]

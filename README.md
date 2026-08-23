@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2466 | <img src="https://cdn.idn.app/livestream/601cd0613c5028a225d3e070c23c735c.webp" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Minggu, 23 Agustus 2026 pukul 21.48.50 WIB |
 | 2465 | <img src="https://cdn.idn.app/livestream/2bb39ef402b8bd05991da69fedc195b5.webp" width="170"> | Oline JKT48 | y | Minggu, 23 Agustus 2026 pukul 21.38.37 WIB |
 | 2464 | <img src="https://cdn.idn.app/livestream/42bdc3c53313622a266c371ea65f43c3.webp" width="170"> | Jessi JKT48 | koneng | Minggu, 23 Agustus 2026 pukul 21.25.32 WIB |
 | 2463 | <img src="https://cdn.idn.app/livestream/ee5e07c532f50e0466003a326e217bcd.webp" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Minggu, 23 Agustus 2026 pukul 21.22.33 WIB |
