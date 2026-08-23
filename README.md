@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2481 | <img src="https://cdn.idn.app/livestream/1e75eb23aa05115d2944fa01b4ff827a.webp" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Minggu, 23 Agustus 2026 pukul 23.07.08 WIB |
+| 2480 | <img src="https://cdn.idn.app/livestream/e4379976e0693cdb7402633ab89cb03d.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Minggu, 23 Agustus 2026 pukul 23.07.02 WIB |
+| 2479 | <img src="https://cdn.idn.app/livestream/1564966ddc79492d9d2e36ffaf13eb2f.webp" width="170"> | Muthe JKT48 | Hi | Minggu, 23 Agustus 2026 pukul 23.05.18 WIB |
 | 2478 | <img src="https://cdn.idn.app/livestream/aed706e0676fb8f20cacad13154cdd54.webp" width="170"> | Lily JKT48 | Hii | Minggu, 23 Agustus 2026 pukul 22.43.10 WIB |
 | 2477 | <img src="https://cdn.idn.app/livestream/e2414d697788de47dc688083022b83a5.webp" width="170"> | Lana JKT48 | Brewek | Minggu, 23 Agustus 2026 pukul 22.41.28 WIB |
 | 2476 | <img src="https://cdn.idn.app/livestream/7d4f23b36041db38b069f0d5a8a6bd58.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 23 Agustus 2026 pukul 22.36.29 WIB |
