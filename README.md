@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2483 | <img src="https://cdn.idn.app/livestream/cc5600e40991eaec7336ba9a2d7e55cc.webp" width="170"> | Erine JKT48 | diroriiiii | Minggu, 23 Agustus 2026 pukul 23.15.33 WIB |
+| 2482 | <img src="https://cdn.idn.app/livestream/90f537eb6189e4ecf2dd1fbf5fedbaf5.webp" width="170"> | Kathrina JKT48 | wow | Minggu, 23 Agustus 2026 pukul 23.12.54 WIB |
 | 2481 | <img src="https://cdn.idn.app/livestream/1e75eb23aa05115d2944fa01b4ff827a.webp" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Minggu, 23 Agustus 2026 pukul 23.07.08 WIB |
 | 2480 | <img src="https://cdn.idn.app/livestream/e4379976e0693cdb7402633ab89cb03d.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Minggu, 23 Agustus 2026 pukul 23.07.02 WIB |
 | 2479 | <img src="https://cdn.idn.app/livestream/1564966ddc79492d9d2e36ffaf13eb2f.webp" width="170"> | Muthe JKT48 | Hi | Minggu, 23 Agustus 2026 pukul 23.05.18 WIB |

@@ -4328,5 +4328,25 @@
     "live_at_unix": 1787501228,
     "image_url": "https://cdn.idn.app/livestream/1e75eb23aa05115d2944fa01b4ff827a.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sLZkhRvMutd4.m3u8"
+  },
+  {
+    "id": 2482,
+    "username": "jkt48_kathrina",
+    "creator_name": "Kathrina JKT48",
+    "title": "wow",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 23.12.54 WIB",
+    "live_at_unix": 1787501574,
+    "image_url": "https://cdn.idn.app/livestream/90f537eb6189e4ecf2dd1fbf5fedbaf5.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
+  },
+  {
+    "id": 2483,
+    "username": "jkt48_erine",
+    "creator_name": "Erine JKT48",
+    "title": "diroriiiii",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 23.15.33 WIB",
+    "live_at_unix": 1787501733,
+    "image_url": "https://cdn.idn.app/livestream/cc5600e40991eaec7336ba9a2d7e55cc.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.0nMPtjEVo1Ds.m3u8"
   }
 ]
