@@ -4078,5 +4078,15 @@
     "live_at_unix": 1787466419,
     "image_url": "https://cdn.idn.app/livestream/75d18291e041e8a9a8f7a7987f22717f.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oxXRFBYUK9HN.m3u8"
+  },
+  {
+    "id": 2457,
+    "username": "jkt48_giaa",
+    "creator_name": "Giaa JKT48",
+    "title": "lomba",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 18.46.47 WIB",
+    "live_at_unix": 1787485607,
+    "image_url": "https://cdn.idn.app/livestream/86b0d7d5357d96bc20da6bfac0405f21.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
   }
 ]
