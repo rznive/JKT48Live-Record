@@ -4098,5 +4098,25 @@
     "live_at_unix": 1787487687,
     "image_url": "https://cdn.idn.app/livestream/ccc119fb8097691aea7d2f362b88965b.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8"
+  },
+  {
+    "id": 2459,
+    "username": "jkt48_danella",
+    "creator_name": "Danella JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 19.50.23 WIB",
+    "live_at_unix": 1787489423,
+    "image_url": "https://cdn.idn.app/livestream/a593119f3025b58e2eb4ccdeaa932793.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
+  },
+  {
+    "id": 2460,
+    "username": "jkt48_daisy",
+    "creator_name": "Daisy JKT48",
+    "title": "Hai",
+    "live_at": "Minggu, 23 Agustus 2026 pukul 19.56.33 WIB",
+    "live_at_unix": 1787489793,
+    "image_url": "https://cdn.idn.app/livestream/812430a0c35b3b327ed3d216b8f2dfb7.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
   }
 ]
