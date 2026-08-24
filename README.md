@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2488 | <img src="https://cdn.idn.app/livestream/4a7690111b3d6134b7b6911d49a16301.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Senin, 24 Agustus 2026 pukul 19.25.41 WIB |
+| 2487 | <img src="https://cdn.idn.app/livestream/b6eac98d422662aee535d67ecd9b4676.webp" width="170"> | Jessi JKT48 | halo | Senin, 24 Agustus 2026 pukul 19.04.25 WIB |
 | 2486 | <img src="https://cdn.idn.app/livestream/2f94978a49895d8ac768469db10ab4b3.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Senin, 24 Agustus 2026 pukul 17.41.14 WIB |
 | 2485 | <img src="https://cdn.idn.app/livestream/ee16109465287aa442893f022d6618b0.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 24 Agustus 2026 pukul 17.32.20 WIB |
 | 2484 | <img src="https://cdn.idn.app/livestream/558b3ca1e8d933bfb071995fb612f486.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Senin, 24 Agustus 2026 pukul 17.10.14 WIB |
