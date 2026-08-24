@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2496 | <img src="https://cdn.idn.app/livestream/04cd917a754297b34c4895f3ea205956.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 24 Agustus 2026 pukul 20.50.15 WIB |
+| 2495 | <img src="https://cdn.idn.app/livestream/5b26dbacbb9454813c2839ed41880ab0.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Senin, 24 Agustus 2026 pukul 20.44.04 WIB |
+| 2494 | <img src="https://cdn.idn.app/livestream/3abddfaacc090c6e0db99093802ac702.webp" width="170"> | Kathrina JKT48 | Hi | Senin, 24 Agustus 2026 pukul 20.43.49 WIB |
+| 2493 | <img src="https://cdn.idn.app/livestream/ce281fe0ac05bdc256b6374b88552a71.webp" width="170"> | Elin JKT48 | Haiiii | Senin, 24 Agustus 2026 pukul 20.43.15 WIB |
+| 2492 | <img src="https://cdn.idn.app/livestream/0b2816993c70af11730449fb99af7da4.webp" width="170"> | Daisy JKT48 | Hai | Senin, 24 Agustus 2026 pukul 20.40.55 WIB |
+| 2491 | <img src="https://cdn.idn.app/livestream/426e29e71d8113e0200c64d870bdac03.webp" width="170"> | Oniel JKT48 | Ayo ngobrol bareng! | Senin, 24 Agustus 2026 pukul 20.34.59 WIB |
 | 2490 | <img src="https://cdn.idn.app/livestream/3618b7521f5461ff01b1992aedd0fa66.webp" width="170"> | Anindya JKT48 | cerita apaya | Senin, 24 Agustus 2026 pukul 19.52.21 WIB |
 | 2489 | <img src="https://cdn.idn.app/livestream/569deb51016dbec7cb10ae3fe18da74b.webp" width="170"> | Intan JKT48 | hoi | Senin, 24 Agustus 2026 pukul 19.33.19 WIB |
 | 2488 | <img src="https://cdn.idn.app/livestream/4a7690111b3d6134b7b6911d49a16301.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Senin, 24 Agustus 2026 pukul 19.25.41 WIB |
