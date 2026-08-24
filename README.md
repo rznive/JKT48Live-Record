@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2502 | <img src="https://cdn.idn.app/livestream/64fd6c7c551960d2f1f8e91dc9266009.webp" width="170"> | Lana JKT48 | Pika pika | Senin, 24 Agustus 2026 pukul 22.27.10 WIB |
+| 2501 | <img src="https://cdn.idn.app/livestream/ec0834065eb4651294868aaa05430bb0.webp" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Senin, 24 Agustus 2026 pukul 22.23.54 WIB |
+| 2500 | <img src="https://cdn.idn.app/livestream/5457bfbc0acc11bcd182e7df8cebd4b6.webp" width="170"> | Giaa JKT48 | bosen bgt gatau mau ngapain | Senin, 24 Agustus 2026 pukul 22.19.37 WIB |
+| 2499 | <img src="https://cdn.idn.app/livestream/7e2dbb549f11d9b3aba1ccba77fc21ba.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Senin, 24 Agustus 2026 pukul 22.02.16 WIB |
 | 2498 | <img src="https://cdn.idn.app/livestream/75066cf9568800667d42775dc034991c.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 24 Agustus 2026 pukul 21.44.20 WIB |
 | 2497 | <img src="https://cdn.idn.app/livestream/0691047266d883819fe00def48ced41a.webp" width="170"> | Gracie JKT48 | hiii | Senin, 24 Agustus 2026 pukul 21.14.33 WIB |
 | 2496 | <img src="https://cdn.idn.app/livestream/04cd917a754297b34c4895f3ea205956.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 24 Agustus 2026 pukul 20.50.15 WIB |
