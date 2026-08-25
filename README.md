@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2527 | <img src="https://cdn.idn.app/livestream/f6e670dcdf1a65efc337c1b6a6abf1e4.webp" width="170"> | Lily JKT48 | Hai | Selasa, 25 Agustus 2026 pukul 22.03.33 WIB |
+| 2526 | <img src="https://cdn.idn.app/livestream/31326d1a70986d8472fe027c9ca399ef.webp" width="170"> | Rilly JKT48 | NGOBSSS | Selasa, 25 Agustus 2026 pukul 21.52.44 WIB |
+| 2525 | <img src="https://cdn.idn.app/livestream/a5cf528a536ab74d173b19d5f7da2cac.webp" width="170"> | Nachia JKT48 | yaaa | Selasa, 25 Agustus 2026 pukul 21.26.06 WIB |
+| 2524 | <img src="https://cdn.idn.app/livestream/2d0ba19dfa27889172a3474c3bcf927e.webp" width="170"> | Anindya JKT48 | hi | Selasa, 25 Agustus 2026 pukul 21.24.51 WIB |
 | 2523 | <img src="https://cdn.idn.app/livestream/331558a5b4145e7842091ab94c07096b.webp" width="170"> | Anindya JKT48 | halo!!!! | Selasa, 25 Agustus 2026 pukul 21.18.56 WIB |
 | 2522 | <img src="https://cdn.idn.app/livestream/cef9a26ed909255284f97bf19d2cc674.webp" width="170"> | Gracie JKT48 | hiii | Selasa, 25 Agustus 2026 pukul 21.14.00 WIB |
 | 2521 | <img src="https://cdn.idn.app/livestream/bd552dd3777794e43d18fea89300048e.webp" width="170"> | Jessi JKT48 | halo | Selasa, 25 Agustus 2026 pukul 20.29.41 WIB |
