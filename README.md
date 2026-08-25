@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2521 | <img src="https://cdn.idn.app/livestream/bd552dd3777794e43d18fea89300048e.webp" width="170"> | Jessi JKT48 | halo | Selasa, 25 Agustus 2026 pukul 20.29.41 WIB |
+| 2520 | <img src="https://cdn.idn.app/livestream/b5537d6f38de2a8963907ce68584d2fa.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Selasa, 25 Agustus 2026 pukul 20.27.14 WIB |
+| 2519 | <img src="https://cdn.idn.app/livestream/c17cc0013a0f53d4411ae1db50deeae2.webp" width="170"> | Delynn JKT48 | hi | Selasa, 25 Agustus 2026 pukul 20.10.27 WIB |
+| 2518 | <img src="https://cdn.idn.app/livestream/1353f7733390b498c4409244bd3f20ef.webp" width="170"> | Daisy JKT48 | Hai | Selasa, 25 Agustus 2026 pukul 20.09.19 WIB |
+| 2517 | <img src="https://cdn.idn.app/livestream/92971f31858ea0f37bbc2125cfdddf9d.webp" width="170"> | Gita JKT48 | Gits | Selasa, 25 Agustus 2026 pukul 20.08.29 WIB |
+| 2516 | <img src="https://cdn.idn.app/livestream/19077aed620a678595fe2f693b98d4ac.webp" width="170"> | Ella JKT48 | aloo | Selasa, 25 Agustus 2026 pukul 20.07.26 WIB |
+| 2515 | <img src="https://cdn.idn.app/livestream/c40d008262489aed33b2f60f6c7ed8e0.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Selasa, 25 Agustus 2026 pukul 20.06.54 WIB |
 | 2514 | <img src="https://cdn.idn.app/livestream/7dd26efd83b440eea528f96ae8cd2e2a.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Selasa, 25 Agustus 2026 pukul 16.45.35 WIB |
 | 2513 | <img src="https://cdn.idn.app/livestream/5fe660f05686ce29ccb443fb6479bcbc.webp" width="170"> | Giaa JKT48 | maemm | Selasa, 25 Agustus 2026 pukul 16.43.34 WIB |
 | 2512 | <img src="https://cdn.idn.app/livestream/55196d87cb76f58368eb870c82168174.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 25 Agustus 2026 pukul 16.43.19 WIB |
