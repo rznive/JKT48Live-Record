@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2508 | <img src="https://cdn.idn.app/livestream/6269968ba5a1e6f79a8f2bd6e7e153be.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Selasa, 25 Agustus 2026 pukul 14.42.51 WIB |
 | 2507 | <img src="https://cdn.idn.app/livestream/b7d258dfcc256c9110d6b345ea379f08.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Selasa, 25 Agustus 2026 pukul 13.51.20 WIB |
 | 2506 | <img src="https://cdn.idn.app/livestream/7517ea4f1e50e88e269bf03bdca7ad2a.webp" width="170"> | Aralie JKT48 | hi | Selasa, 25 Agustus 2026 pukul 13.47.32 WIB |
 | 2505 | <img src="https://cdn.idn.app/livestream/55df86bfd9b5742a87082f5880856de2.webp" width="170"> | Elin JKT48 | Hiii siap siap vc | Selasa, 25 Agustus 2026 pukul 13.34.43 WIB |
