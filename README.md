@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2523 | <img src="https://cdn.idn.app/livestream/331558a5b4145e7842091ab94c07096b.webp" width="170"> | Anindya JKT48 | halo!!!! | Selasa, 25 Agustus 2026 pukul 21.18.56 WIB |
+| 2522 | <img src="https://cdn.idn.app/livestream/cef9a26ed909255284f97bf19d2cc674.webp" width="170"> | Gracie JKT48 | hiii | Selasa, 25 Agustus 2026 pukul 21.14.00 WIB |
 | 2521 | <img src="https://cdn.idn.app/livestream/bd552dd3777794e43d18fea89300048e.webp" width="170"> | Jessi JKT48 | halo | Selasa, 25 Agustus 2026 pukul 20.29.41 WIB |
 | 2520 | <img src="https://cdn.idn.app/livestream/b5537d6f38de2a8963907ce68584d2fa.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Selasa, 25 Agustus 2026 pukul 20.27.14 WIB |
 | 2519 | <img src="https://cdn.idn.app/livestream/c17cc0013a0f53d4411ae1db50deeae2.webp" width="170"> | Delynn JKT48 | hi | Selasa, 25 Agustus 2026 pukul 20.10.27 WIB |
