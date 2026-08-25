@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2514 | <img src="https://cdn.idn.app/livestream/7dd26efd83b440eea528f96ae8cd2e2a.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Selasa, 25 Agustus 2026 pukul 16.45.35 WIB |
+| 2513 | <img src="https://cdn.idn.app/livestream/5fe660f05686ce29ccb443fb6479bcbc.webp" width="170"> | Giaa JKT48 | maemm | Selasa, 25 Agustus 2026 pukul 16.43.34 WIB |
+| 2512 | <img src="https://cdn.idn.app/livestream/55196d87cb76f58368eb870c82168174.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 25 Agustus 2026 pukul 16.43.19 WIB |
+| 2511 | <img src="https://cdn.idn.app/livestream/ee1d38197b7d6516e43f4c01eb576597.webp" width="170"> | Greesel JKT48 | heyooo | Selasa, 25 Agustus 2026 pukul 16.21.35 WIB |
+| 2509 | <img src="https://cdn.idn.app/livestream/484e475c36d69de6af5243d1a38f34f9.webp" width="170"> | Nala JKT48 | yooo | Selasa, 25 Agustus 2026 pukul 16.21.09 WIB |
+| 2510 | <img src="https://cdn.idn.app/livestream/d019b02fbf507b88295718b3923ea6e5.webp" width="170"> | Oline JKT48 | y | Selasa, 25 Agustus 2026 pukul 16.21.09 WIB |
 | 2508 | <img src="https://cdn.idn.app/livestream/6269968ba5a1e6f79a8f2bd6e7e153be.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Selasa, 25 Agustus 2026 pukul 14.42.51 WIB |
 | 2507 | <img src="https://cdn.idn.app/livestream/b7d258dfcc256c9110d6b345ea379f08.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Selasa, 25 Agustus 2026 pukul 13.51.20 WIB |
 | 2506 | <img src="https://cdn.idn.app/livestream/7517ea4f1e50e88e269bf03bdca7ad2a.webp" width="170"> | Aralie JKT48 | hi | Selasa, 25 Agustus 2026 pukul 13.47.32 WIB |
