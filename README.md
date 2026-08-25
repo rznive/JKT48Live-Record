@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2504 | <img src="https://cdn.idn.app/livestream/9ed3bbc9ed6b26b8f3030645de105e7b.webp" width="170"> | Oniel JKT48 | saya kembali | Selasa, 25 Agustus 2026 pukul 12.37.11 WIB |
 | 2503 | <img src="https://cdn.idn.app/livestream/cf041b382f0856b6b5c6874702939245.webp" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Senin, 24 Agustus 2026 pukul 22.35.25 WIB |
 | 2502 | <img src="https://cdn.idn.app/livestream/64fd6c7c551960d2f1f8e91dc9266009.webp" width="170"> | Lana JKT48 | Pika pika | Senin, 24 Agustus 2026 pukul 22.27.10 WIB |
 | 2501 | <img src="https://cdn.idn.app/livestream/ec0834065eb4651294868aaa05430bb0.webp" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Senin, 24 Agustus 2026 pukul 22.23.54 WIB |
