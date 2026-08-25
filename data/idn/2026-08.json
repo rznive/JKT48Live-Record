@@ -4558,5 +4558,15 @@
     "live_at_unix": 1787636231,
     "image_url": "https://cdn.idn.app/livestream/9ed3bbc9ed6b26b8f3030645de105e7b.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 2505,
+    "username": "jkt48_elin",
+    "creator_name": "Elin JKT48",
+    "title": "Hiii siap siap vc",
+    "live_at": "Selasa, 25 Agustus 2026 pukul 13.34.43 WIB",
+    "live_at_unix": 1787639683,
+    "image_url": "https://cdn.idn.app/livestream/55df86bfd9b5742a87082f5880856de2.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
   }
 ]
