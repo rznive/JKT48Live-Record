@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2538 | <img src="https://cdn.idn.app/livestream/10d03df0eb6ecf0fe30890c003b46401.webp" width="170"> | Erine JKT48 | diroriiiii | Rabu, 26 Agustus 2026 pukul 16.09.11 WIB |
+| 2537 | <img src="https://cdn.idn.app/livestream/ddc58ecda9815c655183ef494ac678d7.webp" width="170"> | Muthe JKT48 | Hi | Rabu, 26 Agustus 2026 pukul 16.09.08 WIB |
+| 2536 | <img src="https://cdn.idn.app/livestream/fba1f78f78a184285eabff0cbf9240d4.webp" width="170"> | Jessi JKT48 | hai | Rabu, 26 Agustus 2026 pukul 16.08.55 WIB |
 | 2535 | <img src="https://cdn.idn.app/livestream/5ba10e5a783f065530d2c1dea045af16.webp" width="170"> | JKT48 | TEMEN MAIN EP.4!!!! OPERASI 17AN | Rabu, 26 Agustus 2026 pukul 15.34.44 WIB |
 | 2534 | <img src="https://cdn.idn.app/livestream/6dac76b4e53b897f9b6efa88f7254447.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 15.26.06 WIB |
 | 2532 | <img src="https://cdn.idn.app/livestream/d64e3aba452f629ee95fed32c5d43f00.webp" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 14.58.50 WIB |
