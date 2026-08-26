@@ -4818,5 +4818,35 @@
     "live_at_unix": 1787672252,
     "image_url": "https://cdn.idn.app/livestream/b793cfdb97ed81a20164aab765dec0c3.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8"
+  },
+  {
+    "id": 2531,
+    "username": "jkt48_anindya",
+    "creator_name": "Anindya JKT48",
+    "title": "halo!!!!",
+    "live_at": "Rabu, 26 Agustus 2026 pukul 14.53.07 WIB",
+    "live_at_unix": 1787730787,
+    "image_url": "https://cdn.idn.app/livestream/ec724de9da4ab2a69c9934ccdf13c403.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8"
+  },
+  {
+    "id": 2532,
+    "username": "jkt48_nayla",
+    "creator_name": "Nayla JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 26 Agustus 2026 pukul 14.58.50 WIB",
+    "live_at_unix": 1787731130,
+    "image_url": "https://cdn.idn.app/livestream/d64e3aba452f629ee95fed32c5d43f00.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.s29ur0XkIpE2.m3u8"
+  },
+  {
+    "id": 2533,
+    "username": "jkt48-official",
+    "creator_name": "JKT48",
+    "title": "TEMEN MAIN EP.4!!!! OPERASI 17AN",
+    "live_at": "Rabu, 26 Agustus 2026 pukul 14.52.20 WIB",
+    "live_at_unix": 1787730740,
+    "image_url": "https://cdn.idn.app/livestream/5ba10e5a783f065530d2c1dea045af16.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4idUspKIZskG.m3u8"
   }
 ]

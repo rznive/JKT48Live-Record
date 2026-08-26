@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2532 | <img src="https://cdn.idn.app/livestream/d64e3aba452f629ee95fed32c5d43f00.webp" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 14.58.50 WIB |
+| 2531 | <img src="https://cdn.idn.app/livestream/ec724de9da4ab2a69c9934ccdf13c403.webp" width="170"> | Anindya JKT48 | halo!!!! | Rabu, 26 Agustus 2026 pukul 14.53.07 WIB |
+| 2533 | <img src="https://cdn.idn.app/livestream/5ba10e5a783f065530d2c1dea045af16.webp" width="170"> | JKT48 | TEMEN MAIN EP.4!!!! OPERASI 17AN | Rabu, 26 Agustus 2026 pukul 14.52.20 WIB |
 | 2530 | <img src="https://cdn.idn.app/livestream/b793cfdb97ed81a20164aab765dec0c3.webp" width="170"> | Levi JKT48 | hai | Selasa, 25 Agustus 2026 pukul 22.37.32 WIB |
 | 2529 | <img src="https://cdn.idn.app/livestream/a5fa05dbedaf882b7e2119082b7f31c7.webp" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Selasa, 25 Agustus 2026 pukul 22.26.13 WIB |
 | 2528 | <img src="https://cdn.idn.app/livestream/13c597082a0749c8f1d3566bb5ca2b63.webp" width="170"> | Michie JKT48 | hi | Selasa, 25 Agustus 2026 pukul 22.17.41 WIB |
