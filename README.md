@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2545 | <img src="https://cdn.idn.app/livestream/f2feceba330c1cf8ea589892e2e7416d.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 18.08.31 WIB |
+| 2544 | <img src="https://cdn.idn.app/livestream/86eaa9bd66a352b8705ec8edf412ea27.webp" width="170"> | Gracie JKT48 | hiii | Rabu, 26 Agustus 2026 pukul 18.07.40 WIB |
+| 2543 | <img src="https://cdn.idn.app/livestream/bad48602086720ab5f27fba04b910686.webp" width="170"> | Michie JKT48 | hi | Rabu, 26 Agustus 2026 pukul 18.06.42 WIB |
 | 2542 | <img src="https://cdn.idn.app/livestream/d682cbc709f40712becdec624d444b65.webp" width="170"> | Lily JKT48 | Hi | Rabu, 26 Agustus 2026 pukul 17.43.30 WIB |
 | 2541 | <img src="https://cdn.idn.app/livestream/e11f5df1ebfca3f679942e48c3a5ae74.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 16.59.21 WIB |
 | 2540 | <img src="https://cdn.idn.app/livestream/c5c2742e0b7260581c5b1905a4726e54.webp" width="170"> | Lana JKT48 | Haii | Rabu, 26 Agustus 2026 pukul 16.52.28 WIB |
