@@ -5038,5 +5038,75 @@
     "live_at_unix": 1787754342,
     "image_url": "https://cdn.idn.app/livestream/0a99045d940a8ddd1cb30455218a79bc.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 2553,
+    "username": "jkt48_nala",
+    "creator_name": "Nala JKT48",
+    "title": "yooo",
+    "live_at": "Rabu, 26 Agustus 2026 pukul 22.02.22 WIB",
+    "live_at_unix": 1787756542,
+    "image_url": "https://cdn.idn.app/livestream/15bd890d9b6dc4a99a899dccb43c30ab.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.nCPKiODqPEOs.m3u8"
+  },
+  {
+    "id": 2554,
+    "username": "jkt48_danella",
+    "creator_name": "Danella JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 26 Agustus 2026 pukul 22.04.59 WIB",
+    "live_at_unix": 1787756699,
+    "image_url": "https://cdn.idn.app/livestream/6f591d4a3561e44caf85b96e0c0022be.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
+  },
+  {
+    "id": 2555,
+    "username": "jkt48_daisy",
+    "creator_name": "Daisy JKT48",
+    "title": "Hai",
+    "live_at": "Rabu, 26 Agustus 2026 pukul 22.06.28 WIB",
+    "live_at_unix": 1787756788,
+    "image_url": "https://cdn.idn.app/livestream/3c4d7671aaa1e553e41c7c074ac62bb1.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
+  },
+  {
+    "id": 2556,
+    "username": "jkt48_ekin",
+    "creator_name": "Ekin JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 26 Agustus 2026 pukul 22.09.48 WIB",
+    "live_at_unix": 1787756988,
+    "image_url": "https://cdn.idn.app/livestream/a0f7d8ac6ea9816888b4c8c26f7cd0d9.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
+  },
+  {
+    "id": 2557,
+    "username": "jkt48_rilly",
+    "creator_name": "Rilly JKT48",
+    "title": "NGOBSSS",
+    "live_at": "Rabu, 26 Agustus 2026 pukul 22.24.00 WIB",
+    "live_at_unix": 1787757840,
+    "image_url": "https://cdn.idn.app/livestream/2dddd5ce1618eeac87dbd43d5d293c09.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 2558,
+    "username": "jkt48_mikaela",
+    "creator_name": "Mikaela JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 26 Agustus 2026 pukul 22.25.29 WIB",
+    "live_at_unix": 1787757929,
+    "image_url": "https://cdn.idn.app/livestream/7b2eff6f698299e8cade572d784beb27.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
+  },
+  {
+    "id": 2559,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Hii",
+    "live_at": "Rabu, 26 Agustus 2026 pukul 22.56.20 WIB",
+    "live_at_unix": 1787759780,
+    "image_url": "https://cdn.idn.app/livestream/10cec9bc672f23b24e00d33be1641a5f.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
   }
 ]

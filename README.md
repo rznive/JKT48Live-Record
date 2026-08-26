@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2559 | <img src="https://cdn.idn.app/livestream/10cec9bc672f23b24e00d33be1641a5f.webp" width="170"> | Lana JKT48 | Hii | Rabu, 26 Agustus 2026 pukul 22.56.20 WIB |
+| 2558 | <img src="https://cdn.idn.app/livestream/7b2eff6f698299e8cade572d784beb27.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 22.25.29 WIB |
+| 2557 | <img src="https://cdn.idn.app/livestream/2dddd5ce1618eeac87dbd43d5d293c09.webp" width="170"> | Rilly JKT48 | NGOBSSS | Rabu, 26 Agustus 2026 pukul 22.24.00 WIB |
+| 2556 | <img src="https://cdn.idn.app/livestream/a0f7d8ac6ea9816888b4c8c26f7cd0d9.webp" width="170"> | Ekin JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 22.09.48 WIB |
+| 2555 | <img src="https://cdn.idn.app/livestream/3c4d7671aaa1e553e41c7c074ac62bb1.webp" width="170"> | Daisy JKT48 | Hai | Rabu, 26 Agustus 2026 pukul 22.06.28 WIB |
+| 2554 | <img src="https://cdn.idn.app/livestream/6f591d4a3561e44caf85b96e0c0022be.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 22.04.59 WIB |
+| 2553 | <img src="https://cdn.idn.app/livestream/15bd890d9b6dc4a99a899dccb43c30ab.webp" width="170"> | Nala JKT48 | yooo | Rabu, 26 Agustus 2026 pukul 22.02.22 WIB |
 | 2552 | <img src="https://cdn.idn.app/livestream/0a99045d940a8ddd1cb30455218a79bc.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 21.25.42 WIB |
 | 2551 | <img src="https://cdn.idn.app/livestream/9676bf207138e890444eb5208d312e40.webp" width="170"> | Trisha JKT48 | haai | Rabu, 26 Agustus 2026 pukul 21.12.45 WIB |
 | 2550 | <img src="https://cdn.idn.app/livestream/ccebde2c1b89886deff7125de0bb4246.webp" width="170"> | Nachia JKT48 | yaaa | Rabu, 26 Agustus 2026 pukul 21.05.04 WIB |
