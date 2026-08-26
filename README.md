@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2541 | <img src="https://cdn.idn.app/livestream/e11f5df1ebfca3f679942e48c3a5ae74.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 16.59.21 WIB |
+| 2540 | <img src="https://cdn.idn.app/livestream/c5c2742e0b7260581c5b1905a4726e54.webp" width="170"> | Lana JKT48 | Haii | Rabu, 26 Agustus 2026 pukul 16.52.28 WIB |
+| 2539 | <img src="https://cdn.idn.app/livestream/dc0225aee25a30c23d3f471bc6549d5c.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 16.48.10 WIB |
 | 2538 | <img src="https://cdn.idn.app/livestream/10d03df0eb6ecf0fe30890c003b46401.webp" width="170"> | Erine JKT48 | diroriiiii | Rabu, 26 Agustus 2026 pukul 16.09.11 WIB |
 | 2537 | <img src="https://cdn.idn.app/livestream/ddc58ecda9815c655183ef494ac678d7.webp" width="170"> | Muthe JKT48 | Hi | Rabu, 26 Agustus 2026 pukul 16.09.08 WIB |
 | 2536 | <img src="https://cdn.idn.app/livestream/fba1f78f78a184285eabff0cbf9240d4.webp" width="170"> | Jessi JKT48 | hai | Rabu, 26 Agustus 2026 pukul 16.08.55 WIB |
