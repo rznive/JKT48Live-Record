@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2542 | <img src="https://cdn.idn.app/livestream/d682cbc709f40712becdec624d444b65.webp" width="170"> | Lily JKT48 | Hi | Rabu, 26 Agustus 2026 pukul 17.43.30 WIB |
 | 2541 | <img src="https://cdn.idn.app/livestream/e11f5df1ebfca3f679942e48c3a5ae74.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 16.59.21 WIB |
 | 2540 | <img src="https://cdn.idn.app/livestream/c5c2742e0b7260581c5b1905a4726e54.webp" width="170"> | Lana JKT48 | Haii | Rabu, 26 Agustus 2026 pukul 16.52.28 WIB |
 | 2539 | <img src="https://cdn.idn.app/livestream/dc0225aee25a30c23d3f471bc6549d5c.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 16.48.10 WIB |
