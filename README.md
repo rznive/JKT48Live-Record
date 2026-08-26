@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2552 | <img src="https://cdn.idn.app/livestream/0a99045d940a8ddd1cb30455218a79bc.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 21.25.42 WIB |
+| 2551 | <img src="https://cdn.idn.app/livestream/9676bf207138e890444eb5208d312e40.webp" width="170"> | Trisha JKT48 | haai | Rabu, 26 Agustus 2026 pukul 21.12.45 WIB |
+| 2550 | <img src="https://cdn.idn.app/livestream/ccebde2c1b89886deff7125de0bb4246.webp" width="170"> | Nachia JKT48 | yaaa | Rabu, 26 Agustus 2026 pukul 21.05.04 WIB |
 | 2549 | <img src="https://cdn.idn.app/livestream/2c1ab821e7138153d093029ce543a7fb.webp" width="170"> | Fritzy JKT48 | gi apaa | Rabu, 26 Agustus 2026 pukul 20.33.27 WIB |
 | 2548 | <img src="https://cdn.idn.app/livestream/c896a23ec413f10295af53d5be8f2e19.webp" width="170"> | Intan JKT48 | bikin slimeee | Rabu, 26 Agustus 2026 pukul 19.20.42 WIB |
 | 2547 | <img src="https://cdn.idn.app/livestream/df812040539bd0fe7b1c65376b056cd2.webp" width="170"> | Lily JKT48 | Tesss | Rabu, 26 Agustus 2026 pukul 18.46.40 WIB |
