@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2535 | <img src="https://cdn.idn.app/livestream/5ba10e5a783f065530d2c1dea045af16.webp" width="170"> | JKT48 | TEMEN MAIN EP.4!!!! OPERASI 17AN | Rabu, 26 Agustus 2026 pukul 15.34.44 WIB |
+| 2534 | <img src="https://cdn.idn.app/livestream/6dac76b4e53b897f9b6efa88f7254447.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 15.26.06 WIB |
 | 2532 | <img src="https://cdn.idn.app/livestream/d64e3aba452f629ee95fed32c5d43f00.webp" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 14.58.50 WIB |
 | 2531 | <img src="https://cdn.idn.app/livestream/ec724de9da4ab2a69c9934ccdf13c403.webp" width="170"> | Anindya JKT48 | halo!!!! | Rabu, 26 Agustus 2026 pukul 14.53.07 WIB |
 | 2533 | <img src="https://cdn.idn.app/livestream/5ba10e5a783f065530d2c1dea045af16.webp" width="170"> | JKT48 | TEMEN MAIN EP.4!!!! OPERASI 17AN | Rabu, 26 Agustus 2026 pukul 14.52.20 WIB |
