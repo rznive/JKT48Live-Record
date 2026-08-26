@@ -4998,5 +4998,15 @@
     "live_at_unix": 1787746842,
     "image_url": "https://cdn.idn.app/livestream/c896a23ec413f10295af53d5be8f2e19.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 2549,
+    "username": "jkt48_fritzy",
+    "creator_name": "Fritzy JKT48",
+    "title": "gi apaa",
+    "live_at": "Rabu, 26 Agustus 2026 pukul 20.33.27 WIB",
+    "live_at_unix": 1787751207,
+    "image_url": "https://cdn.idn.app/livestream/2c1ab821e7138153d093029ce543a7fb.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
   }
 ]
