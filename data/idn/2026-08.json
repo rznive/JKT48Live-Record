@@ -4978,5 +4978,15 @@
     "live_at_unix": 1787744532,
     "image_url": "https://cdn.idn.app/livestream/b25e8ba7a2fb3a36b0c20204bd164559.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8"
+  },
+  {
+    "id": 2547,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Tesss",
+    "live_at": "Rabu, 26 Agustus 2026 pukul 18.46.40 WIB",
+    "live_at_unix": 1787744800,
+    "image_url": "https://cdn.idn.app/livestream/df812040539bd0fe7b1c65376b056cd2.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
   }
 ]
