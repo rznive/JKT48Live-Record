@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2560 | <img src="https://cdn.idn.app/livestream/19986023233d9543fcc6b027d2d01af3.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 23.18.36 WIB |
 | 2559 | <img src="https://cdn.idn.app/livestream/10cec9bc672f23b24e00d33be1641a5f.webp" width="170"> | Lana JKT48 | Hii | Rabu, 26 Agustus 2026 pukul 22.56.20 WIB |
 | 2558 | <img src="https://cdn.idn.app/livestream/7b2eff6f698299e8cade572d784beb27.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 22.25.29 WIB |
 | 2557 | <img src="https://cdn.idn.app/livestream/2dddd5ce1618eeac87dbd43d5d293c09.webp" width="170"> | Rilly JKT48 | NGOBSSS | Rabu, 26 Agustus 2026 pukul 22.24.00 WIB |

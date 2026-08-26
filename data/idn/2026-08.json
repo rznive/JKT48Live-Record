@@ -5108,5 +5108,15 @@
     "live_at_unix": 1787759780,
     "image_url": "https://cdn.idn.app/livestream/10cec9bc672f23b24e00d33be1641a5f.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 2560,
+    "username": "jkt48_raisha",
+    "creator_name": "Raisha JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 26 Agustus 2026 pukul 23.18.36 WIB",
+    "live_at_unix": 1787761116,
+    "image_url": "https://cdn.idn.app/livestream/19986023233d9543fcc6b027d2d01af3.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.rjVZYmbffgGE.m3u8"
   }
 ]
