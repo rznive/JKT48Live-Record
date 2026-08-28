@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2564 | <img src="https://cdn.idn.app/livestream/10163bff93f3d904f0db90f44d7a00a3.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 28 Agustus 2026 pukul 19.07.51 WIB |
+| 2563 | <img src="https://cdn.idn.app/livestream/6f226defcb5b47bc32efff3ca920ef7f.webp" width="170"> | Intan JKT48 | p | Jumat, 28 Agustus 2026 pukul 19.07.49 WIB |
+| 2562 | <img src="https://cdn.idn.app/livestream/49dbc8ddfc2b37856f90596a28947ac0.webp" width="170"> | Giaa JKT48 | p | Jumat, 28 Agustus 2026 pukul 19.07.46 WIB |
+| 2561 | <img src="https://cdn.idn.app/livestream/8a88d26e9c4dd216ec8724ed0ee2fa99.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Jumat, 28 Agustus 2026 pukul 19.07.23 WIB |
 | 2560 | <img src="https://cdn.idn.app/livestream/19986023233d9543fcc6b027d2d01af3.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 23.18.36 WIB |
 | 2559 | <img src="https://cdn.idn.app/livestream/10cec9bc672f23b24e00d33be1641a5f.webp" width="170"> | Lana JKT48 | Hii | Rabu, 26 Agustus 2026 pukul 22.56.20 WIB |
 | 2558 | <img src="https://cdn.idn.app/livestream/7b2eff6f698299e8cade572d784beb27.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 26 Agustus 2026 pukul 22.25.29 WIB |

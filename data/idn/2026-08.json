@@ -5118,5 +5118,45 @@
     "live_at_unix": 1787761116,
     "image_url": "https://cdn.idn.app/livestream/19986023233d9543fcc6b027d2d01af3.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.rjVZYmbffgGE.m3u8"
+  },
+  {
+    "id": 2561,
+    "username": "jkt48_virgi",
+    "creator_name": "Virgi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 28 Agustus 2026 pukul 19.07.23 WIB",
+    "live_at_unix": 1787918843,
+    "image_url": "https://cdn.idn.app/livestream/8a88d26e9c4dd216ec8724ed0ee2fa99.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8"
+  },
+  {
+    "id": 2562,
+    "username": "jkt48_giaa",
+    "creator_name": "Giaa JKT48",
+    "title": "p",
+    "live_at": "Jumat, 28 Agustus 2026 pukul 19.07.46 WIB",
+    "live_at_unix": 1787918866,
+    "image_url": "https://cdn.idn.app/livestream/49dbc8ddfc2b37856f90596a28947ac0.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
+  },
+  {
+    "id": 2563,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "p",
+    "live_at": "Jumat, 28 Agustus 2026 pukul 19.07.49 WIB",
+    "live_at_unix": 1787918869,
+    "image_url": "https://cdn.idn.app/livestream/6f226defcb5b47bc32efff3ca920ef7f.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 2564,
+    "username": "jkt48_jemima",
+    "creator_name": "Jemima JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 28 Agustus 2026 pukul 19.07.51 WIB",
+    "live_at_unix": 1787918871,
+    "image_url": "https://cdn.idn.app/livestream/10163bff93f3d904f0db90f44d7a00a3.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
   }
 ]
