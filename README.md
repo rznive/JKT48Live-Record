@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2569 | <img src="https://cdn.idn.app/livestream/f11b29e027f9ded39cb061b61528f1f2.webp" width="170"> | Nayla JKT48 | Malam  | Minggu, 30 Agustus 2026 pukul 00.45.31 WIB |
 | 2568 | <img src="https://cdn.idn.app/livestream/91905733c7c3993f53ec7b2ecae84478.webp" width="170"> | Nala JKT48 | yooo | Sabtu, 29 Agustus 2026 pukul 17.26.20 WIB |
 | 2567 | <img src="https://cdn.idn.app/livestream/201d14a7094f49c641d4d9b8019dc5ec.webp" width="170"> | Aralie JKT48 | hi | Sabtu, 29 Agustus 2026 pukul 17.20.21 WIB |
 | 2566 | <img src="https://cdn.idn.app/livestream/4e8ee1a4162eadc9d1f3c67e865d3a18.webp" width="170"> | Greesel JKT48 | mamm | Sabtu, 29 Agustus 2026 pukul 17.14.31 WIB |
