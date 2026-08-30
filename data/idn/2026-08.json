@@ -5238,5 +5238,25 @@
     "live_at_unix": 1788089692,
     "image_url": "https://cdn.idn.app/livestream/59d6e03efdabb5e3a074bdc27343df64.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.s29ur0XkIpE2.m3u8"
+  },
+  {
+    "id": 2573,
+    "username": "jkt48_daisy",
+    "creator_name": "Daisy JKT48",
+    "title": "Hai",
+    "live_at": "Minggu, 30 Agustus 2026 pukul 23.24.56 WIB",
+    "live_at_unix": 1788107096,
+    "image_url": "https://cdn.idn.app/livestream/6f4d6a59ccdafe0259b805d36d208b35.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8"
+  },
+  {
+    "id": 2574,
+    "username": "jkt48_elin",
+    "creator_name": "Elin JKT48",
+    "title": "Hiiii",
+    "live_at": "Minggu, 30 Agustus 2026 pukul 23.25.07 WIB",
+    "live_at_unix": 1788107107,
+    "image_url": "https://cdn.idn.app/livestream/24b4d299087b8ab0bd47d895f0fc3c0f.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
   }
 ]

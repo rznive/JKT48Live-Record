@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2574 | <img src="https://cdn.idn.app/livestream/24b4d299087b8ab0bd47d895f0fc3c0f.webp" width="170"> | Elin JKT48 | Hiiii | Minggu, 30 Agustus 2026 pukul 23.25.07 WIB |
+| 2573 | <img src="https://cdn.idn.app/livestream/6f4d6a59ccdafe0259b805d36d208b35.webp" width="170"> | Daisy JKT48 | Hai | Minggu, 30 Agustus 2026 pukul 23.24.56 WIB |
 | 2572 | <img src="https://cdn.idn.app/livestream/59d6e03efdabb5e3a074bdc27343df64.webp" width="170"> | Nayla JKT48 | N3 | Minggu, 30 Agustus 2026 pukul 18.34.52 WIB |
 | 2571 | <img src="https://cdn.idn.app/livestream/5d0353db1e75cde4e382933c98c23fc0.webp" width="170"> | Nala JKT48 | yooo | Minggu, 30 Agustus 2026 pukul 18.34.11 WIB |
 | 2570 | <img src="https://cdn.idn.app/livestream/16ca1cc3576621904cae3f32ed45a67b.webp" width="170"> | Aralie JKT48 | hi | Minggu, 30 Agustus 2026 pukul 13.07.48 WIB |
