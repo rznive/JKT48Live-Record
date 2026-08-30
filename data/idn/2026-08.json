@@ -5208,5 +5208,15 @@
     "live_at_unix": 1788025531,
     "image_url": "https://cdn.idn.app/livestream/f11b29e027f9ded39cb061b61528f1f2.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.s29ur0XkIpE2.m3u8"
+  },
+  {
+    "id": 2570,
+    "username": "jkt48_aralie",
+    "creator_name": "Aralie JKT48",
+    "title": "hi",
+    "live_at": "Minggu, 30 Agustus 2026 pukul 13.07.48 WIB",
+    "live_at_unix": 1788070068,
+    "image_url": "https://cdn.idn.app/livestream/16ca1cc3576621904cae3f32ed45a67b.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oxXRFBYUK9HN.m3u8"
   }
 ]
