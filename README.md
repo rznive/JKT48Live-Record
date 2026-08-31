@@ -2,6 +2,15 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2583 | <img src="https://cdn.idn.app/livestream/31ce8098bd784ad5348b0f9bf829325b.webp" width="170"> | Intan JKT48 | karaoke | Senin, 31 Agustus 2026 pukul 17.07.20 WIB |
+| 2582 | <img src="https://cdn.idn.app/livestream/c26691fdae1cf8fce4740c97b8b1151f.webp" width="170"> | Giaa JKT48 | ayooo‼️‼️ | Senin, 31 Agustus 2026 pukul 17.07.00 WIB |
+| 2581 | <img src="https://cdn.idn.app/livestream/facffb1596c7e2040f49afaa3ed2909c.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 31 Agustus 2026 pukul 17.06.48 WIB |
+| 2580 | <img src="https://cdn.idn.app/livestream/3ba09fe98b1a4784e71fcb4b11c49e33.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 31 Agustus 2026 pukul 17.06.43 WIB |
+| 2579 | <img src="https://cdn.idn.app/livestream/7f11d591568cabe9e6375913bacbb93e.webp" width="170"> | Ekin JKT48 | karaokeee | Senin, 31 Agustus 2026 pukul 17.06.42 WIB |
+| 2578 | <img src="https://cdn.idn.app/livestream/a71c96627d65ceb5e983462fa3cf0646.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 31 Agustus 2026 pukul 17.06.40 WIB |
+| 2577 | <img src="https://cdn.idn.app/livestream/2ed1f4e1929513ff36fce2661382cd68.webp" width="170"> | Rilly JKT48 | Laipu | Senin, 31 Agustus 2026 pukul 17.06.30 WIB |
+| 2576 | <img src="https://cdn.idn.app/livestream/070eaec9f144e7a128035fb23f588b9a.webp" width="170"> | Maira JKT48 | Let’s go!!! | Senin, 31 Agustus 2026 pukul 17.06.15 WIB |
+| 2575 | <img src="https://cdn.idn.app/livestream/933dfaf53fb76805f12dcd1c11e7f9a1.webp" width="170"> | Nayla JKT48 | Jalan jalan  | Senin, 31 Agustus 2026 pukul 16.57.30 WIB |
 | 2574 | <img src="https://cdn.idn.app/livestream/24b4d299087b8ab0bd47d895f0fc3c0f.webp" width="170"> | Elin JKT48 | Hiiii | Minggu, 30 Agustus 2026 pukul 23.25.07 WIB |
 | 2573 | <img src="https://cdn.idn.app/livestream/6f4d6a59ccdafe0259b805d36d208b35.webp" width="170"> | Daisy JKT48 | Hai | Minggu, 30 Agustus 2026 pukul 23.24.56 WIB |
 | 2572 | <img src="https://cdn.idn.app/livestream/59d6e03efdabb5e3a074bdc27343df64.webp" width="170"> | Nayla JKT48 | N3 | Minggu, 30 Agustus 2026 pukul 18.34.52 WIB |
