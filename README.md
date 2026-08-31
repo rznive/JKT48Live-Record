@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2584 | <img src="https://cdn.idn.app/livestream/d5862c6569a12d4fab96a13cabcf0c87.webp" width="170"> | Delynn JKT48 | Hai | Senin, 31 Agustus 2026 pukul 23.59.55 WIB |
 | 2583 | <img src="https://cdn.idn.app/livestream/31ce8098bd784ad5348b0f9bf829325b.webp" width="170"> | Intan JKT48 | karaoke | Senin, 31 Agustus 2026 pukul 17.07.20 WIB |
 | 2582 | <img src="https://cdn.idn.app/livestream/c26691fdae1cf8fce4740c97b8b1151f.webp" width="170"> | Giaa JKT48 | ayooo‼️‼️ | Senin, 31 Agustus 2026 pukul 17.07.00 WIB |
 | 2581 | <img src="https://cdn.idn.app/livestream/facffb1596c7e2040f49afaa3ed2909c.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 31 Agustus 2026 pukul 17.06.48 WIB |
