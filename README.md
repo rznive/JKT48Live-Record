@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2586 | <img src="https://cdn.idn.app/livestream/e5567a9e4095bf0a0548c5ca2e3c37f2.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Selasa, 01 September 2026 pukul 18.09.43 WIB |
+| 2585 | <img src="https://cdn.idn.app/livestream/1d08fbf12f8e173c94b1c82ee7e985b8.webp" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Selasa, 01 September 2026 pukul 18.09.39 WIB |
 | 2584 | <img src="https://cdn.idn.app/livestream/d5862c6569a12d4fab96a13cabcf0c87.webp" width="170"> | Delynn JKT48 | Hai | Senin, 31 Agustus 2026 pukul 23.59.55 WIB |
 | 2583 | <img src="https://cdn.idn.app/livestream/31ce8098bd784ad5348b0f9bf829325b.webp" width="170"> | Intan JKT48 | karaoke | Senin, 31 Agustus 2026 pukul 17.07.20 WIB |
 | 2582 | <img src="https://cdn.idn.app/livestream/c26691fdae1cf8fce4740c97b8b1151f.webp" width="170"> | Giaa JKT48 | ayooo‼️‼️ | Senin, 31 Agustus 2026 pukul 17.07.00 WIB |

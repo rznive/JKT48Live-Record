@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2585,
+    "username": "jkt48_alya",
+    "creator_name": "Alya JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 01 September 2026 pukul 18.09.39 WIB",
+    "live_at_unix": 1788260979,
+    "image_url": "https://cdn.idn.app/livestream/1d08fbf12f8e173c94b1c82ee7e985b8.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sLZkhRvMutd4.m3u8"
+  },
+  {
+    "id": 2586,
+    "username": "jkt48_cynthia",
+    "creator_name": "Cynthia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 01 September 2026 pukul 18.09.43 WIB",
+    "live_at_unix": 1788260983,
+    "image_url": "https://cdn.idn.app/livestream/e5567a9e4095bf0a0548c5ca2e3c37f2.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  }
+]
