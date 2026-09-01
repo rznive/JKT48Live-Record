@@ -18,5 +18,25 @@
     "live_at_unix": 1788260983,
     "image_url": "https://cdn.idn.app/livestream/e5567a9e4095bf0a0548c5ca2e3c37f2.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 2587,
+    "username": "jkt48_gracie",
+    "creator_name": "Gracie JKT48",
+    "title": "hiii",
+    "live_at": "Selasa, 01 September 2026 pukul 21.13.23 WIB",
+    "live_at_unix": 1788272003,
+    "image_url": "https://cdn.idn.app/livestream/52769b0d16a062dbcaf3416ae4877730.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ztIO0UisaA3P.m3u8"
+  },
+  {
+    "id": 2588,
+    "username": "jkt48_mikaela",
+    "creator_name": "Mikaela JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 01 September 2026 pukul 21.36.52 WIB",
+    "live_at_unix": 1788273412,
+    "image_url": "https://cdn.idn.app/livestream/fa7e1b82d1423d34b4cfe921538f8359.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
   }
 ]
