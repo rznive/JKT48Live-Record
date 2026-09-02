@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2589 | <img src="https://cdn.idn.app/livestream/9d91db644c7b7c8c47aaf979d5e77dd0.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Rabu, 02 September 2026 pukul 12.03.18 WIB |
 | 2588 | <img src="https://cdn.idn.app/livestream/fa7e1b82d1423d34b4cfe921538f8359.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 01 September 2026 pukul 21.36.52 WIB |
 | 2587 | <img src="https://cdn.idn.app/livestream/52769b0d16a062dbcaf3416ae4877730.webp" width="170"> | Gracie JKT48 | hiii | Selasa, 01 September 2026 pukul 21.13.23 WIB |
 | 2586 | <img src="https://cdn.idn.app/livestream/e5567a9e4095bf0a0548c5ca2e3c37f2.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Selasa, 01 September 2026 pukul 18.09.43 WIB |
