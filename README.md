@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2592 | <img src="https://cdn.idn.app/livestream/f29a0d5bb9924b2ce51cc847f05c885f.webp" width="170"> | Elin JKT48 | Haii | Rabu, 02 September 2026 pukul 16.51.54 WIB |
+| 2591 | <img src="https://cdn.idn.app/livestream/7c6e140a2a86463fedbb66bf0a122378.webp" width="170"> | Lana JKT48 | Hii | Rabu, 02 September 2026 pukul 16.48.38 WIB |
+| 2590 | <img src="https://cdn.idn.app/livestream/20022b0a4a2dcffea2952e3ef0ad43b1.webp" width="170"> | Aralie JKT48 | hi | Rabu, 02 September 2026 pukul 15.38.43 WIB |
 | 2589 | <img src="https://cdn.idn.app/livestream/9d91db644c7b7c8c47aaf979d5e77dd0.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Rabu, 02 September 2026 pukul 12.03.18 WIB |
 | 2588 | <img src="https://cdn.idn.app/livestream/fa7e1b82d1423d34b4cfe921538f8359.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 01 September 2026 pukul 21.36.52 WIB |
 | 2587 | <img src="https://cdn.idn.app/livestream/52769b0d16a062dbcaf3416ae4877730.webp" width="170"> | Gracie JKT48 | hiii | Selasa, 01 September 2026 pukul 21.13.23 WIB |
