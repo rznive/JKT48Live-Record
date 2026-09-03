@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2594 | <img src="https://cdn.idn.app/livestream/fa52256d00e84ddba383f83c21a2d917.webp" width="170"> | Ribka JKT48 | p | Kamis, 03 September 2026 pukul 18.00.13 WIB |
 | 2593 | <img src="https://cdn.idn.app/livestream/a84f0a93444e47c180c190e1bb7bc05a.webp" width="170"> | Intan JKT48 | hi | Rabu, 02 September 2026 pukul 20.24.57 WIB |
 | 2592 | <img src="https://cdn.idn.app/livestream/f29a0d5bb9924b2ce51cc847f05c885f.webp" width="170"> | Elin JKT48 | Haii | Rabu, 02 September 2026 pukul 16.51.54 WIB |
 | 2591 | <img src="https://cdn.idn.app/livestream/7c6e140a2a86463fedbb66bf0a122378.webp" width="170"> | Lana JKT48 | Hii | Rabu, 02 September 2026 pukul 16.48.38 WIB |
