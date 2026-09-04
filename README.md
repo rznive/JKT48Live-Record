@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2604 | <img src="https://cdn.idn.app/livestream/e53e7601f3b50f244978a3ca45cb73aa.webp" width="170"> | Michie JKT48 | hi | Jumat, 04 September 2026 pukul 20.57.30 WIB |
+| 2602 | <img src="https://cdn.idn.app/livestream/10281e6cabd925a00ef2812b34f0dd21.webp" width="170"> | Maira JKT48 | Let’s go!!! | Jumat, 04 September 2026 pukul 20.44.13 WIB |
+| 2603 | <img src="https://cdn.idn.app/livestream/49337380a4a1f802ca4cbd112e56c4a8.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 04 September 2026 pukul 20.44.13 WIB |
+| 2601 | <img src="https://cdn.idn.app/livestream/612e186fb9139fe2d23e8a76ea9706f1.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Jumat, 04 September 2026 pukul 20.41.38 WIB |
+| 2600 | <img src="https://cdn.idn.app/livestream/fc3221745b1bfc8db968109d0a64a788.webp" width="170"> | Fritzy JKT48 | hiii | Jumat, 04 September 2026 pukul 20.23.09 WIB |
+| 2599 | <img src="https://cdn.idn.app/livestream/22138d4e85232c4bb46b8b0587165571.webp" width="170"> | Lana JKT48 | Hii | Jumat, 04 September 2026 pukul 20.13.23 WIB |
+| 2598 | <img src="https://cdn.idn.app/livestream/b15b1271f26da780309fec4005598051.webp" width="170"> | Nayla JKT48 | え | Jumat, 04 September 2026 pukul 20.13.06 WIB |
 | 2597 | <img src="https://cdn.idn.app/livestream/8e10929e1a2ac9f0b17e2bc2abac429c.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 03 September 2026 pukul 23.12.01 WIB |
 | 2596 | <img src="https://cdn.idn.app/livestream/b76f4a9df47bff2b10dec1224916f949.webp" width="170"> | Trisha JKT48 | haii | Kamis, 03 September 2026 pukul 22.52.00 WIB |
 | 2595 | <img src="https://cdn.idn.app/livestream/6e3810a6287ca328c2fde62973b882b4.webp" width="170"> | Anindya JKT48 | halo!!!! | Kamis, 03 September 2026 pukul 22.49.46 WIB |
