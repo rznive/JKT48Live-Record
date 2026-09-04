@@ -198,5 +198,15 @@
     "live_at_unix": 1788530250,
     "image_url": "https://cdn.idn.app/livestream/e53e7601f3b50f244978a3ca45cb73aa.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.uE0Cu8MD1aMc.m3u8"
+  },
+  {
+    "id": 2605,
+    "username": "jkt48_kathrina",
+    "creator_name": "Kathrina JKT48",
+    "title": "Hi",
+    "live_at": "Jumat, 04 September 2026 pukul 23.27.30 WIB",
+    "live_at_unix": 1788539250,
+    "image_url": "https://cdn.idn.app/livestream/98bf24d31a675026f4cb1f8fa9e0d3cb.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
   }
 ]

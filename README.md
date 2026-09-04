@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2605 | <img src="https://cdn.idn.app/livestream/98bf24d31a675026f4cb1f8fa9e0d3cb.webp" width="170"> | Kathrina JKT48 | Hi | Jumat, 04 September 2026 pukul 23.27.30 WIB |
 | 2604 | <img src="https://cdn.idn.app/livestream/e53e7601f3b50f244978a3ca45cb73aa.webp" width="170"> | Michie JKT48 | hi | Jumat, 04 September 2026 pukul 20.57.30 WIB |
 | 2602 | <img src="https://cdn.idn.app/livestream/10281e6cabd925a00ef2812b34f0dd21.webp" width="170"> | Maira JKT48 | Let’s go!!! | Jumat, 04 September 2026 pukul 20.44.13 WIB |
 | 2603 | <img src="https://cdn.idn.app/livestream/49337380a4a1f802ca4cbd112e56c4a8.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 04 September 2026 pukul 20.44.13 WIB |
