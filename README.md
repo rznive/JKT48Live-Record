@@ -2,6 +2,19 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2619 | <img src="https://cdn.idn.app/livestream/c4312ad5ea3460002f970d3be0ab12a3.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Sabtu, 05 September 2026 pukul 22.15.47 WIB |
+| 2618 | <img src="https://cdn.idn.app/livestream/c4e0d3e3aa6c8372a539b17d8ddb4b08.webp" width="170"> | Gita JKT48 | Gits | Sabtu, 05 September 2026 pukul 22.14.40 WIB |
+| 2617 | <img src="https://cdn.idn.app/livestream/cefbb8a35db3704d9e5214b9fae787b3.webp" width="170"> | Fritzy JKT48 | hehehe | Sabtu, 05 September 2026 pukul 22.05.13 WIB |
+| 2616 | <img src="https://cdn.idn.app/livestream/729c444a1d1cce2d43c30e88f98091a7.webp" width="170"> | Alya JKT48 | Ayo ngobrol bareng! | Sabtu, 05 September 2026 pukul 21.57.18 WIB |
+| 2615 | <img src="https://cdn.idn.app/livestream/e4beaa2a1a1374e13f3d2130cede9cae.webp" width="170"> | Daisy JKT48 | Hi | Sabtu, 05 September 2026 pukul 21.47.40 WIB |
+| 2614 | <img src="https://cdn.idn.app/livestream/7f8bacaa0d2b828becef2f37f5ec2e6b.webp" width="170"> | Erine JKT48 | diroriiiii | Sabtu, 05 September 2026 pukul 21.47.23 WIB |
+| 2613 | <img src="https://cdn.idn.app/livestream/59a7ea3243a3374419eb573ff57c0336.webp" width="170"> | Ribka JKT48 | p | Sabtu, 05 September 2026 pukul 21.45.58 WIB |
+| 2612 | <img src="https://cdn.idn.app/livestream/60a597c3162927ff8d03486a1dd4e842.webp" width="170"> | Kathrina JKT48 | yyyash | Sabtu, 05 September 2026 pukul 21.44.45 WIB |
+| 2611 | <img src="https://cdn.idn.app/livestream/5f4e82b0793f11a40d25f68ed50ea082.webp" width="170"> | Levi JKT48 | Ayo ngobrol bareng! | Sabtu, 05 September 2026 pukul 21.44.19 WIB |
+| 2610 | <img src="https://cdn.idn.app/livestream/c797f5abb5624808d1bcc2483f0b329a.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Sabtu, 05 September 2026 pukul 21.43.57 WIB |
+| 2609 | <img src="https://cdn.idn.app/livestream/a27c54ad3756b2a1a7e9e01d1eb51174.webp" width="170"> | Muthe JKT48 | Hi | Sabtu, 05 September 2026 pukul 21.43.34 WIB |
+| 2608 | <img src="https://cdn.idn.app/livestream/307b7f3c6ba231cdf56362eaf54412f5.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Sabtu, 05 September 2026 pukul 21.43.31 WIB |
+| 2607 | <img src="https://cdn.idn.app/livestream/1e026797a0430ee44eabfcd269264227.webp" width="170"> | Gracie JKT48 | hiii | Sabtu, 05 September 2026 pukul 21.33.14 WIB |
 | 2606 | <img src="https://cdn.idn.app/livestream/0c9e938f9047a17f64998645cabde535.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Sabtu, 05 September 2026 pukul 15.54.55 WIB |
 | 2605 | <img src="https://cdn.idn.app/livestream/98bf24d31a675026f4cb1f8fa9e0d3cb.webp" width="170"> | Kathrina JKT48 | Hi | Jumat, 04 September 2026 pukul 23.27.30 WIB |
 | 2604 | <img src="https://cdn.idn.app/livestream/e53e7601f3b50f244978a3ca45cb73aa.webp" width="170"> | Michie JKT48 | hi | Jumat, 04 September 2026 pukul 20.57.30 WIB |
