@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2621 | <img src="https://cdn.idn.app/livestream/6149925ba42d8b02bf861030c0bcafa9.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 06 September 2026 pukul 22.32.37 WIB |
+| 2620 | <img src="https://cdn.idn.app/livestream/4ee3ffbfa3f188f7701a12a17606f807.webp" width="170"> | Ekin JKT48 | hi | Minggu, 06 September 2026 pukul 21.53.07 WIB |
 | 2619 | <img src="https://cdn.idn.app/livestream/c4312ad5ea3460002f970d3be0ab12a3.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Sabtu, 05 September 2026 pukul 22.15.47 WIB |
 | 2618 | <img src="https://cdn.idn.app/livestream/c4e0d3e3aa6c8372a539b17d8ddb4b08.webp" width="170"> | Gita JKT48 | Gits | Sabtu, 05 September 2026 pukul 22.14.40 WIB |
 | 2617 | <img src="https://cdn.idn.app/livestream/cefbb8a35db3704d9e5214b9fae787b3.webp" width="170"> | Fritzy JKT48 | hehehe | Sabtu, 05 September 2026 pukul 22.05.13 WIB |
