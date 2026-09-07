@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2630 | <img src="https://cdn.idn.app/livestream/3490493d36e9d68d635eacddc7cbedab.webp" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Senin, 07 September 2026 pukul 22.51.23 WIB |
+| 2629 | <img src="https://cdn.idn.app/livestream/b4c27844a378ee473413859cb0e6594a.webp" width="170"> | Erine JKT48 | diroriiiii | Senin, 07 September 2026 pukul 22.33.02 WIB |
+| 2628 | <img src="https://cdn.idn.app/livestream/52887312884d86d28d041be191240b65.webp" width="170"> | Ribka JKT48 | Hi | Senin, 07 September 2026 pukul 22.26.50 WIB |
+| 2627 | <img src="https://cdn.idn.app/livestream/00f407c7c13e5dd26e9ef1a2a82c1301.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 07 September 2026 pukul 22.00.49 WIB |
+| 2626 | <img src="https://cdn.idn.app/livestream/d6264f0d7e3d586442e371d00390f6a2.webp" width="170"> | Nachia JKT48 | hi | Senin, 07 September 2026 pukul 21.37.20 WIB |
+| 2625 | <img src="https://cdn.idn.app/livestream/09be918b01f6f5eb6c1d5e32f9065dcc.webp" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Senin, 07 September 2026 pukul 21.22.02 WIB |
+| 2624 | <img src="https://cdn.idn.app/livestream/8a3b3732c4092dcd9f22316321645fce.webp" width="170"> | Gracie JKT48 | hiii | Senin, 07 September 2026 pukul 21.14.14 WIB |
 | 2623 | <img src="https://cdn.idn.app/livestream/3bf94b586c0d6bc4f88456ae4a99a77e.webp" width="170"> | Oniel JKT48 | saya kembali | Senin, 07 September 2026 pukul 16.48.08 WIB |
 | 2622 | <img src="https://cdn.idn.app/livestream/0c40973ca62a1b0d378a1a6bac1c1d41.webp" width="170"> | Kathrina JKT48 | yyyash | Senin, 07 September 2026 pukul 16.48.04 WIB |
 | 2621 | <img src="https://cdn.idn.app/livestream/6149925ba42d8b02bf861030c0bcafa9.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 06 September 2026 pukul 22.32.37 WIB |
