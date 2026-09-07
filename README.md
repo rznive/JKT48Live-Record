@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2623 | <img src="https://cdn.idn.app/livestream/3bf94b586c0d6bc4f88456ae4a99a77e.webp" width="170"> | Oniel JKT48 | saya kembali | Senin, 07 September 2026 pukul 16.48.08 WIB |
+| 2622 | <img src="https://cdn.idn.app/livestream/0c40973ca62a1b0d378a1a6bac1c1d41.webp" width="170"> | Kathrina JKT48 | yyyash | Senin, 07 September 2026 pukul 16.48.04 WIB |
 | 2621 | <img src="https://cdn.idn.app/livestream/6149925ba42d8b02bf861030c0bcafa9.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Minggu, 06 September 2026 pukul 22.32.37 WIB |
 | 2620 | <img src="https://cdn.idn.app/livestream/4ee3ffbfa3f188f7701a12a17606f807.webp" width="170"> | Ekin JKT48 | hi | Minggu, 06 September 2026 pukul 21.53.07 WIB |
 | 2619 | <img src="https://cdn.idn.app/livestream/c4312ad5ea3460002f970d3be0ab12a3.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Sabtu, 05 September 2026 pukul 22.15.47 WIB |

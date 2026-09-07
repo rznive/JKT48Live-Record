@@ -368,5 +368,25 @@
     "live_at_unix": 1788708757,
     "image_url": "https://cdn.idn.app/livestream/6149925ba42d8b02bf861030c0bcafa9.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
+  },
+  {
+    "id": 2622,
+    "username": "jkt48_kathrina",
+    "creator_name": "Kathrina JKT48",
+    "title": "yyyash",
+    "live_at": "Senin, 07 September 2026 pukul 16.48.04 WIB",
+    "live_at_unix": 1788774484,
+    "image_url": "https://cdn.idn.app/livestream/0c40973ca62a1b0d378a1a6bac1c1d41.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
+  },
+  {
+    "id": 2623,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "saya kembali",
+    "live_at": "Senin, 07 September 2026 pukul 16.48.08 WIB",
+    "live_at_unix": 1788774488,
+    "image_url": "https://cdn.idn.app/livestream/3bf94b586c0d6bc4f88456ae4a99a77e.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
   }
 ]
