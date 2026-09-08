@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2631 | <img src="https://cdn.idn.app/livestream/922315ce7077e45f89acd184d262a808.webp" width="170"> | Aralie JKT48 | hi | Selasa, 08 September 2026 pukul 10.23.26 WIB |
 | 2630 | <img src="https://cdn.idn.app/livestream/3490493d36e9d68d635eacddc7cbedab.webp" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Senin, 07 September 2026 pukul 22.51.23 WIB |
 | 2629 | <img src="https://cdn.idn.app/livestream/b4c27844a378ee473413859cb0e6594a.webp" width="170"> | Erine JKT48 | diroriiiii | Senin, 07 September 2026 pukul 22.33.02 WIB |
 | 2628 | <img src="https://cdn.idn.app/livestream/52887312884d86d28d041be191240b65.webp" width="170"> | Ribka JKT48 | Hi | Senin, 07 September 2026 pukul 22.26.50 WIB |
