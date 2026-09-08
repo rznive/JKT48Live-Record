@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2636 | <img src="https://cdn.idn.app/livestream/1ca01a4a6eecbd840cdbd63de43dab14.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Rabu, 09 September 2026 pukul 00.12.46 WIB |
+| 2635 | <img src="https://cdn.idn.app/livestream/21960b921f7a6ab971da3d8612e2bc40.webp" width="170"> | Delynn JKT48 | Hai | Selasa, 08 September 2026 pukul 23.08.42 WIB |
 | 2634 | <img src="https://cdn.idn.app/livestream/6f1bc4cd1b42e2bedde6139b2011351f.webp" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Selasa, 08 September 2026 pukul 19.36.58 WIB |
 | 2633 | <img src="https://cdn.idn.app/livestream/abcbdb2e29d8aeed183a7276956b4a8c.webp" width="170"> | Lana JKT48 | Temeninn makann | Selasa, 08 September 2026 pukul 19.26.53 WIB |
 | 2632 | <img src="https://cdn.idn.app/livestream/27f3c94b45fa9839c9000e3e3ee3586c.webp" width="170"> | JKT48 | TEMEN MASAK EP.2!!! | Selasa, 08 September 2026 pukul 15.46.11 WIB |
