@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2632 | <img src="https://cdn.idn.app/livestream/27f3c94b45fa9839c9000e3e3ee3586c.webp" width="170"> | JKT48 | TEMEN MASAK EP.2!!! | Selasa, 08 September 2026 pukul 15.46.11 WIB |
 | 2631 | <img src="https://cdn.idn.app/livestream/922315ce7077e45f89acd184d262a808.webp" width="170"> | Aralie JKT48 | hi | Selasa, 08 September 2026 pukul 10.23.26 WIB |
 | 2630 | <img src="https://cdn.idn.app/livestream/3490493d36e9d68d635eacddc7cbedab.webp" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Senin, 07 September 2026 pukul 22.51.23 WIB |
 | 2629 | <img src="https://cdn.idn.app/livestream/b4c27844a378ee473413859cb0e6594a.webp" width="170"> | Erine JKT48 | diroriiiii | Senin, 07 September 2026 pukul 22.33.02 WIB |
