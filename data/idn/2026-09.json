@@ -518,5 +518,15 @@
     "live_at_unix": 1788887566,
     "image_url": "https://cdn.idn.app/livestream/1ca01a4a6eecbd840cdbd63de43dab14.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oKpAUHJSe6RM.m3u8"
+  },
+  {
+    "id": 2637,
+    "username": "jkt48_eli",
+    "creator_name": "Eli JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 09 September 2026 pukul 20.01.16 WIB",
+    "live_at_unix": 1788958876,
+    "image_url": "https://cdn.idn.app/livestream/ef0530ee35896ac320d4133a02517ec8.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8"
   }
 ]
