@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2639 | <img src="https://cdn.idn.app/livestream/66361a16f0c3ab94a8a7fdb79d0c6396.webp" width="170"> | Rilly JKT48 | Makmall | Kamis, 10 September 2026 pukul 21.10.05 WIB |
+| 2638 | <img src="https://cdn.idn.app/livestream/1225aa66b377ffab17be83b931f59f3c.webp" width="170"> | Intan JKT48 | hi | Kamis, 10 September 2026 pukul 21.04.47 WIB |
 | 2637 | <img src="https://cdn.idn.app/livestream/ef0530ee35896ac320d4133a02517ec8.webp" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Rabu, 09 September 2026 pukul 20.01.16 WIB |
 | 2636 | <img src="https://cdn.idn.app/livestream/1ca01a4a6eecbd840cdbd63de43dab14.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Rabu, 09 September 2026 pukul 00.12.46 WIB |
 | 2635 | <img src="https://cdn.idn.app/livestream/21960b921f7a6ab971da3d8612e2bc40.webp" width="170"> | Delynn JKT48 | Hai | Selasa, 08 September 2026 pukul 23.08.42 WIB |
