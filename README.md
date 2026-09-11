@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2640 | <img src="https://cdn.idn.app/livestream/0b27c21b5051c7c1304976f7bfe22616.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Jumat, 11 September 2026 pukul 11.58.34 WIB |
 | 2639 | <img src="https://cdn.idn.app/livestream/66361a16f0c3ab94a8a7fdb79d0c6396.webp" width="170"> | Rilly JKT48 | Makmall | Kamis, 10 September 2026 pukul 21.10.05 WIB |
 | 2638 | <img src="https://cdn.idn.app/livestream/1225aa66b377ffab17be83b931f59f3c.webp" width="170"> | Intan JKT48 | hi | Kamis, 10 September 2026 pukul 21.04.47 WIB |
 | 2637 | <img src="https://cdn.idn.app/livestream/ef0530ee35896ac320d4133a02517ec8.webp" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Rabu, 09 September 2026 pukul 20.01.16 WIB |
