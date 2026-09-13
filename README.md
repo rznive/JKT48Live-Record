@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2651 | <img src="https://cdn.idn.app/livestream/cd43b52624f404c3e54d0af783752f3d.webp" width="170"> | Nayla JKT48 | Night routine | Minggu, 13 September 2026 pukul 23.20.20 WIB |
+| 2650 | <img src="https://cdn.idn.app/livestream/9d47bb5ef6cab5e11ba7495998e91905.webp" width="170"> | Lana JKT48 | 20🎂🩷 | Minggu, 13 September 2026 pukul 23.15.46 WIB |
+| 2649 | <img src="https://cdn.idn.app/livestream/6edc1cd75e52a25bd9e65216004ff607.webp" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Minggu, 13 September 2026 pukul 22.49.53 WIB |
 | 2648 | <img src="https://cdn.idn.app/livestream/b01520d898f6bc1c67e3085e2cb519f2.webp" width="170"> | Danella JKT48 | Ayo ngobrol bareng! | Minggu, 13 September 2026 pukul 20.36.41 WIB |
 | 2647 | <img src="https://cdn.idn.app/livestream/2debb59361cede78f73ff4b6fec7c290.webp" width="170"> | Daisy JKT48 | haii | Minggu, 13 September 2026 pukul 20.15.08 WIB |
 | 2646 | <img src="https://cdn.idn.app/livestream/6f8d18ece7f5f0e6fce0268a933b22cf.webp" width="170"> | Levi JKT48 | hai | Minggu, 13 September 2026 pukul 19.26.55 WIB |
