@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2645 | <img src="https://cdn.idn.app/livestream/8ceacd9c2a0629f759c629ac17afc8b4.webp" width="170"> | Fritzy JKT48 | soreee | Minggu, 13 September 2026 pukul 15.48.20 WIB |
 | 2644 | <img src="https://cdn.idn.app/livestream/6dd05fa7bc473b68c5392edbb99cd11f.webp" width="170"> | Danella JKT48 | Ayo  | Sabtu, 12 September 2026 pukul 23.25.07 WIB |
 | 2643 | <img src="https://cdn.idn.app/livestream/c17741e04c0f123d9d94d02cde3126b1.webp" width="170"> | Oline JKT48 | y | Sabtu, 12 September 2026 pukul 23.15.32 WIB |
 | 2642 | <img src="https://cdn.idn.app/livestream/6ca68817ccde3bc13615823a7ffd213f.webp" width="170"> | Lana JKT48 | Unboxing again | Sabtu, 12 September 2026 pukul 22.46.35 WIB |

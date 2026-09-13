@@ -598,5 +598,15 @@
     "live_at_unix": 1789230307,
     "image_url": "https://cdn.idn.app/livestream/6dd05fa7bc473b68c5392edbb99cd11f.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
+  },
+  {
+    "id": 2645,
+    "username": "jkt48_fritzy",
+    "creator_name": "Fritzy JKT48",
+    "title": "soreee",
+    "live_at": "Minggu, 13 September 2026 pukul 15.48.20 WIB",
+    "live_at_unix": 1789289300,
+    "image_url": "https://cdn.idn.app/livestream/8ceacd9c2a0629f759c629ac17afc8b4.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
   }
 ]
