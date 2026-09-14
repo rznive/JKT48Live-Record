@@ -668,5 +668,25 @@
     "live_at_unix": 1789316420,
     "image_url": "https://cdn.idn.app/livestream/cd43b52624f404c3e54d0af783752f3d.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.s29ur0XkIpE2.m3u8"
+  },
+  {
+    "id": 2652,
+    "username": "jkt48_cynthia",
+    "creator_name": "Cynthia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 14 September 2026 pukul 18.31.14 WIB",
+    "live_at_unix": 1789385474,
+    "image_url": "https://cdn.idn.app/livestream/5663cec54201985896d90e270efe1ee7.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 2653,
+    "username": "jkt48_indah",
+    "creator_name": "Indah JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 14 September 2026 pukul 19.19.37 WIB",
+    "live_at_unix": 1789388377,
+    "image_url": "https://cdn.idn.app/livestream/630eaf44a41e2c9349db00aabbbacd93.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oKpAUHJSe6RM.m3u8"
   }
 ]

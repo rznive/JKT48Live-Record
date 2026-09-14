@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2653 | <img src="https://cdn.idn.app/livestream/630eaf44a41e2c9349db00aabbbacd93.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Senin, 14 September 2026 pukul 19.19.37 WIB |
+| 2652 | <img src="https://cdn.idn.app/livestream/5663cec54201985896d90e270efe1ee7.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 14 September 2026 pukul 18.31.14 WIB |
 | 2651 | <img src="https://cdn.idn.app/livestream/cd43b52624f404c3e54d0af783752f3d.webp" width="170"> | Nayla JKT48 | Night routine | Minggu, 13 September 2026 pukul 23.20.20 WIB |
 | 2650 | <img src="https://cdn.idn.app/livestream/9d47bb5ef6cab5e11ba7495998e91905.webp" width="170"> | Lana JKT48 | 20🎂🩷 | Minggu, 13 September 2026 pukul 23.15.46 WIB |
 | 2649 | <img src="https://cdn.idn.app/livestream/6edc1cd75e52a25bd9e65216004ff607.webp" width="170"> | Eli JKT48 | Ayo ngobrol bareng! | Minggu, 13 September 2026 pukul 22.49.53 WIB |
