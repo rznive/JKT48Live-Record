@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2656 | <img src="https://cdn.idn.app/livestream/9b054aa44de7c08bbb08d1743ec4abf9.webp" width="170"> | Danella JKT48 | Ayo  | Selasa, 15 September 2026 pukul 20.34.11 WIB |
+| 2655 | <img src="https://cdn.idn.app/livestream/4454017a3d89a1bea9c60380eca29211.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 15 September 2026 pukul 20.17.41 WIB |
 | 2654 | <img src="https://cdn.idn.app/livestream/0ec6548e31e71e9d5f9060ff1eaee45c.webp" width="170"> | JKT48 | TEMEN MASAK EP.3!!!!! | Selasa, 15 September 2026 pukul 15.51.01 WIB |
 | 2653 | <img src="https://cdn.idn.app/livestream/630eaf44a41e2c9349db00aabbbacd93.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Senin, 14 September 2026 pukul 19.19.37 WIB |
 | 2652 | <img src="https://cdn.idn.app/livestream/5663cec54201985896d90e270efe1ee7.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Senin, 14 September 2026 pukul 18.31.14 WIB |
