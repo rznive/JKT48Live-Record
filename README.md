@@ -2,6 +2,14 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2664 | <img src="https://cdn.idn.app/livestream/179013c067961b4e0184e2e0d923bafb.webp" width="170"> | Danella JKT48 | Ayo  | Rabu, 16 September 2026 pukul 22.26.36 WIB |
+| 2663 | <img src="https://cdn.idn.app/livestream/093b0ec082bd40a01b1460a7384cec00.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 16 September 2026 pukul 22.10.26 WIB |
+| 2662 | <img src="https://cdn.idn.app/livestream/c20c2ffa3fda778975efa1a8fe4ef8cb.webp" width="170"> | Oniel JKT48 | saya kembali | Rabu, 16 September 2026 pukul 22.03.42 WIB |
+| 2661 | <img src="https://cdn.idn.app/livestream/8a0631c1a70e32dcd58bb6b3d3ba8394.webp" width="170"> | Jessi JKT48 | hey | Rabu, 16 September 2026 pukul 21.59.26 WIB |
+| 2660 | <img src="https://cdn.idn.app/livestream/4583d8e69a4df76512f1ec8414ff7792.webp" width="170"> | Kathrina JKT48 | yyyash | Rabu, 16 September 2026 pukul 21.59.12 WIB |
+| 2659 | <img src="https://cdn.idn.app/livestream/513f45c0b03b3ff6cb1e01dd71e11b80.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Rabu, 16 September 2026 pukul 21.56.05 WIB |
+| 2658 | <img src="https://cdn.idn.app/livestream/d09be6388c4f7b6f2eaf65152c1e200a.webp" width="170"> | Michie JKT48 | hi | Rabu, 16 September 2026 pukul 21.43.47 WIB |
+| 2657 | <img src="https://cdn.idn.app/livestream/0aca29ee5a53638967c68de718613af4.webp" width="170"> | Anindya JKT48 | HALO!! | Rabu, 16 September 2026 pukul 21.25.46 WIB |
 | 2656 | <img src="https://cdn.idn.app/livestream/9b054aa44de7c08bbb08d1743ec4abf9.webp" width="170"> | Danella JKT48 | Ayo  | Selasa, 15 September 2026 pukul 20.34.11 WIB |
 | 2655 | <img src="https://cdn.idn.app/livestream/4454017a3d89a1bea9c60380eca29211.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Selasa, 15 September 2026 pukul 20.17.41 WIB |
 | 2654 | <img src="https://cdn.idn.app/livestream/0ec6548e31e71e9d5f9060ff1eaee45c.webp" width="170"> | JKT48 | TEMEN MASAK EP.3!!!!! | Selasa, 15 September 2026 pukul 15.51.01 WIB |

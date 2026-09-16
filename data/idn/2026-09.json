@@ -718,5 +718,85 @@
     "live_at_unix": 1789479251,
     "image_url": "https://cdn.idn.app/livestream/9b054aa44de7c08bbb08d1743ec4abf9.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
+  },
+  {
+    "id": 2657,
+    "username": "jkt48_anindya",
+    "creator_name": "Anindya JKT48",
+    "title": "HALO!!",
+    "live_at": "Rabu, 16 September 2026 pukul 21.25.46 WIB",
+    "live_at_unix": 1789568746,
+    "image_url": "https://cdn.idn.app/livestream/0aca29ee5a53638967c68de718613af4.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8"
+  },
+  {
+    "id": 2658,
+    "username": "jkt48_michie",
+    "creator_name": "Michie JKT48",
+    "title": "hi",
+    "live_at": "Rabu, 16 September 2026 pukul 21.43.47 WIB",
+    "live_at_unix": 1789569827,
+    "image_url": "https://cdn.idn.app/livestream/d09be6388c4f7b6f2eaf65152c1e200a.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.uE0Cu8MD1aMc.m3u8"
+  },
+  {
+    "id": 2659,
+    "username": "jkt48_virgi",
+    "creator_name": "Virgi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 16 September 2026 pukul 21.56.05 WIB",
+    "live_at_unix": 1789570565,
+    "image_url": "https://cdn.idn.app/livestream/513f45c0b03b3ff6cb1e01dd71e11b80.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8"
+  },
+  {
+    "id": 2660,
+    "username": "jkt48_kathrina",
+    "creator_name": "Kathrina JKT48",
+    "title": "yyyash",
+    "live_at": "Rabu, 16 September 2026 pukul 21.59.12 WIB",
+    "live_at_unix": 1789570752,
+    "image_url": "https://cdn.idn.app/livestream/4583d8e69a4df76512f1ec8414ff7792.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8"
+  },
+  {
+    "id": 2661,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "hey",
+    "live_at": "Rabu, 16 September 2026 pukul 21.59.26 WIB",
+    "live_at_unix": 1789570766,
+    "image_url": "https://cdn.idn.app/livestream/8a0631c1a70e32dcd58bb6b3d3ba8394.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 2662,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "saya kembali",
+    "live_at": "Rabu, 16 September 2026 pukul 22.03.42 WIB",
+    "live_at_unix": 1789571022,
+    "image_url": "https://cdn.idn.app/livestream/c20c2ffa3fda778975efa1a8fe4ef8cb.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 2663,
+    "username": "jkt48_mikaela",
+    "creator_name": "Mikaela JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 16 September 2026 pukul 22.10.26 WIB",
+    "live_at_unix": 1789571426,
+    "image_url": "https://cdn.idn.app/livestream/093b0ec082bd40a01b1460a7384cec00.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
+  },
+  {
+    "id": 2664,
+    "username": "jkt48_danella",
+    "creator_name": "Danella JKT48",
+    "title": "Ayo ",
+    "live_at": "Rabu, 16 September 2026 pukul 22.26.36 WIB",
+    "live_at_unix": 1789572396,
+    "image_url": "https://cdn.idn.app/livestream/179013c067961b4e0184e2e0d923bafb.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
   }
 ]
