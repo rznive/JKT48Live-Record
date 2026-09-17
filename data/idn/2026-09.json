@@ -798,5 +798,15 @@
     "live_at_unix": 1789572396,
     "image_url": "https://cdn.idn.app/livestream/179013c067961b4e0184e2e0d923bafb.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
+  },
+  {
+    "id": 2665,
+    "username": "jkt48_indah",
+    "creator_name": "Indah JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 17 September 2026 pukul 18.18.19 WIB",
+    "live_at_unix": 1789643899,
+    "image_url": "https://cdn.idn.app/livestream/6169398b6795524331a52995a1a618c0.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oKpAUHJSe6RM.m3u8"
   }
 ]

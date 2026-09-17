@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2665 | <img src="https://cdn.idn.app/livestream/6169398b6795524331a52995a1a618c0.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Kamis, 17 September 2026 pukul 18.18.19 WIB |
 | 2664 | <img src="https://cdn.idn.app/livestream/179013c067961b4e0184e2e0d923bafb.webp" width="170"> | Danella JKT48 | Ayo  | Rabu, 16 September 2026 pukul 22.26.36 WIB |
 | 2663 | <img src="https://cdn.idn.app/livestream/093b0ec082bd40a01b1460a7384cec00.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Rabu, 16 September 2026 pukul 22.10.26 WIB |
 | 2662 | <img src="https://cdn.idn.app/livestream/c20c2ffa3fda778975efa1a8fe4ef8cb.webp" width="170"> | Oniel JKT48 | saya kembali | Rabu, 16 September 2026 pukul 22.03.42 WIB |
