@@ -818,5 +818,15 @@
     "live_at_unix": 1789660681,
     "image_url": "https://cdn.idn.app/livestream/0fe46a06435fc8d3dd900a4625ad766c.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 2667,
+    "username": "jkt48_maira",
+    "creator_name": "Maira JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 18 September 2026 pukul 19.33.30 WIB",
+    "live_at_unix": 1789734810,
+    "image_url": "https://cdn.idn.app/livestream/32d21254e616af31a50b1628722ae84b.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
   }
 ]
