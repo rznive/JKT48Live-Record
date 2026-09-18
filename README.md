@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2669 | <img src="https://cdn.idn.app/livestream/cb5cbb86090d43c328889fda5b968278.webp" width="170"> | Oline JKT48 | Live | Jumat, 18 September 2026 pukul 23.48.51 WIB |
+| 2668 | <img src="https://cdn.idn.app/livestream/cf4bd557c174f6d3dfcfaf4cc5c3fffc.webp" width="170"> | Lily JKT48 | Haii | Jumat, 18 September 2026 pukul 23.00.18 WIB |
 | 2667 | <img src="https://cdn.idn.app/livestream/32d21254e616af31a50b1628722ae84b.webp" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Jumat, 18 September 2026 pukul 19.33.30 WIB |
 | 2666 | <img src="https://cdn.idn.app/livestream/0fe46a06435fc8d3dd900a4625ad766c.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Kamis, 17 September 2026 pukul 22.58.01 WIB |
 | 2665 | <img src="https://cdn.idn.app/livestream/6169398b6795524331a52995a1a618c0.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Kamis, 17 September 2026 pukul 18.18.19 WIB |

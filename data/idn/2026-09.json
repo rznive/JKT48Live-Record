@@ -828,5 +828,25 @@
     "live_at_unix": 1789734810,
     "image_url": "https://cdn.idn.app/livestream/32d21254e616af31a50b1628722ae84b.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
+  },
+  {
+    "id": 2668,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Haii",
+    "live_at": "Jumat, 18 September 2026 pukul 23.00.18 WIB",
+    "live_at_unix": 1789747218,
+    "image_url": "https://cdn.idn.app/livestream/cf4bd557c174f6d3dfcfaf4cc5c3fffc.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
+  },
+  {
+    "id": 2669,
+    "username": "jkt48_oline",
+    "creator_name": "Oline JKT48",
+    "title": "Live",
+    "live_at": "Jumat, 18 September 2026 pukul 23.48.51 WIB",
+    "live_at_unix": 1789750131,
+    "image_url": "https://cdn.idn.app/livestream/cb5cbb86090d43c328889fda5b968278.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gYN6fQPMCqs0.m3u8"
   }
 ]
