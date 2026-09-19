@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2672 | <img src="https://cdn.idn.app/livestream/ceb8b7bdf49702ff7937897608537415.webp" width="170"> | Fritzy JKT48 | hehehe | Minggu, 20 September 2026 pukul 00.11.55 WIB |
 | 2671 | <img src="https://cdn.idn.app/livestream/39ed3a7f69df69a754282b01baa6a015.webp" width="170"> | Erine JKT48 | diroriiiii | Sabtu, 19 September 2026 pukul 21.09.03 WIB |
 | 2670 | <img src="https://cdn.idn.app/livestream/a62b2ad132387dabbc10df28a7a1401d.webp" width="170"> | Oniel JKT48 | saya kembali | Sabtu, 19 September 2026 pukul 12.46.33 WIB |
 | 2669 | <img src="https://cdn.idn.app/livestream/cb5cbb86090d43c328889fda5b968278.webp" width="170"> | Oline JKT48 | Live | Jumat, 18 September 2026 pukul 23.48.51 WIB |
