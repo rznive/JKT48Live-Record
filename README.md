@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2671 | <img src="https://cdn.idn.app/livestream/39ed3a7f69df69a754282b01baa6a015.webp" width="170"> | Erine JKT48 | diroriiiii | Sabtu, 19 September 2026 pukul 21.09.03 WIB |
 | 2670 | <img src="https://cdn.idn.app/livestream/a62b2ad132387dabbc10df28a7a1401d.webp" width="170"> | Oniel JKT48 | saya kembali | Sabtu, 19 September 2026 pukul 12.46.33 WIB |
 | 2669 | <img src="https://cdn.idn.app/livestream/cb5cbb86090d43c328889fda5b968278.webp" width="170"> | Oline JKT48 | Live | Jumat, 18 September 2026 pukul 23.48.51 WIB |
 | 2668 | <img src="https://cdn.idn.app/livestream/cf4bd557c174f6d3dfcfaf4cc5c3fffc.webp" width="170"> | Lily JKT48 | Haii | Jumat, 18 September 2026 pukul 23.00.18 WIB |
