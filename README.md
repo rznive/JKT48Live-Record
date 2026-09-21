@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2674 | <img src="https://cdn.idn.app/livestream/0062c9dfe9fdcc4f4592b6d9c2aeb961.webp" width="170"> | Gita JKT48 | Gits | Senin, 21 September 2026 pukul 20.16.43 WIB |
+| 2673 | <img src="https://cdn.idn.app/livestream/2eecd1e6f8cac72df3da51cf9607ca6e.webp" width="170"> | Lana JKT48 | Hai sudah lamaa | Senin, 21 September 2026 pukul 20.10.59 WIB |
 | 2672 | <img src="https://cdn.idn.app/livestream/ceb8b7bdf49702ff7937897608537415.webp" width="170"> | Fritzy JKT48 | hehehe | Minggu, 20 September 2026 pukul 00.11.55 WIB |
 | 2671 | <img src="https://cdn.idn.app/livestream/39ed3a7f69df69a754282b01baa6a015.webp" width="170"> | Erine JKT48 | diroriiiii | Sabtu, 19 September 2026 pukul 21.09.03 WIB |
 | 2670 | <img src="https://cdn.idn.app/livestream/a62b2ad132387dabbc10df28a7a1401d.webp" width="170"> | Oniel JKT48 | saya kembali | Sabtu, 19 September 2026 pukul 12.46.33 WIB |

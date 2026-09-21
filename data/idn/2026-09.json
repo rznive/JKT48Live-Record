@@ -878,5 +878,25 @@
     "live_at_unix": 1789837915,
     "image_url": "https://cdn.idn.app/livestream/ceb8b7bdf49702ff7937897608537415.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
+  },
+  {
+    "id": 2673,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Hai sudah lamaa",
+    "live_at": "Senin, 21 September 2026 pukul 20.10.59 WIB",
+    "live_at_unix": 1789996259,
+    "image_url": "https://cdn.idn.app/livestream/2eecd1e6f8cac72df3da51cf9607ca6e.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 2674,
+    "username": "jkt48_gita",
+    "creator_name": "Gita JKT48",
+    "title": "Gits",
+    "live_at": "Senin, 21 September 2026 pukul 20.16.43 WIB",
+    "live_at_unix": 1789996603,
+    "image_url": "https://cdn.idn.app/livestream/0062c9dfe9fdcc4f4592b6d9c2aeb961.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.k4fAFOYXENlG.m3u8"
   }
 ]
