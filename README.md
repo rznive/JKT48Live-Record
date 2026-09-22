@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2676 | <img src="https://cdn.idn.app/livestream/4c71a5fb9d86c017a609c7cb007473f3.webp" width="170"> | Greesel JKT48 | yuhuuu | Selasa, 22 September 2026 pukul 16.34.22 WIB |
 | 2675 | <img src="https://cdn.idn.app/livestream/eb456f8d978ccb364379f6c3ce1fce9f.webp" width="170"> | Michie JKT48 | hi | Selasa, 22 September 2026 pukul 12.11.17 WIB |
 | 2674 | <img src="https://cdn.idn.app/livestream/0062c9dfe9fdcc4f4592b6d9c2aeb961.webp" width="170"> | Gita JKT48 | Gits | Senin, 21 September 2026 pukul 20.16.43 WIB |
 | 2673 | <img src="https://cdn.idn.app/livestream/2eecd1e6f8cac72df3da51cf9607ca6e.webp" width="170"> | Lana JKT48 | Hai sudah lamaa | Senin, 21 September 2026 pukul 20.10.59 WIB |

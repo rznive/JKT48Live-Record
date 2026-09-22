@@ -908,5 +908,15 @@
     "live_at_unix": 1790053877,
     "image_url": "https://cdn.idn.app/livestream/eb456f8d978ccb364379f6c3ce1fce9f.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.uE0Cu8MD1aMc.m3u8"
+  },
+  {
+    "id": 2676,
+    "username": "jkt48_greesel",
+    "creator_name": "Greesel JKT48",
+    "title": "yuhuuu",
+    "live_at": "Selasa, 22 September 2026 pukul 16.34.22 WIB",
+    "live_at_unix": 1790069662,
+    "image_url": "https://cdn.idn.app/livestream/4c71a5fb9d86c017a609c7cb007473f3.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.z3nXSqOvE9Fs.m3u8"
   }
 ]
