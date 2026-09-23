@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2683 | <img src="https://cdn.idn.app/livestream/01c066d202ac9a97f84870133eba24dd.webp" width="170"> | Ella JKT48 | aloo | Rabu, 23 September 2026 pukul 22.33.02 WIB |
 | 2682 | <img src="https://cdn.idn.app/livestream/3d480d0448af532a904c5e1ccc306fee.webp" width="170"> | Nala JKT48 | yooo | Rabu, 23 September 2026 pukul 18.25.59 WIB |
 | 2681 | <img src="https://cdn.idn.app/livestream/0db04dc760ad763e04ea9437af299bfe.webp" width="170"> | Oline JKT48 | Live | Rabu, 23 September 2026 pukul 18.25.26 WIB |
 | 2680 | <img src="https://cdn.idn.app/livestream/b290fc23987ddec98e508b3e2f52f98e.webp" width="170"> | Daisy JKT48 | Hi | Rabu, 23 September 2026 pukul 13.19.05 WIB |
