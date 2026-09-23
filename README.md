@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2680 | <img src="https://cdn.idn.app/livestream/b290fc23987ddec98e508b3e2f52f98e.webp" width="170"> | Daisy JKT48 | Hi | Rabu, 23 September 2026 pukul 13.19.05 WIB |
+| 2679 | <img src="https://cdn.idn.app/livestream/244ebe08933dc705778a65baf0f6dc20.webp" width="170"> | Danella JKT48 | Ayo  | Rabu, 23 September 2026 pukul 13.16.00 WIB |
+| 2678 | <img src="https://cdn.idn.app/livestream/154c905a67f0996ae9aa8cbd90591572.webp" width="170"> | Michie JKT48 | hi | Rabu, 23 September 2026 pukul 13.07.00 WIB |
 | 2677 | <img src="https://cdn.idn.app/livestream/dd1bd1bb5c69a1dd3aa615c39ded5f50.webp" width="170"> | Lana JKT48 | Haii unboxing  | Selasa, 22 September 2026 pukul 21.12.27 WIB |
 | 2676 | <img src="https://cdn.idn.app/livestream/4c71a5fb9d86c017a609c7cb007473f3.webp" width="170"> | Greesel JKT48 | yuhuuu | Selasa, 22 September 2026 pukul 16.34.22 WIB |
 | 2675 | <img src="https://cdn.idn.app/livestream/eb456f8d978ccb364379f6c3ce1fce9f.webp" width="170"> | Michie JKT48 | hi | Selasa, 22 September 2026 pukul 12.11.17 WIB |
