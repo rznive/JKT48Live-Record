@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2684 | <img src="https://cdn.idn.app/livestream/c3cda1691415e2ca8635456fb79491c9.webp" width="170"> | Fritzy JKT48 | hellourr | Kamis, 24 September 2026 pukul 16.31.27 WIB |
 | 2683 | <img src="https://cdn.idn.app/livestream/01c066d202ac9a97f84870133eba24dd.webp" width="170"> | Ella JKT48 | aloo | Rabu, 23 September 2026 pukul 22.33.02 WIB |
 | 2682 | <img src="https://cdn.idn.app/livestream/3d480d0448af532a904c5e1ccc306fee.webp" width="170"> | Nala JKT48 | yooo | Rabu, 23 September 2026 pukul 18.25.59 WIB |
 | 2681 | <img src="https://cdn.idn.app/livestream/0db04dc760ad763e04ea9437af299bfe.webp" width="170"> | Oline JKT48 | Live | Rabu, 23 September 2026 pukul 18.25.26 WIB |
