@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2690 | <img src="https://cdn.idn.app/livestream/f3d49af0ca03d4eee4478c9379383a9e.webp" width="170"> | Intan JKT48 | live ini di suruh papih ak | Sabtu, 26 September 2026 pukul 20.43.08 WIB |
+| 2689 | <img src="https://cdn.idn.app/livestream/4a1771b6c452ceca4f886fc5e014f3d9.webp" width="170"> | Michie JKT48 | hi | Sabtu, 26 September 2026 pukul 20.36.56 WIB |
+| 2688 | <img src="https://cdn.idn.app/livestream/76ba4277b169c1730062a5f5a54a2d81.webp" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Sabtu, 26 September 2026 pukul 19.31.08 WIB |
 | 2687 | <img src="https://cdn.idn.app/livestream/28e1a90628468a705303c603be5fc1e6.webp" width="170"> | Nachia JKT48 | hi | Jumat, 25 September 2026 pukul 20.40.32 WIB |
 | 2686 | <img src="https://cdn.idn.app/livestream/3d733fbc1adc207af32ff19da292e1a8.webp" width="170"> | Michie JKT48 | hi | Jumat, 25 September 2026 pukul 10.35.32 WIB |
 | 2685 | <img src="https://cdn.idn.app/livestream/5a6c59c5b78f76018403e43923e311a6.webp" width="170"> | Anindya JKT48 | HALO!! | Kamis, 24 September 2026 pukul 20.32.28 WIB |
