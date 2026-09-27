@@ -1098,5 +1098,35 @@
     "live_at_unix": 1790443948,
     "image_url": "https://cdn.idn.app/livestream/59ccc9aa513730a152c09bb09621f75f.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
+  },
+  {
+    "id": 2695,
+    "username": "jkt48_anindya",
+    "creator_name": "Anindya JKT48",
+    "title": "HALO!!",
+    "live_at": "Minggu, 27 September 2026 pukul 20.34.57 WIB",
+    "live_at_unix": 1790516097,
+    "image_url": "https://cdn.idn.app/livestream/b5bfd182854a75340be740b521220e45.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8"
+  },
+  {
+    "id": 2696,
+    "username": "jkt48_michie",
+    "creator_name": "Michie JKT48",
+    "title": "hi",
+    "live_at": "Minggu, 27 September 2026 pukul 21.10.41 WIB",
+    "live_at_unix": 1790518241,
+    "image_url": "https://cdn.idn.app/livestream/cc9ed0ae9e2e7726cec4f7b238ccb71c.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.uE0Cu8MD1aMc.m3u8"
+  },
+  {
+    "id": 2697,
+    "username": "jkt48_cynthia",
+    "creator_name": "Cynthia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 27 September 2026 pukul 21.48.18 WIB",
+    "live_at_unix": 1790520498,
+    "image_url": "https://cdn.idn.app/livestream/6d25700bb4420ad33b884251b52146f6.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
   }
 ]

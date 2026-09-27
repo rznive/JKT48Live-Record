@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2697 | <img src="https://cdn.idn.app/livestream/6d25700bb4420ad33b884251b52146f6.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 27 September 2026 pukul 21.48.18 WIB |
+| 2696 | <img src="https://cdn.idn.app/livestream/cc9ed0ae9e2e7726cec4f7b238ccb71c.webp" width="170"> | Michie JKT48 | hi | Minggu, 27 September 2026 pukul 21.10.41 WIB |
+| 2695 | <img src="https://cdn.idn.app/livestream/b5bfd182854a75340be740b521220e45.webp" width="170"> | Anindya JKT48 | HALO!! | Minggu, 27 September 2026 pukul 20.34.57 WIB |
 | 2694 | <img src="https://cdn.idn.app/livestream/59ccc9aa513730a152c09bb09621f75f.webp" width="170"> | Elin JKT48 | Haiii | Minggu, 27 September 2026 pukul 00.32.28 WIB |
 | 2693 | <img src="https://cdn.idn.app/livestream/b98940ce332a4d0c1579b540a838feb4.webp" width="170"> | Nachia JKT48 | hi | Sabtu, 26 September 2026 pukul 23.40.33 WIB |
 | 2692 | <img src="https://cdn.idn.app/livestream/3e00361256327b0ca2eef24c0e886f88.webp" width="170"> | Delynn JKT48 | hi | Sabtu, 26 September 2026 pukul 23.31.47 WIB |
