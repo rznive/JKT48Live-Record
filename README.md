@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2701 | <img src="https://cdn.idn.app/livestream/9916611bfa83f6bb02464cd2b9262ba8.webp" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Selasa, 29 September 2026 pukul 15.48.50 WIB |
+| 2700 | <img src="https://cdn.idn.app/livestream/089547a65e07d0195361b1e2b11d17d1.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Selasa, 29 September 2026 pukul 15.46.15 WIB |
+| 2699 | <img src="https://cdn.idn.app/livestream/a83912e0a868fd07b39f814579e5be11.webp" width="170"> | Anindya JKT48 | HALO!! | Selasa, 29 September 2026 pukul 15.46.14 WIB |
+| 2698 | <img src="https://cdn.idn.app/livestream/32d3a9795190d51b5330a63b5f93f90d.webp" width="170"> | Michie JKT48 | hi | Selasa, 29 September 2026 pukul 15.26.19 WIB |
 | 2697 | <img src="https://cdn.idn.app/livestream/6d25700bb4420ad33b884251b52146f6.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Minggu, 27 September 2026 pukul 21.48.18 WIB |
 | 2696 | <img src="https://cdn.idn.app/livestream/cc9ed0ae9e2e7726cec4f7b238ccb71c.webp" width="170"> | Michie JKT48 | hi | Minggu, 27 September 2026 pukul 21.10.41 WIB |
 | 2695 | <img src="https://cdn.idn.app/livestream/b5bfd182854a75340be740b521220e45.webp" width="170"> | Anindya JKT48 | HALO!! | Minggu, 27 September 2026 pukul 20.34.57 WIB |
