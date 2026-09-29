@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2703 | <img src="https://cdn.idn.app/livestream/40a07033a2add045e1c07de00d7bf1fa.webp" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Selasa, 29 September 2026 pukul 22.11.33 WIB |
+| 2702 | <img src="https://cdn.idn.app/livestream/fd9a1c5d378aae1b47f6a8be3770ad56.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Selasa, 29 September 2026 pukul 22.00.14 WIB |
 | 2701 | <img src="https://cdn.idn.app/livestream/9916611bfa83f6bb02464cd2b9262ba8.webp" width="170"> | Nayla JKT48 | Ayo ngobrol bareng! | Selasa, 29 September 2026 pukul 15.48.50 WIB |
 | 2700 | <img src="https://cdn.idn.app/livestream/089547a65e07d0195361b1e2b11d17d1.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Selasa, 29 September 2026 pukul 15.46.15 WIB |
 | 2699 | <img src="https://cdn.idn.app/livestream/a83912e0a868fd07b39f814579e5be11.webp" width="170"> | Anindya JKT48 | HALO!! | Selasa, 29 September 2026 pukul 15.46.14 WIB |

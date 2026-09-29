@@ -1168,5 +1168,25 @@
     "live_at_unix": 1790671730,
     "image_url": "https://cdn.idn.app/livestream/9916611bfa83f6bb02464cd2b9262ba8.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.s29ur0XkIpE2.m3u8"
+  },
+  {
+    "id": 2702,
+    "username": "jkt48_raisha",
+    "creator_name": "Raisha JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 29 September 2026 pukul 22.00.14 WIB",
+    "live_at_unix": 1790694014,
+    "image_url": "https://cdn.idn.app/livestream/fd9a1c5d378aae1b47f6a8be3770ad56.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.rjVZYmbffgGE.m3u8"
+  },
+  {
+    "id": 2703,
+    "username": "jkt48_christy",
+    "creator_name": "Christy JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 29 September 2026 pukul 22.11.33 WIB",
+    "live_at_unix": 1790694693,
+    "image_url": "https://cdn.idn.app/livestream/40a07033a2add045e1c07de00d7bf1fa.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.R4bPsdzRonL3.m3u8"
   }
 ]
