@@ -1188,5 +1188,15 @@
     "live_at_unix": 1790694693,
     "image_url": "https://cdn.idn.app/livestream/40a07033a2add045e1c07de00d7bf1fa.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.R4bPsdzRonL3.m3u8"
+  },
+  {
+    "id": 2704,
+    "username": "jkt48_nayla",
+    "creator_name": "Nayla JKT48",
+    "title": "🌸",
+    "live_at": "Rabu, 30 September 2026 pukul 14.44.34 WIB",
+    "live_at_unix": 1790754274,
+    "image_url": "https://cdn.idn.app/livestream/107dc3f2171b61709abafe76498f0adb.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.s29ur0XkIpE2.m3u8"
   }
 ]
