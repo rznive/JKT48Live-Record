@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2706 | <img src="https://cdn.idn.app/livestream/1f16f9ce331ade68b9f114b45640bd37.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Kamis, 01 Oktober 2026 pukul 22.44.17 WIB |
 | 2705 | <img src="https://cdn.idn.app/livestream/f492589cb8f8ff04518312926accabca.webp" width="170"> | JKT48 | TEMEN MAIN: DAILY ROTATION | Kamis, 01 Oktober 2026 pukul 15.55.41 WIB |
 | 2704 | <img src="https://cdn.idn.app/livestream/107dc3f2171b61709abafe76498f0adb.webp" width="170"> | Nayla JKT48 | 🌸 | Rabu, 30 September 2026 pukul 14.44.34 WIB |
 | 2703 | <img src="https://cdn.idn.app/livestream/40a07033a2add045e1c07de00d7bf1fa.webp" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Selasa, 29 September 2026 pukul 22.11.33 WIB |
