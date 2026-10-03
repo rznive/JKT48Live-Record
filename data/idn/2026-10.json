@@ -18,5 +18,15 @@
     "live_at_unix": 1790869457,
     "image_url": "https://cdn.idn.app/livestream/1f16f9ce331ade68b9f114b45640bd37.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8"
+  },
+  {
+    "id": 2707,
+    "username": "jkt48_ekin",
+    "creator_name": "Ekin JKT48",
+    "title": "haloh",
+    "live_at": "Sabtu, 03 Oktober 2026 pukul 21.13.00 WIB",
+    "live_at_unix": 1791036780,
+    "image_url": "https://cdn.idn.app/livestream/c1b4fe826734df511c332471115ce7fa.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
   }
 ]
