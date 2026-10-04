@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2710 | <img src="https://cdn.idn.app/livestream/c05c258f536f41a96c9e965615ce1ac1.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 04 Oktober 2026 pukul 21.35.22 WIB |
+| 2709 | <img src="https://cdn.idn.app/livestream/92f71a33459bf58eb08dc53d1f884af7.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 04 Oktober 2026 pukul 21.01.32 WIB |
+| 2708 | <img src="https://cdn.idn.app/livestream/c4e69732470e86f3c5098e1d82f10393.webp" width="170"> | Intan JKT48 | hi syygggg | Minggu, 04 Oktober 2026 pukul 20.55.34 WIB |
 | 2707 | <img src="https://cdn.idn.app/livestream/c1b4fe826734df511c332471115ce7fa.webp" width="170"> | Ekin JKT48 | haloh | Sabtu, 03 Oktober 2026 pukul 21.13.00 WIB |
 | 2706 | <img src="https://cdn.idn.app/livestream/1f16f9ce331ade68b9f114b45640bd37.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Kamis, 01 Oktober 2026 pukul 22.44.17 WIB |
 | 2705 | <img src="https://cdn.idn.app/livestream/f492589cb8f8ff04518312926accabca.webp" width="170"> | JKT48 | TEMEN MAIN: DAILY ROTATION | Kamis, 01 Oktober 2026 pukul 15.55.41 WIB |
