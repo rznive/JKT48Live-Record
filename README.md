@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2711 | <img src="https://cdn.idn.app/livestream/3182e08550d348ba1dca091866f78cf5.webp" width="170"> | JKT48 | TEMEN MAIN EP.2  | Selasa, 06 Oktober 2026 pukul 11.31.30 WIB |
 | 2710 | <img src="https://cdn.idn.app/livestream/c05c258f536f41a96c9e965615ce1ac1.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Minggu, 04 Oktober 2026 pukul 21.35.22 WIB |
 | 2709 | <img src="https://cdn.idn.app/livestream/92f71a33459bf58eb08dc53d1f884af7.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 04 Oktober 2026 pukul 21.01.32 WIB |
 | 2708 | <img src="https://cdn.idn.app/livestream/c4e69732470e86f3c5098e1d82f10393.webp" width="170"> | Intan JKT48 | hi syygggg | Minggu, 04 Oktober 2026 pukul 20.55.34 WIB |
