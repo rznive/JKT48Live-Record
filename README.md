@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2715 | <img src="https://cdn.idn.app/livestream/4e308dee8d706c78ebc534b50a55c161.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Rabu, 07 Oktober 2026 pukul 22.24.50 WIB |
+| 2714 | <img src="https://cdn.idn.app/livestream/af764350a09997e227dcfba6a10a2268.webp" width="170"> | Rilly JKT48 | MAKMAAAAAAAALLLL | Rabu, 07 Oktober 2026 pukul 21.57.12 WIB |
 | 2713 | <img src="https://cdn.idn.app/livestream/c63cb5649f0b6a0e5e911990dbe69410.webp" width="170"> | Lana JKT48 | Hi lagi | Selasa, 06 Oktober 2026 pukul 20.22.49 WIB |
 | 2712 | <img src="https://cdn.idn.app/livestream/435534ddda1e4ef992921cd71bda928c.webp" width="170"> | Intan JKT48 | hehe | Selasa, 06 Oktober 2026 pukul 19.28.43 WIB |
 | 2711 | <img src="https://cdn.idn.app/livestream/3182e08550d348ba1dca091866f78cf5.webp" width="170"> | JKT48 | TEMEN MAIN EP.2  | Selasa, 06 Oktober 2026 pukul 11.31.30 WIB |
