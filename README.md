@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2718 | <img src="https://cdn.idn.app/livestream/414ee7399eaec13b786309a29cec99f9.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 09 Oktober 2026 pukul 23.33.18 WIB |
+| 2717 | <img src="https://cdn.idn.app/livestream/33c9e6cff068011c17804e53716c8368.webp" width="170"> | Michie JKT48 | hi | Jumat, 09 Oktober 2026 pukul 23.18.43 WIB |
+| 2716 | <img src="https://cdn.idn.app/livestream/70e7e744cf832a7dc59f2228b4950c0f.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 09 Oktober 2026 pukul 22.19.56 WIB |
 | 2715 | <img src="https://cdn.idn.app/livestream/4e308dee8d706c78ebc534b50a55c161.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Rabu, 07 Oktober 2026 pukul 22.24.50 WIB |
 | 2714 | <img src="https://cdn.idn.app/livestream/af764350a09997e227dcfba6a10a2268.webp" width="170"> | Rilly JKT48 | MAKMAAAAAAAALLLL | Rabu, 07 Oktober 2026 pukul 21.57.12 WIB |
 | 2713 | <img src="https://cdn.idn.app/livestream/c63cb5649f0b6a0e5e911990dbe69410.webp" width="170"> | Lana JKT48 | Hi lagi | Selasa, 06 Oktober 2026 pukul 20.22.49 WIB |
