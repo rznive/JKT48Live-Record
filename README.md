@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2720 | <img src="https://cdn.idn.app/livestream/e5d1350a40b6c5d4909d5fd2c78e3518.webp" width="170"> | Delynn JKT48 | HAIIIIII | Minggu, 11 Oktober 2026 pukul 21.55.20 WIB |
+| 2719 | <img src="https://cdn.idn.app/livestream/6159a18bc770ff58b4a3a6aa1d8e8b45.webp" width="170"> | Rilly JKT48 | SAMBIL MAKMALL | Minggu, 11 Oktober 2026 pukul 21.00.59 WIB |
 | 2718 | <img src="https://cdn.idn.app/livestream/414ee7399eaec13b786309a29cec99f9.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 09 Oktober 2026 pukul 23.33.18 WIB |
 | 2717 | <img src="https://cdn.idn.app/livestream/33c9e6cff068011c17804e53716c8368.webp" width="170"> | Michie JKT48 | hi | Jumat, 09 Oktober 2026 pukul 23.18.43 WIB |
 | 2716 | <img src="https://cdn.idn.app/livestream/70e7e744cf832a7dc59f2228b4950c0f.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 09 Oktober 2026 pukul 22.19.56 WIB |
