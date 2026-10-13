@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2723 | <img src="https://cdn.idn.app/livestream/c1eb75638caa5a5e1386d6a787992f86.webp" width="170"> | Ekin JKT48 | hai | Selasa, 13 Oktober 2026 pukul 21.39.15 WIB |
+| 2722 | <img src="https://cdn.idn.app/livestream/f33dca573a9e512af9afe23d3a4e2bfc.webp" width="170"> | Nachia JKT48 | hi | Selasa, 13 Oktober 2026 pukul 21.23.12 WIB |
+| 2721 | <img src="https://cdn.idn.app/livestream/349dde4e4024c63269f73a6e7c3cf0c8.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Selasa, 13 Oktober 2026 pukul 20.41.33 WIB |
 | 2720 | <img src="https://cdn.idn.app/livestream/e5d1350a40b6c5d4909d5fd2c78e3518.webp" width="170"> | Delynn JKT48 | HAIIIIII | Minggu, 11 Oktober 2026 pukul 21.55.20 WIB |
 | 2719 | <img src="https://cdn.idn.app/livestream/6159a18bc770ff58b4a3a6aa1d8e8b45.webp" width="170"> | Rilly JKT48 | SAMBIL MAKMALL | Minggu, 11 Oktober 2026 pukul 21.00.59 WIB |
 | 2718 | <img src="https://cdn.idn.app/livestream/414ee7399eaec13b786309a29cec99f9.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Jumat, 09 Oktober 2026 pukul 23.33.18 WIB |
