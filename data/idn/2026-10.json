@@ -188,5 +188,15 @@
     "live_at_unix": 1791902355,
     "image_url": "https://cdn.idn.app/livestream/c1eb75638caa5a5e1386d6a787992f86.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
+  },
+  {
+    "id": 2724,
+    "username": "jkt48_giaa",
+    "creator_name": "Giaa JKT48",
+    "title": "p",
+    "live_at": "Rabu, 14 Oktober 2026 pukul 19.40.27 WIB",
+    "live_at_unix": 1791981627,
+    "image_url": "https://cdn.idn.app/livestream/13d00b47a68c519653fe079f5f055044.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
   }
 ]
