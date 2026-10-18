@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2728 | <img src="https://cdn.idn.app/livestream/a7ae18b119bbf86411c2a13b872faf88.webp" width="170"> | Nachia JKT48 | hi | Minggu, 18 Oktober 2026 pukul 22.48.52 WIB |
 | 2727 | <img src="https://cdn.idn.app/livestream/e23e1b960ea2b9d4267e4498ebb3e920.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 17 Oktober 2026 pukul 15.52.40 WIB |
 | 2726 | <img src="https://cdn.idn.app/livestream/46c9952ee51890381e9bd94503ae3376.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Kamis, 15 Oktober 2026 pukul 21.59.37 WIB |
 | 2725 | <img src="https://cdn.idn.app/livestream/6ab85ecd2e621b4eddb9cc3b7b7e681a.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 15 Oktober 2026 pukul 21.53.32 WIB |
