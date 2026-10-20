@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2730 | <img src="https://cdn.idn.app/livestream/e878543ed6c1a99c898257bb02fe3321.webp" width="170"> | JKT48 | TEMEN MAIN OKT EP.4 | Selasa, 20 Oktober 2026 pukul 15.50.21 WIB |
 | 2729 | <img src="https://cdn.idn.app/livestream/9b38ac243a753225edb4f6f044860059.webp" width="170"> | Lily JKT48 | Hii | Senin, 19 Oktober 2026 pukul 23.30.00 WIB |
 | 2728 | <img src="https://cdn.idn.app/livestream/a7ae18b119bbf86411c2a13b872faf88.webp" width="170"> | Nachia JKT48 | hi | Minggu, 18 Oktober 2026 pukul 22.48.52 WIB |
 | 2727 | <img src="https://cdn.idn.app/livestream/e23e1b960ea2b9d4267e4498ebb3e920.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Sabtu, 17 Oktober 2026 pukul 15.52.40 WIB |
