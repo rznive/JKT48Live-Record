@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2734 | <img src="https://cdn.idn.app/livestream/bc3f248216087f428f9cf4595c487b73.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 21 Oktober 2026 pukul 21.03.52 WIB |
+| 2733 | <img src="https://cdn.idn.app/livestream/9bd10bc0796efec2cb029dbee02e9b7e.webp" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Rabu, 21 Oktober 2026 pukul 20.42.35 WIB |
 | 2732 | <img src="https://cdn.idn.app/livestream/23d9c6e2ed15e61f5f044da6a7adf632.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 20 Oktober 2026 pukul 21.29.13 WIB |
 | 2731 | <img src="https://cdn.idn.app/livestream/a61b4fa9905370eac851d4dd9645d18f.webp" width="170"> | Marsha JKT48 | Haiiiuuu | Selasa, 20 Oktober 2026 pukul 21.06.31 WIB |
 | 2730 | <img src="https://cdn.idn.app/livestream/e878543ed6c1a99c898257bb02fe3321.webp" width="170"> | JKT48 | TEMEN MAIN OKT EP.4 | Selasa, 20 Oktober 2026 pukul 15.50.21 WIB |
