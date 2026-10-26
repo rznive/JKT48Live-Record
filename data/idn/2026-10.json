@@ -298,5 +298,75 @@
     "live_at_unix": 1792591432,
     "image_url": "https://cdn.idn.app/livestream/bc3f248216087f428f9cf4595c487b73.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 2735,
+    "username": "jkt48_rilly",
+    "creator_name": "Rilly JKT48",
+    "title": "WOW MANTAP",
+    "live_at": "Senin, 26 Oktober 2026 pukul 17.41.17 WIB",
+    "live_at_unix": 1793011277,
+    "image_url": "https://cdn.idn.app/livestream/e94b7d7e59cd193d025b48920048c05d.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 2736,
+    "username": "jkt48_maira",
+    "creator_name": "Maira JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 26 Oktober 2026 pukul 17.41.17 WIB",
+    "live_at_unix": 1793011277,
+    "image_url": "https://cdn.idn.app/livestream/77ae25f8e21d94a7763b63402399436e.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
+  },
+  {
+    "id": 2737,
+    "username": "jkt48_mikaela",
+    "creator_name": "Mikaela JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 26 Oktober 2026 pukul 17.41.17 WIB",
+    "live_at_unix": 1793011277,
+    "image_url": "https://cdn.idn.app/livestream/0e5b57ddece46bcfda0204962d235424.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
+  },
+  {
+    "id": 2738,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "JOIN LIVE UNTUK KETEMU PA ARTHUR",
+    "live_at": "Senin, 26 Oktober 2026 pukul 17.41.18 WIB",
+    "live_at_unix": 1793011278,
+    "image_url": "https://cdn.idn.app/livestream/9fe88339b54ff0cc1b40c02e8fe3c04d.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 2739,
+    "username": "jkt48_giaa",
+    "creator_name": "Giaa JKT48",
+    "title": "p",
+    "live_at": "Senin, 26 Oktober 2026 pukul 17.41.18 WIB",
+    "live_at_unix": 1793011278,
+    "image_url": "https://cdn.idn.app/livestream/941af1a78547bcbb3e9f36c23460f2d1.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8"
+  },
+  {
+    "id": 2740,
+    "username": "jkt48_jemima",
+    "creator_name": "Jemima JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 26 Oktober 2026 pukul 17.41.20 WIB",
+    "live_at_unix": 1793011280,
+    "image_url": "https://cdn.idn.app/livestream/dabc31e8e4869f4c875d14db30b2b2fa.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 2741,
+    "username": "jkt48_virgi",
+    "creator_name": "Virgi JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 26 Oktober 2026 pukul 17.41.28 WIB",
+    "live_at_unix": 1793011288,
+    "image_url": "https://cdn.idn.app/livestream/ca89b46a86a5cb6a4e34551b96d6f1a4.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8"
   }
 ]

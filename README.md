@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2741 | <img src="https://cdn.idn.app/livestream/ca89b46a86a5cb6a4e34551b96d6f1a4.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 26 Oktober 2026 pukul 17.41.28 WIB |
+| 2740 | <img src="https://cdn.idn.app/livestream/dabc31e8e4869f4c875d14db30b2b2fa.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Senin, 26 Oktober 2026 pukul 17.41.20 WIB |
+| 2738 | <img src="https://cdn.idn.app/livestream/9fe88339b54ff0cc1b40c02e8fe3c04d.webp" width="170"> | Intan JKT48 | JOIN LIVE UNTUK KETEMU PA ARTHUR | Senin, 26 Oktober 2026 pukul 17.41.18 WIB |
+| 2739 | <img src="https://cdn.idn.app/livestream/941af1a78547bcbb3e9f36c23460f2d1.webp" width="170"> | Giaa JKT48 | p | Senin, 26 Oktober 2026 pukul 17.41.18 WIB |
+| 2735 | <img src="https://cdn.idn.app/livestream/e94b7d7e59cd193d025b48920048c05d.webp" width="170"> | Rilly JKT48 | WOW MANTAP | Senin, 26 Oktober 2026 pukul 17.41.17 WIB |
+| 2736 | <img src="https://cdn.idn.app/livestream/77ae25f8e21d94a7763b63402399436e.webp" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Senin, 26 Oktober 2026 pukul 17.41.17 WIB |
+| 2737 | <img src="https://cdn.idn.app/livestream/0e5b57ddece46bcfda0204962d235424.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Senin, 26 Oktober 2026 pukul 17.41.17 WIB |
 | 2734 | <img src="https://cdn.idn.app/livestream/bc3f248216087f428f9cf4595c487b73.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 21 Oktober 2026 pukul 21.03.52 WIB |
 | 2733 | <img src="https://cdn.idn.app/livestream/9bd10bc0796efec2cb029dbee02e9b7e.webp" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Rabu, 21 Oktober 2026 pukul 20.42.35 WIB |
 | 2732 | <img src="https://cdn.idn.app/livestream/23d9c6e2ed15e61f5f044da6a7adf632.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 20 Oktober 2026 pukul 21.29.13 WIB |
