@@ -368,5 +368,15 @@
     "live_at_unix": 1793011288,
     "image_url": "https://cdn.idn.app/livestream/ca89b46a86a5cb6a4e34551b96d6f1a4.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8"
+  },
+  {
+    "id": 2742,
+    "username": "jkt48_michie",
+    "creator_name": "Michie JKT48",
+    "title": "live orang baik",
+    "live_at": "Selasa, 27 Oktober 2026 pukul 22.52.35 WIB",
+    "live_at_unix": 1793116355,
+    "image_url": "https://cdn.idn.app/livestream/24a6db0e6ee5f0424b79157d45256fc0.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.uE0Cu8MD1aMc.m3u8"
   }
 ]
