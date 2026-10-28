@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2745 | <img src="https://cdn.idn.app/livestream/6e269e18328fa696d2118bf313fc341d.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Rabu, 28 Oktober 2026 pukul 22.48.46 WIB |
+| 2744 | <img src="https://cdn.idn.app/livestream/c696afe373ff836b41b1d97a87c5bf98.webp" width="170"> | Ribka JKT48 | nagu mania | Rabu, 28 Oktober 2026 pukul 22.47.22 WIB |
 | 2743 | <img src="https://cdn.idn.app/livestream/d753fa7de68d6c9cea5374770e8b4c8a.webp" width="170"> | Erine JKT48 | diroriiiii | Rabu, 28 Oktober 2026 pukul 16.10.15 WIB |
 | 2742 | <img src="https://cdn.idn.app/livestream/24a6db0e6ee5f0424b79157d45256fc0.webp" width="170"> | Michie JKT48 | live orang baik | Selasa, 27 Oktober 2026 pukul 22.52.35 WIB |
 | 2741 | <img src="https://cdn.idn.app/livestream/ca89b46a86a5cb6a4e34551b96d6f1a4.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Senin, 26 Oktober 2026 pukul 17.41.28 WIB |
