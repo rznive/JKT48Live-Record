@@ -408,5 +408,15 @@
     "live_at_unix": 1793202526,
     "image_url": "https://cdn.idn.app/livestream/6e269e18328fa696d2118bf313fc341d.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8"
+  },
+  {
+    "id": 2746,
+    "username": "jkt48_jemima",
+    "creator_name": "Jemima JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Jumat, 30 Oktober 2026 pukul 20.39.33 WIB",
+    "live_at_unix": 1793367573,
+    "image_url": "https://cdn.idn.app/livestream/36c83a1dc02f06da38f73aa4ce75ce1d.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
   }
 ]
