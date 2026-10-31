@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2749 | <img src="https://cdn.idn.app/livestream/a6e68950c7ef00dc62dacd2ff9d2b89f.webp" width="170"> | Delynn JKT48 | Malming oi | Sabtu, 31 Oktober 2026 pukul 21.07.50 WIB |
 | 2748 | <img src="https://cdn.idn.app/livestream/9e8ccbc387e4dc08351f8a22d707aff2.webp" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Sabtu, 31 Oktober 2026 pukul 15.39.07 WIB |
 | 2747 | <img src="https://cdn.idn.app/livestream/7465a98694188b97495c9d6dbc3089ae.webp" width="170"> | Rilly JKT48 | WOW MANTAP | Sabtu, 31 Oktober 2026 pukul 15.39.06 WIB |
 | 2746 | <img src="https://cdn.idn.app/livestream/36c83a1dc02f06da38f73aa4ce75ce1d.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Jumat, 30 Oktober 2026 pukul 20.39.33 WIB |
