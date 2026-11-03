@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2753 | <img src="https://cdn.idn.app/livestream/62e4f29505ce8f8918ed1b7c060695e1.webp" width="170"> | Jessi JKT48 | belajar menyatok | Selasa, 03 November 2026 pukul 12.57.58 WIB |
+| 2752 | <img src="https://cdn.idn.app/livestream/3ee298746fa2480833df9075d1ade2b9.webp" width="170"> | Muthe JKT48 | Hi | Selasa, 03 November 2026 pukul 12.47.29 WIB |
 | 2751 | <img src="https://cdn.idn.app/livestream/7b502251fc3fd6892b14e8f822270c90.webp" width="170"> | Oniel JKT48 | saya kembali | Senin, 02 November 2026 pukul 14.46.44 WIB |
 | 2750 | <img src="https://cdn.idn.app/livestream/56a68ab84e99bc94d7282f7e611dbe1a.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Minggu, 01 November 2026 pukul 19.55.53 WIB |
 | 2749 | <img src="https://cdn.idn.app/livestream/a6e68950c7ef00dc62dacd2ff9d2b89f.webp" width="170"> | Delynn JKT48 | Malming oi | Sabtu, 31 Oktober 2026 pukul 21.07.50 WIB |
