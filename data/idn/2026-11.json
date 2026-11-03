@@ -38,5 +38,45 @@
     "live_at_unix": 1793685478,
     "image_url": "https://cdn.idn.app/livestream/62e4f29505ce8f8918ed1b7c060695e1.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 2754,
+    "username": "jkt48_olla",
+    "creator_name": "Olla JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 03 November 2026 pukul 20.59.04 WIB",
+    "live_at_unix": 1793714344,
+    "image_url": "https://cdn.idn.app/livestream/184eb3ec32430f6ce627f5fa6fcb4b2a.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8"
+  },
+  {
+    "id": 2755,
+    "username": "jkt48_jemima",
+    "creator_name": "Jemima JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Selasa, 03 November 2026 pukul 21.14.04 WIB",
+    "live_at_unix": 1793715244,
+    "image_url": "https://cdn.idn.app/livestream/1c7ece8afae4a3b9642f8fa9a0e3c36d.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 2756,
+    "username": "jkt48_gracie",
+    "creator_name": "Gracie JKT48",
+    "title": "hiii",
+    "live_at": "Selasa, 03 November 2026 pukul 21.20.35 WIB",
+    "live_at_unix": 1793715635,
+    "image_url": "https://cdn.idn.app/livestream/ae5f520c9fbedaffc626699c841305ec.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ztIO0UisaA3P.m3u8"
+  },
+  {
+    "id": 2757,
+    "username": "jkt48_michie",
+    "creator_name": "Michie JKT48",
+    "title": "🪽🪽🪽",
+    "live_at": "Selasa, 03 November 2026 pukul 21.37.06 WIB",
+    "live_at_unix": 1793716626,
+    "image_url": "https://cdn.idn.app/livestream/4a04c4d2d04d28b25b2a173daf31b4f7.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.uE0Cu8MD1aMc.m3u8"
   }
 ]

@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2757 | <img src="https://cdn.idn.app/livestream/4a04c4d2d04d28b25b2a173daf31b4f7.webp" width="170"> | Michie JKT48 | 🪽🪽🪽 | Selasa, 03 November 2026 pukul 21.37.06 WIB |
+| 2756 | <img src="https://cdn.idn.app/livestream/ae5f520c9fbedaffc626699c841305ec.webp" width="170"> | Gracie JKT48 | hiii | Selasa, 03 November 2026 pukul 21.20.35 WIB |
+| 2755 | <img src="https://cdn.idn.app/livestream/1c7ece8afae4a3b9642f8fa9a0e3c36d.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Selasa, 03 November 2026 pukul 21.14.04 WIB |
+| 2754 | <img src="https://cdn.idn.app/livestream/184eb3ec32430f6ce627f5fa6fcb4b2a.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Selasa, 03 November 2026 pukul 20.59.04 WIB |
 | 2753 | <img src="https://cdn.idn.app/livestream/62e4f29505ce8f8918ed1b7c060695e1.webp" width="170"> | Jessi JKT48 | belajar menyatok | Selasa, 03 November 2026 pukul 12.57.58 WIB |
 | 2752 | <img src="https://cdn.idn.app/livestream/3ee298746fa2480833df9075d1ade2b9.webp" width="170"> | Muthe JKT48 | Hi | Selasa, 03 November 2026 pukul 12.47.29 WIB |
 | 2751 | <img src="https://cdn.idn.app/livestream/7b502251fc3fd6892b14e8f822270c90.webp" width="170"> | Oniel JKT48 | saya kembali | Senin, 02 November 2026 pukul 14.46.44 WIB |
