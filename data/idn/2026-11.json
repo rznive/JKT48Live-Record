@@ -78,5 +78,45 @@
     "live_at_unix": 1793716626,
     "image_url": "https://cdn.idn.app/livestream/4a04c4d2d04d28b25b2a173daf31b4f7.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.uE0Cu8MD1aMc.m3u8"
+  },
+  {
+    "id": 2758,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "woy",
+    "live_at": "Rabu, 04 November 2026 pukul 20.21.40 WIB",
+    "live_at_unix": 1793798500,
+    "image_url": "https://cdn.idn.app/livestream/41c6b29393fd3b65b4c31b562e8accf2.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 2759,
+    "username": "jkt48_jemima",
+    "creator_name": "Jemima JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 04 November 2026 pukul 21.38.21 WIB",
+    "live_at_unix": 1793803101,
+    "image_url": "https://cdn.idn.app/livestream/a6d9b5864eb0a509ff2fd15982237632.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 2760,
+    "username": "jkt48_gita",
+    "creator_name": "Gita JKT48",
+    "title": "Gits",
+    "live_at": "Rabu, 04 November 2026 pukul 22.00.35 WIB",
+    "live_at_unix": 1793804435,
+    "image_url": "https://cdn.idn.app/livestream/9ce1d6360542064d813d6ecf2c3092ac.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.k4fAFOYXENlG.m3u8"
+  },
+  {
+    "id": 2761,
+    "username": "jkt48_olla",
+    "creator_name": "Olla JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 04 November 2026 pukul 22.00.38 WIB",
+    "live_at_unix": 1793804438,
+    "image_url": "https://cdn.idn.app/livestream/82b4881f3767ce7c8ab6d97b4a037ffe.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8"
   }
 ]

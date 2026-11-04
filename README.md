@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2761 | <img src="https://cdn.idn.app/livestream/82b4881f3767ce7c8ab6d97b4a037ffe.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Rabu, 04 November 2026 pukul 22.00.38 WIB |
+| 2760 | <img src="https://cdn.idn.app/livestream/9ce1d6360542064d813d6ecf2c3092ac.webp" width="170"> | Gita JKT48 | Gits | Rabu, 04 November 2026 pukul 22.00.35 WIB |
+| 2759 | <img src="https://cdn.idn.app/livestream/a6d9b5864eb0a509ff2fd15982237632.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 04 November 2026 pukul 21.38.21 WIB |
+| 2758 | <img src="https://cdn.idn.app/livestream/41c6b29393fd3b65b4c31b562e8accf2.webp" width="170"> | Intan JKT48 | woy | Rabu, 04 November 2026 pukul 20.21.40 WIB |
 | 2757 | <img src="https://cdn.idn.app/livestream/4a04c4d2d04d28b25b2a173daf31b4f7.webp" width="170"> | Michie JKT48 | 🪽🪽🪽 | Selasa, 03 November 2026 pukul 21.37.06 WIB |
 | 2756 | <img src="https://cdn.idn.app/livestream/ae5f520c9fbedaffc626699c841305ec.webp" width="170"> | Gracie JKT48 | hiii | Selasa, 03 November 2026 pukul 21.20.35 WIB |
 | 2755 | <img src="https://cdn.idn.app/livestream/1c7ece8afae4a3b9642f8fa9a0e3c36d.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Selasa, 03 November 2026 pukul 21.14.04 WIB |
