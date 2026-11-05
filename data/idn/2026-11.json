@@ -128,5 +128,35 @@
     "live_at_unix": 1793864026,
     "image_url": "https://cdn.idn.app/livestream/1e75b1769e926c5964aa327a43855f27.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8"
+  },
+  {
+    "id": 2763,
+    "username": "jkt48_gita",
+    "creator_name": "Gita JKT48",
+    "title": "Gits",
+    "live_at": "Kamis, 05 November 2026 pukul 22.32.21 WIB",
+    "live_at_unix": 1793892741,
+    "image_url": "https://cdn.idn.app/livestream/a14e14500a0f0c5680a4d4cbd5bd3355.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.k4fAFOYXENlG.m3u8"
+  },
+  {
+    "id": 2764,
+    "username": "jkt48_delynn",
+    "creator_name": "Delynn JKT48",
+    "title": "Malming oi",
+    "live_at": "Kamis, 05 November 2026 pukul 23.00.09 WIB",
+    "live_at_unix": 1793894409,
+    "image_url": "https://cdn.idn.app/livestream/52e0925028ca355715ffa2c4d900674e.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
+  },
+  {
+    "id": 2765,
+    "username": "jkt48_mikaela",
+    "creator_name": "Mikaela JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 05 November 2026 pukul 23.22.54 WIB",
+    "live_at_unix": 1793895774,
+    "image_url": "https://cdn.idn.app/livestream/809211423c6ac24409b54be6fee5951e.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8"
   }
 ]

@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2765 | <img src="https://cdn.idn.app/livestream/809211423c6ac24409b54be6fee5951e.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 05 November 2026 pukul 23.22.54 WIB |
+| 2764 | <img src="https://cdn.idn.app/livestream/52e0925028ca355715ffa2c4d900674e.webp" width="170"> | Delynn JKT48 | Malming oi | Kamis, 05 November 2026 pukul 23.00.09 WIB |
+| 2763 | <img src="https://cdn.idn.app/livestream/a14e14500a0f0c5680a4d4cbd5bd3355.webp" width="170"> | Gita JKT48 | Gits | Kamis, 05 November 2026 pukul 22.32.21 WIB |
 | 2762 | <img src="https://cdn.idn.app/livestream/1e75b1769e926c5964aa327a43855f27.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 05 November 2026 pukul 14.33.46 WIB |
 | 2761 | <img src="https://cdn.idn.app/livestream/82b4881f3767ce7c8ab6d97b4a037ffe.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Rabu, 04 November 2026 pukul 22.00.38 WIB |
 | 2760 | <img src="https://cdn.idn.app/livestream/9ce1d6360542064d813d6ecf2c3092ac.webp" width="170"> | Gita JKT48 | Gits | Rabu, 04 November 2026 pukul 22.00.35 WIB |
