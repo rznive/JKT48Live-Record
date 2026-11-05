@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2762 | <img src="https://cdn.idn.app/livestream/1e75b1769e926c5964aa327a43855f27.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Kamis, 05 November 2026 pukul 14.33.46 WIB |
 | 2761 | <img src="https://cdn.idn.app/livestream/82b4881f3767ce7c8ab6d97b4a037ffe.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Rabu, 04 November 2026 pukul 22.00.38 WIB |
 | 2760 | <img src="https://cdn.idn.app/livestream/9ce1d6360542064d813d6ecf2c3092ac.webp" width="170"> | Gita JKT48 | Gits | Rabu, 04 November 2026 pukul 22.00.35 WIB |
 | 2759 | <img src="https://cdn.idn.app/livestream/a6d9b5864eb0a509ff2fd15982237632.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 04 November 2026 pukul 21.38.21 WIB |
