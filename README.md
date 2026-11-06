@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2766 | <img src="https://cdn.idn.app/livestream/176b16aeeb3aeecf1413f536601ed9ef.webp" width="170"> | Ekin JKT48 | hai | Jumat, 06 November 2026 pukul 22.52.41 WIB |
 | 2765 | <img src="https://cdn.idn.app/livestream/809211423c6ac24409b54be6fee5951e.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 05 November 2026 pukul 23.22.54 WIB |
 | 2764 | <img src="https://cdn.idn.app/livestream/52e0925028ca355715ffa2c4d900674e.webp" width="170"> | Delynn JKT48 | Malming oi | Kamis, 05 November 2026 pukul 23.00.09 WIB |
 | 2763 | <img src="https://cdn.idn.app/livestream/a14e14500a0f0c5680a4d4cbd5bd3355.webp" width="170"> | Gita JKT48 | Gits | Kamis, 05 November 2026 pukul 22.32.21 WIB |
