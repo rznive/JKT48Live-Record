@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2774 | <img src="https://cdn.idn.app/livestream/199347e13d66c776427656f0bfe9925d.webp" width="170"> | Jessi JKT48 | hi | Sabtu, 07 November 2026 pukul 19.50.45 WIB |
 | 2773 | <img src="https://cdn.idn.app/livestream/4d66fea9f593f3459ca8c885fb1b7f26.webp" width="170"> | Elin JKT48 | Haaii | Sabtu, 07 November 2026 pukul 14.04.40 WIB |
 | 2772 | <img src="https://cdn.idn.app/livestream/fdac5e1763deb8b1e5a9f359e3974ef0.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Sabtu, 07 November 2026 pukul 13.53.26 WIB |
 | 2771 | <img src="https://cdn.idn.app/livestream/7d893286a87e4cc9d9e42709e415b2ff.webp" width="170"> | Lily JKT48 | Haii | Sabtu, 07 November 2026 pukul 13.52.41 WIB |
