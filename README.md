@@ -2,6 +2,13 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2773 | <img src="https://cdn.idn.app/livestream/4d66fea9f593f3459ca8c885fb1b7f26.webp" width="170"> | Elin JKT48 | Haaii | Sabtu, 07 November 2026 pukul 14.04.40 WIB |
+| 2772 | <img src="https://cdn.idn.app/livestream/fdac5e1763deb8b1e5a9f359e3974ef0.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Sabtu, 07 November 2026 pukul 13.53.26 WIB |
+| 2771 | <img src="https://cdn.idn.app/livestream/7d893286a87e4cc9d9e42709e415b2ff.webp" width="170"> | Lily JKT48 | Haii | Sabtu, 07 November 2026 pukul 13.52.41 WIB |
+| 2770 | <img src="https://cdn.idn.app/livestream/7e9ecf2e1de4f1e3725f91f86b2527aa.webp" width="170"> | Gracie JKT48 | hiii | Sabtu, 07 November 2026 pukul 13.38.15 WIB |
+| 2769 | <img src="https://cdn.idn.app/livestream/fdc436e18b06de8660931ca1f7bef4bb.webp" width="170"> | Fritzy JKT48 | hii | Sabtu, 07 November 2026 pukul 13.16.51 WIB |
+| 2768 | <img src="https://cdn.idn.app/livestream/f4c65f048ddb673e8c05cd4228c9fe8e.webp" width="170"> | Nayla JKT48 | Hai | Sabtu, 07 November 2026 pukul 13.13.39 WIB |
+| 2767 | <img src="https://cdn.idn.app/livestream/bff2ba722831c10ea192f5141e263afc.webp" width="170"> | Michie JKT48 | grwm | Sabtu, 07 November 2026 pukul 13.11.35 WIB |
 | 2766 | <img src="https://cdn.idn.app/livestream/176b16aeeb3aeecf1413f536601ed9ef.webp" width="170"> | Ekin JKT48 | hai | Jumat, 06 November 2026 pukul 22.52.41 WIB |
 | 2765 | <img src="https://cdn.idn.app/livestream/809211423c6ac24409b54be6fee5951e.webp" width="170"> | Mikaela JKT48 | Ayo ngobrol bareng! | Kamis, 05 November 2026 pukul 23.22.54 WIB |
 | 2764 | <img src="https://cdn.idn.app/livestream/52e0925028ca355715ffa2c4d900674e.webp" width="170"> | Delynn JKT48 | Malming oi | Kamis, 05 November 2026 pukul 23.00.09 WIB |

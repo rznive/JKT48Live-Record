@@ -168,5 +168,75 @@
     "live_at_unix": 1793980361,
     "image_url": "https://cdn.idn.app/livestream/176b16aeeb3aeecf1413f536601ed9ef.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
+  },
+  {
+    "id": 2767,
+    "username": "jkt48_michie",
+    "creator_name": "Michie JKT48",
+    "title": "grwm",
+    "live_at": "Sabtu, 07 November 2026 pukul 13.11.35 WIB",
+    "live_at_unix": 1794031895,
+    "image_url": "https://cdn.idn.app/livestream/bff2ba722831c10ea192f5141e263afc.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.uE0Cu8MD1aMc.m3u8"
+  },
+  {
+    "id": 2768,
+    "username": "jkt48_nayla",
+    "creator_name": "Nayla JKT48",
+    "title": "Hai",
+    "live_at": "Sabtu, 07 November 2026 pukul 13.13.39 WIB",
+    "live_at_unix": 1794032019,
+    "image_url": "https://cdn.idn.app/livestream/f4c65f048ddb673e8c05cd4228c9fe8e.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.s29ur0XkIpE2.m3u8"
+  },
+  {
+    "id": 2769,
+    "username": "jkt48_fritzy",
+    "creator_name": "Fritzy JKT48",
+    "title": "hii",
+    "live_at": "Sabtu, 07 November 2026 pukul 13.16.51 WIB",
+    "live_at_unix": 1794032211,
+    "image_url": "https://cdn.idn.app/livestream/fdc436e18b06de8660931ca1f7bef4bb.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
+  },
+  {
+    "id": 2770,
+    "username": "jkt48_gracie",
+    "creator_name": "Gracie JKT48",
+    "title": "hiii",
+    "live_at": "Sabtu, 07 November 2026 pukul 13.38.15 WIB",
+    "live_at_unix": 1794033495,
+    "image_url": "https://cdn.idn.app/livestream/7e9ecf2e1de4f1e3725f91f86b2527aa.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ztIO0UisaA3P.m3u8"
+  },
+  {
+    "id": 2771,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Haii",
+    "live_at": "Sabtu, 07 November 2026 pukul 13.52.41 WIB",
+    "live_at_unix": 1794034361,
+    "image_url": "https://cdn.idn.app/livestream/7d893286a87e4cc9d9e42709e415b2ff.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
+  },
+  {
+    "id": 2772,
+    "username": "jkt48_lia",
+    "creator_name": "Lia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 07 November 2026 pukul 13.53.26 WIB",
+    "live_at_unix": 1794034406,
+    "image_url": "https://cdn.idn.app/livestream/fdac5e1763deb8b1e5a9f359e3974ef0.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 2773,
+    "username": "jkt48_elin",
+    "creator_name": "Elin JKT48",
+    "title": "Haaii",
+    "live_at": "Sabtu, 07 November 2026 pukul 14.04.40 WIB",
+    "live_at_unix": 1794035080,
+    "image_url": "https://cdn.idn.app/livestream/4d66fea9f593f3459ca8c885fb1b7f26.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
   }
 ]
