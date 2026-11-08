@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2779 | <img src="https://cdn.idn.app/livestream/89b143373b088381832f38bc724f39b3.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Minggu, 08 November 2026 pukul 21.06.57 WIB |
+| 2778 | <img src="https://cdn.idn.app/livestream/c09db759f1825e41f075717fa22072b1.webp" width="170"> | Lana JKT48 | Haii | Minggu, 08 November 2026 pukul 21.01.46 WIB |
 | 2777 | <img src="https://cdn.idn.app/livestream/37fdab370d57b27e3c9a1ee81f427255.webp" width="170"> | Maira JKT48 | Let’s go!!! | Minggu, 08 November 2026 pukul 14.12.13 WIB |
 | 2776 | <img src="https://cdn.idn.app/livestream/571db1c903f7fc7a73eea9c9788d13f3.webp" width="170"> | Oniel JKT48 | saya kembali | Minggu, 08 November 2026 pukul 13.18.55 WIB |
 | 2775 | <img src="https://cdn.idn.app/livestream/03340d00ca72b1dfb7e5733f32f88ffc.webp" width="170"> | Michie JKT48 | grwm | Minggu, 08 November 2026 pukul 12.43.30 WIB |

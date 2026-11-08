@@ -278,5 +278,25 @@
     "live_at_unix": 1794121933,
     "image_url": "https://cdn.idn.app/livestream/37fdab370d57b27e3c9a1ee81f427255.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
+  },
+  {
+    "id": 2778,
+    "username": "jkt48_lana",
+    "creator_name": "Lana JKT48",
+    "title": "Haii",
+    "live_at": "Minggu, 08 November 2026 pukul 21.01.46 WIB",
+    "live_at_unix": 1794146506,
+    "image_url": "https://cdn.idn.app/livestream/c09db759f1825e41f075717fa22072b1.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8"
+  },
+  {
+    "id": 2779,
+    "username": "jkt48_jemima",
+    "creator_name": "Jemima JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Minggu, 08 November 2026 pukul 21.06.57 WIB",
+    "live_at_unix": 1794146817,
+    "image_url": "https://cdn.idn.app/livestream/89b143373b088381832f38bc724f39b3.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
   }
 ]
