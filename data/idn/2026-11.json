@@ -248,5 +248,35 @@
     "live_at_unix": 1794055845,
     "image_url": "https://cdn.idn.app/livestream/199347e13d66c776427656f0bfe9925d.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 2775,
+    "username": "jkt48_michie",
+    "creator_name": "Michie JKT48",
+    "title": "grwm",
+    "live_at": "Minggu, 08 November 2026 pukul 12.43.30 WIB",
+    "live_at_unix": 1794116610,
+    "image_url": "https://cdn.idn.app/livestream/03340d00ca72b1dfb7e5733f32f88ffc.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.uE0Cu8MD1aMc.m3u8"
+  },
+  {
+    "id": 2776,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "saya kembali",
+    "live_at": "Minggu, 08 November 2026 pukul 13.18.55 WIB",
+    "live_at_unix": 1794118735,
+    "image_url": "https://cdn.idn.app/livestream/571db1c903f7fc7a73eea9c9788d13f3.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 2777,
+    "username": "jkt48_maira",
+    "creator_name": "Maira JKT48",
+    "title": "Let’s go!!!",
+    "live_at": "Minggu, 08 November 2026 pukul 14.12.13 WIB",
+    "live_at_unix": 1794121933,
+    "image_url": "https://cdn.idn.app/livestream/37fdab370d57b27e3c9a1ee81f427255.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
   }
 ]
