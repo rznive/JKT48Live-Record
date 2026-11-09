@@ -298,5 +298,25 @@
     "live_at_unix": 1794146817,
     "image_url": "https://cdn.idn.app/livestream/89b143373b088381832f38bc724f39b3.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8"
+  },
+  {
+    "id": 2780,
+    "username": "jkt48_lia",
+    "creator_name": "Lia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Senin, 09 November 2026 pukul 14.43.26 WIB",
+    "live_at_unix": 1794210206,
+    "image_url": "https://cdn.idn.app/livestream/6f8c3407713a60477a6877613b8847c3.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
+  },
+  {
+    "id": 2781,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "saya kembali",
+    "live_at": "Senin, 09 November 2026 pukul 15.19.45 WIB",
+    "live_at_unix": 1794212385,
+    "image_url": "https://cdn.idn.app/livestream/5c94020d7c6b2825cdb96de9f9baca42.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
   }
 ]
