@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2792 | <img src="https://cdn.idn.app/livestream/cc031b9392d47dfea653e0897e7705ca.webp" width="170"> | Lily JKT48 | Hi | Rabu, 11 November 2026 pukul 23.11.34 WIB |
+| 2791 | <img src="https://cdn.idn.app/livestream/64036ab1a86243f8629fbb3876df3e3d.webp" width="170"> | Michie JKT48 | wow | Rabu, 11 November 2026 pukul 23.06.39 WIB |
+| 2790 | <img src="https://cdn.idn.app/livestream/0ef9fc12d3500aa95fbf3f16f1df60fa.webp" width="170"> | Fritzy JKT48 | gais | Rabu, 11 November 2026 pukul 22.54.12 WIB |
+| 2789 | <img src="https://cdn.idn.app/livestream/9d26435333b4cfcdcc4fb0ca365d79c9.webp" width="170"> | Delynn JKT48 | Malems | Rabu, 11 November 2026 pukul 22.41.01 WIB |
+| 2788 | <img src="https://cdn.idn.app/livestream/e7d00aadad0573364e4eccb3fe24e0a6.webp" width="170"> | Danella JKT48 | ☺️ | Rabu, 11 November 2026 pukul 22.33.38 WIB |
 | 2787 | <img src="https://cdn.idn.app/livestream/9d015b68f621070a96106a60b62e6086.webp" width="170"> | Rilly JKT48 | Yukkk | Rabu, 11 November 2026 pukul 15.02.22 WIB |
 | 2786 | <img src="https://cdn.idn.app/livestream/5cadea08003f67c958388036ba131b67.webp" width="170"> | Giaa JKT48 | p | Rabu, 11 November 2026 pukul 14.59.08 WIB |
 | 2785 | <img src="https://cdn.idn.app/livestream/f93687e054606417c25d8dabfd72fce3.webp" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Rabu, 11 November 2026 pukul 14.47.04 WIB |

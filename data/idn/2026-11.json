@@ -378,5 +378,55 @@
     "live_at_unix": 1794384142,
     "image_url": "https://cdn.idn.app/livestream/9d015b68f621070a96106a60b62e6086.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 2788,
+    "username": "jkt48_danella",
+    "creator_name": "Danella JKT48",
+    "title": "☺️",
+    "live_at": "Rabu, 11 November 2026 pukul 22.33.38 WIB",
+    "live_at_unix": 1794411218,
+    "image_url": "https://cdn.idn.app/livestream/e7d00aadad0573364e4eccb3fe24e0a6.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8"
+  },
+  {
+    "id": 2789,
+    "username": "jkt48_delynn",
+    "creator_name": "Delynn JKT48",
+    "title": "Malems",
+    "live_at": "Rabu, 11 November 2026 pukul 22.41.01 WIB",
+    "live_at_unix": 1794411661,
+    "image_url": "https://cdn.idn.app/livestream/9d26435333b4cfcdcc4fb0ca365d79c9.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8"
+  },
+  {
+    "id": 2790,
+    "username": "jkt48_fritzy",
+    "creator_name": "Fritzy JKT48",
+    "title": "gais",
+    "live_at": "Rabu, 11 November 2026 pukul 22.54.12 WIB",
+    "live_at_unix": 1794412452,
+    "image_url": "https://cdn.idn.app/livestream/0ef9fc12d3500aa95fbf3f16f1df60fa.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
+  },
+  {
+    "id": 2791,
+    "username": "jkt48_michie",
+    "creator_name": "Michie JKT48",
+    "title": "wow",
+    "live_at": "Rabu, 11 November 2026 pukul 23.06.39 WIB",
+    "live_at_unix": 1794413199,
+    "image_url": "https://cdn.idn.app/livestream/64036ab1a86243f8629fbb3876df3e3d.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.uE0Cu8MD1aMc.m3u8"
+  },
+  {
+    "id": 2792,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Hi",
+    "live_at": "Rabu, 11 November 2026 pukul 23.11.34 WIB",
+    "live_at_unix": 1794413494,
+    "image_url": "https://cdn.idn.app/livestream/cc031b9392d47dfea653e0897e7705ca.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
   }
 ]
