@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2787 | <img src="https://cdn.idn.app/livestream/9d015b68f621070a96106a60b62e6086.webp" width="170"> | Rilly JKT48 | Yukkk | Rabu, 11 November 2026 pukul 15.02.22 WIB |
+| 2786 | <img src="https://cdn.idn.app/livestream/5cadea08003f67c958388036ba131b67.webp" width="170"> | Giaa JKT48 | p | Rabu, 11 November 2026 pukul 14.59.08 WIB |
+| 2785 | <img src="https://cdn.idn.app/livestream/f93687e054606417c25d8dabfd72fce3.webp" width="170"> | Intan JKT48 | Ayo ngobrol bareng! | Rabu, 11 November 2026 pukul 14.47.04 WIB |
+| 2784 | <img src="https://cdn.idn.app/livestream/c11a17ca70b38360aa44dd5eff9cfb4e.webp" width="170"> | Jemima JKT48 | Ayo ngobrol bareng! | Rabu, 11 November 2026 pukul 14.46.42 WIB |
 | 2783 | <img src="https://cdn.idn.app/livestream/b785113320b58ccbe8682233fca8086d.webp" width="170"> | Cynthia JKT48 | Ayo ngobrol bareng! | Selasa, 10 November 2026 pukul 23.00.13 WIB |
 | 2782 | <img src="https://cdn.idn.app/livestream/002ec193a532f84ab95646cf4ea32b5b.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Selasa, 10 November 2026 pukul 15.53.38 WIB |
 | 2781 | <img src="https://cdn.idn.app/livestream/5c94020d7c6b2825cdb96de9f9baca42.webp" width="170"> | Oniel JKT48 | saya kembali | Senin, 09 November 2026 pukul 15.19.45 WIB |
