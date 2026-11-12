@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2793 | <img src="https://cdn.idn.app/livestream/2f399013ad838e937178d80fdfc34cab.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Kamis, 12 November 2026 pukul 18.16.48 WIB |
 | 2792 | <img src="https://cdn.idn.app/livestream/cc031b9392d47dfea653e0897e7705ca.webp" width="170"> | Lily JKT48 | Hi | Rabu, 11 November 2026 pukul 23.11.34 WIB |
 | 2791 | <img src="https://cdn.idn.app/livestream/64036ab1a86243f8629fbb3876df3e3d.webp" width="170"> | Michie JKT48 | wow | Rabu, 11 November 2026 pukul 23.06.39 WIB |
 | 2790 | <img src="https://cdn.idn.app/livestream/0ef9fc12d3500aa95fbf3f16f1df60fa.webp" width="170"> | Fritzy JKT48 | gais | Rabu, 11 November 2026 pukul 22.54.12 WIB |

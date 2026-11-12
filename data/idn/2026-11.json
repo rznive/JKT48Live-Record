@@ -428,5 +428,15 @@
     "live_at_unix": 1794413494,
     "image_url": "https://cdn.idn.app/livestream/cc031b9392d47dfea653e0897e7705ca.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
+  },
+  {
+    "id": 2793,
+    "username": "jkt48_lia",
+    "creator_name": "Lia JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Kamis, 12 November 2026 pukul 18.16.48 WIB",
+    "live_at_unix": 1794482208,
+    "image_url": "https://cdn.idn.app/livestream/2f399013ad838e937178d80fdfc34cab.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8"
   }
 ]
