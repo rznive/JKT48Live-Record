@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2799 | <img src="https://cdn.idn.app/livestream/36955d3511195269dee6bb2b21682ca1.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Jumat, 13 November 2026 pukul 21.41.49 WIB |
+| 2798 | <img src="https://cdn.idn.app/livestream/d866448fcb5a676e7efded46971986e0.webp" width="170"> | Fritzy JKT48 | hai | Jumat, 13 November 2026 pukul 21.01.42 WIB |
+| 2797 | <img src="https://cdn.idn.app/livestream/4ff03f3da1b93818961803b277129937.webp" width="170"> | Delynn JKT48 | WHATSAPPP | Jumat, 13 November 2026 pukul 20.48.53 WIB |
 | 2796 | <img src="https://cdn.idn.app/livestream/a057bf98dc019e9e76f602497b66c2c8.webp" width="170"> | Ribka JKT48 | Ayo ngobrol bareng! | Jumat, 13 November 2026 pukul 13.26.29 WIB |
 | 2795 | <img src="https://cdn.idn.app/livestream/b26395fa8695182a5371382645230d0a.webp" width="170"> | Indah JKT48 | Ayo ngobrol bareng! | Jumat, 13 November 2026 pukul 13.26.12 WIB |
 | 2794 | <img src="https://cdn.idn.app/livestream/d6e636faa497a7aecd3eae5ae402773a.webp" width="170"> | Rilly JKT48 | Hellooo | Jumat, 13 November 2026 pukul 12.29.54 WIB |
