@@ -2,6 +2,8 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2801 | <img src="https://cdn.idn.app/livestream/aa461fea02adc817d09a9d2734697459.webp" width="170"> | Lily JKT48 | Haii | Sabtu, 14 November 2026 pukul 14.34.05 WIB |
+| 2800 | <img src="https://cdn.idn.app/livestream/3fac7778ac1c538654bef6bbad551754.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Sabtu, 14 November 2026 pukul 13.42.47 WIB |
 | 2799 | <img src="https://cdn.idn.app/livestream/36955d3511195269dee6bb2b21682ca1.webp" width="170"> | Raisha JKT48 | Ayo ngobrol bareng! | Jumat, 13 November 2026 pukul 21.41.49 WIB |
 | 2798 | <img src="https://cdn.idn.app/livestream/d866448fcb5a676e7efded46971986e0.webp" width="170"> | Fritzy JKT48 | hai | Jumat, 13 November 2026 pukul 21.01.42 WIB |
 | 2797 | <img src="https://cdn.idn.app/livestream/4ff03f3da1b93818961803b277129937.webp" width="170"> | Delynn JKT48 | WHATSAPPP | Jumat, 13 November 2026 pukul 20.48.53 WIB |

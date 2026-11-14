@@ -498,5 +498,25 @@
     "live_at_unix": 1794580909,
     "image_url": "https://cdn.idn.app/livestream/36955d3511195269dee6bb2b21682ca1.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.rjVZYmbffgGE.m3u8"
+  },
+  {
+    "id": 2800,
+    "username": "jkt48_lyn",
+    "creator_name": "Lyn JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Sabtu, 14 November 2026 pukul 13.42.47 WIB",
+    "live_at_unix": 1794638567,
+    "image_url": "https://cdn.idn.app/livestream/3fac7778ac1c538654bef6bbad551754.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8"
+  },
+  {
+    "id": 2801,
+    "username": "jkt48_lily",
+    "creator_name": "Lily JKT48",
+    "title": "Haii",
+    "live_at": "Sabtu, 14 November 2026 pukul 14.34.05 WIB",
+    "live_at_unix": 1794641645,
+    "image_url": "https://cdn.idn.app/livestream/aa461fea02adc817d09a9d2734697459.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8"
   }
 ]
