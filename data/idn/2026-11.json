@@ -568,5 +568,15 @@
     "live_at_unix": 1794708220,
     "image_url": "https://cdn.idn.app/livestream/40678ac431ffe7fbecf0a60df54d9a20.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8"
+  },
+  {
+    "id": 2807,
+    "username": "jkt48_gita",
+    "creator_name": "Gita JKT48",
+    "title": "Gits",
+    "live_at": "Minggu, 15 November 2026 pukul 16.33.21 WIB",
+    "live_at_unix": 1794735201,
+    "image_url": "https://cdn.idn.app/livestream/b3351c9a9eec8df0623b66d85f5a0246.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.k4fAFOYXENlG.m3u8"
   }
 ]

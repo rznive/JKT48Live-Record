@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2807 | <img src="https://cdn.idn.app/livestream/b3351c9a9eec8df0623b66d85f5a0246.webp" width="170"> | Gita JKT48 | Gits | Minggu, 15 November 2026 pukul 16.33.21 WIB |
 | 2806 | <img src="https://cdn.idn.app/livestream/40678ac431ffe7fbecf0a60df54d9a20.webp" width="170"> | Fritzy JKT48 | hellooo | Minggu, 15 November 2026 pukul 09.03.40 WIB |
 | 2805 | <img src="https://cdn.idn.app/livestream/8a0f42e262b29a8f82440b56babc2d10.webp" width="170"> | Delynn JKT48 | Malming kuy | Sabtu, 14 November 2026 pukul 21.21.16 WIB |
 | 2804 | <img src="https://cdn.idn.app/livestream/5052019cf4ae60657cfe2a35296ba7bf.webp" width="170"> | Lily JKT48 | Hai | Sabtu, 14 November 2026 pukul 21.15.07 WIB |
