@@ -578,5 +578,15 @@
     "live_at_unix": 1794735201,
     "image_url": "https://cdn.idn.app/livestream/b3351c9a9eec8df0623b66d85f5a0246.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.k4fAFOYXENlG.m3u8"
+  },
+  {
+    "id": 2808,
+    "username": "jkt48_elin",
+    "creator_name": "Elin JKT48",
+    "title": "Yowww",
+    "live_at": "Minggu, 15 November 2026 pukul 22.28.26 WIB",
+    "live_at_unix": 1794756506,
+    "image_url": "https://cdn.idn.app/livestream/a02a1028b2a7a0eddee24318db0a338a.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
   }
 ]
