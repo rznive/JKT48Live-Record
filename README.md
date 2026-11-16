@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2809 | <img src="https://cdn.idn.app/livestream/0a315608ddd317ca791ef48fdfa421ce.webp" width="170"> | Eli JKT48 | KaraokELI | Senin, 16 November 2026 pukul 20.43.14 WIB |
 | 2808 | <img src="https://cdn.idn.app/livestream/a02a1028b2a7a0eddee24318db0a338a.webp" width="170"> | Elin JKT48 | Yowww | Minggu, 15 November 2026 pukul 22.28.26 WIB |
 | 2807 | <img src="https://cdn.idn.app/livestream/b3351c9a9eec8df0623b66d85f5a0246.webp" width="170"> | Gita JKT48 | Gits | Minggu, 15 November 2026 pukul 16.33.21 WIB |
 | 2806 | <img src="https://cdn.idn.app/livestream/40678ac431ffe7fbecf0a60df54d9a20.webp" width="170"> | Fritzy JKT48 | hellooo | Minggu, 15 November 2026 pukul 09.03.40 WIB |
