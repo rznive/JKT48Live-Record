@@ -2,6 +2,10 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2813 | <img src="https://cdn.idn.app/livestream/399da16b83fbc47dc887ed50bdf8e8a2.webp" width="170"> | Rilly JKT48 | Ngobsss | Selasa, 17 November 2026 pukul 15.28.26 WIB |
+| 2812 | <img src="https://cdn.idn.app/livestream/663a1ff5f404f033bcb7019ced7bd600.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 17 November 2026 pukul 15.14.31 WIB |
+| 2811 | <img src="https://cdn.idn.app/livestream/0ac0bd47a97648c5b2438b4f11f1b3cb.webp" width="170"> | Muthe JKT48 | Hi | Selasa, 17 November 2026 pukul 15.05.40 WIB |
+| 2810 | <img src="https://cdn.idn.app/livestream/034f1ecdeb01c5e87192ee3c35e78813.webp" width="170"> | Giaa JKT48 | p | Selasa, 17 November 2026 pukul 14.49.16 WIB |
 | 2809 | <img src="https://cdn.idn.app/livestream/0a315608ddd317ca791ef48fdfa421ce.webp" width="170"> | Eli JKT48 | KaraokELI | Senin, 16 November 2026 pukul 20.43.14 WIB |
 | 2808 | <img src="https://cdn.idn.app/livestream/a02a1028b2a7a0eddee24318db0a338a.webp" width="170"> | Elin JKT48 | Yowww | Minggu, 15 November 2026 pukul 22.28.26 WIB |
 | 2807 | <img src="https://cdn.idn.app/livestream/b3351c9a9eec8df0623b66d85f5a0246.webp" width="170"> | Gita JKT48 | Gits | Minggu, 15 November 2026 pukul 16.33.21 WIB |
