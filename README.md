@@ -2,6 +2,12 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2820 | <img src="https://cdn.idn.app/livestream/4a6be7ae7024f93fc755a63ec516fe12.webp" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Rabu, 18 November 2026 pukul 21.56.50 WIB |
+| 2819 | <img src="https://cdn.idn.app/livestream/4f5e312b302a7d32bc73fca646b933ee.webp" width="170"> | Muthe JKT48 | Hi | Rabu, 18 November 2026 pukul 21.56.16 WIB |
+| 2818 | <img src="https://cdn.idn.app/livestream/2103e7c7072f15bc42584fef55b25e60.webp" width="170"> | Jessi JKT48 | hi | Rabu, 18 November 2026 pukul 21.55.44 WIB |
+| 2817 | <img src="https://cdn.idn.app/livestream/8b7f60a75bf8c63284c64b07aa962b43.webp" width="170"> | Olla JKT48 | Ayo ngobrol bareng! | Rabu, 18 November 2026 pukul 21.55.35 WIB |
+| 2816 | <img src="https://cdn.idn.app/livestream/7dffe117504f835875797ac9f4c09515.webp" width="170"> | Elin JKT48 | Hai | Rabu, 18 November 2026 pukul 21.49.06 WIB |
+| 2815 | <img src="https://cdn.idn.app/livestream/0840e8fc7f48737f2feba4a0a676dbae.webp" width="170"> | Eli JKT48 | Ngapain ya ? | Rabu, 18 November 2026 pukul 20.40.12 WIB |
 | 2814 | <img src="https://cdn.idn.app/livestream/9b0ac6f9a2053db85d12893a68934a0a.webp" width="170"> | Intan JKT48 | bubbb | Rabu, 18 November 2026 pukul 12.19.16 WIB |
 | 2813 | <img src="https://cdn.idn.app/livestream/399da16b83fbc47dc887ed50bdf8e8a2.webp" width="170"> | Rilly JKT48 | Ngobsss | Selasa, 17 November 2026 pukul 15.28.26 WIB |
 | 2812 | <img src="https://cdn.idn.app/livestream/663a1ff5f404f033bcb7019ced7bd600.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 17 November 2026 pukul 15.14.31 WIB |

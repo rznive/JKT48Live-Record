@@ -648,5 +648,65 @@
     "live_at_unix": 1794979156,
     "image_url": "https://cdn.idn.app/livestream/9b0ac6f9a2053db85d12893a68934a0a.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
+  },
+  {
+    "id": 2815,
+    "username": "jkt48_eli",
+    "creator_name": "Eli JKT48",
+    "title": "Ngapain ya ?",
+    "live_at": "Rabu, 18 November 2026 pukul 20.40.12 WIB",
+    "live_at_unix": 1795009212,
+    "image_url": "https://cdn.idn.app/livestream/0840e8fc7f48737f2feba4a0a676dbae.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8"
+  },
+  {
+    "id": 2816,
+    "username": "jkt48_elin",
+    "creator_name": "Elin JKT48",
+    "title": "Hai",
+    "live_at": "Rabu, 18 November 2026 pukul 21.49.06 WIB",
+    "live_at_unix": 1795013346,
+    "image_url": "https://cdn.idn.app/livestream/7dffe117504f835875797ac9f4c09515.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.OHdxDVm8kOqf.m3u8"
+  },
+  {
+    "id": 2817,
+    "username": "jkt48_olla",
+    "creator_name": "Olla JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 18 November 2026 pukul 21.55.35 WIB",
+    "live_at_unix": 1795013735,
+    "image_url": "https://cdn.idn.app/livestream/8b7f60a75bf8c63284c64b07aa962b43.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8"
+  },
+  {
+    "id": 2818,
+    "username": "jkt48_jessi",
+    "creator_name": "Jessi JKT48",
+    "title": "hi",
+    "live_at": "Rabu, 18 November 2026 pukul 21.55.44 WIB",
+    "live_at_unix": 1795013744,
+    "image_url": "https://cdn.idn.app/livestream/2103e7c7072f15bc42584fef55b25e60.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8"
+  },
+  {
+    "id": 2819,
+    "username": "jkt48_muthe",
+    "creator_name": "Muthe JKT48",
+    "title": "Hi",
+    "live_at": "Rabu, 18 November 2026 pukul 21.56.16 WIB",
+    "live_at_unix": 1795013776,
+    "image_url": "https://cdn.idn.app/livestream/4f5e312b302a7d32bc73fca646b933ee.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sm9AmQPkGDGS.m3u8"
+  },
+  {
+    "id": 2820,
+    "username": "jkt48_christy",
+    "creator_name": "Christy JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 18 November 2026 pukul 21.56.50 WIB",
+    "live_at_unix": 1795013810,
+    "image_url": "https://cdn.idn.app/livestream/4a6be7ae7024f93fc755a63ec516fe12.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.R4bPsdzRonL3.m3u8"
   }
 ]
