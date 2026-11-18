@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2814 | <img src="https://cdn.idn.app/livestream/9b0ac6f9a2053db85d12893a68934a0a.webp" width="170"> | Intan JKT48 | bubbb | Rabu, 18 November 2026 pukul 12.19.16 WIB |
 | 2813 | <img src="https://cdn.idn.app/livestream/399da16b83fbc47dc887ed50bdf8e8a2.webp" width="170"> | Rilly JKT48 | Ngobsss | Selasa, 17 November 2026 pukul 15.28.26 WIB |
 | 2812 | <img src="https://cdn.idn.app/livestream/663a1ff5f404f033bcb7019ced7bd600.webp" width="170"> | Virgi JKT48 | Ayo ngobrol bareng! | Selasa, 17 November 2026 pukul 15.14.31 WIB |
 | 2811 | <img src="https://cdn.idn.app/livestream/0ac0bd47a97648c5b2438b4f11f1b3cb.webp" width="170"> | Muthe JKT48 | Hi | Selasa, 17 November 2026 pukul 15.05.40 WIB |

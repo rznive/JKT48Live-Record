@@ -638,5 +638,15 @@
     "live_at_unix": 1794904106,
     "image_url": "https://cdn.idn.app/livestream/399da16b83fbc47dc887ed50bdf8e8a2.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8"
+  },
+  {
+    "id": 2814,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "bubbb",
+    "live_at": "Rabu, 18 November 2026 pukul 12.19.16 WIB",
+    "live_at_unix": 1794979156,
+    "image_url": "https://cdn.idn.app/livestream/9b0ac6f9a2053db85d12893a68934a0a.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
   }
 ]
