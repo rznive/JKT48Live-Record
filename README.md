@@ -2,6 +2,7 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2823 | <img src="https://cdn.idn.app/livestream/f555224b0beaae87867caa114c972e77.webp" width="170"> | Eli JKT48 | Ngapain ya ? | Jumat, 20 November 2026 pukul 23.25.49 WIB |
 | 2822 | <img src="https://cdn.idn.app/livestream/85d658bb1cc417b007b5445fd5006937.webp" width="170"> | Daisy JKT48 | Hi | Jumat, 20 November 2026 pukul 15.29.13 WIB |
 | 2821 | <img src="https://cdn.idn.app/livestream/32d891f49f016cf7236ebf46be1d31c6.webp" width="170"> | Michie JKT48 | live  aja | Jumat, 20 November 2026 pukul 14.41.00 WIB |
 | 2820 | <img src="https://cdn.idn.app/livestream/4a6be7ae7024f93fc755a63ec516fe12.webp" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Rabu, 18 November 2026 pukul 21.56.50 WIB |
