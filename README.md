@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2828 | <img src="https://cdn.idn.app/livestream/df0292fbb354094ed2594e0a7ea5429e.webp" width="170"> | Intan JKT48 | aku lg pake batik pekalongan? | Senin, 23 November 2026 pukul 21.06.25 WIB |
+| 2827 | <img src="https://cdn.idn.app/livestream/b439863050542638676f70315f56fcfa.webp" width="170"> | Ekin JKT48 | hai | Senin, 23 November 2026 pukul 20.56.03 WIB |
+| 2826 | <img src="https://cdn.idn.app/livestream/129c3cd0e8f59668b01d341c89fdf511.webp" width="170"> | Michie JKT48 | hello | Senin, 23 November 2026 pukul 20.43.38 WIB |
 | 2825 | <img src="https://cdn.idn.app/livestream/93bfc425baf615e49a8e8839fe35d4db.webp" width="170"> | Muthe JKT48 | Hi | Minggu, 22 November 2026 pukul 18.29.43 WIB |
 | 2824 | <img src="https://cdn.idn.app/livestream/b5464f09194dd953431db4f5874f433b.webp" width="170"> | Lia JKT48 | Ayo ngobrol bareng! | Sabtu, 21 November 2026 pukul 18.14.28 WIB |
 | 2823 | <img src="https://cdn.idn.app/livestream/f555224b0beaae87867caa114c972e77.webp" width="170"> | Eli JKT48 | Ngapain ya ? | Jumat, 20 November 2026 pukul 23.25.49 WIB |
