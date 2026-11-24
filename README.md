@@ -2,6 +2,11 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2833 | <img src="https://cdn.idn.app/livestream/840c7b5a49642ee45211fe3dcf48f386.webp" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 24 November 2026 pukul 18.06.32 WIB |
+| 2832 | <img src="https://cdn.idn.app/livestream/26e7af9692cef6004fe9afebbc70c9b0.webp" width="170"> | Muthe JKT48 | Hi | Selasa, 24 November 2026 pukul 18.01.51 WIB |
+| 2831 | <img src="https://cdn.idn.app/livestream/f97888729c14622c524d641eb5456e99.webp" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Selasa, 24 November 2026 pukul 17.47.42 WIB |
+| 2830 | <img src="https://cdn.idn.app/livestream/24766eb733d164527d826ba9017b5740.webp" width="170"> | Kathrina JKT48 | w nala | Selasa, 24 November 2026 pukul 17.29.20 WIB |
+| 2829 | <img src="https://cdn.idn.app/livestream/21bcc3e683311f5a90c51cdd10f18f30.webp" width="170"> | Jessi JKT48 | baxo | Selasa, 24 November 2026 pukul 17.23.09 WIB |
 | 2828 | <img src="https://cdn.idn.app/livestream/df0292fbb354094ed2594e0a7ea5429e.webp" width="170"> | Intan JKT48 | aku lg pake batik pekalongan? | Senin, 23 November 2026 pukul 21.06.25 WIB |
 | 2827 | <img src="https://cdn.idn.app/livestream/b439863050542638676f70315f56fcfa.webp" width="170"> | Ekin JKT48 | hai | Senin, 23 November 2026 pukul 20.56.03 WIB |
 | 2826 | <img src="https://cdn.idn.app/livestream/129c3cd0e8f59668b01d341c89fdf511.webp" width="170"> | Michie JKT48 | hello | Senin, 23 November 2026 pukul 20.43.38 WIB |
