@@ -838,5 +838,35 @@
     "live_at_unix": 1795518392,
     "image_url": "https://cdn.idn.app/livestream/840c7b5a49642ee45211fe3dcf48f386.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e39rcA4LMxwI.m3u8"
+  },
+  {
+    "id": 2834,
+    "username": "jkt48_oniel",
+    "creator_name": "Oniel JKT48",
+    "title": "saya kembali",
+    "live_at": "Rabu, 25 November 2026 pukul 10.24.00 WIB",
+    "live_at_unix": 1795577040,
+    "image_url": "https://cdn.idn.app/livestream/9029612b13dae130963853b3cd1343ce.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8"
+  },
+  {
+    "id": 2835,
+    "username": "jkt48_virgi",
+    "creator_name": "Virgi JKT48",
+    "title": "iya",
+    "live_at": "Rabu, 25 November 2026 pukul 11.12.09 WIB",
+    "live_at_unix": 1795579929,
+    "image_url": "https://cdn.idn.app/livestream/4576d6ec45cb3c17d67fb6ece8779c35.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8"
+  },
+  {
+    "id": 2836,
+    "username": "jkt48_intan",
+    "creator_name": "Intan JKT48",
+    "title": "grwm bntar",
+    "live_at": "Rabu, 25 November 2026 pukul 11.12.23 WIB",
+    "live_at_unix": 1795579943,
+    "image_url": "https://cdn.idn.app/livestream/3be0c6dd38817b2175637f052888d496.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8"
   }
 ]

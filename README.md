@@ -2,6 +2,9 @@
 
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
+| 2836 | <img src="https://cdn.idn.app/livestream/3be0c6dd38817b2175637f052888d496.webp" width="170"> | Intan JKT48 | grwm bntar | Rabu, 25 November 2026 pukul 11.12.23 WIB |
+| 2835 | <img src="https://cdn.idn.app/livestream/4576d6ec45cb3c17d67fb6ece8779c35.webp" width="170"> | Virgi JKT48 | iya | Rabu, 25 November 2026 pukul 11.12.09 WIB |
+| 2834 | <img src="https://cdn.idn.app/livestream/9029612b13dae130963853b3cd1343ce.webp" width="170"> | Oniel JKT48 | saya kembali | Rabu, 25 November 2026 pukul 10.24.00 WIB |
 | 2833 | <img src="https://cdn.idn.app/livestream/840c7b5a49642ee45211fe3dcf48f386.webp" width="170"> | Maira JKT48 | Ayo ngobrol bareng! | Selasa, 24 November 2026 pukul 18.06.32 WIB |
 | 2832 | <img src="https://cdn.idn.app/livestream/26e7af9692cef6004fe9afebbc70c9b0.webp" width="170"> | Muthe JKT48 | Hi | Selasa, 24 November 2026 pukul 18.01.51 WIB |
 | 2831 | <img src="https://cdn.idn.app/livestream/f97888729c14622c524d641eb5456e99.webp" width="170"> | Christy JKT48 | Ayo ngobrol bareng! | Selasa, 24 November 2026 pukul 17.47.42 WIB |
