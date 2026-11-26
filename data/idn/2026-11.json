@@ -878,5 +878,35 @@
     "live_at_unix": 1795616624,
     "image_url": "https://cdn.idn.app/livestream/db049b1fe9f506c53bf4de9e99fec312.webp",
     "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8"
+  },
+  {
+    "id": 2838,
+    "username": "jkt48_lyn",
+    "creator_name": "Lyn JKT48",
+    "title": "Ayo ngobrol bareng!",
+    "live_at": "Rabu, 25 November 2026 pukul 15.46.32 WIB",
+    "live_at_unix": 1795596392,
+    "image_url": "https://cdn.idn.app/livestream/f4f2bbe0b77c61aa6efabd53c2a0d765.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8"
+  },
+  {
+    "id": 2839,
+    "username": "jkt48-official",
+    "creator_name": "JKT48",
+    "title": "TEMEN MAIN EP.4",
+    "live_at": "Rabu, 25 November 2026 pukul 15.51.42 WIB",
+    "live_at_unix": 1795596702,
+    "image_url": "https://cdn.idn.app/livestream/ffb5ba22e73e2792335f69d56186fd4c.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4idUspKIZskG.m3u8"
+  },
+  {
+    "id": 2840,
+    "username": "jkt48_anindya",
+    "creator_name": "Anindya JKT48",
+    "title": "hlo",
+    "live_at": "Rabu, 25 November 2026 pukul 16.15.44 WIB",
+    "live_at_unix": 1795598144,
+    "image_url": "https://cdn.idn.app/livestream/edfb49177e3efc4d8b2d81171f7b5d20.webp",
+    "playback_url": "https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8"
   }
 ]

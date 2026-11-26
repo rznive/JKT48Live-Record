@@ -3,6 +3,9 @@
 | No | Image | Member | Judul | Waktu |
 |----|--------|-------------|-------|-------|
 | 2837 | <img src="https://cdn.idn.app/livestream/db049b1fe9f506c53bf4de9e99fec312.webp" width="170"> | Ekin JKT48 | hai | Rabu, 25 November 2026 pukul 21.23.44 WIB |
+| 2840 | <img src="https://cdn.idn.app/livestream/edfb49177e3efc4d8b2d81171f7b5d20.webp" width="170"> | Anindya JKT48 | hlo | Rabu, 25 November 2026 pukul 16.15.44 WIB |
+| 2839 | <img src="https://cdn.idn.app/livestream/ffb5ba22e73e2792335f69d56186fd4c.webp" width="170"> | JKT48 | TEMEN MAIN EP.4 | Rabu, 25 November 2026 pukul 15.51.42 WIB |
+| 2838 | <img src="https://cdn.idn.app/livestream/f4f2bbe0b77c61aa6efabd53c2a0d765.webp" width="170"> | Lyn JKT48 | Ayo ngobrol bareng! | Rabu, 25 November 2026 pukul 15.46.32 WIB |
 | 2836 | <img src="https://cdn.idn.app/livestream/3be0c6dd38817b2175637f052888d496.webp" width="170"> | Intan JKT48 | grwm bntar | Rabu, 25 November 2026 pukul 11.12.23 WIB |
 | 2835 | <img src="https://cdn.idn.app/livestream/4576d6ec45cb3c17d67fb6ece8779c35.webp" width="170"> | Virgi JKT48 | iya | Rabu, 25 November 2026 pukul 11.12.09 WIB |
 | 2834 | <img src="https://cdn.idn.app/livestream/9029612b13dae130963853b3cd1343ce.webp" width="170"> | Oniel JKT48 | saya kembali | Rabu, 25 November 2026 pukul 10.24.00 WIB |
